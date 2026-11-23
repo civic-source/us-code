@@ -3,9 +3,9 @@ title: "Section 12806 - Home repair services grants for older and disabled homeo
 usc_title: 42
 usc_section: "12806"
 chapter: 130
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "42 U.S.C. § 12806"
-generated_at: "2026-11-23T20:53:45.973Z"
+generated_at: "2026-11-23T20:55:51.932Z"
 status: "active"
 ---
 

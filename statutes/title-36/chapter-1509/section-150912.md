@@ -3,9 +3,9 @@ title: "Section 150912 - Distribution of assets on dissolution or final liquidat
 usc_title: 36
 usc_section: "150912"
 chapter: 1509
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "36 U.S.C. § 150912"
-generated_at: "2026-11-23T20:53:27.725Z"
+generated_at: "2026-11-23T20:55:31.811Z"
 status: "active"
 ---
 

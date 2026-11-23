@@ -3,9 +3,9 @@ title: "Section 1136 - Honorable service requirement for award of military decor
 usc_title: 10
 usc_section: "1136"
 chapter: 57
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "10 U.S.C. § 1136"
-generated_at: "2026-11-23T20:52:43.933Z"
+generated_at: "2026-11-23T20:54:44.537Z"
 status: "active"
 ---
 

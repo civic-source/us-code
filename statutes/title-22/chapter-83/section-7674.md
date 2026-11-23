@@ -3,9 +3,9 @@ title: "Section 7674 - Assistance from the United States private sector to preve
 usc_title: 22
 usc_section: "7674"
 chapter: 83
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "22 U.S.C. § 7674"
-generated_at: "2026-11-23T20:53:10.742Z"
+generated_at: "2026-11-23T20:55:13.863Z"
 status: "active"
 ---
 

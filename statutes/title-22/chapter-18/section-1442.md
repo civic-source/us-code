@@ -3,9 +3,9 @@ title: "Section 1442 - Informational media guaranties"
 usc_title: 22
 usc_section: "1442"
 chapter: 18
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "22 U.S.C. § 1442"
-generated_at: "2026-11-23T20:53:10.396Z"
+generated_at: "2026-11-23T20:55:13.289Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6305 - Prohibition on transfer of contract and certain allowable
 usc_title: 41
 usc_section: "6305"
 chapter: 63
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "41 U.S.C. § 6305"
-generated_at: "2026-11-23T20:53:32.387Z"
+generated_at: "2026-11-23T20:55:36.097Z"
 status: "active"
 ---
 

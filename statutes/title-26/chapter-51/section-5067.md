@@ -3,9 +3,9 @@ title: "Section 5067 - Reduced rates not allowed for smuggled or illegally produ
 usc_title: 26
 usc_section: "5067"
 chapter: 51
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "26 U.S.C. § 5067"
-generated_at: "2026-11-23T20:53:19.460Z"
+generated_at: "2026-11-23T20:55:25.071Z"
 status: "active"
 ---
 

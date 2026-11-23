@@ -3,9 +3,9 @@ title: "Section 4051 - Treatment of primary caretaker parents and other individu
 usc_title: 18
 usc_section: "4051"
 chapter: 303
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "18 U.S.C. § 4051"
-generated_at: "2026-11-23T20:52:56.074Z"
+generated_at: "2026-11-23T20:54:58.771Z"
 status: "active"
 ---
 

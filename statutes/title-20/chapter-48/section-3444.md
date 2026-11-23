@@ -3,9 +3,9 @@ title: "Section 3444 - Transfer of programs from National Science Foundation"
 usc_title: 20
 usc_section: "3444"
 chapter: 48
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "20 U.S.C. § 3444"
-generated_at: "2026-11-23T20:52:59.805Z"
+generated_at: "2026-11-23T20:55:00.880Z"
 status: "active"
 ---
 

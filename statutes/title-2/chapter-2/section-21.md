@@ -3,9 +3,9 @@ title: "Section 21 - Oath of Senators"
 usc_title: 2
 usc_section: "21"
 chapter: 2
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "2 U.S.C. § 21"
-generated_at: "2026-11-23T20:52:29.718Z"
+generated_at: "2026-11-23T20:54:32.031Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 361d - Use of funds"
 usc_title: 7
 usc_section: "361d"
 chapter: 14
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "7 U.S.C. § 361d"
-generated_at: "2026-11-23T20:52:36.985Z"
+generated_at: "2026-11-23T20:54:38.317Z"
 status: "active"
 ---
 

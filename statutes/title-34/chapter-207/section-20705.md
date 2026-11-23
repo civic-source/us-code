@@ -3,9 +3,9 @@ title: "Section 20705 - Enhancing State and local efforts to combat trafficking 
 usc_title: 34
 usc_section: "20705"
 chapter: 207
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "34 U.S.C. § 20705"
-generated_at: "2026-11-23T20:53:22.198Z"
+generated_at: "2026-11-23T20:55:28.628Z"
 status: "active"
 ---
 

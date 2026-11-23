@@ -3,9 +3,9 @@ title: "Section 13211 - Definitions"
 usc_title: 42
 usc_section: "13211"
 chapter: 134
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "42 U.S.C. § 13211"
-generated_at: "2026-11-23T20:53:45.990Z"
+generated_at: "2026-11-23T20:55:51.943Z"
 status: "active"
 ---
 

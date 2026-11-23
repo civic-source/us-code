@@ -3,9 +3,9 @@ title: "Section 1863 - Repealed. Pub. L. 100–418, title I, § 1501(b)(2) , Aug
 usc_title: 19
 usc_section: "1863"
 chapter: 7
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "19 U.S.C. § 1863"
-generated_at: "2026-11-23T20:52:57.525Z"
+generated_at: "2026-11-23T20:54:57.092Z"
 status: "repealed"
 ---
 

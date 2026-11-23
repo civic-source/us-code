@@ -3,9 +3,9 @@ title: "Section 3154 - Functions and powers relating to pretrial services"
 usc_title: 18
 usc_section: "3154"
 chapter: 207
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "18 U.S.C. § 3154"
-generated_at: "2026-11-23T20:52:56.030Z"
+generated_at: "2026-11-23T20:54:58.698Z"
 status: "active"
 ---
 

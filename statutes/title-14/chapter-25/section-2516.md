@@ -3,9 +3,9 @@ title: "Section 2516 - Members asserting post-traumatic stress disorder or traum
 usc_title: 14
 usc_section: "2516"
 chapter: 25
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "14 U.S.C. § 2516"
-generated_at: "2026-11-23T20:52:46.238Z"
+generated_at: "2026-11-23T20:54:47.240Z"
 status: "active"
 ---
 

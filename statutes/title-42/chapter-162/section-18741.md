@@ -3,9 +3,9 @@ title: "Section 18741 - Battery processing and manufacturing"
 usc_title: 42
 usc_section: "18741"
 chapter: 162
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "42 U.S.C. § 18741"
-generated_at: "2026-11-23T20:53:46.245Z"
+generated_at: "2026-11-23T20:55:52.135Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8285 - Purpose"
 usc_title: 42
 usc_section: "8285"
 chapter: 91
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "42 U.S.C. § 8285"
-generated_at: "2026-11-23T20:53:45.648Z"
+generated_at: "2026-11-23T20:55:51.705Z"
 status: "active"
 ---
 

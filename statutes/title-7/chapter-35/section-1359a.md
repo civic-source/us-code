@@ -3,9 +3,9 @@ title: "Section 1359a - Repealed. Pub. L. 107–171, title I, § 1309(a)(1) , Ma
 usc_title: 7
 usc_section: "1359a"
 chapter: 35
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "7 U.S.C. § 1359a"
-generated_at: "2026-11-23T20:52:37.106Z"
+generated_at: "2026-11-23T20:54:38.427Z"
 status: "repealed"
 ---
 

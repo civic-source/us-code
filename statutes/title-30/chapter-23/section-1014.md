@@ -3,9 +3,9 @@ title: "Section 1014 - Lands subject to geothermal leasing"
 usc_title: 30
 usc_section: "1014"
 chapter: 23
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "30 U.S.C. § 1014"
-generated_at: "2026-11-23T20:53:12.510Z"
+generated_at: "2026-11-23T20:55:15.961Z"
 status: "active"
 ---
 

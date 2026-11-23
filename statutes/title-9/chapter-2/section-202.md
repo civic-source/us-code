@@ -3,9 +3,9 @@ title: "Section 202 - Agreement or award falling under the Convention"
 usc_title: 9
 usc_section: "202"
 chapter: 2
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "9 U.S.C. § 202"
-generated_at: "2026-11-23T20:52:32.998Z"
+generated_at: "2026-11-23T20:54:36.000Z"
 status: "active"
 ---
 

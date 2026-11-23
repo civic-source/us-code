@@ -3,9 +3,9 @@ title: "Section 2211a - Omitted"
 usc_title: 7
 usc_section: "2211a"
 chapter: 55
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "7 U.S.C. § 2211a"
-generated_at: "2026-11-23T20:52:37.379Z"
+generated_at: "2026-11-23T20:54:38.707Z"
 status: "omitted"
 ---
 

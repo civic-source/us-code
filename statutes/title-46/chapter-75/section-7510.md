@@ -3,9 +3,9 @@ title: "Section 7510 - Examinations for merchant mariner credentials"
 usc_title: 46
 usc_section: "7510"
 chapter: 75
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "46 U.S.C. § 7510"
-generated_at: "2026-11-23T20:53:49.652Z"
+generated_at: "2026-11-23T20:55:55.828Z"
 status: "active"
 ---
 

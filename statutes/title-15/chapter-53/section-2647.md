@@ -3,9 +3,9 @@ title: "Section 2647 - Enforcement"
 usc_title: 15
 usc_section: "2647"
 chapter: 53
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "15 U.S.C. § 2647"
-generated_at: "2026-11-23T20:52:52.929Z"
+generated_at: "2026-11-23T20:54:53.781Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 236b - Existing leases within naval petroleum reserves not affec
 usc_title: 30
 usc_section: "236b"
 chapter: 3
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "30 U.S.C. § 236b"
-generated_at: "2026-11-23T20:53:12.455Z"
+generated_at: "2026-11-23T20:55:15.881Z"
 status: "active"
 ---
 

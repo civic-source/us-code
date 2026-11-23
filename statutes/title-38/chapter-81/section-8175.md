@@ -3,9 +3,9 @@ title: "Section 8175 - Information technology matters to be included in budget j
 usc_title: 38
 usc_section: "8175"
 chapter: 81
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "38 U.S.C. § 8175"
-generated_at: "2026-11-23T20:53:29.894Z"
+generated_at: "2026-11-23T20:55:34.525Z"
 status: "active"
 ---
 

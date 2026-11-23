@@ -3,9 +3,9 @@ title: "Section 3911 - Equal representation for Federal Deposit Insurance Corpor
 usc_title: 12
 usc_section: "3911"
 chapter: 40
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "12 U.S.C. § 3911"
-generated_at: "2026-11-23T20:52:49.336Z"
+generated_at: "2026-11-23T20:54:50.506Z"
 status: "active"
 ---
 

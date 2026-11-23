@@ -3,9 +3,9 @@ title: "Section 8722 - Imposition of sanctions with respect to provision of unde
 usc_title: 22
 usc_section: "8722"
 chapter: 94
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "22 U.S.C. § 8722"
-generated_at: "2026-11-23T20:53:10.768Z"
+generated_at: "2026-11-23T20:55:13.915Z"
 status: "active"
 ---
 

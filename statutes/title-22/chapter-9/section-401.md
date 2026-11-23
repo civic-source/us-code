@@ -3,9 +3,9 @@ title: "Section 401 - Illegal exportation of war materials"
 usc_title: 22
 usc_section: "401"
 chapter: 9
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "22 U.S.C. § 401"
-generated_at: "2026-11-23T20:53:10.384Z"
+generated_at: "2026-11-23T20:55:13.272Z"
 status: "active"
 ---
 

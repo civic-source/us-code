@@ -3,9 +3,9 @@ title: "Section 961 - Strengthening armed vessel of foreign nation"
 usc_title: 18
 usc_section: "961"
 chapter: 45
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "18 U.S.C. § 961"
-generated_at: "2026-11-23T20:52:55.920Z"
+generated_at: "2026-11-23T20:54:58.581Z"
 status: "active"
 ---
 

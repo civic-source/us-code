@@ -3,9 +3,9 @@ title: "Section 200313 - Distribution of assets on dissolution or final liquidat
 usc_title: 36
 usc_section: "200313"
 chapter: 2003
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "36 U.S.C. § 200313"
-generated_at: "2026-11-23T20:53:27.794Z"
+generated_at: "2026-11-23T20:55:31.861Z"
 status: "active"
 ---
 

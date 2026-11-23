@@ -3,9 +3,9 @@ title: "Section 575 - Availability of appropriations for expenses incident to op
 usc_title: 33
 usc_section: "575"
 chapter: 12
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "33 U.S.C. § 575"
-generated_at: "2026-11-23T20:53:24.076Z"
+generated_at: "2026-11-23T20:55:29.573Z"
 status: "active"
 ---
 

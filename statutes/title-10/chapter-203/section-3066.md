@@ -3,9 +3,9 @@ title: "Section 3066 - Assignment and delegation of procurement functions and re
 usc_title: 10
 usc_section: "3066"
 chapter: 203
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "10 U.S.C. § 3066"
-generated_at: "2026-11-23T20:52:44.207Z"
+generated_at: "2026-11-23T20:54:44.910Z"
 status: "active"
 ---
 

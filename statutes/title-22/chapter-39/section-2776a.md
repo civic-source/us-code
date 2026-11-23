@@ -3,9 +3,9 @@ title: "Section 2776a - Repealed. Pub. L. 112–81, div. A, title X, § 1062(d)(
 usc_title: 22
 usc_section: "2776a"
 chapter: 39
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "22 U.S.C. § 2776a"
-generated_at: "2026-11-23T20:53:10.573Z"
+generated_at: "2026-11-23T20:55:13.588Z"
 status: "repealed"
 ---
 

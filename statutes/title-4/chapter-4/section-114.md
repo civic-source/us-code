@@ -3,9 +3,9 @@ title: "Section 114 - Limitation on State income taxation of certain pension inc
 usc_title: 4
 usc_section: "114"
 chapter: 4
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "4 U.S.C. § 114"
-generated_at: "2026-11-23T20:52:28.934Z"
+generated_at: "2026-11-23T20:54:31.261Z"
 status: "active"
 ---
 

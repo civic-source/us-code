@@ -3,9 +3,9 @@ title: "Section 971h - Authorization of appropriations"
 usc_title: 16
 usc_section: "971h"
 chapter: 16
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "16 U.S.C. § 971h"
-generated_at: "2026-11-23T20:53:03.088Z"
+generated_at: "2026-11-23T20:55:04.857Z"
 status: "active"
 ---
 

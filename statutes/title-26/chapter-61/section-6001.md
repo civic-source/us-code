@@ -3,9 +3,9 @@ title: "Section 6001 - Notice or regulations requiring records, statements, and 
 usc_title: 26
 usc_section: "6001"
 chapter: 61
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "26 U.S.C. § 6001"
-generated_at: "2026-11-23T20:53:19.491Z"
+generated_at: "2026-11-23T20:55:25.104Z"
 status: "active"
 ---
 

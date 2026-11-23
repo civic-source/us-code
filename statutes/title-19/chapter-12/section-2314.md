@@ -3,9 +3,9 @@ title: "Section 2314 - Liabilities of certifying and disbursing officers"
 usc_title: 19
 usc_section: "2314"
 chapter: 12
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "19 U.S.C. § 2314"
-generated_at: "2026-11-23T20:52:57.556Z"
+generated_at: "2026-11-23T20:54:57.126Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2374b - Renumbered § 4027]"
 usc_title: 10
 usc_section: "2374b"
 chapter: 139
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "10 U.S.C. § 2374b"
-generated_at: "2026-11-23T20:52:44.104Z"
+generated_at: "2026-11-23T20:54:44.762Z"
 status: "renumbered"
 ---
 

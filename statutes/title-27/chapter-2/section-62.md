@@ -3,9 +3,9 @@ title: "Section 62 - Repealed. Aug. 27, 1935, ch. 740 , title I, § 1, 49 Stat. 
 usc_title: 27
 usc_section: "62"
 chapter: 2
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "27 U.S.C. § 62"
-generated_at: "2026-11-23T20:53:12.663Z"
+generated_at: "2026-11-23T20:55:15.265Z"
 status: "repealed"
 ---
 

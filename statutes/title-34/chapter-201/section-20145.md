@@ -3,9 +3,9 @@ title: "Section 20145 - Elimination of barriers"
 usc_title: 34
 usc_section: "20145"
 chapter: 201
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "34 U.S.C. § 20145"
-generated_at: "2026-11-23T20:53:22.187Z"
+generated_at: "2026-11-23T20:55:28.616Z"
 status: "active"
 ---
 

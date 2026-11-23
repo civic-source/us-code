@@ -3,9 +3,9 @@ title: "Section 2012 - Board of directors"
 usc_title: 12
 usc_section: "2012"
 chapter: 23
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "12 U.S.C. § 2012"
-generated_at: "2026-11-23T20:52:49.224Z"
+generated_at: "2026-11-23T20:54:50.235Z"
 status: "active"
 ---
 

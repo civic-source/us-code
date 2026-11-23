@@ -3,9 +3,9 @@ title: "Section 1326 - Payments"
 usc_title: 11
 usc_section: "1326"
 chapter: 13
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "11 U.S.C. § 1326"
-generated_at: "2026-11-23T20:52:46.724Z"
+generated_at: "2026-11-23T20:54:47.556Z"
 status: "active"
 ---
 

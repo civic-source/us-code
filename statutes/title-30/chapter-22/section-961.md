@@ -3,9 +3,9 @@ title: "Section 961 - Functions transferred under 1977 amendments"
 usc_title: 30
 usc_section: "961"
 chapter: 22
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "30 U.S.C. § 961"
-generated_at: "2026-11-23T20:53:12.504Z"
+generated_at: "2026-11-23T20:55:15.954Z"
 status: "active"
 ---
 

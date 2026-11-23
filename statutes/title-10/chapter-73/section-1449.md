@@ -3,9 +3,9 @@ title: "Section 1449 - Mental incompetency of member"
 usc_title: 10
 usc_section: "1449"
 chapter: 73
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "10 U.S.C. § 1449"
-generated_at: "2026-11-23T20:52:43.978Z"
+generated_at: "2026-11-23T20:54:44.588Z"
 status: "active"
 ---
 

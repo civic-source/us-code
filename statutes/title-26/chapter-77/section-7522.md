@@ -3,9 +3,9 @@ title: "Section 7522 - Content of tax due, deficiency, and other notices"
 usc_title: 26
 usc_section: "7522"
 chapter: 77
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "26 U.S.C. § 7522"
-generated_at: "2026-11-23T20:53:19.627Z"
+generated_at: "2026-11-23T20:55:25.254Z"
 status: "active"
 ---
 

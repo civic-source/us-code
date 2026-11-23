@@ -3,9 +3,9 @@ title: "Section 1516 - Petitions by domestic interested parties"
 usc_title: 19
 usc_section: "1516"
 chapter: 4
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "19 U.S.C. § 1516"
-generated_at: "2026-11-23T20:52:57.479Z"
+generated_at: "2026-11-23T20:54:57.030Z"
 status: "active"
 ---
 

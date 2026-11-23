@@ -3,9 +3,9 @@ title: "Section 1446 - Liquidation or reorganization; acquisition of assets by o
 usc_title: 12
 usc_section: "1446"
 chapter: 11
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "12 U.S.C. § 1446"
-generated_at: "2026-11-23T20:52:48.922Z"
+generated_at: "2026-11-23T20:54:49.975Z"
 status: "active"
 ---
 

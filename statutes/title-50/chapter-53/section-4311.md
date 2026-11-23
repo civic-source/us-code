@@ -3,9 +3,9 @@ title: "Section 4311 - Importations prohibited"
 usc_title: 50
 usc_section: "4311"
 chapter: 53
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "50 U.S.C. § 4311"
-generated_at: "2026-11-23T20:53:51.220Z"
+generated_at: "2026-11-23T20:55:57.181Z"
 status: "active"
 ---
 

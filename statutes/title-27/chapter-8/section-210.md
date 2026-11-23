@@ -3,9 +3,9 @@ title: "Section 210 - Omitted"
 usc_title: 27
 usc_section: "210"
 chapter: 8
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "27 U.S.C. § 210"
-generated_at: "2026-11-23T20:53:12.668Z"
+generated_at: "2026-11-23T20:55:15.269Z"
 status: "omitted"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 81e - Acquisition of property; condemnation proceedings"
 usc_title: 16
 usc_section: "81e"
 chapter: 1
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "16 U.S.C. § 81e"
-generated_at: "2026-11-23T20:53:02.622Z"
+generated_at: "2026-11-23T20:55:04.212Z"
 status: "active"
 ---
 

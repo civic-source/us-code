@@ -3,9 +3,9 @@ title: "Section 6651 - Repealed. Pub. L. 116–94, div. E, title II, § 212(a)(3
 usc_title: 2
 usc_section: "6651"
 chapter: 65
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "2 U.S.C. § 6651"
-generated_at: "2026-11-23T20:52:29.908Z"
+generated_at: "2026-11-23T20:54:32.196Z"
 status: "repealed"
 ---
 

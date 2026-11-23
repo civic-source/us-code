@@ -3,9 +3,9 @@ title: "Section 7772 - Heritage Center for the National Museum of the United Sta
 usc_title: 10
 usc_section: "7772"
 chapter: 779
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "10 U.S.C. § 7772"
-generated_at: "2026-11-23T20:52:44.362Z"
+generated_at: "2026-11-23T20:54:45.121Z"
 status: "active"
 ---
 

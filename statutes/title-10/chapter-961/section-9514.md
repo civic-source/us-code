@@ -3,9 +3,9 @@ title: "Section 9514 - Indemnification of Department of Transportation for losse
 usc_title: 10
 usc_section: "9514"
 chapter: 961
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "10 U.S.C. § 9514"
-generated_at: "2026-11-23T20:52:44.474Z"
+generated_at: "2026-11-23T20:54:45.268Z"
 status: "active"
 ---
 

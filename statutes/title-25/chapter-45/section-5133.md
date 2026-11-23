@@ -3,9 +3,9 @@ title: "Section 5133 - Revolving fund; loans; regulations"
 usc_title: 25
 usc_section: "5133"
 chapter: 45
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "25 U.S.C. § 5133"
-generated_at: "2026-11-23T20:53:06.137Z"
+generated_at: "2026-11-23T20:55:08.670Z"
 status: "active"
 ---
 

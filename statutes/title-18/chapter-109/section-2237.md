@@ -3,9 +3,9 @@ title: "Section 2237 - Criminal sanctions for failure to heave to, obstruction o
 usc_title: 18
 usc_section: "2237"
 chapter: 109
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "18 U.S.C. § 2237"
-generated_at: "2026-11-23T20:52:55.980Z"
+generated_at: "2026-11-23T20:54:58.649Z"
 status: "active"
 ---
 

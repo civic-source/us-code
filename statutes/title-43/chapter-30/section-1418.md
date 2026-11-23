@@ -3,9 +3,9 @@ title: "Section 1418 - Omitted"
 usc_title: 43
 usc_section: "1418"
 chapter: 30
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "43 U.S.C. § 1418"
-generated_at: "2026-11-23T20:53:33.245Z"
+generated_at: "2026-11-23T20:55:37.791Z"
 status: "omitted"
 ---
 

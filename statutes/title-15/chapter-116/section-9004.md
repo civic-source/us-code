@@ -3,9 +3,9 @@ title: "Section 9004 - Waiver of matching funds requirement under the Women’s 
 usc_title: 15
 usc_section: "9004"
 chapter: 116
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "15 U.S.C. § 9004"
-generated_at: "2026-11-23T20:52:53.111Z"
+generated_at: "2026-11-23T20:54:53.932Z"
 status: "active"
 ---
 

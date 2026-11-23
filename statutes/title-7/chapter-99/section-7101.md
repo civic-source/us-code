@@ -3,9 +3,9 @@ title: "Section 7101 - Findings and declaration of policy"
 usc_title: 7
 usc_section: "7101"
 chapter: 99
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "7 U.S.C. § 7101"
-generated_at: "2026-11-23T20:52:37.658Z"
+generated_at: "2026-11-23T20:54:38.876Z"
 status: "active"
 ---
 

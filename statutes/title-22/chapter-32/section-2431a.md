@@ -3,9 +3,9 @@ title: "Section 2431a - Definitions"
 usc_title: 22
 usc_section: "2431a"
 chapter: 32
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "22 U.S.C. § 2431a"
-generated_at: "2026-11-23T20:53:10.514Z"
+generated_at: "2026-11-23T20:55:13.497Z"
 status: "active"
 ---
 

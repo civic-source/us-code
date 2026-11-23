@@ -3,9 +3,9 @@ title: "Section 284cc - Nineteenth replenishment"
 usc_title: 22
 usc_section: "284cc"
 chapter: 7
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "22 U.S.C. § 284cc"
-generated_at: "2026-11-23T20:53:10.354Z"
+generated_at: "2026-11-23T20:55:13.240Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 24 - Definitions relating to Federal health care offense"
 usc_title: 18
 usc_section: "24"
 chapter: 1
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "18 U.S.C. § 24"
-generated_at: "2026-11-23T20:52:55.857Z"
+generated_at: "2026-11-23T20:54:58.502Z"
 status: "active"
 ---
 

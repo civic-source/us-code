@@ -3,9 +3,9 @@ title: "Section 51101 - Medal of sacrifice for law enforcement officers and firs
 usc_title: 34
 usc_section: "51101"
 chapter: 511
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "34 U.S.C. § 51101"
-generated_at: "2026-11-23T20:53:22.268Z"
+generated_at: "2026-11-23T20:55:28.697Z"
 status: "active"
 ---
 

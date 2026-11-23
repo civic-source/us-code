@@ -3,9 +3,9 @@ title: "Section 3713 - Indian agricultural lands trespass"
 usc_title: 25
 usc_section: "3713"
 chapter: 39
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "25 U.S.C. § 3713"
-generated_at: "2026-11-23T20:53:06.096Z"
+generated_at: "2026-11-23T20:55:08.627Z"
 status: "active"
 ---
 

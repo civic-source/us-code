@@ -3,9 +3,9 @@ title: "Section 356 - Approval of installations by Commission"
 usc_title: 47
 usc_section: "356"
 chapter: 5
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "47 U.S.C. § 356"
-generated_at: "2026-11-23T20:53:48.633Z"
+generated_at: "2026-11-23T20:55:54.627Z"
 status: "active"
 ---
 

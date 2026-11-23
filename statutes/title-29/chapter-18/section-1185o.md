@@ -3,9 +3,9 @@ title: "Section 1185o - Oversight of entities that provide pharmacy benefit mana
 usc_title: 29
 usc_section: "1185o"
 chapter: 18
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "29 U.S.C. § 1185o"
-generated_at: "2026-11-23T20:53:14.747Z"
+generated_at: "2026-11-23T20:55:18.205Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 14502 - Tax discrimination against motor carrier transportation 
 usc_title: 49
 usc_section: "14502"
 chapter: 145
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "49 U.S.C. § 14502"
-generated_at: "2026-11-23T20:53:53.596Z"
+generated_at: "2026-11-23T20:55:59.406Z"
 status: "active"
 ---
 

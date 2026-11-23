@@ -3,9 +3,9 @@ title: "Section 41743 - Airports not receiving sufficient service"
 usc_title: 49
 usc_section: "41743"
 chapter: 417
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "49 U.S.C. § 41743"
-generated_at: "2026-11-23T20:53:53.787Z"
+generated_at: "2026-11-23T20:55:59.591Z"
 status: "active"
 ---
 

@@ -1,18 +1,18 @@
 ---
-title: "Section 10602 - United States Foundation for International Conservation"
+title: "Section 10602 - United States Foundation for Natural Security and Counterterrorism"
 usc_title: 22
 usc_section: "10602"
 chapter: 113
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "22 U.S.C. § 10602"
-generated_at: "2026-11-23T20:53:10.817Z"
+generated_at: "2026-11-23T20:55:14.019Z"
 status: "active"
 ---
 
-# § 10602. United States Foundation for International Conservation
+# § 10602. United States Foundation for Natural Security and Counterterrorism
 
 - **(a)**
-  - **(1)** Not later than 180 days after December 23, 2024 , the Secretary shall establish the United States Foundation for International Conservation, which shall be operated as a charitable, nonprofit corporation.
+  - **(1)** Not later than 180 days after December 23, 2024 , the Secretary shall establish the United States Foundation for Natural Security and Counterterrorism, which shall be operated as a charitable, nonprofit corporation.
   - **(2)** The Foundation is not an agency or instrumentality of the United States Government.
   - **(3)** The Board shall take all necessary and appropriate steps to ensure that the Foundation is an organization described in subsection (c) of section 501 of title 26 , which exempt the organization from taxation under subsection (a) of such section.
   - **(4)** The Foundation shall terminate operations on the date that is 10 years after the date on which the Foundation becomes operational, in accordance with—
@@ -45,4 +45,4 @@ status: "active"
 
 ## Source Credit
 
-*([Pub. L. 118–159, div. E, title LI, § 5102](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2410](https://www.govinfo.gov/link/statute/138/2410).)*
+*([Pub. L. 118–159, div. E, title LI, § 5102](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2410](https://www.govinfo.gov/link/statute/138/2410); [Pub. L. 119–75, div. F, title VII, § 7034(k)(2)](https://www.govinfo.gov/link/plaw/119/public/75), Feb. 3, 2026, [140 Stat. 571](https://www.govinfo.gov/link/statute/140/571).)*

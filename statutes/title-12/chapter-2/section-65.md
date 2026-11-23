@@ -3,9 +3,9 @@ title: "Section 65 - Repealed. Pub. L. 86–230, § 8 , Sept. 8, 1959 , 73 Stat.
 usc_title: 12
 usc_section: "65"
 chapter: 2
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "12 U.S.C. § 65"
-generated_at: "2026-11-23T20:52:48.799Z"
+generated_at: "2026-11-23T20:54:49.885Z"
 status: "repealed"
 ---
 

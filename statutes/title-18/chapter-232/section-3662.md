@@ -3,9 +3,9 @@ title: "Section 3662 - Conviction records"
 usc_title: 18
 usc_section: "3662"
 chapter: 232
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "18 U.S.C. § 3662"
-generated_at: "2026-11-23T20:52:56.063Z"
+generated_at: "2026-11-23T20:54:58.755Z"
 status: "active"
 ---
 

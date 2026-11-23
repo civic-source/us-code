@@ -3,9 +3,9 @@ title: "Section 387d - Submission of health information to the Secretary"
 usc_title: 21
 usc_section: "387d"
 chapter: 9
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "21 U.S.C. § 387d"
-generated_at: "2026-11-23T20:53:08.060Z"
+generated_at: "2026-11-23T20:55:10.039Z"
 status: "active"
 ---
 

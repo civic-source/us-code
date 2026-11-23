@@ -3,9 +3,9 @@ title: "Section 10310 - Produced water research and development"
 usc_title: 42
 usc_section: "10310"
 chapter: 109
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "42 U.S.C. § 10310"
-generated_at: "2026-11-23T20:53:45.824Z"
+generated_at: "2026-11-23T20:55:51.807Z"
 status: "active"
 ---
 

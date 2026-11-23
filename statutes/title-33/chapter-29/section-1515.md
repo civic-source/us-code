@@ -3,9 +3,9 @@ title: "Section 1515 - Citizen civil action"
 usc_title: 33
 usc_section: "1515"
 chapter: 29
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "33 U.S.C. § 1515"
-generated_at: "2026-11-23T20:53:24.229Z"
+generated_at: "2026-11-23T20:55:29.698Z"
 status: "active"
 ---
 

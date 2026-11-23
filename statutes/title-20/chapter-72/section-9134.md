@@ -3,9 +3,9 @@ title: "Section 9134 - State plans"
 usc_title: 20
 usc_section: "9134"
 chapter: 72
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "20 U.S.C. § 9134"
-generated_at: "2026-11-23T20:52:59.917Z"
+generated_at: "2026-11-23T20:55:00.998Z"
 status: "active"
 ---
 

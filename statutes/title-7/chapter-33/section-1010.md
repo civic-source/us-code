@@ -3,9 +3,9 @@ title: "Section 1010 - Land conservation and land utilization"
 usc_title: 7
 usc_section: "1010"
 chapter: 33
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "7 U.S.C. § 1010"
-generated_at: "2026-11-23T20:52:37.079Z"
+generated_at: "2026-11-23T20:54:38.397Z"
 status: "active"
 ---
 

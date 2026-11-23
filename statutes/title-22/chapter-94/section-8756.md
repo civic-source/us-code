@@ -3,9 +3,9 @@ title: "Section 8756 - Secretary of State assistance for prisoners in Islamic Re
 usc_title: 22
 usc_section: "8756"
 chapter: 94
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "22 U.S.C. § 8756"
-generated_at: "2026-11-23T20:53:10.770Z"
+generated_at: "2026-11-23T20:55:13.921Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4371 - Cost growth definitions; applicability of reporting requi
 usc_title: 10
 usc_section: "4371"
 chapter: 325
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "10 U.S.C. § 4371"
-generated_at: "2026-11-23T20:52:44.269Z"
+generated_at: "2026-11-23T20:54:45.012Z"
 status: "active"
 ---
 

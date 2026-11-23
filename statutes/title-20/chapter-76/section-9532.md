@@ -3,9 +3,9 @@ title: "Section 9532 - Commissioner for Education Research"
 usc_title: 20
 usc_section: "9532"
 chapter: 76
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "20 U.S.C. § 9532"
-generated_at: "2026-11-23T20:52:59.922Z"
+generated_at: "2026-11-23T20:55:01.006Z"
 status: "active"
 ---
 

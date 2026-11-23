@@ -3,9 +3,9 @@ title: "Section 467a - Inspection of dams"
 usc_title: 33
 usc_section: "467a"
 chapter: 9
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "33 U.S.C. § 467a"
-generated_at: "2026-11-23T20:53:24.051Z"
+generated_at: "2026-11-23T20:55:29.560Z"
 status: "active"
 ---
 

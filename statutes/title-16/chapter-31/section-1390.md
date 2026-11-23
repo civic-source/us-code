@@ -3,9 +3,9 @@ title: "Section 1390 - Assistance to ports to reduce impacts of vessel traffic a
 usc_title: 16
 usc_section: "1390"
 chapter: 31
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "16 U.S.C. § 1390"
-generated_at: "2026-11-23T20:53:03.171Z"
+generated_at: "2026-11-23T20:55:04.935Z"
 status: "active"
 ---
 

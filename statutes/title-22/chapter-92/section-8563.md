@@ -3,9 +3,9 @@ title: "Section 8563 - Report and imposition of sanctions with respect to person
 usc_title: 22
 usc_section: "8563"
 chapter: 92
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "22 U.S.C. § 8563"
-generated_at: "2026-11-23T20:53:10.764Z"
+generated_at: "2026-11-23T20:55:13.907Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5508 - Program of applied research by Secretary of Energy for im
 usc_title: 42
 usc_section: "5508"
 chapter: 71
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "42 U.S.C. § 5508"
-generated_at: "2026-11-23T20:53:45.266Z"
+generated_at: "2026-11-23T20:55:51.346Z"
 status: "active"
 ---
 

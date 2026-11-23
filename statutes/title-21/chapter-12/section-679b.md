@@ -3,9 +3,9 @@ title: "Section 679b - Pasteurization of meat and poultry"
 usc_title: 21
 usc_section: "679b"
 chapter: 12
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "21 U.S.C. § 679b"
-generated_at: "2026-11-23T20:53:08.088Z"
+generated_at: "2026-11-23T20:55:10.068Z"
 status: "active"
 ---
 

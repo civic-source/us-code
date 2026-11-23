@@ -3,9 +3,9 @@ title: "Section 1437 - Repealed. Pub. L. 103–182, title VI, § 690(b)(3) , Dec
 usc_title: 19
 usc_section: "1437"
 chapter: 4
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "19 U.S.C. § 1437"
-generated_at: "2026-11-23T20:52:57.466Z"
+generated_at: "2026-11-23T20:54:57.006Z"
 status: "repealed"
 ---
 

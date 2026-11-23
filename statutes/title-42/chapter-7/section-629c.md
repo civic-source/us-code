@@ -3,9 +3,9 @@ title: "Section 629c - Allotments to States"
 usc_title: 42
 usc_section: "629c"
 chapter: 7
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "42 U.S.C. § 629c"
-generated_at: "2026-11-23T20:53:44.098Z"
+generated_at: "2026-11-23T20:55:50.002Z"
 status: "active"
 ---
 

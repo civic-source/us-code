@@ -3,9 +3,9 @@ title: "Section 8324 - Officers: creditable service"
 usc_title: 10
 usc_section: "8324"
 chapter: 841
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "10 U.S.C. § 8324"
-generated_at: "2026-11-23T20:52:44.389Z"
+generated_at: "2026-11-23T20:54:45.147Z"
 status: "active"
 ---
 

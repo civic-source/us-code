@@ -3,9 +3,9 @@ title: "Section 2764 - Guaranties"
 usc_title: 22
 usc_section: "2764"
 chapter: 39
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "22 U.S.C. § 2764"
-generated_at: "2026-11-23T20:53:10.570Z"
+generated_at: "2026-11-23T20:55:13.583Z"
 status: "active"
 ---
 

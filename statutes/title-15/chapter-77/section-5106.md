@@ -3,9 +3,9 @@ title: "Section 5106 - Repealed. Pub. L. 110–229, title VI, § 602(c)(1) , May
 usc_title: 15
 usc_section: "5106"
 chapter: 77
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "15 U.S.C. § 5106"
-generated_at: "2026-11-23T20:52:53.020Z"
+generated_at: "2026-11-23T20:54:53.848Z"
 status: "repealed"
 ---
 

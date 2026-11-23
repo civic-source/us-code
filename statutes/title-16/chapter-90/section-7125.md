@@ -3,9 +3,9 @@ title: "Section 7125 - Resource advisory committees"
 usc_title: 16
 usc_section: "7125"
 chapter: 90
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "16 U.S.C. § 7125"
-generated_at: "2026-11-23T20:53:03.380Z"
+generated_at: "2026-11-23T20:55:05.165Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6038 - Repealed. Pub. L. 119–60, div. F, title LXVIII, § 6801
 usc_title: 22
 usc_section: "6038"
 chapter: 69
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "22 U.S.C. § 6038"
-generated_at: "2026-11-23T20:53:10.682Z"
+generated_at: "2026-11-23T20:55:13.754Z"
 status: "repealed"
 ---
 

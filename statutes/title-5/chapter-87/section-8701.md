@@ -3,9 +3,9 @@ title: "Section 8701 - Definitions"
 usc_title: 5
 usc_section: "8701"
 chapter: 87
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "5 U.S.C. § 8701"
-generated_at: "2026-11-23T20:52:31.820Z"
+generated_at: "2026-11-23T20:54:34.021Z"
 status: "active"
 ---
 

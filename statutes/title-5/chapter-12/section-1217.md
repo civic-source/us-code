@@ -3,9 +3,9 @@ title: "Section 1217 - Transmittal of information to Congress"
 usc_title: 5
 usc_section: "1217"
 chapter: 12
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "5 U.S.C. § 1217"
-generated_at: "2026-11-23T20:52:31.534Z"
+generated_at: "2026-11-23T20:54:33.754Z"
 status: "active"
 ---
 

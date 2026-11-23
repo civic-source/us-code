@@ -3,9 +3,9 @@ title: "Section 7235 - Loan deficiency payments"
 usc_title: 7
 usc_section: "7235"
 chapter: 100
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "7 U.S.C. § 7235"
-generated_at: "2026-11-23T20:52:37.671Z"
+generated_at: "2026-11-23T20:54:38.883Z"
 status: "active"
 ---
 

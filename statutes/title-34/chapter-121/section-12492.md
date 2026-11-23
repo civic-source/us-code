@@ -3,9 +3,9 @@ title: "Section 12492 - Compliance reviews"
 usc_title: 34
 usc_section: "12492"
 chapter: 121
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "34 U.S.C. § 12492"
-generated_at: "2026-11-23T20:53:22.156Z"
+generated_at: "2026-11-23T20:55:28.584Z"
 status: "active"
 ---
 

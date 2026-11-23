@@ -3,9 +3,9 @@ title: "Section 17713 - Repealed or Omitted"
 usc_title: 42
 usc_section: "17713"
 chapter: 155
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "42 U.S.C. § 17713"
-generated_at: "2026-11-23T20:53:46.185Z"
+generated_at: "2026-11-23T20:55:52.095Z"
 status: "repealed"
 ---
 

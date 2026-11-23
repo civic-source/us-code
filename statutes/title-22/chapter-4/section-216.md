@@ -3,9 +3,9 @@ title: "Section 216 - Repealed. Pub. L. 106–113, div. B, § 1000(a)(7) [div. A
 usc_title: 22
 usc_section: "216"
 chapter: 4
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "22 U.S.C. § 216"
-generated_at: "2026-11-23T20:53:10.315Z"
+generated_at: "2026-11-23T20:55:13.181Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6867 - Presumptions where owner of large amount of cash is not i
 usc_title: 26
 usc_section: "6867"
 chapter: 70
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "26 U.S.C. § 6867"
-generated_at: "2026-11-23T20:53:19.601Z"
+generated_at: "2026-11-23T20:55:25.219Z"
 status: "active"
 ---
 

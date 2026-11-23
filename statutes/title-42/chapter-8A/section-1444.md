@@ -3,9 +3,9 @@ title: "Section 1444 - Separability"
 usc_title: 42
 usc_section: "1444"
 chapter: 8
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "42 U.S.C. § 1444"
-generated_at: "2026-11-23T20:53:44.651Z"
+generated_at: "2026-11-23T20:55:50.717Z"
 status: "active"
 ---
 

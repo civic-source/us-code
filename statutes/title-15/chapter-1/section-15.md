@@ -3,9 +3,9 @@ title: "Section 15 - Suits by persons injured"
 usc_title: 15
 usc_section: "15"
 chapter: 1
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "15 U.S.C. § 15"
-generated_at: "2026-11-23T20:52:52.243Z"
+generated_at: "2026-11-23T20:54:53.160Z"
 status: "active"
 ---
 

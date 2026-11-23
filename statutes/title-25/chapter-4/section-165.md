@@ -3,9 +3,9 @@ title: "Section 165 - Notice to Congressional committees"
 usc_title: 25
 usc_section: "165"
 chapter: 4
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "25 U.S.C. § 165"
-generated_at: "2026-11-23T20:53:05.850Z"
+generated_at: "2026-11-23T20:55:08.364Z"
 status: "active"
 ---
 

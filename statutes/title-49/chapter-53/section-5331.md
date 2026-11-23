@@ -3,9 +3,9 @@ title: "Section 5331 - Alcohol and controlled substances testing"
 usc_title: 49
 usc_section: "5331"
 chapter: 53
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "49 U.S.C. § 5331"
-generated_at: "2026-11-23T20:53:53.556Z"
+generated_at: "2026-11-23T20:55:59.362Z"
 status: "active"
 ---
 

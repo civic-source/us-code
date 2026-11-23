@@ -3,9 +3,9 @@ title: "Section 13237 - Certification of training programs"
 usc_title: 42
 usc_section: "13237"
 chapter: 134
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "42 U.S.C. § 13237"
-generated_at: "2026-11-23T20:53:45.995Z"
+generated_at: "2026-11-23T20:55:51.946Z"
 status: "active"
 ---
 

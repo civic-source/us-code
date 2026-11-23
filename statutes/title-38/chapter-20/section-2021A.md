@@ -3,9 +3,9 @@ title: "Section 2021A - Homeless women veterans and homeless veterans with child
 usc_title: 38
 usc_section: "2021A"
 chapter: 20
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "38 U.S.C. § 2021A"
-generated_at: "2026-11-23T20:53:29.663Z"
+generated_at: "2026-11-23T20:55:34.348Z"
 status: "active"
 ---
 

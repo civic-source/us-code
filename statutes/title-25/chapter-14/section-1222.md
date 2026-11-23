@@ -3,9 +3,9 @@ title: "Section 1222 - Omitted"
 usc_title: 25
 usc_section: "1222"
 chapter: 14
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "25 U.S.C. § 1222"
-generated_at: "2026-11-23T20:53:05.919Z"
+generated_at: "2026-11-23T20:55:08.444Z"
 status: "omitted"
 ---
 

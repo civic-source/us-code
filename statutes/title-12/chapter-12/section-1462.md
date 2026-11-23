@@ -3,9 +3,9 @@ title: "Section 1462 - Definitions"
 usc_title: 12
 usc_section: "1462"
 chapter: 12
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "12 U.S.C. § 1462"
-generated_at: "2026-11-23T20:52:48.928Z"
+generated_at: "2026-11-23T20:54:49.980Z"
 status: "active"
 ---
 

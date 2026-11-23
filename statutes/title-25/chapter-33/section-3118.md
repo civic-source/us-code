@@ -3,9 +3,9 @@ title: "Section 3118 - Regulations"
 usc_title: 25
 usc_section: "3118"
 chapter: 33
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "25 U.S.C. § 3118"
-generated_at: "2026-11-23T20:53:06.075Z"
+generated_at: "2026-11-23T20:55:08.602Z"
 status: "active"
 ---
 

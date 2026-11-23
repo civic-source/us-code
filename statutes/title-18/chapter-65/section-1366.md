@@ -3,9 +3,9 @@ title: "Section 1366 - Destruction of an energy facility"
 usc_title: 18
 usc_section: "1366"
 chapter: 65
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "18 U.S.C. § 1366"
-generated_at: "2026-11-23T20:52:55.946Z"
+generated_at: "2026-11-23T20:54:58.616Z"
 status: "active"
 ---
 

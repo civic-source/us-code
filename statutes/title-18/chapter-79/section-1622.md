@@ -3,9 +3,9 @@ title: "Section 1622 - Subornation of perjury"
 usc_title: 18
 usc_section: "1622"
 chapter: 79
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "18 U.S.C. § 1622"
-generated_at: "2026-11-23T20:52:55.956Z"
+generated_at: "2026-11-23T20:54:58.627Z"
 status: "active"
 ---
 

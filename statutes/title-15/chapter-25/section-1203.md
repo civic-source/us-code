@@ -3,9 +3,9 @@ title: "Section 1203 - Preemption of Federal standards"
 usc_title: 15
 usc_section: "1203"
 chapter: 25
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "15 U.S.C. § 1203"
-generated_at: "2026-11-23T20:52:52.731Z"
+generated_at: "2026-11-23T20:54:53.595Z"
 status: "active"
 ---
 

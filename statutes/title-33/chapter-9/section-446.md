@@ -3,9 +3,9 @@ title: "Section 446 - Inspectors; appointment, powers, and duties"
 usc_title: 33
 usc_section: "446"
 chapter: 9
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "33 U.S.C. § 446"
-generated_at: "2026-11-23T20:53:24.048Z"
+generated_at: "2026-11-23T20:55:29.558Z"
 status: "active"
 ---
 

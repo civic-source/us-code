@@ -3,9 +3,9 @@ title: "Section 3530 - Office of wellness and workforce support"
 usc_title: 50
 usc_section: "3530"
 chapter: 46
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "50 U.S.C. § 3530"
-generated_at: "2026-11-23T20:53:51.188Z"
+generated_at: "2026-11-23T20:55:57.150Z"
 status: "active"
 ---
 

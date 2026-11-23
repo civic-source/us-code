@@ -3,9 +3,9 @@ title: "Section 6134 - Compensation and appointment of employees by Senate Major
 usc_title: 2
 usc_section: "6134"
 chapter: 61
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "2 U.S.C. § 6134"
-generated_at: "2026-11-23T20:52:29.889Z"
+generated_at: "2026-11-23T20:54:32.183Z"
 status: "active"
 ---
 

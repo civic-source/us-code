@@ -3,9 +3,9 @@ title: "Section 2224a - Information security: continued applicability of expirin
 usc_title: 10
 usc_section: "2224a"
 chapter: 131
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "10 U.S.C. § 2224a"
-generated_at: "2026-11-23T20:52:44.080Z"
+generated_at: "2026-11-23T20:54:44.740Z"
 status: "active"
 ---
 

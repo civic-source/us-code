@@ -3,9 +3,9 @@ title: "Section 1533 - Information collection and dissemination with respect to 
 usc_title: 21
 usc_section: "1533"
 chapter: 20
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "21 U.S.C. § 1533"
-generated_at: "2026-11-23T20:53:08.131Z"
+generated_at: "2026-11-23T20:55:10.138Z"
 status: "active"
 ---
 

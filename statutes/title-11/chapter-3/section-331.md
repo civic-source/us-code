@@ -3,9 +3,9 @@ title: "Section 331 - Interim compensation"
 usc_title: 11
 usc_section: "331"
 chapter: 3
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "11 U.S.C. § 331"
-generated_at: "2026-11-23T20:52:46.645Z"
+generated_at: "2026-11-23T20:54:47.511Z"
 status: "active"
 ---
 

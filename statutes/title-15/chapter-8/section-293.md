@@ -3,9 +3,9 @@ title: "Section 293 - Penalty for infraction"
 usc_title: 15
 usc_section: "293"
 chapter: 8
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "15 U.S.C. § 293"
-generated_at: "2026-11-23T20:52:52.503Z"
+generated_at: "2026-11-23T20:54:53.417Z"
 status: "active"
 ---
 

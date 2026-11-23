@@ -3,9 +3,9 @@ title: "Section 12705b - Definition of regulatory barriers to affordable housing
 usc_title: 42
 usc_section: "12705b"
 chapter: 130
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "42 U.S.C. § 12705b"
-generated_at: "2026-11-23T20:53:45.961Z"
+generated_at: "2026-11-23T20:55:51.923Z"
 status: "active"
 ---
 

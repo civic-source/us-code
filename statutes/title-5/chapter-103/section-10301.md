@@ -3,9 +3,9 @@ title: "Section 10301 - Notice of employment opportunities for Department of Sta
 usc_title: 5
 usc_section: "10301"
 chapter: 103
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "5 U.S.C. § 10301"
-generated_at: "2026-11-23T20:52:31.852Z"
+generated_at: "2026-11-23T20:54:34.052Z"
 status: "active"
 ---
 

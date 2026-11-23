@@ -3,9 +3,9 @@ title: "Section 2192 - Resolutions disapproving certain actions"
 usc_title: 19
 usc_section: "2192"
 chapter: 12
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "19 U.S.C. § 2192"
-generated_at: "2026-11-23T20:52:57.541Z"
+generated_at: "2026-11-23T20:54:57.109Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2252 - Reimbursement of Production and Marketing Administration 
 usc_title: 7
 usc_section: "2252"
 chapter: 55
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "7 U.S.C. § 2252"
-generated_at: "2026-11-23T20:52:37.385Z"
+generated_at: "2026-11-23T20:54:38.710Z"
 status: "active"
 ---
 

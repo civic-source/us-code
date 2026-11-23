@@ -3,9 +3,9 @@ title: "Section 395 - Repealed. Pub. L. 94–455, title XIX, § 1901(a)(55) , Oc
 usc_title: 26
 usc_section: "395"
 chapter: 1
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "26 U.S.C. § 395"
-generated_at: "2026-11-23T20:53:18.952Z"
+generated_at: "2026-11-23T20:55:24.504Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 51301 - Definitions"
 usc_title: 51
 usc_section: "51301"
 chapter: 513
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "51 U.S.C. § 51301"
-generated_at: "2026-11-23T20:53:55.644Z"
+generated_at: "2026-11-23T20:56:01.484Z"
 status: "active"
 ---
 

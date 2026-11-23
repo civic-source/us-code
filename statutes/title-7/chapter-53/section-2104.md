@@ -3,9 +3,9 @@ title: "Section 2104 - Finding and issuance of orders"
 usc_title: 7
 usc_section: "2104"
 chapter: 53
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "7 U.S.C. § 2104"
-generated_at: "2026-11-23T20:52:37.357Z"
+generated_at: "2026-11-23T20:54:38.692Z"
 status: "active"
 ---
 

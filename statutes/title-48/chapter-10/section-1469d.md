@@ -3,9 +3,9 @@ title: "Section 1469d - General technical assistance"
 usc_title: 48
 usc_section: "1469d"
 chapter: 10
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "48 U.S.C. § 1469d"
-generated_at: "2026-11-23T20:53:48.128Z"
+generated_at: "2026-11-23T20:55:54.090Z"
 status: "active"
 ---
 

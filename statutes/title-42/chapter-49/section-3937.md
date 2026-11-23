@@ -3,9 +3,9 @@ title: "Section 3937 - National housing partnership"
 usc_title: 42
 usc_section: "3937"
 chapter: 49
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "42 U.S.C. § 3937"
-generated_at: "2026-11-23T20:53:45.081Z"
+generated_at: "2026-11-23T20:55:51.163Z"
 status: "active"
 ---
 

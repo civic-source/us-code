@@ -3,9 +3,9 @@ title: "Section 1375 - Entitlement to commission: commissioned officers advanced
 usc_title: 10
 usc_section: "1375"
 chapter: 69
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "10 U.S.C. § 1375"
-generated_at: "2026-11-23T20:52:43.958Z"
+generated_at: "2026-11-23T20:54:44.560Z"
 status: "active"
 ---
 

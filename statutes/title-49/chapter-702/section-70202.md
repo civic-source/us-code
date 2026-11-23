@@ -3,9 +3,9 @@ title: "Section 70202 - State freight plans"
 usc_title: 49
 usc_section: "70202"
 chapter: 702
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "49 U.S.C. § 70202"
-generated_at: "2026-11-23T20:53:53.943Z"
+generated_at: "2026-11-23T20:55:59.768Z"
 status: "active"
 ---
 

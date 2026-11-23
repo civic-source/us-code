@@ -3,9 +3,9 @@ title: "Section 5365 - Segregation of operations"
 usc_title: 26
 usc_section: "5365"
 chapter: 51
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "26 U.S.C. § 5365"
-generated_at: "2026-11-23T20:53:19.474Z"
+generated_at: "2026-11-23T20:55:25.086Z"
 status: "active"
 ---
 

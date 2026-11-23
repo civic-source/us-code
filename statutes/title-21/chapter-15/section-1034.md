@@ -3,9 +3,9 @@ title: "Section 1034 - Inspection of egg products"
 usc_title: 21
 usc_section: "1034"
 chapter: 15
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "21 U.S.C. § 1034"
-generated_at: "2026-11-23T20:53:08.120Z"
+generated_at: "2026-11-23T20:55:10.125Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5878 - Information to Congressional committees"
 usc_title: 42
 usc_section: "5878"
 chapter: 73
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "42 U.S.C. § 5878"
-generated_at: "2026-11-23T20:53:45.283Z"
+generated_at: "2026-11-23T20:55:51.362Z"
 status: "active"
 ---
 

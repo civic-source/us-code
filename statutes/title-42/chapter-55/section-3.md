@@ -3,9 +3,9 @@ title: "Section 3 - Interstate compacts"
 usc_title: 42
 usc_section: "3"
 chapter: 55
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "42 U.S.C. § 3"
-generated_at: "2026-11-23T20:53:45.131Z"
+generated_at: "2026-11-23T20:55:51.212Z"
 status: "active"
 ---
 

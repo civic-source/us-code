@@ -3,9 +3,9 @@ title: "Section 2439 - Renumbered § 4236]"
 usc_title: 10
 usc_section: "2439"
 chapter: 144
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "10 U.S.C. § 2439"
-generated_at: "2026-11-23T20:52:44.109Z"
+generated_at: "2026-11-23T20:54:44.770Z"
 status: "renumbered"
 ---
 

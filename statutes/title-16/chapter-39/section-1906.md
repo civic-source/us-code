@@ -3,9 +3,9 @@ title: "Section 1906 - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 S
 usc_title: 16
 usc_section: "1906"
 chapter: 39
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "16 U.S.C. § 1906"
-generated_at: "2026-11-23T20:53:03.243Z"
+generated_at: "2026-11-23T20:55:05.009Z"
 status: "repealed"
 ---
 

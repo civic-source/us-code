@@ -3,9 +3,9 @@ title: "Section 1256 - Rescission of adjustment of status; effect upon naturaliz
 usc_title: 8
 usc_section: "1256"
 chapter: 12
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "8 U.S.C. § 1256"
-generated_at: "2026-11-23T20:52:34.144Z"
+generated_at: "2026-11-23T20:54:35.859Z"
 status: "active"
 ---
 

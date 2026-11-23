@@ -3,9 +3,9 @@ title: "Section 2291 - Definitions"
 usc_title: 42
 usc_section: "2291"
 chapter: 23
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "42 U.S.C. § 2291"
-generated_at: "2026-11-23T20:53:44.913Z"
+generated_at: "2026-11-23T20:55:51.019Z"
 status: "active"
 ---
 

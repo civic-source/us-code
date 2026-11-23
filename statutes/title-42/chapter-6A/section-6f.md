@@ -3,9 +3,9 @@ title: "Section 6f - Provision of medical countermeasures to Indian programs and
 usc_title: 42
 usc_section: "6f"
 chapter: 6
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "42 U.S.C. § 6f"
-generated_at: "2026-11-23T20:53:43.462Z"
+generated_at: "2026-11-23T20:55:49.539Z"
 status: "active"
 ---
 

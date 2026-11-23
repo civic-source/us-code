@@ -3,9 +3,9 @@ title: "Section 220551 - Definitions"
 usc_title: 36
 usc_section: "220551"
 chapter: 2205
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "36 U.S.C. § 220551"
-generated_at: "2026-11-23T20:53:27.818Z"
+generated_at: "2026-11-23T20:55:31.872Z"
 status: "active"
 ---
 

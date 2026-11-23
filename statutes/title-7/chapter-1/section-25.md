@@ -3,9 +3,9 @@ title: "Section 25 - Private rights of action"
 usc_title: 7
 usc_section: "25"
 chapter: 1
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "7 U.S.C. § 25"
-generated_at: "2026-11-23T20:52:36.859Z"
+generated_at: "2026-11-23T20:54:38.219Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1203b - Repealed. Pub. L. 105–220, title II, § 251(a)(1) , Au
 usc_title: 20
 usc_section: "1203b"
 chapter: 30
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "20 U.S.C. § 1203b"
-generated_at: "2026-11-23T20:52:59.745Z"
+generated_at: "2026-11-23T20:55:00.793Z"
 status: "repealed"
 ---
 

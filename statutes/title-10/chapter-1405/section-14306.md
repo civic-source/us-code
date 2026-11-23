@@ -3,9 +3,9 @@ title: "Section 14306 - Establishment of promotion zones: Navy Reserve and Marin
 usc_title: 10
 usc_section: "14306"
 chapter: 1405
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "10 U.S.C. § 14306"
-generated_at: "2026-11-23T20:52:44.520Z"
+generated_at: "2026-11-23T20:54:45.323Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5653 - Equitable treatment of high-value and value-added United 
 usc_title: 7
 usc_section: "5653"
 chapter: 87
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "7 U.S.C. § 5653"
-generated_at: "2026-11-23T20:52:37.566Z"
+generated_at: "2026-11-23T20:54:38.819Z"
 status: "active"
 ---
 

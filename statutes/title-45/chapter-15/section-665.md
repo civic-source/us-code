@@ -3,9 +3,9 @@ title: "Section 665 - Utilization of services and facilities of Federal departme
 usc_title: 45
 usc_section: "665"
 chapter: 15
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "45 U.S.C. § 665"
-generated_at: "2026-11-23T20:53:31.524Z"
+generated_at: "2026-11-23T20:55:38.417Z"
 status: "active"
 ---
 

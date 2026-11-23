@@ -3,9 +3,9 @@ title: "Section 2412 - Repealed. Pub. L. 116–283, div. A, title XVIII, § 1872
 usc_title: 10
 usc_section: "2412"
 chapter: 142
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "10 U.S.C. § 2412"
-generated_at: "2026-11-23T20:52:44.108Z"
+generated_at: "2026-11-23T20:54:44.768Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7588 - Federal agency fleets"
 usc_title: 42
 usc_section: "7588"
 chapter: 85
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "42 U.S.C. § 7588"
-generated_at: "2026-11-23T20:53:45.567Z"
+generated_at: "2026-11-23T20:55:51.636Z"
 status: "active"
 ---
 

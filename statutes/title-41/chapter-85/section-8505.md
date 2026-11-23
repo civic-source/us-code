@@ -3,9 +3,9 @@ title: "Section 8505 - Audit"
 usc_title: 41
 usc_section: "8505"
 chapter: 85
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "41 U.S.C. § 8505"
-generated_at: "2026-11-23T20:53:32.403Z"
+generated_at: "2026-11-23T20:55:36.116Z"
 status: "active"
 ---
 

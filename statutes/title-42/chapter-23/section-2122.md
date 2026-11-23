@@ -3,9 +3,9 @@ title: "Section 2122 - Prohibitions governing atomic weapons"
 usc_title: 42
 usc_section: "2122"
 chapter: 23
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "42 U.S.C. § 2122"
-generated_at: "2026-11-23T20:53:44.865Z"
+generated_at: "2026-11-23T20:55:50.968Z"
 status: "active"
 ---
 

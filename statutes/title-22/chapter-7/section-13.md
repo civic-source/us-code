@@ -1,21 +1,21 @@
 ---
-title: "Section 13 - Additional authorization for payment of United States contribution"
+title: "Section 13 - General callable capital increase"
 usc_title: 22
 usc_section: "13"
 chapter: 7
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "22 U.S.C. § 13"
-generated_at: "2026-11-23T20:53:10.372Z"
+generated_at: "2026-11-23T20:55:13.265Z"
 status: "active"
 ---
 
-# § 290g–13. Additional authorization for payment of United States contribution
+# § 290i–13. General callable capital increase
 
 - **(a)**
-  - **(1)** The United States Governor of the Fund is authorized to contribute $225,000,000 to the fourth replenishment of the resources of the Fund.
-  - **(2)** Any commitment to make the contribution authorized in paragraph (1) shall be made subject to obtaining the necessary appropriations.
-- **(b)** In order to pay for the United States contribution provided for in this section, there are authorized to be appropriated, without fiscal year limitation, $225,000,000 for payment by the Secretary of the Treasury.
+  - **(1)** The United States Governor of the Bank may subscribe on behalf of the United States to 800,000 additional shares of the capital stock of the Bank.
+  - **(2)** Any subscription by the United States to the capital stock of the Bank shall be effective only to such extent and in such amounts as are provided in advance in appropriations Acts.
+- **(b)** For the increase in the United States subscription to the Bank under subsection (a), there is authorized to be appropriated, without fiscal year limitation, $7,800,000,000, for payment by the Secretary of the Treasury for callable shares of the Bank.
 
 ## Source Credit
 
-*([Pub. L. 94–302, title II, § 214](https://www.govinfo.gov/link/plaw/94/public/302), as added [Pub. L. 99–190, § 101(i) [title I, (a)]](https://www.govinfo.gov/link/plaw/99/public/190), Dec. 19, 1985, [99 Stat. 1291](https://www.govinfo.gov/link/statute/99/1291), 1294.)*
+*([Pub. L. 97–35, title XIII, § 1346](https://www.govinfo.gov/link/plaw/97/public/35), as added [Pub. L. 119–75, div. F, title VI, § 7070(d)](https://www.govinfo.gov/link/plaw/119/public/75), Feb. 3, 2026, [140 Stat. 626](https://www.govinfo.gov/link/statute/140/626).)*

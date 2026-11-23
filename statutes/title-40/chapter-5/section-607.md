@@ -3,9 +3,9 @@ title: "Section 607 - Records"
 usc_title: 40
 usc_section: "607"
 chapter: 5
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "40 U.S.C. § 607"
-generated_at: "2026-11-23T20:53:26.613Z"
+generated_at: "2026-11-23T20:55:32.521Z"
 status: "active"
 ---
 

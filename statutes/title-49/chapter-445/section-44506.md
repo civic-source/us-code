@@ -3,9 +3,9 @@ title: "Section 44506 - Air traffic controllers"
 usc_title: 49
 usc_section: "44506"
 chapter: 445
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "49 U.S.C. § 44506"
-generated_at: "2026-11-23T20:53:53.804Z"
+generated_at: "2026-11-23T20:55:59.609Z"
 status: "active"
 ---
 

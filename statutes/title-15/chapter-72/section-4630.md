@@ -3,9 +3,9 @@ title: "Section 4630 - Authorization of appropriations"
 usc_title: 15
 usc_section: "4630"
 chapter: 72
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "15 U.S.C. § 4630"
-generated_at: "2026-11-23T20:52:53.004Z"
+generated_at: "2026-11-23T20:54:53.836Z"
 status: "active"
 ---
 

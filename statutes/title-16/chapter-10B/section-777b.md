@@ -3,9 +3,9 @@ title: "Section 777b - Authorization of appropriations"
 usc_title: 16
 usc_section: "777b"
 chapter: 10
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "16 U.S.C. § 777b"
-generated_at: "2026-11-23T20:53:03.016Z"
+generated_at: "2026-11-23T20:55:04.796Z"
 status: "active"
 ---
 

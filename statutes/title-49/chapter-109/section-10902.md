@@ -3,9 +3,9 @@ title: "Section 10902 - Short line purchases by Class II and Class III rail carr
 usc_title: 49
 usc_section: "10902"
 chapter: 109
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "49 U.S.C. § 10902"
-generated_at: "2026-11-23T20:53:53.578Z"
+generated_at: "2026-11-23T20:55:59.390Z"
 status: "active"
 ---
 

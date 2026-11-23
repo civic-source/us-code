@@ -3,9 +3,9 @@ title: "Section 2105 - Enhanced aquaculture and seafood inspection"
 usc_title: 21
 usc_section: "2105"
 chapter: 26
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "21 U.S.C. § 2105"
-generated_at: "2026-11-23T20:53:08.145Z"
+generated_at: "2026-11-23T20:55:10.161Z"
 status: "active"
 ---
 

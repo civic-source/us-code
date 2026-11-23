@@ -3,9 +3,9 @@ title: "Section 5004 - Lien for tax"
 usc_title: 26
 usc_section: "5004"
 chapter: 51
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "26 U.S.C. § 5004"
-generated_at: "2026-11-23T20:53:19.454Z"
+generated_at: "2026-11-23T20:55:25.064Z"
 status: "active"
 ---
 

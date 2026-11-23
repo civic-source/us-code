@@ -3,9 +3,9 @@ title: "Section 3001 - Commission on Security and Cooperation in Europe; establi
 usc_title: 22
 usc_section: "3001"
 chapter: 45
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "22 U.S.C. § 3001"
-generated_at: "2026-11-23T20:53:10.584Z"
+generated_at: "2026-11-23T20:55:13.609Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1963 - Purpose and extent of loans"
 usc_title: 7
 usc_section: "1963"
 chapter: 50
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "7 U.S.C. § 1963"
-generated_at: "2026-11-23T20:52:37.256Z"
+generated_at: "2026-11-23T20:54:38.605Z"
 status: "active"
 ---
 

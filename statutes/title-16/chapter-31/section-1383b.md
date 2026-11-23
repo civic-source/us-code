@@ -3,9 +3,9 @@ title: "Section 1383b - Status review; conservation plans"
 usc_title: 16
 usc_section: "1383b"
 chapter: 31
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "16 U.S.C. § 1383b"
-generated_at: "2026-11-23T20:53:03.166Z"
+generated_at: "2026-11-23T20:55:04.932Z"
 status: "active"
 ---
 

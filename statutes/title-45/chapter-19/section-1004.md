@@ -3,9 +3,9 @@ title: "Section 1004 - Railroad hiring"
 usc_title: 45
 usc_section: "1004"
 chapter: 19
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "45 U.S.C. § 1004"
-generated_at: "2026-11-23T20:53:31.540Z"
+generated_at: "2026-11-23T20:55:38.445Z"
 status: "active"
 ---
 

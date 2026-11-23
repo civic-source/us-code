@@ -3,9 +3,9 @@ title: "Section 1531 - Establishment of drug-free communities support program"
 usc_title: 21
 usc_section: "1531"
 chapter: 20
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "21 U.S.C. § 1531"
-generated_at: "2026-11-23T20:53:08.130Z"
+generated_at: "2026-11-23T20:55:10.137Z"
 status: "active"
 ---
 

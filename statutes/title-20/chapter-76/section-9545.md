@@ -3,9 +3,9 @@ title: "Section 9545 - Reports"
 usc_title: 20
 usc_section: "9545"
 chapter: 76
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "20 U.S.C. § 9545"
-generated_at: "2026-11-23T20:52:59.923Z"
+generated_at: "2026-11-23T20:55:01.008Z"
 status: "active"
 ---
 

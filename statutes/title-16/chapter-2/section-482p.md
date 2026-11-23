@@ -3,9 +3,9 @@ title: "Section 482p - Patents affecting lands within forest"
 usc_title: 16
 usc_section: "482p"
 chapter: 2
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "16 U.S.C. § 482p"
-generated_at: "2026-11-23T20:53:02.920Z"
+generated_at: "2026-11-23T20:55:04.633Z"
 status: "active"
 ---
 

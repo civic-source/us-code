@@ -3,9 +3,9 @@ title: "Section 12 - Authority to assess and use animal drug fees"
 usc_title: 21
 usc_section: "12"
 chapter: 9
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "21 U.S.C. § 12"
-generated_at: "2026-11-23T20:53:08.035Z"
+generated_at: "2026-11-23T20:55:10.014Z"
 status: "active"
 ---
 

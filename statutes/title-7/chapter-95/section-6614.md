@@ -3,9 +3,9 @@ title: "Section 6614 - Action plan implementation"
 usc_title: 7
 usc_section: "6614"
 chapter: 95
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "7 U.S.C. § 6614"
-generated_at: "2026-11-23T20:52:37.630Z"
+generated_at: "2026-11-23T20:54:38.858Z"
 status: "active"
 ---
 

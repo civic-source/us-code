@@ -3,9 +3,9 @@ title: "Section 692 - Inspection extended to reindeer"
 usc_title: 21
 usc_section: "692"
 chapter: 12
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "21 U.S.C. § 692"
-generated_at: "2026-11-23T20:53:08.088Z"
+generated_at: "2026-11-23T20:55:10.069Z"
 status: "active"
 ---
 

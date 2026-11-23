@@ -3,9 +3,9 @@ title: "Section 2354 - Subpoenas; witnesses"
 usc_title: 7
 usc_section: "2354"
 chapter: 57
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "7 U.S.C. § 2354"
-generated_at: "2026-11-23T20:52:37.402Z"
+generated_at: "2026-11-23T20:54:38.720Z"
 status: "active"
 ---
 

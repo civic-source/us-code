@@ -3,9 +3,9 @@ title: "Section 33 - Management of reclamation lands"
 usc_title: 16
 usc_section: "33"
 chapter: 1
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "16 U.S.C. § 33"
-generated_at: "2026-11-23T20:53:02.814Z"
+generated_at: "2026-11-23T20:55:04.495Z"
 status: "active"
 ---
 

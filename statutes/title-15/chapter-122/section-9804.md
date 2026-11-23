@@ -3,9 +3,9 @@ title: "Section 9804 - Travel and tourism strategy"
 usc_title: 15
 usc_section: "9804"
 chapter: 122
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "15 U.S.C. § 9804"
-generated_at: "2026-11-23T20:52:53.145Z"
+generated_at: "2026-11-23T20:54:53.963Z"
 status: "active"
 ---
 

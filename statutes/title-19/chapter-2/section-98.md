@@ -3,9 +3,9 @@ title: "Section 98 - Omitted"
 usc_title: 19
 usc_section: "98"
 chapter: 2
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "19 U.S.C. § 98"
-generated_at: "2026-11-23T20:52:57.449Z"
+generated_at: "2026-11-23T20:54:56.965Z"
 status: "omitted"
 ---
 

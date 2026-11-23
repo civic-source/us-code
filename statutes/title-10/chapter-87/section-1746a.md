@@ -3,9 +3,9 @@ title: "Section 1746a - Acquisition workforce educational partnerships"
 usc_title: 10
 usc_section: "1746a"
 chapter: 87
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "10 U.S.C. § 1746a"
-generated_at: "2026-11-23T20:52:44.024Z"
+generated_at: "2026-11-23T20:54:44.665Z"
 status: "active"
 ---
 

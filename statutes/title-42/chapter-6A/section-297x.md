@@ -3,9 +3,9 @@ title: "Section 297x - Repealed. Pub. L. 116–136, div. A, title III, § 3404(a
 usc_title: 42
 usc_section: "297x"
 chapter: 6
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "42 U.S.C. § 297x"
-generated_at: "2026-11-23T20:53:43.776Z"
+generated_at: "2026-11-23T20:55:49.754Z"
 status: "repealed"
 ---
 

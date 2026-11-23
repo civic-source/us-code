@@ -3,9 +3,9 @@ title: "Section 8905a - Continued coverage"
 usc_title: 5
 usc_section: "8905a"
 chapter: 89
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "5 U.S.C. § 8905a"
-generated_at: "2026-11-23T20:52:31.833Z"
+generated_at: "2026-11-23T20:54:34.035Z"
 status: "active"
 ---
 

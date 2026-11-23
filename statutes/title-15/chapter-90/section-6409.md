@@ -3,9 +3,9 @@ title: "Section 6409 - Pricing"
 usc_title: 15
 usc_section: "6409"
 chapter: 90
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "15 U.S.C. § 6409"
-generated_at: "2026-11-23T20:52:53.042Z"
+generated_at: "2026-11-23T20:54:53.865Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9544 - Report on media organizations controlled and funded by th
 usc_title: 22
 usc_section: "9544"
 chapter: 102
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "22 U.S.C. § 9544"
-generated_at: "2026-11-23T20:53:10.795Z"
+generated_at: "2026-11-23T20:55:13.977Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 124 - Homeland Security Advisory System"
 usc_title: 6
 usc_section: "124"
 chapter: 1
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "6 U.S.C. § 124"
-generated_at: "2026-11-23T20:52:33.500Z"
+generated_at: "2026-11-23T20:54:39.453Z"
 status: "active"
 ---
 

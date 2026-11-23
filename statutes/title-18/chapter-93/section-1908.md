@@ -3,9 +3,9 @@ title: "Section 1908 - Repealed. Pub. L. 103–322, title XXXIII, § 330004(11) 
 usc_title: 18
 usc_section: "1908"
 chapter: 93
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "18 U.S.C. § 1908"
-generated_at: "2026-11-23T20:52:55.968Z"
+generated_at: "2026-11-23T20:54:58.638Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6324 - Special liens for estate and gift taxes"
 usc_title: 26
 usc_section: "6324"
 chapter: 64
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "26 U.S.C. § 6324"
-generated_at: "2026-11-23T20:53:19.546Z"
+generated_at: "2026-11-23T20:55:25.165Z"
 status: "active"
 ---
 

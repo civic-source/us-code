@@ -3,9 +3,9 @@ title: "Section 7502 - Timely mailing treated as timely filing and paying"
 usc_title: 26
 usc_section: "7502"
 chapter: 77
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "26 U.S.C. § 7502"
-generated_at: "2026-11-23T20:53:19.622Z"
+generated_at: "2026-11-23T20:55:25.247Z"
 status: "active"
 ---
 

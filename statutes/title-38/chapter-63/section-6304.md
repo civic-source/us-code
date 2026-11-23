@@ -3,9 +3,9 @@ title: "Section 6304 - Veterans assistance offices"
 usc_title: 38
 usc_section: "6304"
 chapter: 63
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "38 U.S.C. § 6304"
-generated_at: "2026-11-23T20:53:29.799Z"
+generated_at: "2026-11-23T20:55:34.463Z"
 status: "active"
 ---
 

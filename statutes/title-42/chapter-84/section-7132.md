@@ -3,9 +3,9 @@ title: "Section 7132 - Principal officers"
 usc_title: 42
 usc_section: "7132"
 chapter: 84
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "42 U.S.C. § 7132"
-generated_at: "2026-11-23T20:53:45.443Z"
+generated_at: "2026-11-23T20:55:51.534Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1136 - Assistance to passengers involved in aircraft accidents a
 usc_title: 49
 usc_section: "1136"
 chapter: 11
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "49 U.S.C. § 1136"
-generated_at: "2026-11-23T20:53:53.514Z"
+generated_at: "2026-11-23T20:55:59.301Z"
 status: "active"
 ---
 

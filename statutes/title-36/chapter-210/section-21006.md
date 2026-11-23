@@ -3,9 +3,9 @@ title: "Section 21006 - Powers"
 usc_title: 36
 usc_section: "21006"
 chapter: 210
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "36 U.S.C. § 21006"
-generated_at: "2026-11-23T20:53:27.618Z"
+generated_at: "2026-11-23T20:55:31.728Z"
 status: "active"
 ---
 

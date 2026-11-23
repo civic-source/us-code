@@ -3,9 +3,9 @@ title: "Section 4c - Transferred"
 usc_title: 50
 usc_section: "4c"
 chapter: 15
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "50 U.S.C. § 4c"
-generated_at: "2026-11-23T20:53:51.030Z"
+generated_at: "2026-11-23T20:55:56.891Z"
 status: "transferred"
 ---
 

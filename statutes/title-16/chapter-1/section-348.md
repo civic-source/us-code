@@ -3,9 +3,9 @@ title: "Section 348 - Entries under land laws not affected"
 usc_title: 16
 usc_section: "348"
 chapter: 1
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "16 U.S.C. § 348"
-generated_at: "2026-11-23T20:53:02.655Z"
+generated_at: "2026-11-23T20:55:04.269Z"
 status: "active"
 ---
 

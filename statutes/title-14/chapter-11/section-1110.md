@@ -3,9 +3,9 @@ title: "Section 1110 - Elevation of disputes to the Chief Acquisition Officer"
 usc_title: 14
 usc_section: "1110"
 chapter: 11
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "14 U.S.C. § 1110"
-generated_at: "2026-11-23T20:52:46.211Z"
+generated_at: "2026-11-23T20:54:47.213Z"
 status: "active"
 ---
 

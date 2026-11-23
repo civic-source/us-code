@@ -3,9 +3,9 @@ title: "Section 527 - Use of Forest Service funds for administration of certain 
 usc_title: 16
 usc_section: "527"
 chapter: 2
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "16 U.S.C. § 527"
-generated_at: "2026-11-23T20:53:02.928Z"
+generated_at: "2026-11-23T20:55:04.643Z"
 status: "active"
 ---
 

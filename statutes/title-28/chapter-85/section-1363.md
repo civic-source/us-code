@@ -3,9 +3,9 @@ title: "Section 1363 - Jurors’ employment rights"
 usc_title: 28
 usc_section: "1363"
 chapter: 85
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "28 U.S.C. § 1363"
-generated_at: "2026-11-23T20:53:13.307Z"
+generated_at: "2026-11-23T20:55:17.073Z"
 status: "active"
 ---
 

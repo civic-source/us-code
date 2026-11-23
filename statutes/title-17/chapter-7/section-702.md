@@ -3,9 +3,9 @@ title: "Section 702 - Copyright Office regulations"
 usc_title: 17
 usc_section: "702"
 chapter: 7
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "17 U.S.C. § 702"
-generated_at: "2026-11-23T20:52:54.551Z"
+generated_at: "2026-11-23T20:54:55.476Z"
 status: "active"
 ---
 

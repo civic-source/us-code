@@ -3,9 +3,9 @@ title: "Section 7825 - Department staff"
 usc_title: 20
 usc_section: "7825"
 chapter: 70
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "20 U.S.C. § 7825"
-generated_at: "2026-11-23T20:52:59.905Z"
+generated_at: "2026-11-23T20:55:00.983Z"
 status: "active"
 ---
 

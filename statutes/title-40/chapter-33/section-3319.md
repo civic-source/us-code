@@ -3,9 +3,9 @@ title: "Section 3319 - Interagency space coordination"
 usc_title: 40
 usc_section: "3319"
 chapter: 33
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "40 U.S.C. § 3319"
-generated_at: "2026-11-23T20:53:26.631Z"
+generated_at: "2026-11-23T20:55:32.540Z"
 status: "active"
 ---
 

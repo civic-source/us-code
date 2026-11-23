@@ -3,9 +3,9 @@ title: "Section 1125 - False designations of origin, false descriptions, and dil
 usc_title: 15
 usc_section: "1125"
 chapter: 22
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "15 U.S.C. § 1125"
-generated_at: "2026-11-23T20:52:52.719Z"
+generated_at: "2026-11-23T20:54:53.588Z"
 status: "active"
 ---
 

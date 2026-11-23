@@ -3,9 +3,9 @@ title: "Section 1395uu - Payments to promote closing or conversion of underutili
 usc_title: 42
 usc_section: "1395uu"
 chapter: 7
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "42 U.S.C. § 1395uu"
-generated_at: "2026-11-23T20:53:44.433Z"
+generated_at: "2026-11-23T20:55:50.411Z"
 status: "active"
 ---
 

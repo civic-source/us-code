@@ -3,9 +3,9 @@ title: "Section 2046 - Disclaimers"
 usc_title: 26
 usc_section: "2046"
 chapter: 11
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "26 U.S.C. § 2046"
-generated_at: "2026-11-23T20:53:19.341Z"
+generated_at: "2026-11-23T20:55:24.931Z"
 status: "active"
 ---
 

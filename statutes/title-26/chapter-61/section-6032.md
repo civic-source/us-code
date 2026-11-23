@@ -3,9 +3,9 @@ title: "Section 6032 - Returns of banks with respect to common trust funds"
 usc_title: 26
 usc_section: "6032"
 chapter: 61
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "26 U.S.C. § 6032"
-generated_at: "2026-11-23T20:53:19.495Z"
+generated_at: "2026-11-23T20:55:25.111Z"
 status: "active"
 ---
 

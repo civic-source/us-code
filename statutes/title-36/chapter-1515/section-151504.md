@@ -3,9 +3,9 @@ title: "Section 151504 - Membership"
 usc_title: 36
 usc_section: "151504"
 chapter: 1515
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "36 U.S.C. § 151504"
-generated_at: "2026-11-23T20:53:27.731Z"
+generated_at: "2026-11-23T20:55:31.814Z"
 status: "active"
 ---
 

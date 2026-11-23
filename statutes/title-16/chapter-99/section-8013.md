@@ -3,9 +3,9 @@ title: "Section 8013 - Assistance by Federal agencies to improve law enforcement
 usc_title: 16
 usc_section: "8013"
 chapter: 99
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "16 U.S.C. § 8013"
-generated_at: "2026-11-23T20:53:03.392Z"
+generated_at: "2026-11-23T20:55:05.176Z"
 status: "active"
 ---
 

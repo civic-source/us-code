@@ -3,9 +3,9 @@ title: "Section 312c - Special pay: nuclear career annual incentive bonus"
 usc_title: 37
 usc_section: "312c"
 chapter: 5
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "37 U.S.C. § 312c"
-generated_at: "2026-11-23T20:53:26.199Z"
+generated_at: "2026-11-23T20:55:31.213Z"
 status: "active"
 ---
 

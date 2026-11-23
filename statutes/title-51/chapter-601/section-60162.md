@@ -3,9 +3,9 @@ title: "Section 60162 - Future considerations"
 usc_title: 51
 usc_section: "60162"
 chapter: 601
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "51 U.S.C. § 60162"
-generated_at: "2026-11-23T20:53:55.651Z"
+generated_at: "2026-11-23T20:56:01.491Z"
 status: "active"
 ---
 

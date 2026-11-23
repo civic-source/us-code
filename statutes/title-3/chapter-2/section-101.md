@@ -3,9 +3,9 @@ title: "Section 101 - Commencement of term of office"
 usc_title: 3
 usc_section: "101"
 chapter: 2
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "3 U.S.C. § 101"
-generated_at: "2026-11-23T20:52:29.039Z"
+generated_at: "2026-11-23T20:54:31.390Z"
 status: "active"
 ---
 

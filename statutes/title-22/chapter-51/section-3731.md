@@ -3,9 +3,9 @@ title: "Section 3731 - Reimbursements"
 usc_title: 22
 usc_section: "3731"
 chapter: 51
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "22 U.S.C. § 3731"
-generated_at: "2026-11-23T20:53:10.606Z"
+generated_at: "2026-11-23T20:55:13.636Z"
 status: "active"
 ---
 

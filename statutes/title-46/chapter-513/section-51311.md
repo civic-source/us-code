@@ -3,9 +3,9 @@ title: "Section 51311 - Midshipman status in the Navy Reserve"
 usc_title: 46
 usc_section: "51311"
 chapter: 513
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "46 U.S.C. § 51311"
-generated_at: "2026-11-23T20:53:49.793Z"
+generated_at: "2026-11-23T20:55:55.926Z"
 status: "active"
 ---
 

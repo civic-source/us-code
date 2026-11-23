@@ -3,9 +3,9 @@ title: "Section 1454 - Guard bands and unlicensed use"
 usc_title: 47
 usc_section: "1454"
 chapter: 13
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "47 U.S.C. § 1454"
-generated_at: "2026-11-23T20:53:48.697Z"
+generated_at: "2026-11-23T20:55:54.675Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 864 - Art. 64. Judge advocate review of finding of guilty in sum
 usc_title: 10
 usc_section: "864"
 chapter: 47
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "10 U.S.C. § 864"
-generated_at: "2026-11-23T20:52:43.837Z"
+generated_at: "2026-11-23T20:54:44.433Z"
 status: "active"
 ---
 

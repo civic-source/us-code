@@ -3,9 +3,9 @@ title: "Section 630 - Disposition by Government of proceeds of land sold"
 usc_title: 43
 usc_section: "630"
 chapter: 13
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "43 U.S.C. § 630"
-generated_at: "2026-11-23T20:53:33.210Z"
+generated_at: "2026-11-23T20:55:37.739Z"
 status: "active"
 ---
 

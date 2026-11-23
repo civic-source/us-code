@@ -3,9 +3,9 @@ title: "Section 632 - Definitions"
 usc_title: 15
 usc_section: "632"
 chapter: 14
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "15 U.S.C. § 632"
-generated_at: "2026-11-23T20:52:52.520Z"
+generated_at: "2026-11-23T20:54:53.433Z"
 status: "active"
 ---
 

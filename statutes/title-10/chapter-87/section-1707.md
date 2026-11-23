@@ -3,9 +3,9 @@ title: "Section 1707 - Cadre of intellectual property experts"
 usc_title: 10
 usc_section: "1707"
 chapter: 87
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "10 U.S.C. § 1707"
-generated_at: "2026-11-23T20:52:44.015Z"
+generated_at: "2026-11-23T20:54:44.653Z"
 status: "active"
 ---
 

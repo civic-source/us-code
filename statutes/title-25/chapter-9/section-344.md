@@ -3,9 +3,9 @@ title: "Section 344 - Cancellation of allotment of unsuitable land"
 usc_title: 25
 usc_section: "344"
 chapter: 9
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "25 U.S.C. § 344"
-generated_at: "2026-11-23T20:53:05.868Z"
+generated_at: "2026-11-23T20:55:08.383Z"
 status: "active"
 ---
 

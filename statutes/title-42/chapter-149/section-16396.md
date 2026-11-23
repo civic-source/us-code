@@ -3,9 +3,9 @@ title: "Section 16396 - Prizes for achievement in grand challenges of science an
 usc_title: 42
 usc_section: "16396"
 chapter: 149
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "42 U.S.C. § 16396"
-generated_at: "2026-11-23T20:53:46.122Z"
+generated_at: "2026-11-23T20:55:52.049Z"
 status: "active"
 ---
 

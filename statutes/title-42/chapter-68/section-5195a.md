@@ -3,9 +3,9 @@ title: "Section 5195a - Definitions"
 usc_title: 42
 usc_section: "5195a"
 chapter: 68
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "42 U.S.C. § 5195a"
-generated_at: "2026-11-23T20:53:45.228Z"
+generated_at: "2026-11-23T20:55:51.304Z"
 status: "active"
 ---
 

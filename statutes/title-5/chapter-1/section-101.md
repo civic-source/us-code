@@ -3,9 +3,9 @@ title: "Section 101 - Executive departments"
 usc_title: 5
 usc_section: "101"
 chapter: 1
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "5 U.S.C. § 101"
-generated_at: "2026-11-23T20:52:31.460Z"
+generated_at: "2026-11-23T20:54:33.703Z"
 status: "active"
 ---
 

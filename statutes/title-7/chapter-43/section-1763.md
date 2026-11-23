@@ -3,9 +3,9 @@ title: "Section 1763 - Transferred"
 usc_title: 7
 usc_section: "1763"
 chapter: 43
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "7 U.S.C. § 1763"
-generated_at: "2026-11-23T20:52:37.236Z"
+generated_at: "2026-11-23T20:54:38.577Z"
 status: "transferred"
 ---
 

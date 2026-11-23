@@ -3,9 +3,9 @@ title: "Section 8413 - Aviation cadets: appointment as reserve officers"
 usc_title: 10
 usc_section: "8413"
 chapter: 851
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "10 U.S.C. § 8413"
-generated_at: "2026-11-23T20:52:44.398Z"
+generated_at: "2026-11-23T20:54:45.158Z"
 status: "active"
 ---
 

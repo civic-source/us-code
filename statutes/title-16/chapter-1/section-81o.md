@@ -3,9 +3,9 @@ title: "Section 81o - Transfer of administrative jurisdiction over land"
 usc_title: 16
 usc_section: "81o"
 chapter: 1
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "16 U.S.C. § 81o"
-generated_at: "2026-11-23T20:53:02.623Z"
+generated_at: "2026-11-23T20:55:04.213Z"
 status: "active"
 ---
 

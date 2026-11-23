@@ -3,9 +3,9 @@ title: "Section 70204 - Multi-State freight corridor planning"
 usc_title: 49
 usc_section: "70204"
 chapter: 702
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "49 U.S.C. § 70204"
-generated_at: "2026-11-23T20:53:53.943Z"
+generated_at: "2026-11-23T20:55:59.769Z"
 status: "active"
 ---
 

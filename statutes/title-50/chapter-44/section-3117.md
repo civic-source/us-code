@@ -3,9 +3,9 @@ title: "Section 3117 - Notice of counterintelligence assessments and investigati
 usc_title: 50
 usc_section: "3117"
 chapter: 44
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "50 U.S.C. § 3117"
-generated_at: "2026-11-23T20:53:51.132Z"
+generated_at: "2026-11-23T20:55:57.078Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 364a - Adverse events"
 usc_title: 21
 usc_section: "364a"
 chapter: 9
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "21 U.S.C. § 364a"
-generated_at: "2026-11-23T20:53:08.012Z"
+generated_at: "2026-11-23T20:55:09.993Z"
 status: "active"
 ---
 

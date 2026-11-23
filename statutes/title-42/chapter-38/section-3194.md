@@ -3,9 +3,9 @@ title: "Section 3194 - Administration, operation, and maintenance"
 usc_title: 42
 usc_section: "3194"
 chapter: 38
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "42 U.S.C. § 3194"
-generated_at: "2026-11-23T20:53:45.030Z"
+generated_at: "2026-11-23T20:55:51.113Z"
 status: "active"
 ---
 

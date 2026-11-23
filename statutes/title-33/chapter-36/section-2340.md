@@ -3,9 +3,9 @@ title: "Section 2340 - Revision of project partnership agreement; cost sharing"
 usc_title: 33
 usc_section: "2340"
 chapter: 36
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "33 U.S.C. § 2340"
-generated_at: "2026-11-23T20:53:24.288Z"
+generated_at: "2026-11-23T20:55:29.743Z"
 status: "active"
 ---
 

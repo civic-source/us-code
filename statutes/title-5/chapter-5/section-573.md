@@ -3,9 +3,9 @@ title: "Section 573 - Neutrals"
 usc_title: 5
 usc_section: "573"
 chapter: 5
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "5 U.S.C. § 573"
-generated_at: "2026-11-23T20:52:31.509Z"
+generated_at: "2026-11-23T20:54:33.732Z"
 status: "active"
 ---
 

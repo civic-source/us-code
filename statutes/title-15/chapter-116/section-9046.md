@@ -3,9 +3,9 @@ title: "Section 9046 - Suspension of certain aviation excise taxes"
 usc_title: 15
 usc_section: "9046"
 chapter: 116
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "15 U.S.C. § 9046"
-generated_at: "2026-11-23T20:52:53.121Z"
+generated_at: "2026-11-23T20:54:53.943Z"
 status: "active"
 ---
 

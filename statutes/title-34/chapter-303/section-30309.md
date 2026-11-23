@@ -3,9 +3,9 @@ title: "Section 30309 - Definitions"
 usc_title: 34
 usc_section: "30309"
 chapter: 303
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "34 U.S.C. § 30309"
-generated_at: "2026-11-23T20:53:22.234Z"
+generated_at: "2026-11-23T20:55:28.660Z"
 status: "active"
 ---
 

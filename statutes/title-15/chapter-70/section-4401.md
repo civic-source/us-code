@@ -3,9 +3,9 @@ title: "Section 4401 - Public education"
 usc_title: 15
 usc_section: "4401"
 chapter: 70
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "15 U.S.C. § 4401"
-generated_at: "2026-11-23T20:52:52.996Z"
+generated_at: "2026-11-23T20:54:53.832Z"
 status: "active"
 ---
 

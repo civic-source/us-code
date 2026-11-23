@@ -3,9 +3,9 @@ title: "Section 174A - Domestic research or experimental expenditures"
 usc_title: 26
 usc_section: "174A"
 chapter: 1
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "26 U.S.C. § 174A"
-generated_at: "2026-11-23T20:53:18.874Z"
+generated_at: "2026-11-23T20:55:24.446Z"
 status: "active"
 ---
 

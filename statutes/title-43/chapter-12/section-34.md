@@ -3,9 +3,9 @@ title: "Section 34 - North Bay Water Reuse Program"
 usc_title: 43
 usc_section: "34"
 chapter: 12
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "43 U.S.C. § 34"
-generated_at: "2026-11-23T20:53:33.161Z"
+generated_at: "2026-11-23T20:55:37.674Z"
 status: "active"
 ---
 

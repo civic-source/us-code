@@ -3,9 +3,9 @@ title: "Section 6801 - Authorization of appropriations"
 usc_title: 20
 usc_section: "6801"
 chapter: 70
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "20 U.S.C. § 6801"
-generated_at: "2026-11-23T20:52:59.869Z"
+generated_at: "2026-11-23T20:55:00.942Z"
 status: "active"
 ---
 

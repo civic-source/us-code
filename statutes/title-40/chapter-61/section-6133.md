@@ -3,9 +3,9 @@ title: "Section 6133 - Property in the Supreme Court Building and grounds"
 usc_title: 40
 usc_section: "6133"
 chapter: 61
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "40 U.S.C. § 6133"
-generated_at: "2026-11-23T20:53:26.638Z"
+generated_at: "2026-11-23T20:55:32.546Z"
 status: "active"
 ---
 

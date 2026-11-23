@@ -3,9 +3,9 @@ title: "Section 20128 - Agency and department coordination"
 usc_title: 34
 usc_section: "20128"
 chapter: 201
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "34 U.S.C. § 20128"
-generated_at: "2026-11-23T20:53:22.181Z"
+generated_at: "2026-11-23T20:55:28.610Z"
 status: "active"
 ---
 

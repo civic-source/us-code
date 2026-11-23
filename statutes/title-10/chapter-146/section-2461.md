@@ -3,9 +3,9 @@ title: "Section 2461 - Public-private competition required before conversion to 
 usc_title: 10
 usc_section: "2461"
 chapter: 146
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "10 U.S.C. § 2461"
-generated_at: "2026-11-23T20:52:44.111Z"
+generated_at: "2026-11-23T20:54:44.774Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 618g - Regulations; contracts; modification of allotments of ene
 usc_title: 43
 usc_section: "618g"
 chapter: 12
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "43 U.S.C. § 618g"
-generated_at: "2026-11-23T20:53:33.200Z"
+generated_at: "2026-11-23T20:55:37.722Z"
 status: "active"
 ---
 

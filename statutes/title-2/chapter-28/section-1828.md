@@ -3,9 +3,9 @@ title: "Section 1828 - Administration of public outreach and services for Capito
 usc_title: 2
 usc_section: "1828"
 chapter: 28
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "2 U.S.C. § 1828"
-generated_at: "2026-11-23T20:52:29.817Z"
+generated_at: "2026-11-23T20:54:32.127Z"
 status: "active"
 ---
 

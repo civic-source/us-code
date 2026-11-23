@@ -3,9 +3,9 @@ title: "Section 32915 - Appealing civil penalties"
 usc_title: 49
 usc_section: "32915"
 chapter: 329
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "49 U.S.C. § 32915"
-generated_at: "2026-11-23T20:53:53.733Z"
+generated_at: "2026-11-23T20:55:59.544Z"
 status: "active"
 ---
 

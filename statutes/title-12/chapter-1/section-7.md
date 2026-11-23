@@ -3,9 +3,9 @@ title: "Section 7 - Chief of examining division"
 usc_title: 12
 usc_section: "7"
 chapter: 1
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "12 U.S.C. § 7"
-generated_at: "2026-11-23T20:52:48.785Z"
+generated_at: "2026-11-23T20:54:49.872Z"
 status: "active"
 ---
 

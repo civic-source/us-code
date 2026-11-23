@@ -3,9 +3,9 @@ title: "Section 9916 - Fiscal controls, audits, and withholding"
 usc_title: 42
 usc_section: "9916"
 chapter: 106
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "42 U.S.C. § 9916"
-generated_at: "2026-11-23T20:53:45.791Z"
+generated_at: "2026-11-23T20:55:51.787Z"
 status: "active"
 ---
 

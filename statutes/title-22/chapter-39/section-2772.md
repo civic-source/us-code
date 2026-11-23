@@ -3,9 +3,9 @@ title: "Section 2772 - Repealed. Pub. L. 102–429, title I, § 112(e) , Oct. 21
 usc_title: 22
 usc_section: "2772"
 chapter: 39
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "22 U.S.C. § 2772"
-generated_at: "2026-11-23T20:53:10.572Z"
+generated_at: "2026-11-23T20:55:13.586Z"
 status: "repealed"
 ---
 

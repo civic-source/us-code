@@ -3,9 +3,9 @@ title: "Section 1906 - Participation in Federal, State, or other educational res
 usc_title: 14
 usc_section: "1906"
 chapter: 19
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "14 U.S.C. § 1906"
-generated_at: "2026-11-23T20:52:46.217Z"
+generated_at: "2026-11-23T20:54:47.218Z"
 status: "active"
 ---
 

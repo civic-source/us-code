@@ -3,9 +3,9 @@ title: "Section 2393 - Renumbered § 4654]"
 usc_title: 10
 usc_section: "2393"
 chapter: 141
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "10 U.S.C. § 2393"
-generated_at: "2026-11-23T20:52:44.106Z"
+generated_at: "2026-11-23T20:54:44.765Z"
 status: "renumbered"
 ---
 

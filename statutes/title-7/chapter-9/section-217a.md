@@ -3,9 +3,9 @@ title: "Section 217a - Fees for inspection of brands or marks"
 usc_title: 7
 usc_section: "217a"
 chapter: 9
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "7 U.S.C. § 217a"
-generated_at: "2026-11-23T20:52:36.965Z"
+generated_at: "2026-11-23T20:54:38.305Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 617m - Reclamation law applicable"
 usc_title: 43
 usc_section: "617m"
 chapter: 12
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "43 U.S.C. § 617m"
-generated_at: "2026-11-23T20:53:33.198Z"
+generated_at: "2026-11-23T20:55:37.720Z"
 status: "active"
 ---
 

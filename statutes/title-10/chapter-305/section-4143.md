@@ -3,9 +3,9 @@ title: "Section 4143 - Research and development laboratories: contracts for serv
 usc_title: 10
 usc_section: "4143"
 chapter: 305
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "10 U.S.C. § 4143"
-generated_at: "2026-11-23T20:52:44.256Z"
+generated_at: "2026-11-23T20:54:44.993Z"
 status: "active"
 ---
 

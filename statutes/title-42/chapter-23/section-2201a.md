@@ -3,9 +3,9 @@ title: "Section 2201a - Use of firearms by security personnel"
 usc_title: 42
 usc_section: "2201a"
 chapter: 23
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "42 U.S.C. § 2201a"
-generated_at: "2026-11-23T20:53:44.886Z"
+generated_at: "2026-11-23T20:55:50.992Z"
 status: "active"
 ---
 

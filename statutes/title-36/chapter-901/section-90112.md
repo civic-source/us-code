@@ -3,9 +3,9 @@ title: "Section 90112 - Annual report"
 usc_title: 36
 usc_section: "90112"
 chapter: 901
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "36 U.S.C. § 90112"
-generated_at: "2026-11-23T20:53:27.688Z"
+generated_at: "2026-11-23T20:55:31.785Z"
 status: "active"
 ---
 

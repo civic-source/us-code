@@ -3,9 +3,9 @@ title: "Section 210106 - Restrictions"
 usc_title: 36
 usc_section: "210106"
 chapter: 2101
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "36 U.S.C. § 210106"
-generated_at: "2026-11-23T20:53:27.795Z"
+generated_at: "2026-11-23T20:55:31.862Z"
 status: "active"
 ---
 

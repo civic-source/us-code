@@ -3,9 +3,9 @@ title: "Section 6 - Supervisory actions applicable to level III"
 usc_title: 12
 usc_section: "6"
 chapter: 23
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "12 U.S.C. § 6"
-generated_at: "2026-11-23T20:52:49.278Z"
+generated_at: "2026-11-23T20:54:50.440Z"
 status: "active"
 ---
 

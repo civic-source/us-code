@@ -3,9 +3,9 @@ title: "Section 4014 - Coordination and communication of defense research activi
 usc_title: 10
 usc_section: "4014"
 chapter: 301
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "10 U.S.C. § 4014"
-generated_at: "2026-11-23T20:52:44.248Z"
+generated_at: "2026-11-23T20:54:44.978Z"
 status: "active"
 ---
 

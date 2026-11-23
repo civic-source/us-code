@@ -3,9 +3,9 @@ title: "Section 2155 - Omitted"
 usc_title: 7
 usc_section: "2155"
 chapter: 54
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "7 U.S.C. § 2155"
-generated_at: "2026-11-23T20:52:37.366Z"
+generated_at: "2026-11-23T20:54:38.700Z"
 status: "omitted"
 ---
 

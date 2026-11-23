@@ -3,9 +3,9 @@ title: "Section 4206 - Treatment of certain trade agreements for which negotiati
 usc_title: 19
 usc_section: "4206"
 chapter: 27
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "19 U.S.C. § 4206"
-generated_at: "2026-11-23T20:52:57.668Z"
+generated_at: "2026-11-23T20:54:57.294Z"
 status: "active"
 ---
 

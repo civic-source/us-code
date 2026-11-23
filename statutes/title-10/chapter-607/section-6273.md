@@ -3,9 +3,9 @@ title: "Section 6273 - Minor construction projects"
 usc_title: 10
 usc_section: "6273"
 chapter: 607
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "10 U.S.C. § 6273"
-generated_at: "2026-11-23T20:52:44.315Z"
+generated_at: "2026-11-23T20:54:45.069Z"
 status: "active"
 ---
 

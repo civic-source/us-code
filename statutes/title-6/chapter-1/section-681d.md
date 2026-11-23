@@ -3,9 +3,9 @@ title: "Section 681d - Noncompliance with required reporting"
 usc_title: 6
 usc_section: "681d"
 chapter: 1
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "6 U.S.C. § 681d"
-generated_at: "2026-11-23T20:52:33.601Z"
+generated_at: "2026-11-23T20:54:39.589Z"
 status: "active"
 ---
 

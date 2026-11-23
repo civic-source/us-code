@@ -3,9 +3,9 @@ title: "Section 6120 - Requirements for specific request for new or modified nuc
 usc_title: 10
 usc_section: "6120"
 chapter: 602
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "10 U.S.C. § 6120"
-generated_at: "2026-11-23T20:52:44.303Z"
+generated_at: "2026-11-23T20:54:45.054Z"
 status: "active"
 ---
 

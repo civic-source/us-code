@@ -3,9 +3,9 @@ title: "Section 395 - Federal reserve banks as depositaries, custodians and fisc
 usc_title: 12
 usc_section: "395"
 chapter: 3
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "12 U.S.C. § 395"
-generated_at: "2026-11-23T20:52:48.858Z"
+generated_at: "2026-11-23T20:54:49.932Z"
 status: "active"
 ---
 

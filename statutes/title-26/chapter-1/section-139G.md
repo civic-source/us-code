@@ -3,9 +3,9 @@ title: "Section 139G - Assignments to Alaska Native Settlement Trusts"
 usc_title: 26
 usc_section: "139G"
 chapter: 1
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "26 U.S.C. § 139G"
-generated_at: "2026-11-23T20:53:18.790Z"
+generated_at: "2026-11-23T20:55:24.389Z"
 status: "active"
 ---
 

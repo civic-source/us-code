@@ -3,9 +3,9 @@ title: "Section 70907 - Exclusive right to name, 1 1 So in original. Probably sh
 usc_title: 36
 usc_section: "70907"
 chapter: 709
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "36 U.S.C. § 70907"
-generated_at: "2026-11-23T20:53:27.680Z"
+generated_at: "2026-11-23T20:55:31.778Z"
 status: "active"
 ---
 

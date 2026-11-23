@@ -3,9 +3,9 @@ title: "Section 661 - Appropriation of waters on public lands; rights of way for
 usc_title: 43
 usc_section: "661"
 chapter: 15
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "43 U.S.C. § 661"
-generated_at: "2026-11-23T20:53:33.210Z"
+generated_at: "2026-11-23T20:55:37.741Z"
 status: "active"
 ---
 

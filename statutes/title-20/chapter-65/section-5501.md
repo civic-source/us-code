@@ -3,9 +3,9 @@ title: "Section 5501 - Findings and policy"
 usc_title: 20
 usc_section: "5501"
 chapter: 65
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "20 U.S.C. § 5501"
-generated_at: "2026-11-23T20:52:59.829Z"
+generated_at: "2026-11-23T20:55:00.904Z"
 status: "active"
 ---
 

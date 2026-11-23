@@ -3,9 +3,9 @@ title: "Section 921 - Defense dependents’ education system"
 usc_title: 20
 usc_section: "921"
 chapter: 25
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "20 U.S.C. § 921"
-generated_at: "2026-11-23T20:52:59.479Z"
+generated_at: "2026-11-23T20:55:00.606Z"
 status: "active"
 ---
 

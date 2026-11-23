@@ -3,9 +3,9 @@ title: "Section 14 - Repealed. Pub. L. 105–33, title VI, § 6201 , Aug. 5, 199
 usc_title: 20
 usc_section: "14"
 chapter: 2
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "20 U.S.C. § 14"
-generated_at: "2026-11-23T20:52:59.445Z"
+generated_at: "2026-11-23T20:55:00.562Z"
 status: "repealed"
 ---
 

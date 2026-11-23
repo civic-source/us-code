@@ -3,9 +3,9 @@ title: "Section 5006 - Lien on compensation of contractor"
 usc_title: 39
 usc_section: "5006"
 chapter: 50
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "39 U.S.C. § 5006"
-generated_at: "2026-11-23T20:53:25.855Z"
+generated_at: "2026-11-23T20:55:32.041Z"
 status: "active"
 ---
 

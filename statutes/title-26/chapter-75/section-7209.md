@@ -3,9 +3,9 @@ title: "Section 7209 - Unauthorized use or sale of stamps"
 usc_title: 26
 usc_section: "7209"
 chapter: 75
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "26 U.S.C. § 7209"
-generated_at: "2026-11-23T20:53:19.604Z"
+generated_at: "2026-11-23T20:55:25.223Z"
 status: "active"
 ---
 

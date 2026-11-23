@@ -3,9 +3,9 @@ title: "Section 280m - Young women’s breast health awareness and support of yo
 usc_title: 42
 usc_section: "280m"
 chapter: 6
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "42 U.S.C. § 280m"
-generated_at: "2026-11-23T20:53:43.579Z"
+generated_at: "2026-11-23T20:55:49.622Z"
 status: "active"
 ---
 

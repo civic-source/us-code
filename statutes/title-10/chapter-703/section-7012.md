@@ -3,9 +3,9 @@ title: "Section 7012 - Department of the Army: seal"
 usc_title: 10
 usc_section: "7012"
 chapter: 703
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "10 U.S.C. § 7012"
-generated_at: "2026-11-23T20:52:44.321Z"
+generated_at: "2026-11-23T20:54:45.075Z"
 status: "active"
 ---
 

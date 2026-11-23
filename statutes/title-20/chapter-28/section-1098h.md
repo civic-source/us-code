@@ -3,9 +3,9 @@ title: "Section 1098h - Procedure and requirements for requesting tax return inf
 usc_title: 20
 usc_section: "1098h"
 chapter: 28
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "20 U.S.C. § 1098h"
-generated_at: "2026-11-23T20:52:59.701Z"
+generated_at: "2026-11-23T20:55:00.755Z"
 status: "active"
 ---
 

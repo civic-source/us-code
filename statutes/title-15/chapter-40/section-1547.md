@@ -3,9 +3,9 @@ title: "Section 1547 - Rules and regulations; employees"
 usc_title: 15
 usc_section: "1547"
 chapter: 40
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "15 U.S.C. § 1547"
-generated_at: "2026-11-23T20:52:52.768Z"
+generated_at: "2026-11-23T20:54:53.622Z"
 status: "active"
 ---
 

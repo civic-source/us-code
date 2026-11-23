@@ -3,9 +3,9 @@ title: "Section 461 - Reserve requirements"
 usc_title: 12
 usc_section: "461"
 chapter: 3
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "12 U.S.C. § 461"
-generated_at: "2026-11-23T20:52:48.861Z"
+generated_at: "2026-11-23T20:54:49.935Z"
 status: "active"
 ---
 

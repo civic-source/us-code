@@ -3,9 +3,9 @@ title: "Section 9501 - Black Lung Disability Trust Fund"
 usc_title: 26
 usc_section: "9501"
 chapter: 98
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "26 U.S.C. § 9501"
-generated_at: "2026-11-23T20:53:19.660Z"
+generated_at: "2026-11-23T20:55:25.287Z"
 status: "active"
 ---
 

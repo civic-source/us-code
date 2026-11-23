@@ -3,9 +3,9 @@ title: "Section 9034 - Funding for fraud prevention, equitable access, and timel
 usc_title: 15
 usc_section: "9034"
 chapter: 116
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "15 U.S.C. § 9034"
-generated_at: "2026-11-23T20:52:53.120Z"
+generated_at: "2026-11-23T20:54:53.942Z"
 status: "active"
 ---
 

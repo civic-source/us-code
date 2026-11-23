@@ -3,9 +3,9 @@ title: "Section 20331 - Findings and purpose"
 usc_title: 34
 usc_section: "20331"
 chapter: 203
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "34 U.S.C. § 20331"
-generated_at: "2026-11-23T20:53:22.191Z"
+generated_at: "2026-11-23T20:55:28.620Z"
 status: "active"
 ---
 

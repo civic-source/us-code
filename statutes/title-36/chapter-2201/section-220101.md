@@ -3,9 +3,9 @@ title: "Section 220101 - Organization"
 usc_title: 36
 usc_section: "220101"
 chapter: 2201
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "36 U.S.C. § 220101"
-generated_at: "2026-11-23T20:53:27.798Z"
+generated_at: "2026-11-23T20:55:31.863Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 11102 - Purposes"
 usc_title: 34
 usc_section: "11102"
 chapter: 111
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "34 U.S.C. § 11102"
-generated_at: "2026-11-23T20:53:22.107Z"
+generated_at: "2026-11-23T20:55:28.523Z"
 status: "active"
 ---
 

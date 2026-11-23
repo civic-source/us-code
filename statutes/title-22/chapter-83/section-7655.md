@@ -3,9 +3,9 @@ title: "Section 7655 - Pilot program on family survival partnerships"
 usc_title: 22
 usc_section: "7655"
 chapter: 83
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "22 U.S.C. § 7655"
-generated_at: "2026-11-23T20:53:10.741Z"
+generated_at: "2026-11-23T20:55:13.862Z"
 status: "active"
 ---
 

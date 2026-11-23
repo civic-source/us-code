@@ -3,9 +3,9 @@ title: "Section 5501 - Purpose"
 usc_title: 16
 usc_section: "5501"
 chapter: 75
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "16 U.S.C. § 5501"
-generated_at: "2026-11-23T20:53:03.345Z"
+generated_at: "2026-11-23T20:55:05.127Z"
 status: "active"
 ---
 

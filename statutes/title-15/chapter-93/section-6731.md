@@ -3,9 +3,9 @@ title: "Section 6731 - General application"
 usc_title: 15
 usc_section: "6731"
 chapter: 93
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "15 U.S.C. § 6731"
-generated_at: "2026-11-23T20:52:53.052Z"
+generated_at: "2026-11-23T20:54:53.872Z"
 status: "active"
 ---
 

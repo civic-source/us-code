@@ -3,9 +3,9 @@ title: "Section 130c - Nondisclosure of information: certain sensitive informati
 usc_title: 10
 usc_section: "130c"
 chapter: 3
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "10 U.S.C. § 130c"
-generated_at: "2026-11-23T20:52:43.655Z"
+generated_at: "2026-11-23T20:54:44.261Z"
 status: "active"
 ---
 

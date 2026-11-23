@@ -3,9 +3,9 @@ title: "Section 601 - Repealed. Pub. L. 103–272, § 7(b) , July 5, 1994 , 108 
 usc_title: 45
 usc_section: "601"
 chapter: 14
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "45 U.S.C. § 601"
-generated_at: "2026-11-23T20:53:31.523Z"
+generated_at: "2026-11-23T20:55:38.410Z"
 status: "repealed"
 ---
 

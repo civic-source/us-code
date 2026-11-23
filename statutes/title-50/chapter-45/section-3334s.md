@@ -3,9 +3,9 @@ title: "Section 3334s - Programs for next-generation microelectronics in support
 usc_title: 50
 usc_section: "3334s"
 chapter: 45
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "50 U.S.C. § 3334s"
-generated_at: "2026-11-23T20:53:51.159Z"
+generated_at: "2026-11-23T20:55:57.110Z"
 status: "active"
 ---
 

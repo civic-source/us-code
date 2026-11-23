@@ -3,9 +3,9 @@ title: "Section 18971 - Expanding opportunities through the Manufacturing USA Pr
 usc_title: 42
 usc_section: "18971"
 chapter: 163
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "42 U.S.C. § 18971"
-generated_at: "2026-11-23T20:53:46.263Z"
+generated_at: "2026-11-23T20:55:52.152Z"
 status: "active"
 ---
 

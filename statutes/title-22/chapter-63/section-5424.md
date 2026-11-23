@@ -3,9 +3,9 @@ title: "Section 5424 - Peace Corps programs in Poland and Hungary"
 usc_title: 22
 usc_section: "5424"
 chapter: 63
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "22 U.S.C. § 5424"
-generated_at: "2026-11-23T20:53:10.667Z"
+generated_at: "2026-11-23T20:55:13.719Z"
 status: "active"
 ---
 

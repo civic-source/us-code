@@ -3,9 +3,9 @@ title: "Section 926 - Rules and regulations"
 usc_title: 18
 usc_section: "926"
 chapter: 44
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "18 U.S.C. § 926"
-generated_at: "2026-11-23T20:52:55.914Z"
+generated_at: "2026-11-23T20:54:58.576Z"
 status: "active"
 ---
 

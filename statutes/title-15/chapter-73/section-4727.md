@@ -3,9 +3,9 @@ title: "Section 4727 - Trade Promotion Coordinating Committee"
 usc_title: 15
 usc_section: "4727"
 chapter: 73
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "15 U.S.C. § 4727"
-generated_at: "2026-11-23T20:52:53.012Z"
+generated_at: "2026-11-23T20:54:53.844Z"
 status: "active"
 ---
 

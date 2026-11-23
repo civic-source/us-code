@@ -3,9 +3,9 @@ title: "Section 1522 - Advanced internal defenses"
 usc_title: 6
 usc_section: "1522"
 chapter: 6
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "6 U.S.C. § 1522"
-generated_at: "2026-11-23T20:52:33.640Z"
+generated_at: "2026-11-23T20:54:39.641Z"
 status: "active"
 ---
 

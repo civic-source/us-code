@@ -3,9 +3,9 @@ title: "Section 1307 - Disposition of securities"
 usc_title: 40
 usc_section: "1307"
 chapter: 13
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "40 U.S.C. § 1307"
-generated_at: "2026-11-23T20:53:26.618Z"
+generated_at: "2026-11-23T20:55:32.529Z"
 status: "active"
 ---
 

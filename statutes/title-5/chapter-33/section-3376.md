@@ -3,9 +3,9 @@ title: "Section 3376 - Regulations"
 usc_title: 5
 usc_section: "3376"
 chapter: 33
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "5 U.S.C. § 3376"
-generated_at: "2026-11-23T20:52:31.570Z"
+generated_at: "2026-11-23T20:54:33.784Z"
 status: "active"
 ---
 

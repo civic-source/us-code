@@ -3,9 +3,9 @@ title: "Section 541 - Tax on circulating notes generally"
 usc_title: 12
 usc_section: "541"
 chapter: 4
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "12 U.S.C. § 541"
-generated_at: "2026-11-23T20:52:48.868Z"
+generated_at: "2026-11-23T20:54:49.941Z"
 status: "active"
 ---
 

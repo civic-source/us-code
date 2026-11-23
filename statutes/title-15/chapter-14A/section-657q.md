@@ -3,9 +3,9 @@ title: "Section 657q - Consolidation of contract requirements"
 usc_title: 15
 usc_section: "657q"
 chapter: 14
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "15 U.S.C. § 657q"
-generated_at: "2026-11-23T20:52:52.627Z"
+generated_at: "2026-11-23T20:54:53.532Z"
 status: "active"
 ---
 

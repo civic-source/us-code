@@ -3,9 +3,9 @@ title: "Section 83 - Arkansas"
 usc_title: 28
 usc_section: "83"
 chapter: 5
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "28 U.S.C. § 83"
-generated_at: "2026-11-23T20:53:13.231Z"
+generated_at: "2026-11-23T20:55:16.934Z"
 status: "active"
 ---
 

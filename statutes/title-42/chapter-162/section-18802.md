@@ -3,9 +3,9 @@ title: "Section 18802 - Career skills training"
 usc_title: 42
 usc_section: "18802"
 chapter: 162
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "42 U.S.C. § 18802"
-generated_at: "2026-11-23T20:53:46.257Z"
+generated_at: "2026-11-23T20:55:52.146Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6307e - Required disclosures for promoters"
 usc_title: 15
 usc_section: "6307e"
 chapter: 89
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "15 U.S.C. § 6307e"
-generated_at: "2026-11-23T20:52:53.039Z"
+generated_at: "2026-11-23T20:54:53.863Z"
 status: "active"
 ---
 

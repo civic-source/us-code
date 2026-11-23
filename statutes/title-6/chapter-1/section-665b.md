@@ -3,9 +3,9 @@ title: "Section 665b - Joint cyber planning office"
 usc_title: 6
 usc_section: "665b"
 chapter: 1
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "6 U.S.C. § 665b"
-generated_at: "2026-11-23T20:52:33.593Z"
+generated_at: "2026-11-23T20:54:39.577Z"
 status: "active"
 ---
 

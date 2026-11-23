@@ -3,9 +3,9 @@ title: "Section 7330C - Quadrennial Veterans Health Administration review"
 usc_title: 38
 usc_section: "7330C"
 chapter: 73
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "38 U.S.C. § 7330C"
-generated_at: "2026-11-23T20:53:29.822Z"
+generated_at: "2026-11-23T20:55:34.484Z"
 status: "active"
 ---
 

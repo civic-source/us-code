@@ -3,9 +3,9 @@ title: "Section 4509 - Longevity compensation not applicable to individuals paid
 usc_title: 2
 usc_section: "4509"
 chapter: 45
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "2 U.S.C. § 4509"
-generated_at: "2026-11-23T20:52:29.858Z"
+generated_at: "2026-11-23T20:54:32.161Z"
 status: "active"
 ---
 

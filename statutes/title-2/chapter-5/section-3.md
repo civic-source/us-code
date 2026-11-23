@@ -3,9 +3,9 @@ title: "Section 3 - Authority to transfer amounts between categories of appropri
 usc_title: 2
 usc_section: "3"
 chapter: 5
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "2 U.S.C. § 3"
-generated_at: "2026-11-23T20:52:29.731Z"
+generated_at: "2026-11-23T20:54:32.045Z"
 status: "active"
 ---
 

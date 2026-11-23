@@ -3,9 +3,9 @@ title: "Section 3503 - Investigative actions"
 usc_title: 7
 usc_section: "3503"
 chapter: 66
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "7 U.S.C. § 3503"
-generated_at: "2026-11-23T20:52:37.514Z"
+generated_at: "2026-11-23T20:54:38.790Z"
 status: "active"
 ---
 

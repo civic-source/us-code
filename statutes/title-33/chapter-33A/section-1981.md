@@ -3,9 +3,9 @@ title: "Section 1981 - Definitions"
 usc_title: 33
 usc_section: "1981"
 chapter: 33
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "33 U.S.C. § 1981"
-generated_at: "2026-11-23T20:53:24.242Z"
+generated_at: "2026-11-23T20:55:29.707Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1330 - Actions against foreign states"
 usc_title: 28
 usc_section: "1330"
 chapter: 85
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "28 U.S.C. § 1330"
-generated_at: "2026-11-23T20:53:13.299Z"
+generated_at: "2026-11-23T20:55:17.067Z"
 status: "active"
 ---
 

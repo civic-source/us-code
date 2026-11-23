@@ -3,9 +3,9 @@ title: "Section 1051 - Findings and purpose"
 usc_title: 20
 usc_section: "1051"
 chapter: 28
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "20 U.S.C. § 1051"
-generated_at: "2026-11-23T20:52:59.529Z"
+generated_at: "2026-11-23T20:55:00.634Z"
 status: "active"
 ---
 

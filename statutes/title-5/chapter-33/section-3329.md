@@ -3,9 +3,9 @@ title: "Section 3329 - Appointments of military reserve technicians to positions
 usc_title: 5
 usc_section: "3329"
 chapter: 33
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "5 U.S.C. § 3329"
-generated_at: "2026-11-23T20:52:31.562Z"
+generated_at: "2026-11-23T20:54:33.778Z"
 status: "active"
 ---
 

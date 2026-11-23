@@ -3,9 +3,9 @@ title: "Section 7402 - Enlisted members of Army: schools"
 usc_title: 10
 usc_section: "7402"
 chapter: 751
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "10 U.S.C. § 7402"
-generated_at: "2026-11-23T20:52:44.341Z"
+generated_at: "2026-11-23T20:54:45.098Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1161q - Grants to rural-serving institutions of higher education
 usc_title: 20
 usc_section: "1161q"
 chapter: 28
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "20 U.S.C. § 1161q"
-generated_at: "2026-11-23T20:52:59.741Z"
+generated_at: "2026-11-23T20:55:00.788Z"
 status: "active"
 ---
 

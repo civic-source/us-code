@@ -3,9 +3,9 @@ title: "Section 3965 - Performance pay"
 usc_title: 22
 usc_section: "3965"
 chapter: 52
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "22 U.S.C. § 3965"
-generated_at: "2026-11-23T20:53:10.617Z"
+generated_at: "2026-11-23T20:55:13.647Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3698A - Provision of certificates of eligibility and award lette
 usc_title: 38
 usc_section: "3698A"
 chapter: 36
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "38 U.S.C. § 3698A"
-generated_at: "2026-11-23T20:53:29.740Z"
+generated_at: "2026-11-23T20:55:34.409Z"
 status: "active"
 ---
 

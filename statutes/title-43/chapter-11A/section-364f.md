@@ -3,9 +3,9 @@ title: "Section 364f - Application to naming of offices or establishments"
 usc_title: 43
 usc_section: "364f"
 chapter: 11
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "43 U.S.C. § 364f"
-generated_at: "2026-11-23T20:53:33.146Z"
+generated_at: "2026-11-23T20:55:37.653Z"
 status: "active"
 ---
 

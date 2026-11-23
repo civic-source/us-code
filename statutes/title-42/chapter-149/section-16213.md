@@ -3,9 +3,9 @@ title: "Section 16213 - Micro-cogeneration energy technology"
 usc_title: 42
 usc_section: "16213"
 chapter: 149
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "42 U.S.C. § 16213"
-generated_at: "2026-11-23T20:53:46.094Z"
+generated_at: "2026-11-23T20:55:52.025Z"
 status: "active"
 ---
 

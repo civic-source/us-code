@@ -3,9 +3,9 @@ title: "Section 635 - Powers and functions of Bank"
 usc_title: 12
 usc_section: "635"
 chapter: 6
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "12 U.S.C. § 635"
-generated_at: "2026-11-23T20:52:48.876Z"
+generated_at: "2026-11-23T20:54:49.946Z"
 status: "active"
 ---
 

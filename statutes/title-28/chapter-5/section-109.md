@@ -3,9 +3,9 @@ title: "Section 109 - New Hampshire"
 usc_title: 28
 usc_section: "109"
 chapter: 5
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "28 U.S.C. § 109"
-generated_at: "2026-11-23T20:53:13.234Z"
+generated_at: "2026-11-23T20:55:16.940Z"
 status: "active"
 ---
 

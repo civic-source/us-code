@@ -3,9 +3,9 @@ title: "Section 52 - Statutory restriction of injunctive relief"
 usc_title: 29
 usc_section: "52"
 chapter: 5
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "29 U.S.C. § 52"
-generated_at: "2026-11-23T20:53:14.579Z"
+generated_at: "2026-11-23T20:55:18.062Z"
 status: "active"
 ---
 

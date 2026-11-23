@@ -3,9 +3,9 @@ title: "Section 60102 - Production of certificate on entry"
 usc_title: 46
 usc_section: "60102"
 chapter: 601
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "46 U.S.C. § 60102"
-generated_at: "2026-11-23T20:53:49.907Z"
+generated_at: "2026-11-23T20:55:55.991Z"
 status: "active"
 ---
 

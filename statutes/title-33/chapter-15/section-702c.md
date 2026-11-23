@@ -3,9 +3,9 @@ title: "Section 702c - Expenditures for construction work; conditions precedent;
 usc_title: 33
 usc_section: "702c"
 chapter: 15
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "33 U.S.C. § 702c"
-generated_at: "2026-11-23T20:53:24.111Z"
+generated_at: "2026-11-23T20:55:29.596Z"
 status: "active"
 ---
 

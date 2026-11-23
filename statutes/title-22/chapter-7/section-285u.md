@@ -3,9 +3,9 @@ title: "Section 285u - Additional contribution to special funds"
 usc_title: 22
 usc_section: "285u"
 chapter: 7
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "22 U.S.C. § 285u"
-generated_at: "2026-11-23T20:53:10.355Z"
+generated_at: "2026-11-23T20:55:13.242Z"
 status: "active"
 ---
 

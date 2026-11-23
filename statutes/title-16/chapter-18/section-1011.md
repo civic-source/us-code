@@ -3,9 +3,9 @@ title: "Section 1011 - Watershed restoration and enhancement agreements"
 usc_title: 16
 usc_section: "1011"
 chapter: 18
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "16 U.S.C. § 1011"
-generated_at: "2026-11-23T20:53:03.092Z"
+generated_at: "2026-11-23T20:55:04.862Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1642g - Consolidated awards"
 usc_title: 22
 usc_section: "1642g"
 chapter: 21
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "22 U.S.C. § 1642g"
-generated_at: "2026-11-23T20:53:10.409Z"
+generated_at: "2026-11-23T20:55:13.320Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 729 - Repealed. June 14, 1926, ch. 578, § 5 , as added June 4, 
 usc_title: 43
 usc_section: "729"
 chapter: 17
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "43 U.S.C. § 729"
-generated_at: "2026-11-23T20:53:33.212Z"
+generated_at: "2026-11-23T20:55:37.743Z"
 status: "repealed"
 ---
 

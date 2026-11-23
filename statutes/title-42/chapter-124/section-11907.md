@@ -3,9 +3,9 @@ title: "Section 11907 - Monitoring"
 usc_title: 42
 usc_section: "11907"
 chapter: 124
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "42 U.S.C. § 11907"
-generated_at: "2026-11-23T20:53:45.898Z"
+generated_at: "2026-11-23T20:55:51.872Z"
 status: "active"
 ---
 

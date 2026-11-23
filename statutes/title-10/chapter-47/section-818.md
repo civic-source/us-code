@@ -3,9 +3,9 @@ title: "Section 818 - Art. 18. Jurisdiction of general courts-martial"
 usc_title: 10
 usc_section: "818"
 chapter: 47
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "10 U.S.C. § 818"
-generated_at: "2026-11-23T20:52:43.820Z"
+generated_at: "2026-11-23T20:54:44.420Z"
 status: "active"
 ---
 

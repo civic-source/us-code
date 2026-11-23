@@ -3,9 +3,9 @@ title: "Section 4006 - Other bases for promoting or increasing pay"
 usc_title: 22
 usc_section: "4006"
 chapter: 52
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "22 U.S.C. § 4006"
-generated_at: "2026-11-23T20:53:10.620Z"
+generated_at: "2026-11-23T20:55:13.651Z"
 status: "active"
 ---
 

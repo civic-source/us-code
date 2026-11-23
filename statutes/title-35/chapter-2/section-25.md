@@ -3,9 +3,9 @@ title: "Section 25 - Declaration in lieu of oath"
 usc_title: 35
 usc_section: "25"
 chapter: 2
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "35 U.S.C. § 25"
-generated_at: "2026-11-23T20:53:21.230Z"
+generated_at: "2026-11-23T20:55:26.868Z"
 status: "active"
 ---
 

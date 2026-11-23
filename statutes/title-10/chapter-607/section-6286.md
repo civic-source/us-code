@@ -3,9 +3,9 @@ title: "Section 6286 - Use of best practices for capital asset projects and nucl
 usc_title: 10
 usc_section: "6286"
 chapter: 607
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "10 U.S.C. § 6286"
-generated_at: "2026-11-23T20:52:44.316Z"
+generated_at: "2026-11-23T20:54:45.070Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1396p - Liens, adjustments and recoveries, and transfers of asse
 usc_title: 42
 usc_section: "1396p"
 chapter: 7
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "42 U.S.C. § 1396p"
-generated_at: "2026-11-23T20:53:44.557Z"
+generated_at: "2026-11-23T20:55:50.547Z"
 status: "active"
 ---
 

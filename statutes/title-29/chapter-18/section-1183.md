@@ -3,9 +3,9 @@ title: "Section 1183 - Guaranteed renewability in multiemployer plans and multip
 usc_title: 29
 usc_section: "1183"
 chapter: 18
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "29 U.S.C. § 1183"
-generated_at: "2026-11-23T20:53:14.736Z"
+generated_at: "2026-11-23T20:55:18.195Z"
 status: "active"
 ---
 

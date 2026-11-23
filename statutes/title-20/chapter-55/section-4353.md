@@ -3,9 +3,9 @@ title: "Section 4353 - Audit"
 usc_title: 20
 usc_section: "4353"
 chapter: 55
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "20 U.S.C. § 4353"
-generated_at: "2026-11-23T20:52:59.819Z"
+generated_at: "2026-11-23T20:55:00.894Z"
 status: "active"
 ---
 

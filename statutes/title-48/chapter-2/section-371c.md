@@ -3,9 +3,9 @@ title: "Section 371c - Transferred"
 usc_title: 48
 usc_section: "371c"
 chapter: 2
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "48 U.S.C. § 371c"
-generated_at: "2026-11-23T20:53:48.106Z"
+generated_at: "2026-11-23T20:55:54.067Z"
 status: "transferred"
 ---
 

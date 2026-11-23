@@ -3,9 +3,9 @@ title: "Section 68f - Exclusion of misbranded wool products"
 usc_title: 15
 usc_section: "68f"
 chapter: 2
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "15 U.S.C. § 68f"
-generated_at: "2026-11-23T20:52:52.273Z"
+generated_at: "2026-11-23T20:54:53.192Z"
 status: "active"
 ---
 

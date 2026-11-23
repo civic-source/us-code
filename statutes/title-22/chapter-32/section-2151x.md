@@ -3,9 +3,9 @@ title: "Section 2151x - Development and illicit narcotics production"
 usc_title: 22
 usc_section: "2151x"
 chapter: 32
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "22 U.S.C. § 2151x"
-generated_at: "2026-11-23T20:53:10.452Z"
+generated_at: "2026-11-23T20:55:13.375Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2128 - Recall to active duty with consent of officer"
 usc_title: 14
 usc_section: "2128"
 chapter: 21
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "14 U.S.C. § 2128"
-generated_at: "2026-11-23T20:52:46.224Z"
+generated_at: "2026-11-23T20:54:47.225Z"
 status: "active"
 ---
 

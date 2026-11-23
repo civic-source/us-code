@@ -3,9 +3,9 @@ title: "Section 2318 - Demonstration project for alternative trade adjustment as
 usc_title: 19
 usc_section: "2318"
 chapter: 12
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "19 U.S.C. § 2318"
-generated_at: "2026-11-23T20:52:57.557Z"
+generated_at: "2026-11-23T20:54:57.128Z"
 status: "active"
 ---
 

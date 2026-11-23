@@ -3,9 +3,9 @@ title: "Section 1525 - Repealed. Pub. L. 89–762, § 2 , Nov. 5, 1966 , 80 Stat
 usc_title: 19
 usc_section: "1525"
 chapter: 4
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "19 U.S.C. § 1525"
-generated_at: "2026-11-23T20:52:57.486Z"
+generated_at: "2026-11-23T20:54:57.037Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1252b - Repealed. Pub. L. 104–208, div. C, title III, § 308(b
 usc_title: 8
 usc_section: "1252b"
 chapter: 12
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "8 U.S.C. § 1252b"
-generated_at: "2026-11-23T20:52:34.133Z"
+generated_at: "2026-11-23T20:54:35.845Z"
 status: "repealed"
 ---
 

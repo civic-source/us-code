@@ -3,9 +3,9 @@ title: "Section 3806 - Demonstrations"
 usc_title: 15
 usc_section: "3806"
 chapter: 64
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "15 U.S.C. § 3806"
-generated_at: "2026-11-23T20:52:52.987Z"
+generated_at: "2026-11-23T20:54:53.825Z"
 status: "active"
 ---
 

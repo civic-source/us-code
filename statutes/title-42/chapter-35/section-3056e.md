@@ -3,9 +3,9 @@ title: "Section 3056e - Equitable distribution"
 usc_title: 42
 usc_section: "3056e"
 chapter: 35
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "42 U.S.C. § 3056e"
-generated_at: "2026-11-23T20:53:45.003Z"
+generated_at: "2026-11-23T20:55:51.083Z"
 status: "active"
 ---
 

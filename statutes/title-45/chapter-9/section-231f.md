@@ -3,9 +3,9 @@ title: "Section 231f - Railroad Retirement Board"
 usc_title: 45
 usc_section: "231f"
 chapter: 9
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "45 U.S.C. § 231f"
-generated_at: "2026-11-23T20:53:31.507Z"
+generated_at: "2026-11-23T20:55:38.384Z"
 status: "active"
 ---
 

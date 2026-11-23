@@ -3,9 +3,9 @@ title: "Section 998 - Definitions"
 usc_title: 28
 usc_section: "998"
 chapter: 58
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "28 U.S.C. § 998"
-generated_at: "2026-11-23T20:53:13.297Z"
+generated_at: "2026-11-23T20:55:17.065Z"
 status: "active"
 ---
 

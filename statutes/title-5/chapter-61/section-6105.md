@@ -3,9 +3,9 @@ title: "Section 6105 - Closing of Executive departments"
 usc_title: 5
 usc_section: "6105"
 chapter: 61
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "5 U.S.C. § 6105"
-generated_at: "2026-11-23T20:52:31.694Z"
+generated_at: "2026-11-23T20:54:33.899Z"
 status: "active"
 ---
 

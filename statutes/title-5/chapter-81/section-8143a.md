@@ -3,9 +3,9 @@ title: "Section 8143a - Members of the National Teacher Corps"
 usc_title: 5
 usc_section: "8143a"
 chapter: 81
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "5 U.S.C. § 8143a"
-generated_at: "2026-11-23T20:52:31.739Z"
+generated_at: "2026-11-23T20:54:33.939Z"
 status: "active"
 ---
 

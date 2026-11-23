@@ -3,9 +3,9 @@ title: "Section 2381 - Renumbered § 3247]"
 usc_title: 10
 usc_section: "2381"
 chapter: 141
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "10 U.S.C. § 2381"
-generated_at: "2026-11-23T20:52:44.104Z"
+generated_at: "2026-11-23T20:54:44.762Z"
 status: "renumbered"
 ---
 

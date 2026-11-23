@@ -3,9 +3,9 @@ title: "Section 151 - Findings and declaration of policy"
 usc_title: 29
 usc_section: "151"
 chapter: 7
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "29 U.S.C. § 151"
-generated_at: "2026-11-23T20:53:14.582Z"
+generated_at: "2026-11-23T20:55:18.063Z"
 status: "active"
 ---
 

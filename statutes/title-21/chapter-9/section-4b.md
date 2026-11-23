@@ -3,9 +3,9 @@ title: "Section 4b - Medical countermeasure master files"
 usc_title: 21
 usc_section: "4b"
 chapter: 9
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "21 U.S.C. § 4b"
-generated_at: "2026-11-23T20:53:08.000Z"
+generated_at: "2026-11-23T20:55:09.972Z"
 status: "active"
 ---
 

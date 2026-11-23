@@ -3,9 +3,9 @@ title: "Section 1026 - Repealed. June 25, 1948, ch. 645, § 21 , 62 Stat. 862 , 
 usc_title: 7
 usc_section: "1026"
 chapter: 33
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "7 U.S.C. § 1026"
-generated_at: "2026-11-23T20:52:37.081Z"
+generated_at: "2026-11-23T20:54:38.398Z"
 status: "repealed"
 ---
 

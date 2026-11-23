@@ -3,9 +3,9 @@ title: "Section 3b - Contaminant standards or treatment technique guidelines"
 usc_title: 42
 usc_section: "3b"
 chapter: 6
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "42 U.S.C. § 3b"
-generated_at: "2026-11-23T20:53:43.845Z"
+generated_at: "2026-11-23T20:55:49.808Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8102 - Neighborhood Reinvestment Corporation"
 usc_title: 42
 usc_section: "8102"
 chapter: 90
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "42 U.S.C. § 8102"
-generated_at: "2026-11-23T20:53:45.630Z"
+generated_at: "2026-11-23T20:55:51.694Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1423g - Application with other subchapters of chapter"
 usc_title: 16
 usc_section: "1423g"
 chapter: 31
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "16 U.S.C. § 1423g"
-generated_at: "2026-11-23T20:53:03.182Z"
+generated_at: "2026-11-23T20:55:04.944Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 10432 - Acceptance of contributions in support of Australia, Uni
 usc_title: 22
 usc_section: "10432"
 chapter: 111
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "22 U.S.C. § 10432"
-generated_at: "2026-11-23T20:53:10.816Z"
+generated_at: "2026-11-23T20:55:14.016Z"
 status: "active"
 ---
 

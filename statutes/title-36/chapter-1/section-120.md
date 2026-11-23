@@ -3,9 +3,9 @@ title: "Section 120 - National Defense Transportation Day"
 usc_title: 36
 usc_section: "120"
 chapter: 1
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "36 U.S.C. § 120"
-generated_at: "2026-11-23T20:53:27.576Z"
+generated_at: "2026-11-23T20:55:31.695Z"
 status: "active"
 ---
 

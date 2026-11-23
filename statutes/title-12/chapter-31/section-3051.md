@@ -3,9 +3,9 @@ title: "Section 3051 - Nonprofit corporation"
 usc_title: 12
 usc_section: "3051"
 chapter: 31
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "12 U.S.C. § 3051"
-generated_at: "2026-11-23T20:52:49.297Z"
+generated_at: "2026-11-23T20:54:50.468Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1682 - Subrogation of claims by Indian Health Service"
 usc_title: 25
 usc_section: "1682"
 chapter: 18
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "25 U.S.C. § 1682"
-generated_at: "2026-11-23T20:53:05.988Z"
+generated_at: "2026-11-23T20:55:08.510Z"
 status: "active"
 ---
 

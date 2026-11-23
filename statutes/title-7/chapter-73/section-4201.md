@@ -3,9 +3,9 @@ title: "Section 4201 - General provisions"
 usc_title: 7
 usc_section: "4201"
 chapter: 73
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "7 U.S.C. § 4201"
-generated_at: "2026-11-23T20:52:37.524Z"
+generated_at: "2026-11-23T20:54:38.796Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1 - Certification of small business concerns owned and controlle
 usc_title: 15
 usc_section: "1"
 chapter: 14
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "15 U.S.C. § 1"
-generated_at: "2026-11-23T20:52:52.623Z"
+generated_at: "2026-11-23T20:54:53.528Z"
 status: "active"
 ---
 

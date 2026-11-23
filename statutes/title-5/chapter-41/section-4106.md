@@ -3,9 +3,9 @@ title: "Section 4106 - Repealed. Pub. L. 103–226, § 2(a)(4) , Mar. 30, 1994 ,
 usc_title: 5
 usc_section: "4106"
 chapter: 41
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "5 U.S.C. § 4106"
-generated_at: "2026-11-23T20:52:31.584Z"
+generated_at: "2026-11-23T20:54:33.799Z"
 status: "repealed"
 ---
 

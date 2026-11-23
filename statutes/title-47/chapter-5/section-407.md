@@ -3,9 +3,9 @@ title: "Section 407 - Order for payment of money; petition for enforcement; proc
 usc_title: 47
 usc_section: "407"
 chapter: 5
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "47 U.S.C. § 407"
-generated_at: "2026-11-23T20:53:48.643Z"
+generated_at: "2026-11-23T20:55:54.636Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3382 - Director of the National Counterintelligence and Security
 usc_title: 50
 usc_section: "3382"
 chapter: 45
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "50 U.S.C. § 3382"
-generated_at: "2026-11-23T20:53:51.178Z"
+generated_at: "2026-11-23T20:55:57.130Z"
 status: "active"
 ---
 

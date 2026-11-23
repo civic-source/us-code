@@ -3,9 +3,9 @@ title: "Section 7515 - General savings clause"
 usc_title: 42
 usc_section: "7515"
 chapter: 85
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "42 U.S.C. § 7515"
-generated_at: "2026-11-23T20:53:45.536Z"
+generated_at: "2026-11-23T20:55:51.616Z"
 status: "active"
 ---
 

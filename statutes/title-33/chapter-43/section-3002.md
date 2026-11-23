@@ -3,9 +3,9 @@ title: "Section 3002 - Definitions"
 usc_title: 33
 usc_section: "3002"
 chapter: 43
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "33 U.S.C. § 3002"
-generated_at: "2026-11-23T20:53:24.308Z"
+generated_at: "2026-11-23T20:55:29.764Z"
 status: "active"
 ---
 

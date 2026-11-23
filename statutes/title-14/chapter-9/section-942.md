@@ -3,9 +3,9 @@ title: "Section 942 - Public and commercial vessels and other watercraft; sale o
 usc_title: 14
 usc_section: "942"
 chapter: 9
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "14 U.S.C. § 942"
-generated_at: "2026-11-23T20:52:46.207Z"
+generated_at: "2026-11-23T20:54:47.208Z"
 status: "active"
 ---
 

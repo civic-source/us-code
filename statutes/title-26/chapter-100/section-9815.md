@@ -3,9 +3,9 @@ title: "Section 9815 - Additional market reforms"
 usc_title: 26
 usc_section: "9815"
 chapter: 100
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "26 U.S.C. § 9815"
-generated_at: "2026-11-23T20:53:19.674Z"
+generated_at: "2026-11-23T20:55:25.304Z"
 status: "active"
 ---
 

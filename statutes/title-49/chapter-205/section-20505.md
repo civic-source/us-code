@@ -3,9 +3,9 @@ title: "Section 20505 - Reports of malfunctions and accidents"
 usc_title: 49
 usc_section: "20505"
 chapter: 205
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "49 U.S.C. § 20505"
-generated_at: "2026-11-23T20:53:53.619Z"
+generated_at: "2026-11-23T20:55:59.434Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 795k - State plan"
 usc_title: 29
 usc_section: "795k"
 chapter: 16
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "29 U.S.C. § 795k"
-generated_at: "2026-11-23T20:53:14.644Z"
+generated_at: "2026-11-23T20:55:18.127Z"
 status: "active"
 ---
 

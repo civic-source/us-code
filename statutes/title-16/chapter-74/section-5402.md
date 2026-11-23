@@ -3,9 +3,9 @@ title: "Section 5402 - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 S
 usc_title: 16
 usc_section: "5402"
 chapter: 74
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "16 U.S.C. § 5402"
-generated_at: "2026-11-23T20:53:03.345Z"
+generated_at: "2026-11-23T20:55:05.127Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2354 - Easements for electric, telephone, or broadband service f
 usc_title: 33
 usc_section: "2354"
 chapter: 36
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "33 U.S.C. § 2354"
-generated_at: "2026-11-23T20:53:24.293Z"
+generated_at: "2026-11-23T20:55:29.749Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1 - Definitions"
 usc_title: 13
 usc_section: "1"
 chapter: 1
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "13 U.S.C. § 1"
-generated_at: "2026-11-23T20:52:45.808Z"
+generated_at: "2026-11-23T20:54:46.756Z"
 status: "active"
 ---
 

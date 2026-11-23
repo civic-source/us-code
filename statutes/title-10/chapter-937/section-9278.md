@@ -3,9 +3,9 @@ title: "Section 9278 - Medal of honor; Air Force cross; distinguished-service cr
 usc_title: 10
 usc_section: "9278"
 chapter: 937
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "10 U.S.C. § 9278"
-generated_at: "2026-11-23T20:52:44.457Z"
+generated_at: "2026-11-23T20:54:45.247Z"
 status: "active"
 ---
 

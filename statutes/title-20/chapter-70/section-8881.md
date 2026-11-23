@@ -3,9 +3,9 @@ title: "Section 8881 - Repealed. Pub. L. 107–110, title X, § 1011(5)(C) , Jan
 usc_title: 20
 usc_section: "8881"
 chapter: 70
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "20 U.S.C. § 8881"
-generated_at: "2026-11-23T20:52:59.914Z"
+generated_at: "2026-11-23T20:55:00.995Z"
 status: "repealed"
 ---
 

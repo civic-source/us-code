@@ -3,9 +3,9 @@ title: "Section 248 - Repealed. June 25, 1948, ch. 645, § 21 , 62 Stat. 862 , e
 usc_title: 22
 usc_section: "248"
 chapter: 5
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "22 U.S.C. § 248"
-generated_at: "2026-11-23T20:53:10.316Z"
+generated_at: "2026-11-23T20:55:13.182Z"
 status: "repealed"
 ---
 

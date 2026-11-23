@@ -3,9 +3,9 @@ title: "Section 3318 - Competitive service; selections using numerical ratings"
 usc_title: 5
 usc_section: "3318"
 chapter: 33
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "5 U.S.C. § 3318"
-generated_at: "2026-11-23T20:52:31.558Z"
+generated_at: "2026-11-23T20:54:33.776Z"
 status: "active"
 ---
 

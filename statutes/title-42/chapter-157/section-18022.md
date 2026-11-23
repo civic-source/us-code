@@ -3,9 +3,9 @@ title: "Section 18022 - Essential health benefits requirements"
 usc_title: 42
 usc_section: "18022"
 chapter: 157
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "42 U.S.C. § 18022"
-generated_at: "2026-11-23T20:53:46.196Z"
+generated_at: "2026-11-23T20:55:52.101Z"
 status: "active"
 ---
 

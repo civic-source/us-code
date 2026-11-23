@@ -3,9 +3,9 @@ title: "Section 50b - Recording of obligations against accounts receivable and c
 usc_title: 43
 usc_section: "50b"
 chapter: 2
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "43 U.S.C. § 50b"
-generated_at: "2026-11-23T20:53:33.134Z"
+generated_at: "2026-11-23T20:55:37.616Z"
 status: "active"
 ---
 

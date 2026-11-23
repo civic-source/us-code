@@ -3,9 +3,9 @@ title: "Section 3004 - Service of process; enforcement; notice"
 usc_title: 28
 usc_section: "3004"
 chapter: 176
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "28 U.S.C. § 3004"
-generated_at: "2026-11-23T20:53:13.369Z"
+generated_at: "2026-11-23T20:55:17.153Z"
 status: "active"
 ---
 

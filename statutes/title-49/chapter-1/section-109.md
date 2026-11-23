@@ -3,9 +3,9 @@ title: "Section 109 - Maritime Administration"
 usc_title: 49
 usc_section: "109"
 chapter: 1
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "49 U.S.C. § 109"
-generated_at: "2026-11-23T20:53:53.480Z"
+generated_at: "2026-11-23T20:55:59.253Z"
 status: "active"
 ---
 

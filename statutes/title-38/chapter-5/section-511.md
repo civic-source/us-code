@@ -3,9 +3,9 @@ title: "Section 511 - Decisions of the Secretary; finality"
 usc_title: 38
 usc_section: "511"
 chapter: 5
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "38 U.S.C. § 511"
-generated_at: "2026-11-23T20:53:29.551Z"
+generated_at: "2026-11-23T20:55:34.264Z"
 status: "active"
 ---
 

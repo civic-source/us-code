@@ -3,9 +3,9 @@ title: "Section 16360 - Western Michigan demonstration project"
 usc_title: 42
 usc_section: "16360"
 chapter: 149
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "42 U.S.C. § 16360"
-generated_at: "2026-11-23T20:53:46.118Z"
+generated_at: "2026-11-23T20:55:52.045Z"
 status: "active"
 ---
 

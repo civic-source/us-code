@@ -3,9 +3,9 @@ title: "Section 123a - Continuation of existing land districts and offices in Al
 usc_title: 43
 usc_section: "123a"
 chapter: 5
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "43 U.S.C. § 123a"
-generated_at: "2026-11-23T20:53:33.137Z"
+generated_at: "2026-11-23T20:55:37.623Z"
 status: "active"
 ---
 

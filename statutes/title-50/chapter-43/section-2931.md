@@ -3,9 +3,9 @@ title: "Section 2931 - Office of the United States Coordinator for the Preventio
 usc_title: 50
 usc_section: "2931"
 chapter: 43
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "50 U.S.C. § 2931"
-generated_at: "2026-11-23T20:53:51.104Z"
+generated_at: "2026-11-23T20:55:57.028Z"
 status: "active"
 ---
 

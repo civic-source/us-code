@@ -3,9 +3,9 @@ title: "Section 45Y - Clean electricity production credit"
 usc_title: 26
 usc_section: "45Y"
 chapter: 1
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "26 U.S.C. § 45Y"
-generated_at: "2026-11-23T20:53:18.716Z"
+generated_at: "2026-11-23T20:55:24.326Z"
 status: "active"
 ---
 

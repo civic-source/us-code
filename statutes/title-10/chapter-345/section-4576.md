@@ -3,9 +3,9 @@ title: "Section 4576 - Repealed. Pub. L. 119–60, div. A, title VIII, § 811(a)
 usc_title: 10
 usc_section: "4576"
 chapter: 345
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "10 U.S.C. § 4576"
-generated_at: "2026-11-23T20:52:44.274Z"
+generated_at: "2026-11-23T20:54:45.017Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6323 - Assessments of emergency preparedness of defense nuclear 
 usc_title: 10
 usc_section: "6323"
 chapter: 608
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "10 U.S.C. § 6323"
-generated_at: "2026-11-23T20:52:44.318Z"
+generated_at: "2026-11-23T20:54:45.071Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 66 - Repealed. June 30, 1949, ch. 288 , title VI, § 602(a)(19),
 usc_title: 20
 usc_section: "66"
 chapter: 3
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "20 U.S.C. § 66"
-generated_at: "2026-11-23T20:52:59.447Z"
+generated_at: "2026-11-23T20:55:00.567Z"
 status: "repealed"
 ---
 

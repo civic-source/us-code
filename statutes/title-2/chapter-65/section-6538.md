@@ -3,9 +3,9 @@ title: "Section 6538 - Employment of additional administrative assistants"
 usc_title: 2
 usc_section: "6538"
 chapter: 65
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "2 U.S.C. § 6538"
-generated_at: "2026-11-23T20:52:29.900Z"
+generated_at: "2026-11-23T20:54:32.190Z"
 status: "active"
 ---
 

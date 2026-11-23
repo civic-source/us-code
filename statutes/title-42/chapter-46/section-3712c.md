@@ -3,9 +3,9 @@ title: "Section 3712c - Transferred"
 usc_title: 42
 usc_section: "3712c"
 chapter: 46
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "42 U.S.C. § 3712c"
-generated_at: "2026-11-23T20:53:45.068Z"
+generated_at: "2026-11-23T20:55:51.150Z"
 status: "transferred"
 ---
 

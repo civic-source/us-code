@@ -3,9 +3,9 @@ title: "Section 1831h - Repealed. Pub. L. 109–173, § 8(a)(33) , Feb. 15, 2006
 usc_title: 12
 usc_section: "1831h"
 chapter: 16
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "12 U.S.C. § 1831h"
-generated_at: "2026-11-23T20:52:49.172Z"
+generated_at: "2026-11-23T20:54:50.207Z"
 status: "repealed"
 ---
 

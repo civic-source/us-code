@@ -3,9 +3,9 @@ title: "Section 2401 - Congressional findings"
 usc_title: 25
 usc_section: "2401"
 chapter: 26
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "25 U.S.C. § 2401"
-generated_at: "2026-11-23T20:53:06.038Z"
+generated_at: "2026-11-23T20:55:08.563Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1181 - Special appropriations"
 usc_title: 14
 usc_section: "1181"
 chapter: 11
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "14 U.S.C. § 1181"
-generated_at: "2026-11-23T20:52:46.214Z"
+generated_at: "2026-11-23T20:54:47.216Z"
 status: "active"
 ---
 

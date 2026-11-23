@@ -3,9 +3,9 @@ title: "Section 262r - Annual report by Chairman of National Advisory Council on
 usc_title: 22
 usc_section: "262r"
 chapter: 7
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "22 U.S.C. § 262r"
-generated_at: "2026-11-23T20:53:10.333Z"
+generated_at: "2026-11-23T20:55:13.205Z"
 status: "active"
 ---
 
@@ -38,6 +38,8 @@ status: "active"
 - **(e)**
   - **(1)** The Secretary of the Treasury should establish an International Monetary Fund Advisory Committee (in this subsection referred to as the “Advisory Committee”).
   - **(2)** The Advisory Committee should consist of members appointed by the Secretary of the Treasury, after appropriate consultations with the relevant organizations. Such members should include representatives from industry, representatives from agriculture, representatives from organized labor, representatives from banking and financial services, and representatives from nongovernmental environmental and human rights organizations.
+
+“During the 7-year period that begins with the date of enactment of this Act [ Feb. 3, 2026 ], the Chairman of the National Advisory Council on International Monetary and Financial Policies shall include in the annual report required by section 1701 of the International Financial Institutions Act [ 22 U.S.C. 262r ] a description of any progress made—
 
 In General
 

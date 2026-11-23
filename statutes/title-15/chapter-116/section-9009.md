@@ -3,9 +3,9 @@ title: "Section 9009 - Emergency EIDL grants"
 usc_title: 15
 usc_section: "9009"
 chapter: 116
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "15 U.S.C. § 9009"
-generated_at: "2026-11-23T20:52:53.112Z"
+generated_at: "2026-11-23T20:54:53.933Z"
 status: "active"
 ---
 

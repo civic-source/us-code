@@ -3,9 +3,9 @@ title: "Section 31707 - Limitations on statutory construction"
 usc_title: 49
 usc_section: "31707"
 chapter: 317
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "49 U.S.C. § 31707"
-generated_at: "2026-11-23T20:53:53.718Z"
+generated_at: "2026-11-23T20:55:59.529Z"
 status: "active"
 ---
 

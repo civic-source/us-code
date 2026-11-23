@@ -3,9 +3,9 @@ title: "Section 940h - Bonding requirements"
 usc_title: 7
 usc_section: "940h"
 chapter: 31
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "7 U.S.C. § 940h"
-generated_at: "2026-11-23T20:52:37.060Z"
+generated_at: "2026-11-23T20:54:38.386Z"
 status: "active"
 ---
 

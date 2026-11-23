@@ -3,9 +3,9 @@ title: "Section 895 - Art. 95. Offenses by sentinel or lookout"
 usc_title: 10
 usc_section: "895"
 chapter: 47
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "10 U.S.C. § 895"
-generated_at: "2026-11-23T20:52:43.843Z"
+generated_at: "2026-11-23T20:54:44.439Z"
 status: "active"
 ---
 

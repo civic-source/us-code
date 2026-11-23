@@ -3,9 +3,9 @@ title: "Section 5723 - Responsibilities"
 usc_title: 38
 usc_section: "5723"
 chapter: 57
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "38 U.S.C. § 5723"
-generated_at: "2026-11-23T20:53:29.794Z"
+generated_at: "2026-11-23T20:55:34.459Z"
 status: "active"
 ---
 

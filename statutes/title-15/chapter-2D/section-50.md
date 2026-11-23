@@ -3,9 +3,9 @@ title: "Section 50 - Separability"
 usc_title: 15
 usc_section: "50"
 chapter: 2
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "15 U.S.C. § 50"
-generated_at: "2026-11-23T20:52:52.444Z"
+generated_at: "2026-11-23T20:54:53.360Z"
 status: "active"
 ---
 

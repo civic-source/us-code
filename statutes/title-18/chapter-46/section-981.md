@@ -3,9 +3,9 @@ title: "Section 981 - Civil forfeiture"
 usc_title: 18
 usc_section: "981"
 chapter: 46
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "18 U.S.C. § 981"
-generated_at: "2026-11-23T20:52:55.922Z"
+generated_at: "2026-11-23T20:54:58.583Z"
 status: "active"
 ---
 

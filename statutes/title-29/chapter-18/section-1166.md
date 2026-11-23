@@ -3,9 +3,9 @@ title: "Section 1166 - Notice requirements"
 usc_title: 29
 usc_section: "1166"
 chapter: 18
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "29 U.S.C. § 1166"
-generated_at: "2026-11-23T20:53:14.731Z"
+generated_at: "2026-11-23T20:55:18.190Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1383 - Computation of tax where cooperative redeems nonqualified
 usc_title: 26
 usc_section: "1383"
 chapter: 1
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "26 U.S.C. § 1383"
-generated_at: "2026-11-23T20:53:19.312Z"
+generated_at: "2026-11-23T20:55:24.890Z"
 status: "active"
 ---
 

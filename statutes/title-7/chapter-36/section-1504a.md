@@ -3,9 +3,9 @@ title: "Section 1504a - Capitalization of Corporation"
 usc_title: 7
 usc_section: "1504a"
 chapter: 36
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "7 U.S.C. § 1504a"
-generated_at: "2026-11-23T20:52:37.145Z"
+generated_at: "2026-11-23T20:54:38.480Z"
 status: "active"
 ---
 

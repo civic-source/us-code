@@ -3,9 +3,9 @@ title: "Section 2516 - Certain property settlements"
 usc_title: 26
 usc_section: "2516"
 chapter: 12
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "26 U.S.C. § 2516"
-generated_at: "2026-11-23T20:53:19.349Z"
+generated_at: "2026-11-23T20:55:24.943Z"
 status: "active"
 ---
 

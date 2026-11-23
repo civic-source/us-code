@@ -3,9 +3,9 @@ title: "Section 1309 - Preservation, sale, or collection of wrecked, abandoned, 
 usc_title: 40
 usc_section: "1309"
 chapter: 13
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "40 U.S.C. § 1309"
-generated_at: "2026-11-23T20:53:26.618Z"
+generated_at: "2026-11-23T20:55:32.529Z"
 status: "active"
 ---
 

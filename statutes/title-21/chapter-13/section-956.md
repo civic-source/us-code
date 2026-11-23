@@ -3,9 +3,9 @@ title: "Section 956 - Exemption authority"
 usc_title: 21
 usc_section: "956"
 chapter: 13
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "21 U.S.C. § 956"
-generated_at: "2026-11-23T20:53:08.116Z"
+generated_at: "2026-11-23T20:55:10.118Z"
 status: "active"
 ---
 

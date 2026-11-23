@@ -3,9 +3,9 @@ title: "Section 1422b - Repealed. Pub. L. 110–289, div. A, title II, § 1204(1
 usc_title: 12
 usc_section: "1422b"
 chapter: 11
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "12 U.S.C. § 1422b"
-generated_at: "2026-11-23T20:52:48.901Z"
+generated_at: "2026-11-23T20:54:49.960Z"
 status: "repealed"
 ---
 

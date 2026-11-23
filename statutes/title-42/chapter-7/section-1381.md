@@ -3,9 +3,9 @@ title: "Section 1381 - Statement of purpose; authorization of appropriations"
 usc_title: 42
 usc_section: "1381"
 chapter: 7
-current_through: "PL 119-100"
+current_through: "PL 119-102not101"
 classification: "42 U.S.C. § 1381"
-generated_at: "2026-11-23T20:53:44.222Z"
+generated_at: "2026-11-23T20:55:50.138Z"
 status: "active"
 ---
 
