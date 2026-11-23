@@ -3,9 +3,9 @@ title: "Section 242 - Oil shale claims"
 usc_title: 30
 usc_section: "242"
 chapter: 3
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "30 U.S.C. § 242"
-generated_at: "2026-11-23T20:50:22.904Z"
+generated_at: "2026-11-23T20:53:12.456Z"
 status: "active"
 ---
 

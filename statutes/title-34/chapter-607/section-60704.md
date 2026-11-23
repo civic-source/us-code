@@ -3,9 +3,9 @@ title: "Section 60704 - Rules and regulations"
 usc_title: 34
 usc_section: "60704"
 chapter: 607
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "34 U.S.C. § 60704"
-generated_at: "2026-11-23T20:50:42.173Z"
+generated_at: "2026-11-23T20:53:22.277Z"
 status: "active"
 ---
 

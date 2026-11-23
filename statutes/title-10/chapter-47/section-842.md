@@ -3,9 +3,9 @@ title: "Section 842 - Art. 42. Oaths"
 usc_title: 10
 usc_section: "842"
 chapter: 47
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "10 U.S.C. § 842"
-generated_at: "2026-11-23T20:49:41.382Z"
+generated_at: "2026-11-23T20:52:43.829Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1009 - Joint investigations and surveys by Secretary of the Army
 usc_title: 16
 usc_section: "1009"
 chapter: 18
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "16 U.S.C. § 1009"
-generated_at: "2026-11-23T20:50:09.608Z"
+generated_at: "2026-11-23T20:53:03.092Z"
 status: "active"
 ---
 

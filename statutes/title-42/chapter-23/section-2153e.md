@@ -3,9 +3,9 @@ title: "Section 2153e - Protection of environment"
 usc_title: 42
 usc_section: "2153e"
 chapter: 23
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "42 U.S.C. § 2153e"
-generated_at: "2026-11-23T20:51:12.266Z"
+generated_at: "2026-11-23T20:53:44.871Z"
 status: "active"
 ---
 

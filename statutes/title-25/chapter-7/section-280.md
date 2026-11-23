@@ -3,9 +3,9 @@ title: "Section 280 - Patents of lands to missionary boards of religious organiz
 usc_title: 25
 usc_section: "280"
 chapter: 7
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "25 U.S.C. § 280"
-generated_at: "2026-11-23T20:50:13.501Z"
+generated_at: "2026-11-23T20:53:05.856Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7512 - Requirements of electronic merchant mariner credentialing
 usc_title: 46
 usc_section: "7512"
 chapter: 75
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "46 U.S.C. § 7512"
-generated_at: "2026-11-23T20:51:19.233Z"
+generated_at: "2026-11-23T20:53:49.653Z"
 status: "active"
 ---
 

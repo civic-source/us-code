@@ -3,9 +3,9 @@ title: "Section 624 - Protection of existing valid claims"
 usc_title: 30
 usc_section: "624"
 chapter: 16
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "30 U.S.C. § 624"
-generated_at: "2026-11-23T20:50:22.928Z"
+generated_at: "2026-11-23T20:53:12.472Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2357 - Unauthorized practice"
 usc_title: 7
 usc_section: "2357"
 chapter: 57
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "7 U.S.C. § 2357"
-generated_at: "2026-11-23T20:49:32.774Z"
+generated_at: "2026-11-23T20:52:37.402Z"
 status: "active"
 ---
 

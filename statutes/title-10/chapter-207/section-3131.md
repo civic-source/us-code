@@ -3,9 +3,9 @@ title: "Section 3131 - Availability of appropriations"
 usc_title: 10
 usc_section: "3131"
 chapter: 207
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "10 U.S.C. § 3131"
-generated_at: "2026-11-23T20:49:42.096Z"
+generated_at: "2026-11-23T20:52:44.208Z"
 status: "active"
 ---
 

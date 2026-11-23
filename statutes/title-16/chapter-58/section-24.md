@@ -3,9 +3,9 @@ title: "Section 24 - Duties of the Secretary"
 usc_title: 16
 usc_section: "24"
 chapter: 58
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "16 U.S.C. § 24"
-generated_at: "2026-11-23T20:50:10.016Z"
+generated_at: "2026-11-23T20:53:03.308Z"
 status: "active"
 ---
 

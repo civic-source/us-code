@@ -3,9 +3,9 @@ title: "Section 3739 - Supervision—(Rule)"
 usc_title: 18
 usc_section: "3739"
 chapter: 235
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "18 U.S.C. § 3739"
-generated_at: "2026-11-23T20:50:01.001Z"
+generated_at: "2026-11-23T20:52:56.068Z"
 status: "active"
 ---
 

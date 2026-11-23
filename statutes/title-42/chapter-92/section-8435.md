@@ -3,9 +3,9 @@ title: "Section 8435 - Citizens suits"
 usc_title: 42
 usc_section: "8435"
 chapter: 92
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "42 U.S.C. § 8435"
-generated_at: "2026-11-23T20:51:13.242Z"
+generated_at: "2026-11-23T20:53:45.660Z"
 status: "active"
 ---
 

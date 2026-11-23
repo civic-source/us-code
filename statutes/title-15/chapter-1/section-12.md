@@ -3,9 +3,9 @@ title: "Section 12 - Definitions; short title"
 usc_title: 15
 usc_section: "12"
 chapter: 1
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "15 U.S.C. § 12"
-generated_at: "2026-11-23T20:49:53.137Z"
+generated_at: "2026-11-23T20:52:52.242Z"
 status: "active"
 ---
 

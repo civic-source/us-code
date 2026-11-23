@@ -3,9 +3,9 @@ title: "Section 3022 - Personnel boards"
 usc_title: 33
 usc_section: "3022"
 chapter: 43
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "33 U.S.C. § 3022"
-generated_at: "2026-11-23T20:50:40.944Z"
+generated_at: "2026-11-23T20:53:24.309Z"
 status: "active"
 ---
 

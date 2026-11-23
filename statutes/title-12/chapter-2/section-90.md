@@ -3,9 +3,9 @@ title: "Section 90 - Depositaries of public moneys and financial agents of Gover
 usc_title: 12
 usc_section: "90"
 chapter: 2
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "12 U.S.C. § 90"
-generated_at: "2026-11-23T20:49:48.705Z"
+generated_at: "2026-11-23T20:52:48.803Z"
 status: "active"
 ---
 

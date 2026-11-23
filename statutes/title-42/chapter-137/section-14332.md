@@ -3,9 +3,9 @@ title: "Section 14332 - Limitations on sale of alkaline-manganese batteries cont
 usc_title: 42
 usc_section: "14332"
 chapter: 137
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "42 U.S.C. § 14332"
-generated_at: "2026-11-23T20:51:13.718Z"
+generated_at: "2026-11-23T20:53:46.043Z"
 status: "active"
 ---
 

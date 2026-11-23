@@ -3,9 +3,9 @@ title: "Section 15107 - Retirement: retirement for years of service; selective e
 usc_title: 10
 usc_section: "15107"
 chapter: 1413
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "10 U.S.C. § 15107"
-generated_at: "2026-11-23T20:49:42.820Z"
+generated_at: "2026-11-23T20:52:44.529Z"
 status: "active"
 ---
 

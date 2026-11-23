@@ -3,9 +3,9 @@ title: "Section 10473 - Administration"
 usc_title: 34
 usc_section: "10473"
 chapter: 101
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "34 U.S.C. § 10473"
-generated_at: "2026-11-23T20:50:41.921Z"
+generated_at: "2026-11-23T20:53:22.095Z"
 status: "active"
 ---
 

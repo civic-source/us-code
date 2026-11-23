@@ -3,9 +3,9 @@ title: "Section 283 - Repealed. Pub. L. 117–317, § 2(9) , Dec. 27, 2022 , 136
 usc_title: 25
 usc_section: "283"
 chapter: 7
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "25 U.S.C. § 283"
-generated_at: "2026-11-23T20:50:13.501Z"
+generated_at: "2026-11-23T20:53:05.856Z"
 status: "repealed"
 ---
 

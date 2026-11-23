@@ -3,9 +3,9 @@ title: "Section 1345 - United States as plaintiff"
 usc_title: 28
 usc_section: "1345"
 chapter: 85
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "28 U.S.C. § 1345"
-generated_at: "2026-11-23T20:50:24.322Z"
+generated_at: "2026-11-23T20:53:13.305Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1101 - Omitted"
 usc_title: 7
 usc_section: "1101"
 chapter: 34
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "7 U.S.C. § 1101"
-generated_at: "2026-11-23T20:49:32.392Z"
+generated_at: "2026-11-23T20:52:37.083Z"
 status: "omitted"
 ---
 

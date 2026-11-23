@@ -3,9 +3,9 @@ title: "Section 2081 - Computation of length of service"
 usc_title: 50
 usc_section: "2081"
 chapter: 38
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "50 U.S.C. § 2081"
-generated_at: "2026-11-23T20:51:21.654Z"
+generated_at: "2026-11-23T20:53:51.086Z"
 status: "active"
 ---
 

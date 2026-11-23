@@ -3,9 +3,9 @@ title: "Section 3591 - Definitions"
 usc_title: 5
 usc_section: "3591"
 chapter: 35
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "5 U.S.C. § 3591"
-generated_at: "2026-11-23T20:49:24.056Z"
+generated_at: "2026-11-23T20:52:31.580Z"
 status: "active"
 ---
 

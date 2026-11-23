@@ -3,9 +3,9 @@ title: "Section 20982 - Assistance for prosecution of cases cleared through use 
 usc_title: 34
 usc_section: "20982"
 chapter: 209
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "34 U.S.C. § 20982"
-generated_at: "2026-11-23T20:50:42.091Z"
+generated_at: "2026-11-23T20:53:22.210Z"
 status: "active"
 ---
 

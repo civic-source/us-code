@@ -3,9 +3,9 @@ title: "Section 154512 - Annual report"
 usc_title: 36
 usc_section: "154512"
 chapter: 1545
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "36 U.S.C. § 154512"
-generated_at: "2026-11-23T20:50:46.673Z"
+generated_at: "2026-11-23T20:53:27.773Z"
 status: "active"
 ---
 

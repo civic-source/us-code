@@ -3,9 +3,9 @@ title: "Section 3308 - Protests"
 usc_title: 10
 usc_section: "3308"
 chapter: 241
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "10 U.S.C. § 3308"
-generated_at: "2026-11-23T20:49:42.115Z"
+generated_at: "2026-11-23T20:52:44.220Z"
 status: "active"
 ---
 

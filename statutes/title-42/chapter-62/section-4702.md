@@ -3,9 +3,9 @@ title: "Section 4702 - Administration of authorities"
 usc_title: 42
 usc_section: "4702"
 chapter: 62
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "42 U.S.C. § 4702"
-generated_at: "2026-11-23T20:51:12.603Z"
+generated_at: "2026-11-23T20:53:45.147Z"
 status: "active"
 ---
 

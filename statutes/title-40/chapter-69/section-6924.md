@@ -3,9 +3,9 @@ title: "Section 6924 - Reports and recommendations"
 usc_title: 40
 usc_section: "6924"
 chapter: 69
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "40 U.S.C. § 6924"
-generated_at: "2026-11-23T20:50:45.379Z"
+generated_at: "2026-11-23T20:53:26.645Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4102 - Coordination regarding assessment and acquisition by Nati
 usc_title: 33
 usc_section: "4102"
 chapter: 54
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "33 U.S.C. § 4102"
-generated_at: "2026-11-23T20:50:40.987Z"
+generated_at: "2026-11-23T20:53:24.346Z"
 status: "active"
 ---
 

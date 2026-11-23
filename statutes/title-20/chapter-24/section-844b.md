@@ -3,9 +3,9 @@ title: "Section 844b - Repealed. Pub. L. 93–380, title IV, § 402(c)(2)(ii) , 
 usc_title: 20
 usc_section: "844b"
 chapter: 24
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "20 U.S.C. § 844b"
-generated_at: "2026-11-23T20:50:03.704Z"
+generated_at: "2026-11-23T20:52:59.475Z"
 status: "repealed"
 ---
 

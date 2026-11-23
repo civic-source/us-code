@@ -3,9 +3,9 @@ title: "Section 423 - Omitted"
 usc_title: 22
 usc_section: "423"
 chapter: 9
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "22 U.S.C. § 423"
-generated_at: "2026-11-23T20:50:20.213Z"
+generated_at: "2026-11-23T20:53:10.384Z"
 status: "omitted"
 ---
 

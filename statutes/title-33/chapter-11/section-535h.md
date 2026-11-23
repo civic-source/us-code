@@ -3,9 +3,9 @@ title: "Section 535h - Repealed. Pub. L. 114–120, title III, § 306(b)(6)(C) ,
 usc_title: 33
 usc_section: "535h"
 chapter: 11
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "33 U.S.C. § 535h"
-generated_at: "2026-11-23T20:50:40.624Z"
+generated_at: "2026-11-23T20:53:24.064Z"
 status: "repealed"
 ---
 

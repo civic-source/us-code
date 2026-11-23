@@ -3,9 +3,9 @@ title: "Section 6906 - Matching requirements"
 usc_title: 15
 usc_section: "6906"
 chapter: 95
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "15 U.S.C. § 6906"
-generated_at: "2026-11-23T20:49:54.190Z"
+generated_at: "2026-11-23T20:52:53.063Z"
 status: "active"
 ---
 

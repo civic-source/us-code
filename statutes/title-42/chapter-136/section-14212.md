@@ -3,9 +3,9 @@ title: "Section 14212 - Repealed. Pub. L. 105–33, title X, § 10204(b) , Aug. 
 usc_title: 42
 usc_section: "14212"
 chapter: 136
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "42 U.S.C. § 14212"
-generated_at: "2026-11-23T20:51:13.716Z"
+generated_at: "2026-11-23T20:53:46.041Z"
 status: "repealed"
 ---
 

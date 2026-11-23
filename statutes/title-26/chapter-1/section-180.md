@@ -3,9 +3,9 @@ title: "Section 180 - Expenditures by farmers for fertilizer, etc."
 usc_title: 26
 usc_section: "180"
 chapter: 1
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "26 U.S.C. § 180"
-generated_at: "2026-11-23T20:50:33.988Z"
+generated_at: "2026-11-23T20:53:18.880Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2501a - Voluntary service programs"
 usc_title: 22
 usc_section: "2501a"
 chapter: 34
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "22 U.S.C. § 2501a"
-generated_at: "2026-11-23T20:50:20.486Z"
+generated_at: "2026-11-23T20:53:10.522Z"
 status: "active"
 ---
 

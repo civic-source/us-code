@@ -3,9 +3,9 @@ title: "Section 3203 - Exclusion of particular source or restriction of solicita
 usc_title: 10
 usc_section: "3203"
 chapter: 221
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "10 U.S.C. § 3203"
-generated_at: "2026-11-23T20:49:42.102Z"
+generated_at: "2026-11-23T20:52:44.211Z"
 status: "active"
 ---
 

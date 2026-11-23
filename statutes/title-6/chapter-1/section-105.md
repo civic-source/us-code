@@ -3,9 +3,9 @@ title: "Section 105 - Biodefense analysis and budget submission"
 usc_title: 6
 usc_section: "105"
 chapter: 1
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "6 U.S.C. § 105"
-generated_at: "2026-11-23T20:49:27.204Z"
+generated_at: "2026-11-23T20:52:33.495Z"
 status: "active"
 ---
 

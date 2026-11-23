@@ -3,9 +3,9 @@ title: "Section 714 - Criers and messengers"
 usc_title: 28
 usc_section: "714"
 chapter: 47
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "28 U.S.C. § 714"
-generated_at: "2026-11-23T20:50:24.301Z"
+generated_at: "2026-11-23T20:53:13.293Z"
 status: "active"
 ---
 

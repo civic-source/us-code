@@ -3,9 +3,9 @@ title: "Section 128 - Control and physical protection of special nuclear materia
 usc_title: 10
 usc_section: "128"
 chapter: 3
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "10 U.S.C. § 128"
-generated_at: "2026-11-23T20:49:41.057Z"
+generated_at: "2026-11-23T20:52:43.652Z"
 status: "active"
 ---
 

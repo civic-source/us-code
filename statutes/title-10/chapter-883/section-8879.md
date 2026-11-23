@@ -3,9 +3,9 @@ title: "Section 8879 - Powers of district court over prize property notwithstand
 usc_title: 10
 usc_section: "8879"
 chapter: 883
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "10 U.S.C. § 8879"
-generated_at: "2026-11-23T20:49:42.621Z"
+generated_at: "2026-11-23T20:52:44.440Z"
 status: "active"
 ---
 

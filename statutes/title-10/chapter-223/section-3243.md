@@ -3,9 +3,9 @@ title: "Section 3243 - Encouragement of new competitors: qualification requireme
 usc_title: 10
 usc_section: "3243"
 chapter: 223
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "10 U.S.C. § 3243"
-generated_at: "2026-11-23T20:49:42.110Z"
+generated_at: "2026-11-23T20:52:44.216Z"
 status: "active"
 ---
 

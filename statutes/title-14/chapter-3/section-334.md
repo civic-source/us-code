@@ -3,9 +3,9 @@ title: "Section 334 - National Coast Guard Museum"
 usc_title: 14
 usc_section: "334"
 chapter: 3
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "14 U.S.C. § 334"
-generated_at: "2026-11-23T20:49:45.770Z"
+generated_at: "2026-11-23T20:52:46.190Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 153703 - Membership"
 usc_title: 36
 usc_section: "153703"
 chapter: 1537
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "36 U.S.C. § 153703"
-generated_at: "2026-11-23T20:50:46.662Z"
+generated_at: "2026-11-23T20:53:27.764Z"
 status: "active"
 ---
 

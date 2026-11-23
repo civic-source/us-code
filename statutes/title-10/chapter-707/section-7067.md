@@ -3,9 +3,9 @@ title: "Section 7067 - Army Medical Department"
 usc_title: 10
 usc_section: "7067"
 chapter: 707
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "10 U.S.C. § 7067"
-generated_at: "2026-11-23T20:49:42.362Z"
+generated_at: "2026-11-23T20:52:44.326Z"
 status: "active"
 ---
 

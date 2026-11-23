@@ -3,9 +3,9 @@ title: "Section 2268 - Penalty"
 usc_title: 12
 usc_section: "2268"
 chapter: 23
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "12 U.S.C. § 2268"
-generated_at: "2026-11-23T20:49:49.148Z"
+generated_at: "2026-11-23T20:52:49.254Z"
 status: "active"
 ---
 

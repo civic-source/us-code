@@ -3,9 +3,9 @@ title: "Section 90104 - Officers and employees"
 usc_title: 36
 usc_section: "90104"
 chapter: 901
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "36 U.S.C. § 90104"
-generated_at: "2026-11-23T20:50:46.558Z"
+generated_at: "2026-11-23T20:53:27.687Z"
 status: "active"
 ---
 

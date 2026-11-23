@@ -3,9 +3,9 @@ title: "Section 461 - Relationship to other travel and transportation authoritie
 usc_title: 37
 usc_section: "461"
 chapter: 8
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "37 U.S.C. § 461"
-generated_at: "2026-11-23T20:50:44.220Z"
+generated_at: "2026-11-23T20:53:26.229Z"
 status: "active"
 ---
 

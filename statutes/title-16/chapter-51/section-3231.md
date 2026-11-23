@@ -3,9 +3,9 @@ title: "Section 3231 - Areas subject to national need recommendation process"
 usc_title: 16
 usc_section: "3231"
 chapter: 51
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "16 U.S.C. § 3231"
-generated_at: "2026-11-23T20:50:09.948Z"
+generated_at: "2026-11-23T20:53:03.281Z"
 status: "active"
 ---
 

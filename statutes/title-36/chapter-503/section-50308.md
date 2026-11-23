@@ -3,9 +3,9 @@ title: "Section 50308 - Annual report"
 usc_title: 36
 usc_section: "50308"
 chapter: 503
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "36 U.S.C. § 50308"
-generated_at: "2026-11-23T20:50:46.527Z"
+generated_at: "2026-11-23T20:53:27.665Z"
 status: "active"
 ---
 

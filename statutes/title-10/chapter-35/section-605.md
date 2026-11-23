@@ -3,9 +3,9 @@ title: "Section 605 - Promotion to certain grades for officers with critical ski
 usc_title: 10
 usc_section: "605"
 chapter: 35
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "10 U.S.C. § 605"
-generated_at: "2026-11-23T20:49:41.279Z"
+generated_at: "2026-11-23T20:52:43.774Z"
 status: "active"
 ---
 

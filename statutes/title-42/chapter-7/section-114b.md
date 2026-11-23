@@ -3,9 +3,9 @@ title: "Section 114b - Manufacturer rebate for certain drugs with prices increas
 usc_title: 42
 usc_section: "114b"
 chapter: 7
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "42 U.S.C. § 114b"
-generated_at: "2026-11-23T20:51:11.556Z"
+generated_at: "2026-11-23T20:53:44.380Z"
 status: "active"
 ---
 

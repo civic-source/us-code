@@ -3,9 +3,9 @@ title: "Section 2 - Criminal referral"
 usc_title: 33
 usc_section: "2"
 chapter: 17
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "33 U.S.C. § 2"
-generated_at: "2026-11-23T20:50:40.707Z"
+generated_at: "2026-11-23T20:53:24.129Z"
 status: "active"
 ---
 

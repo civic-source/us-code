@@ -3,9 +3,9 @@ title: "Section 295 - Supervision of expenditure of appropriations for school pu
 usc_title: 25
 usc_section: "295"
 chapter: 7
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "25 U.S.C. § 295"
-generated_at: "2026-11-23T20:50:13.503Z"
+generated_at: "2026-11-23T20:53:05.858Z"
 status: "active"
 ---
 

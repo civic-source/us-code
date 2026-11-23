@@ -3,9 +3,9 @@ title: "Section 446 - Repealed. Nov. 17, 1941, ch. 473, § 2 , 55 Stat. 764"
 usc_title: 22
 usc_section: "446"
 chapter: 9
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "22 U.S.C. § 446"
-generated_at: "2026-11-23T20:50:20.214Z"
+generated_at: "2026-11-23T20:53:10.385Z"
 status: "repealed"
 ---
 

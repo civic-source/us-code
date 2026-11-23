@@ -3,9 +3,9 @@ title: "Section 2153 - Public hearings"
 usc_title: 19
 usc_section: "2153"
 chapter: 12
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "19 U.S.C. § 2153"
-generated_at: "2026-11-23T20:49:58.597Z"
+generated_at: "2026-11-23T20:52:57.539Z"
 status: "active"
 ---
 

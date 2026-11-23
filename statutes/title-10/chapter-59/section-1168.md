@@ -3,9 +3,9 @@ title: "Section 1168 - Discharge or release from active duty: limitations"
 usc_title: 10
 usc_section: "1168"
 chapter: 59
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "10 U.S.C. § 1168"
-generated_at: "2026-11-23T20:49:41.608Z"
+generated_at: "2026-11-23T20:52:43.941Z"
 status: "active"
 ---
 

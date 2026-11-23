@@ -3,9 +3,9 @@ title: "Section 2234 - Encouraging adoption of standards for firefighter health 
 usc_title: 15
 usc_section: "2234"
 chapter: 49
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "15 U.S.C. § 2234"
-generated_at: "2026-11-23T20:49:53.954Z"
+generated_at: "2026-11-23T20:52:52.899Z"
 status: "active"
 ---
 

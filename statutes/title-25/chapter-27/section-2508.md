@@ -3,9 +3,9 @@ title: "Section 2508 - Role of the Director"
 usc_title: 25
 usc_section: "2508"
 chapter: 27
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "25 U.S.C. § 2508"
-generated_at: "2026-11-23T20:50:13.712Z"
+generated_at: "2026-11-23T20:53:06.048Z"
 status: "active"
 ---
 

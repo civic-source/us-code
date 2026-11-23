@@ -3,9 +3,9 @@ title: "Section 1508 - Crop insurance"
 usc_title: 7
 usc_section: "1508"
 chapter: 36
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "7 U.S.C. § 1508"
-generated_at: "2026-11-23T20:49:32.481Z"
+generated_at: "2026-11-23T20:52:37.148Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2082 - Interim cellulose insulation safety standard"
 usc_title: 15
 usc_section: "2082"
 chapter: 47
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "15 U.S.C. § 2082"
-generated_at: "2026-11-23T20:49:53.930Z"
+generated_at: "2026-11-23T20:52:52.881Z"
 status: "active"
 ---
 

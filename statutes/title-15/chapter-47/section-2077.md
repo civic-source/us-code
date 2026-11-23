@@ -3,9 +3,9 @@ title: "Section 2077 - Chronic Hazard Advisory Panels"
 usc_title: 15
 usc_section: "2077"
 chapter: 47
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "15 U.S.C. § 2077"
-generated_at: "2026-11-23T20:49:53.928Z"
+generated_at: "2026-11-23T20:52:52.879Z"
 status: "active"
 ---
 

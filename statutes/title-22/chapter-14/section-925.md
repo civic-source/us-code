@@ -3,9 +3,9 @@ title: "Section 925 - Repealed. Pub. L. 86–723, § 52(2) , Sept. 8, 1960 , 74 
 usc_title: 22
 usc_section: "925"
 chapter: 14
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "22 U.S.C. § 925"
-generated_at: "2026-11-23T20:50:20.226Z"
+generated_at: "2026-11-23T20:53:10.390Z"
 status: "repealed"
 ---
 

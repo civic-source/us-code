@@ -3,9 +3,9 @@ title: "Section 40304 - Grants or contracts"
 usc_title: 51
 usc_section: "40304"
 chapter: 403
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "51 U.S.C. § 40304"
-generated_at: "2026-11-23T20:51:28.853Z"
+generated_at: "2026-11-23T20:53:55.622Z"
 status: "active"
 ---
 

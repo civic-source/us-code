@@ -3,9 +3,9 @@ title: "Section 8265 - Mileage books: commutation tickets"
 usc_title: 10
 usc_section: "8265"
 chapter: 831
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "10 U.S.C. § 8265"
-generated_at: "2026-11-23T20:49:42.496Z"
+generated_at: "2026-11-23T20:52:44.384Z"
 status: "active"
 ---
 

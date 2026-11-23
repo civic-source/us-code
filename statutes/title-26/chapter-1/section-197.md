@@ -3,9 +3,9 @@ title: "Section 197 - Amortization of goodwill and certain other intangibles"
 usc_title: 26
 usc_section: "197"
 chapter: 1
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "26 U.S.C. § 197"
-generated_at: "2026-11-23T20:50:33.995Z"
+generated_at: "2026-11-23T20:53:18.885Z"
 status: "active"
 ---
 

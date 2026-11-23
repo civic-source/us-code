@@ -3,9 +3,9 @@ title: "Section 1763 - Right-of-way corridors; criteria and procedures applicabl
 usc_title: 43
 usc_section: "1763"
 chapter: 35
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "43 U.S.C. § 1763"
-generated_at: "2026-11-23T20:50:54.646Z"
+generated_at: "2026-11-23T20:53:33.292Z"
 status: "active"
 ---
 

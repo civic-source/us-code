@@ -3,9 +3,9 @@ title: "Section 973c - Prohibited acts"
 usc_title: 16
 usc_section: "973c"
 chapter: 16
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "16 U.S.C. § 973c"
-generated_at: "2026-11-23T20:50:09.601Z"
+generated_at: "2026-11-23T20:53:03.089Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7417 - Military history fellowships"
 usc_title: 10
 usc_section: "7417"
 chapter: 751
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "10 U.S.C. § 7417"
-generated_at: "2026-11-23T20:49:42.396Z"
+generated_at: "2026-11-23T20:52:44.342Z"
 status: "active"
 ---
 

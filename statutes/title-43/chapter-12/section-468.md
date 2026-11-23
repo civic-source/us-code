@@ -3,9 +3,9 @@ title: "Section 468 - Withdrawal of notice given and modification of application
 usc_title: 43
 usc_section: "468"
 chapter: 12
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "43 U.S.C. § 468"
-generated_at: "2026-11-23T20:50:54.430Z"
+generated_at: "2026-11-23T20:53:33.173Z"
 status: "active"
 ---
 

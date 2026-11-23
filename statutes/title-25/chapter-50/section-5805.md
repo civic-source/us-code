@@ -3,9 +3,9 @@ title: "Section 5805 - Schools to business incubator pipeline"
 usc_title: 25
 usc_section: "5805"
 chapter: 50
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "25 U.S.C. § 5805"
-generated_at: "2026-11-23T20:50:13.876Z"
+generated_at: "2026-11-23T20:53:06.180Z"
 status: "active"
 ---
 

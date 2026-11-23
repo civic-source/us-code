@@ -3,9 +3,9 @@ title: "Section 691c - Acquisition of areas for Cheyenne Bottoms Refuge; title; 
 usc_title: 16
 usc_section: "691c"
 chapter: 6
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "16 U.S.C. § 691c"
-generated_at: "2026-11-23T20:50:09.424Z"
+generated_at: "2026-11-23T20:53:02.991Z"
 status: "active"
 ---
 

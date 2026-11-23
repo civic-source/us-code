@@ -3,9 +3,9 @@ title: "Section 1b - Countersignature of certificate of election"
 usc_title: 2
 usc_section: "1b"
 chapter: 1
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "2 U.S.C. § 1b"
-generated_at: "2026-11-23T20:49:21.354Z"
+generated_at: "2026-11-23T20:52:29.717Z"
 status: "active"
 ---
 

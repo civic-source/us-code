@@ -3,9 +3,9 @@ title: "Section 204c - Hunting and fishing; general rules and regulations; prote
 usc_title: 16
 usc_section: "204c"
 chapter: 1
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "16 U.S.C. § 204c"
-generated_at: "2026-11-23T20:50:08.771Z"
+generated_at: "2026-11-23T20:53:02.638Z"
 status: "active"
 ---
 

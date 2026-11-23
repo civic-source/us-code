@@ -3,9 +3,9 @@ title: "Section 476 - Restrictions on tanker traffic in Puget Sound and adjacent
 usc_title: 33
 usc_section: "476"
 chapter: 10
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "33 U.S.C. § 476"
-generated_at: "2026-11-23T20:50:40.615Z"
+generated_at: "2026-11-23T20:53:24.057Z"
 status: "active"
 ---
 

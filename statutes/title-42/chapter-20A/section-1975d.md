@@ -3,9 +3,9 @@ title: "Section 1975d - Termination"
 usc_title: 42
 usc_section: "1975d"
 chapter: 20
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "42 U.S.C. § 1975d"
-generated_at: "2026-11-23T20:51:12.184Z"
+generated_at: "2026-11-23T20:53:44.807Z"
 status: "active"
 ---
 

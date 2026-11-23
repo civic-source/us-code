@@ -3,9 +3,9 @@ title: "Section 4586 - Rule of construction"
 usc_title: 50
 usc_section: "4586"
 chapter: 55
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "50 U.S.C. § 4586"
-generated_at: "2026-11-23T20:51:21.966Z"
+generated_at: "2026-11-23T20:53:51.238Z"
 status: "active"
 ---
 

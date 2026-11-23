@@ -3,9 +3,9 @@ title: "Section 5922 - General provisions"
 usc_title: 5
 usc_section: "5922"
 chapter: 59
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "5 U.S.C. § 5922"
-generated_at: "2026-11-23T20:49:24.248Z"
+generated_at: "2026-11-23T20:52:31.679Z"
 status: "active"
 ---
 

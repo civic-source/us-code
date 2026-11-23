@@ -3,9 +3,9 @@ title: "Section 21307 - Allocation of increased formula grant funds"
 usc_title: 34
 usc_section: "21307"
 chapter: 213
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "34 U.S.C. § 21307"
-generated_at: "2026-11-23T20:50:42.099Z"
+generated_at: "2026-11-23T20:53:22.216Z"
 status: "active"
 ---
 

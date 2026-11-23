@@ -3,9 +3,9 @@ title: "Section 521 - Authority to prescribe total strengths of officers on acti
 usc_title: 10
 usc_section: "521"
 chapter: 32
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "10 U.S.C. § 521"
-generated_at: "2026-11-23T20:49:41.253Z"
+generated_at: "2026-11-23T20:52:43.761Z"
 status: "active"
 ---
 

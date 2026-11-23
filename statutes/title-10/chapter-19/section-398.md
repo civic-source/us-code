@@ -3,9 +3,9 @@ title: "Section 398 - Military information support operations in information env
 usc_title: 10
 usc_section: "398"
 chapter: 19
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "10 U.S.C. § 398"
-generated_at: "2026-11-23T20:49:41.205Z"
+generated_at: "2026-11-23T20:52:43.725Z"
 status: "active"
 ---
 

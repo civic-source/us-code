@@ -3,9 +3,9 @@ title: "Section 677f - Omitted"
 usc_title: 25
 usc_section: "677f"
 chapter: 14
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "25 U.S.C. § 677f"
-generated_at: "2026-11-23T20:50:13.558Z"
+generated_at: "2026-11-23T20:53:05.902Z"
 status: "omitted"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3203 - Reporting procedures"
 usc_title: 25
 usc_section: "3203"
 chapter: 34
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "25 U.S.C. § 3203"
-generated_at: "2026-11-23T20:50:13.749Z"
+generated_at: "2026-11-23T20:53:06.076Z"
 status: "active"
 ---
 

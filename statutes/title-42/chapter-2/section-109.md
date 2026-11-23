@@ -3,9 +3,9 @@ title: "Section 109 - Repealed. May 29, 1928, ch. 901, § 1(24) , 45 Stat. 986 ,
 usc_title: 42
 usc_section: "109"
 chapter: 2
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "42 U.S.C. § 109"
-generated_at: "2026-11-23T20:51:10.055Z"
+generated_at: "2026-11-23T20:53:43.369Z"
 status: "repealed"
 ---
 

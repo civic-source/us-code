@@ -3,9 +3,9 @@ title: "Section 4081a - Exception for Government-financed air transportation; re
 usc_title: 22
 usc_section: "4081a"
 chapter: 52
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "22 U.S.C. § 4081a"
-generated_at: "2026-11-23T20:50:20.725Z"
+generated_at: "2026-11-23T20:53:10.635Z"
 status: "active"
 ---
 

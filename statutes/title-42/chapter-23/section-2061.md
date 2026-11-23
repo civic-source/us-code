@@ -3,9 +3,9 @@ title: "Section 2061 - Production facilities"
 usc_title: 42
 usc_section: "2061"
 chapter: 23
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "42 U.S.C. § 2061"
-generated_at: "2026-11-23T20:51:12.246Z"
+generated_at: "2026-11-23T20:53:44.857Z"
 status: "active"
 ---
 

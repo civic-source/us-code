@@ -3,9 +3,9 @@ title: "Section 160g - Designation by Secretary of recreational fishing zones; c
 usc_title: 16
 usc_section: "160g"
 chapter: 1
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "16 U.S.C. § 160g"
-generated_at: "2026-11-23T20:50:08.761Z"
+generated_at: "2026-11-23T20:53:02.633Z"
 status: "active"
 ---
 

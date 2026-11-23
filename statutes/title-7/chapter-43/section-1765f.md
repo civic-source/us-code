@@ -3,9 +3,9 @@ title: "Section 1765f - Availability of agency services, personnel, and faciliti
 usc_title: 7
 usc_section: "1765f"
 chapter: 43
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "7 U.S.C. § 1765f"
-generated_at: "2026-11-23T20:49:32.575Z"
+generated_at: "2026-11-23T20:52:37.237Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 715g - Refusal of carrier to accept shipment without certificate
 usc_title: 15
 usc_section: "715g"
 chapter: 15
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "15 U.S.C. § 715g"
-generated_at: "2026-11-23T20:49:53.658Z"
+generated_at: "2026-11-23T20:52:52.668Z"
 status: "active"
 ---
 

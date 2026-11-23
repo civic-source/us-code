@@ -3,9 +3,9 @@ title: "Section 1131 - Authorization of appropriations"
 usc_title: 33
 usc_section: "1131"
 chapter: 22
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "33 U.S.C. § 1131"
-generated_at: "2026-11-23T20:50:40.734Z"
+generated_at: "2026-11-23T20:53:24.147Z"
 status: "active"
 ---
 

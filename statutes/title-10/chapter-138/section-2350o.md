@@ -3,9 +3,9 @@ title: "Section 2350o - Participation in programs relating to coordination or ex
 usc_title: 10
 usc_section: "2350o"
 chapter: 138
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "10 U.S.C. § 2350o"
-generated_at: "2026-11-23T20:49:41.870Z"
+generated_at: "2026-11-23T20:52:44.102Z"
 status: "active"
 ---
 

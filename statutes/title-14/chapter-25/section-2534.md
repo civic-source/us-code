@@ -3,9 +3,9 @@ title: "Section 2534 - Review of discharge characterization"
 usc_title: 14
 usc_section: "2534"
 chapter: 25
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "14 U.S.C. § 2534"
-generated_at: "2026-11-23T20:49:45.866Z"
+generated_at: "2026-11-23T20:52:46.241Z"
 status: "active"
 ---
 

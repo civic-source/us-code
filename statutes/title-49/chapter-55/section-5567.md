@@ -3,9 +3,9 @@ title: "Section 5567 - Preference for preserving buildings of historic or archit
 usc_title: 49
 usc_section: "5567"
 chapter: 55
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "49 U.S.C. § 5567"
-generated_at: "2026-11-23T20:51:25.812Z"
+generated_at: "2026-11-23T20:53:53.568Z"
 status: "active"
 ---
 

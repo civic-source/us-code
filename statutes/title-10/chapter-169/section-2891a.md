@@ -3,9 +3,9 @@ title: "Section 2891a - Requirements relating to management of housing units"
 usc_title: 10
 usc_section: "2891a"
 chapter: 169
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "10 U.S.C. § 2891a"
-generated_at: "2026-11-23T20:49:42.066Z"
+generated_at: "2026-11-23T20:52:44.194Z"
 status: "active"
 ---
 

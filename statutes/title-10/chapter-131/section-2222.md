@@ -3,9 +3,9 @@ title: "Section 2222 - Defense business systems: business process reengineering;
 usc_title: 10
 usc_section: "2222"
 chapter: 131
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "10 U.S.C. § 2222"
-generated_at: "2026-11-23T20:49:41.827Z"
+generated_at: "2026-11-23T20:52:44.070Z"
 status: "active"
 ---
 

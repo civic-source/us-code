@@ -3,9 +3,9 @@ title: "Section 242 - Repealed. Pub. L. 94–455, title XIX, § 1901(a)(33) , Oc
 usc_title: 26
 usc_section: "242"
 chapter: 1
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "26 U.S.C. § 242"
-generated_at: "2026-11-23T20:50:34.018Z"
+generated_at: "2026-11-23T20:53:18.897Z"
 status: "repealed"
 ---
 

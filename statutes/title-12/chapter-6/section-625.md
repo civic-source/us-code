@@ -3,9 +3,9 @@ title: "Section 625 - Stockholders’ meetings; books and records; reports; exam
 usc_title: 12
 usc_section: "625"
 chapter: 6
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "12 U.S.C. § 625"
-generated_at: "2026-11-23T20:49:48.770Z"
+generated_at: "2026-11-23T20:52:48.874Z"
 status: "active"
 ---
 

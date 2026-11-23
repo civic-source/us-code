@@ -3,9 +3,9 @@ title: "Section 6934 - Monitoring, analysis, and testing"
 usc_title: 42
 usc_section: "6934"
 chapter: 82
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "42 U.S.C. § 6934"
-generated_at: "2026-11-23T20:51:12.934Z"
+generated_at: "2026-11-23T20:53:45.413Z"
 status: "active"
 ---
 

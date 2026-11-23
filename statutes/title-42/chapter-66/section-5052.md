@@ -3,9 +3,9 @@ title: "Section 5052 - Suspension and termination of financial assistance; proce
 usc_title: 42
 usc_section: "5052"
 chapter: 66
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "42 U.S.C. § 5052"
-generated_at: "2026-11-23T20:51:12.640Z"
+generated_at: "2026-11-23T20:53:45.178Z"
 status: "active"
 ---
 

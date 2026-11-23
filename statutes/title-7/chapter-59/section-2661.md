@@ -3,9 +3,9 @@ title: "Section 2661 - Statement of purposes and goals"
 usc_title: 7
 usc_section: "2661"
 chapter: 59
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "7 U.S.C. § 2661"
-generated_at: "2026-11-23T20:49:32.792Z"
+generated_at: "2026-11-23T20:52:37.414Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1716 - Hospital care by other agencies of the United States"
 usc_title: 38
 usc_section: "1716"
 chapter: 17
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "38 U.S.C. § 1716"
-generated_at: "2026-11-23T20:50:49.403Z"
+generated_at: "2026-11-23T20:53:29.621Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 10237 - Limitation on civil justice matters"
 usc_title: 34
 usc_section: "10237"
 chapter: 101
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "34 U.S.C. § 10237"
-generated_at: "2026-11-23T20:50:41.883Z"
+generated_at: "2026-11-23T20:53:22.074Z"
 status: "active"
 ---
 

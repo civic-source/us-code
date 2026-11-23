@@ -3,9 +3,9 @@ title: "Section 4147 - Administrative expenses"
 usc_title: 50
 usc_section: "4147"
 chapter: 51
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "50 U.S.C. § 4147"
-generated_at: "2026-11-23T20:51:21.907Z"
+generated_at: "2026-11-23T20:53:51.212Z"
 status: "active"
 ---
 

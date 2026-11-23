@@ -3,9 +3,9 @@ title: "Section 501 - Creation of body corporate; directors; principal office; a
 usc_title: 15
 usc_section: "501"
 chapter: 13
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "15 U.S.C. § 501"
-generated_at: "2026-11-23T20:49:53.471Z"
+generated_at: "2026-11-23T20:52:52.514Z"
 status: "active"
 ---
 

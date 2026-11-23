@@ -3,9 +3,9 @@ title: "Section 551 - Declaration of policy"
 usc_title: 30
 usc_section: "551"
 chapter: 13
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "30 U.S.C. § 551"
-generated_at: "2026-11-23T20:50:22.923Z"
+generated_at: "2026-11-23T20:53:12.467Z"
 status: "active"
 ---
 

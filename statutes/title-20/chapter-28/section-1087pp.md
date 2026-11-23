@@ -3,9 +3,9 @@ title: "Section 1087pp - Student aid index for independent students without depe
 usc_title: 20
 usc_section: "1087pp"
 chapter: 28
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "20 U.S.C. § 1087pp"
-generated_at: "2026-11-23T20:50:03.939Z"
+generated_at: "2026-11-23T20:52:59.647Z"
 status: "active"
 ---
 

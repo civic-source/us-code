@@ -3,9 +3,9 @@ title: "Section 10596 - Definitions"
 usc_title: 34
 usc_section: "10596"
 chapter: 101
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "34 U.S.C. § 10596"
-generated_at: "2026-11-23T20:50:41.933Z"
+generated_at: "2026-11-23T20:53:22.100Z"
 status: "active"
 ---
 

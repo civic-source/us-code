@@ -3,9 +3,9 @@ title: "Section 4101e - Exemption from fees for certain map change requests"
 usc_title: 42
 usc_section: "4101e"
 chapter: 50
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "42 U.S.C. § 4101e"
-generated_at: "2026-11-23T20:51:12.554Z"
+generated_at: "2026-11-23T20:53:45.105Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1965 - Volunteer status"
 usc_title: 33
 usc_section: "1965"
 chapter: 33
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "33 U.S.C. § 1965"
-generated_at: "2026-11-23T20:50:40.855Z"
+generated_at: "2026-11-23T20:53:24.240Z"
 status: "active"
 ---
 

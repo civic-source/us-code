@@ -3,9 +3,9 @@ title: "Section 20127 - Emergency and transitional pet shelter and housing assis
 usc_title: 34
 usc_section: "20127"
 chapter: 201
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "34 U.S.C. § 20127"
-generated_at: "2026-11-23T20:50:42.055Z"
+generated_at: "2026-11-23T20:53:22.180Z"
 status: "active"
 ---
 

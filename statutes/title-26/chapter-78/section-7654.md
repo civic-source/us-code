@@ -3,9 +3,9 @@ title: "Section 7654 - Coordination of United States and certain possession indi
 usc_title: 26
 usc_section: "7654"
 chapter: 78
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "26 U.S.C. § 7654"
-generated_at: "2026-11-23T20:50:35.280Z"
+generated_at: "2026-11-23T20:53:19.636Z"
 status: "active"
 ---
 

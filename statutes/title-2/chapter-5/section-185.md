@@ -3,9 +3,9 @@ title: "Section 185 - Inspector General of the Library of Congress"
 usc_title: 2
 usc_section: "185"
 chapter: 5
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "2 U.S.C. § 185"
-generated_at: "2026-11-23T20:49:21.417Z"
+generated_at: "2026-11-23T20:52:29.743Z"
 status: "active"
 ---
 

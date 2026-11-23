@@ -3,9 +3,9 @@ title: "Section 1073a - Contracts for health care: best value contracting"
 usc_title: 10
 usc_section: "1073a"
 chapter: 55
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "10 U.S.C. § 1073a"
-generated_at: "2026-11-23T20:49:41.514Z"
+generated_at: "2026-11-23T20:52:43.893Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 952 - Construction of Coast Guard vessels and assignment of vess
 usc_title: 14
 usc_section: "952"
 chapter: 9
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "14 U.S.C. § 952"
-generated_at: "2026-11-23T20:49:45.803Z"
+generated_at: "2026-11-23T20:52:46.208Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5759 - Retention and relocation bonuses for the Federal Bureau o
 usc_title: 5
 usc_section: "5759"
 chapter: 57
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "5 U.S.C. § 5759"
-generated_at: "2026-11-23T20:49:24.244Z"
+generated_at: "2026-11-23T20:52:31.676Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7301 - General"
 usc_title: 46
 usc_section: "7301"
 chapter: 73
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "46 U.S.C. § 7301"
-generated_at: "2026-11-23T20:51:19.223Z"
+generated_at: "2026-11-23T20:53:49.641Z"
 status: "active"
 ---
 

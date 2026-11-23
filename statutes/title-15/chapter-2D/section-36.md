@@ -3,9 +3,9 @@ title: "Section 36 - Larceny and embezzlement"
 usc_title: 15
 usc_section: "36"
 chapter: 2
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "15 U.S.C. § 36"
-generated_at: "2026-11-23T20:49:53.385Z"
+generated_at: "2026-11-23T20:52:52.440Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2052 - Requirements"
 usc_title: 38
 usc_section: "2052"
 chapter: 20
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "38 U.S.C. § 2052"
-generated_at: "2026-11-23T20:50:49.496Z"
+generated_at: "2026-11-23T20:53:29.667Z"
 status: "active"
 ---
 

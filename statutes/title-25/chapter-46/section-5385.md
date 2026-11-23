@@ -3,9 +3,9 @@ title: "Section 5385 - Funding agreements"
 usc_title: 25
 usc_section: "5385"
 chapter: 46
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "25 U.S.C. § 5385"
-generated_at: "2026-11-23T20:50:13.857Z"
+generated_at: "2026-11-23T20:53:06.163Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2321k - Designation of major non-NATO allies"
 usc_title: 22
 usc_section: "2321k"
 chapter: 32
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "22 U.S.C. § 2321k"
-generated_at: "2026-11-23T20:50:20.402Z"
+generated_at: "2026-11-23T20:53:10.484Z"
 status: "active"
 ---
 

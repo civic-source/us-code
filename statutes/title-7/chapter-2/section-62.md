@@ -3,9 +3,9 @@ title: "Section 62 - Definitions"
 usc_title: 7
 usc_section: "62"
 chapter: 2
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "7 U.S.C. § 62"
-generated_at: "2026-11-23T20:49:32.185Z"
+generated_at: "2026-11-23T20:52:36.865Z"
 status: "active"
 ---
 

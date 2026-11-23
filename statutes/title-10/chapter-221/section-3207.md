@@ -3,9 +3,9 @@ title: "Section 3207 - Assessment before contract for acquisition of supplies is
 usc_title: 10
 usc_section: "3207"
 chapter: 221
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "10 U.S.C. § 3207"
-generated_at: "2026-11-23T20:49:42.106Z"
+generated_at: "2026-11-23T20:52:44.213Z"
 status: "active"
 ---
 

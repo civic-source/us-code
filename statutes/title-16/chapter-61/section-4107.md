@@ -3,9 +3,9 @@ title: "Section 4107 - Repealed. Pub. L. 117–328, div. S, title II, § 204(a) 
 usc_title: 16
 usc_section: "4107"
 chapter: 61
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "16 U.S.C. § 4107"
-generated_at: "2026-11-23T20:50:10.053Z"
+generated_at: "2026-11-23T20:53:03.324Z"
 status: "repealed"
 ---
 

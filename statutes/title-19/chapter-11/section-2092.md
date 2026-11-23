@@ -3,9 +3,9 @@ title: "Section 2092 - Export certification requirement"
 usc_title: 19
 usc_section: "2092"
 chapter: 11
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "19 U.S.C. § 2092"
-generated_at: "2026-11-23T20:49:58.581Z"
+generated_at: "2026-11-23T20:52:57.533Z"
 status: "active"
 ---
 

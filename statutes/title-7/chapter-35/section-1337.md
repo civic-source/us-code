@@ -3,9 +3,9 @@ title: "Section 1337 - Repealed. Pub. L. 87–703, title III, § 317 , Sept. 27,
 usc_title: 7
 usc_section: "1337"
 chapter: 35
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "7 U.S.C. § 1337"
-generated_at: "2026-11-23T20:49:32.410Z"
+generated_at: "2026-11-23T20:52:37.100Z"
 status: "repealed"
 ---
 

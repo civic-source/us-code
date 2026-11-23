@@ -3,9 +3,9 @@ title: "Section 373b - Restricted estate or homestead on the public domain"
 usc_title: 25
 usc_section: "373b"
 chapter: 10
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "25 U.S.C. § 373b"
-generated_at: "2026-11-23T20:50:13.518Z"
+generated_at: "2026-11-23T20:53:05.872Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1631m - Lien, attachment, garnishment, etc., of transferred prop
 usc_title: 22
 usc_section: "1631m"
 chapter: 21
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "22 U.S.C. § 1631m"
-generated_at: "2026-11-23T20:50:20.265Z"
+generated_at: "2026-11-23T20:53:10.407Z"
 status: "active"
 ---
 

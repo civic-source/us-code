@@ -3,9 +3,9 @@ title: "Section 7806 - Limitation"
 usc_title: 15
 usc_section: "7806"
 chapter: 104
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "15 U.S.C. § 7806"
-generated_at: "2026-11-23T20:49:54.240Z"
+generated_at: "2026-11-23T20:52:53.090Z"
 status: "active"
 ---
 

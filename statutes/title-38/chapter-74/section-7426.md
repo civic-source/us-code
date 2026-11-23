@@ -3,9 +3,9 @@ title: "Section 7426 - Retirement rights"
 usc_title: 38
 usc_section: "7426"
 chapter: 74
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "38 U.S.C. § 7426"
-generated_at: "2026-11-23T20:50:49.791Z"
+generated_at: "2026-11-23T20:53:29.835Z"
 status: "active"
 ---
 

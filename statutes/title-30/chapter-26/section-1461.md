@@ -3,9 +3,9 @@ title: "Section 1461 - Prohibited acts"
 usc_title: 30
 usc_section: "1461"
 chapter: 26
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "30 U.S.C. § 1461"
-generated_at: "2026-11-23T20:50:23.018Z"
+generated_at: "2026-11-23T20:53:12.549Z"
 status: "active"
 ---
 

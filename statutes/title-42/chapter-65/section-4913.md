@@ -3,9 +3,9 @@ title: "Section 4913 - Quiet communities, research, and public information"
 usc_title: 42
 usc_section: "4913"
 chapter: 65
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "42 U.S.C. § 4913"
-generated_at: "2026-11-23T20:51:12.625Z"
+generated_at: "2026-11-23T20:53:45.165Z"
 status: "active"
 ---
 

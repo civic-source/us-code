@@ -3,9 +3,9 @@ title: "Section 3044 - Services and information for organization, financing, and
 usc_title: 12
 usc_section: "3044"
 chapter: 31
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "12 U.S.C. § 3044"
-generated_at: "2026-11-23T20:49:49.191Z"
+generated_at: "2026-11-23T20:52:49.297Z"
 status: "active"
 ---
 

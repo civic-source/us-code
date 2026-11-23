@@ -3,9 +3,9 @@ title: "Section 7671q - Miscellaneous provisions"
 usc_title: 42
 usc_section: "7671q"
 chapter: 85
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "42 U.S.C. § 7671q"
-generated_at: "2026-11-23T20:51:13.172Z"
+generated_at: "2026-11-23T20:53:45.603Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 90a - Ross Lake National Recreation Area; establishment; stateme
 usc_title: 16
 usc_section: "90a"
 chapter: 1
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "16 U.S.C. § 90a"
-generated_at: "2026-11-23T20:50:08.744Z"
+generated_at: "2026-11-23T20:53:02.624Z"
 status: "active"
 ---
 

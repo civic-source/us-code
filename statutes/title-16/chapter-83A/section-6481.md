@@ -3,9 +3,9 @@ title: "Section 6481 - Susan L. Williams National Coral Reef Management Fellowsh
 usc_title: 16
 usc_section: "6481"
 chapter: 83
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "16 U.S.C. § 6481"
-generated_at: "2026-11-23T20:50:10.126Z"
+generated_at: "2026-11-23T20:53:03.358Z"
 status: "active"
 ---
 

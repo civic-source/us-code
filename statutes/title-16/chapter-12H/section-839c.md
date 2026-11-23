@@ -3,9 +3,9 @@ title: "Section 839c - Sale of power"
 usc_title: 16
 usc_section: "839c"
 chapter: 12
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "16 U.S.C. § 839c"
-generated_at: "2026-11-23T20:50:09.578Z"
+generated_at: "2026-11-23T20:53:03.073Z"
 status: "active"
 ---
 

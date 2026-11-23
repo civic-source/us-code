@@ -3,9 +3,9 @@ title: "Section 4061 - Commencing of action for relief"
 usc_title: 19
 usc_section: "4061"
 chapter: 26
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "19 U.S.C. § 4061"
-generated_at: "2026-11-23T20:49:58.849Z"
+generated_at: "2026-11-23T20:52:57.661Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 139c - Repealed. Pub. L. 114–328, div. A, title IX, § 901(e)(
 usc_title: 10
 usc_section: "139c"
 chapter: 4
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "10 U.S.C. § 139c"
-generated_at: "2026-11-23T20:49:41.086Z"
+generated_at: "2026-11-23T20:52:43.666Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2219 - Grants for improvement of Navy ship repair or alterations
 usc_title: 10
 usc_section: "2219"
 chapter: 131
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "10 U.S.C. § 2219"
-generated_at: "2026-11-23T20:49:41.827Z"
+generated_at: "2026-11-23T20:52:44.070Z"
 status: "active"
 ---
 

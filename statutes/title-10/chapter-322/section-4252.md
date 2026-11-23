@@ -3,9 +3,9 @@ title: "Section 4252 - Major defense acquisition programs: factors to be conside
 usc_title: 10
 usc_section: "4252"
 chapter: 322
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "10 U.S.C. § 4252"
-generated_at: "2026-11-23T20:49:42.212Z"
+generated_at: "2026-11-23T20:52:44.263Z"
 status: "active"
 ---
 

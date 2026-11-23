@@ -3,9 +3,9 @@ title: "Section 209 - Appointment of personnel"
 usc_title: 42
 usc_section: "209"
 chapter: 6
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "42 U.S.C. § 209"
-generated_at: "2026-11-23T20:51:10.081Z"
+generated_at: "2026-11-23T20:53:43.379Z"
 status: "active"
 ---
 

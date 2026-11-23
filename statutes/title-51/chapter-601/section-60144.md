@@ -3,9 +3,9 @@ title: "Section 60144 - Reimbursement for assistance"
 usc_title: 51
 usc_section: "60144"
 chapter: 601
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "51 U.S.C. § 60144"
-generated_at: "2026-11-23T20:51:28.898Z"
+generated_at: "2026-11-23T20:53:55.650Z"
 status: "active"
 ---
 

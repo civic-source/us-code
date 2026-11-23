@@ -3,9 +3,9 @@ title: "Section 546a - Boundaries"
 usc_title: 16
 usc_section: "546a"
 chapter: 2
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "16 U.S.C. § 546a"
-generated_at: "2026-11-23T20:50:09.325Z"
+generated_at: "2026-11-23T20:53:02.947Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2 - Acquisition, management, and disposal of lands by Tulalip Tr
 usc_title: 25
 usc_section: "2"
 chapter: 12
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "25 U.S.C. § 2"
-generated_at: "2026-11-23T20:50:13.525Z"
+generated_at: "2026-11-23T20:53:05.880Z"
 status: "active"
 ---
 

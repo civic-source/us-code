@@ -3,9 +3,9 @@ title: "Section 1733 - Product support manager"
 usc_title: 10
 usc_section: "1733"
 chapter: 87
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "10 U.S.C. § 1733"
-generated_at: "2026-11-23T20:49:41.751Z"
+generated_at: "2026-11-23T20:52:44.021Z"
 status: "active"
 ---
 

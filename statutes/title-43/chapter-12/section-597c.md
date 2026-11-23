@@ -3,9 +3,9 @@ title: "Section 597c - Reservation of Indians’ right to use lands"
 usc_title: 43
 usc_section: "597c"
 chapter: 12
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "43 U.S.C. § 597c"
-generated_at: "2026-11-23T20:50:54.453Z"
+generated_at: "2026-11-23T20:53:33.191Z"
 status: "active"
 ---
 

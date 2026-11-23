@@ -3,9 +3,9 @@ title: "Section 53111 - Authorization of appropriations"
 usc_title: 46
 usc_section: "53111"
 chapter: 531
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "46 U.S.C. § 53111"
-generated_at: "2026-11-23T20:51:19.459Z"
+generated_at: "2026-11-23T20:53:49.815Z"
 status: "active"
 ---
 

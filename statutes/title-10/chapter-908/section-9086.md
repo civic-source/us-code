@@ -3,9 +3,9 @@ title: "Section 9086 - Regular Space Force: composition"
 usc_title: 10
 usc_section: "9086"
 chapter: 908
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "10 U.S.C. § 9086"
-generated_at: "2026-11-23T20:49:42.649Z"
+generated_at: "2026-11-23T20:52:44.452Z"
 status: "active"
 ---
 

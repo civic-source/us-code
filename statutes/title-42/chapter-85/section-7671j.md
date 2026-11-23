@@ -3,9 +3,9 @@ title: "Section 7671j - Labeling"
 usc_title: 42
 usc_section: "7671j"
 chapter: 85
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "42 U.S.C. § 7671j"
-generated_at: "2026-11-23T20:51:13.170Z"
+generated_at: "2026-11-23T20:53:45.601Z"
 status: "active"
 ---
 

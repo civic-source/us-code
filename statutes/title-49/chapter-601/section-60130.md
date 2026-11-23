@@ -3,9 +3,9 @@ title: "Section 60130 - Pipeline safety information grants to communities"
 usc_title: 49
 usc_section: "60130"
 chapter: 601
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "49 U.S.C. § 60130"
-generated_at: "2026-11-23T20:51:26.550Z"
+generated_at: "2026-11-23T20:53:53.939Z"
 status: "active"
 ---
 

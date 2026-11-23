@@ -3,9 +3,9 @@ title: "Section 4834 - Security Review Committee findings and report"
 usc_title: 22
 usc_section: "4834"
 chapter: 58
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "22 U.S.C. § 4834"
-generated_at: "2026-11-23T20:50:20.754Z"
+generated_at: "2026-11-23T20:53:10.659Z"
 status: "active"
 ---
 

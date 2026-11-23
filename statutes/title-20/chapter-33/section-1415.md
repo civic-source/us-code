@@ -3,9 +3,9 @@ title: "Section 1415 - Procedural safeguards"
 usc_title: 20
 usc_section: "1415"
 chapter: 33
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "20 U.S.C. § 1415"
-generated_at: "2026-11-23T20:50:04.093Z"
+generated_at: "2026-11-23T20:52:59.767Z"
 status: "active"
 ---
 

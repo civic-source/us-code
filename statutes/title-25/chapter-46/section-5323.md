@@ -3,9 +3,9 @@ title: "Section 5323 - Retention of Federal employee coverage, rights and benefi
 usc_title: 25
 usc_section: "5323"
 chapter: 46
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "25 U.S.C. § 5323"
-generated_at: "2026-11-23T20:50:13.835Z"
+generated_at: "2026-11-23T20:53:06.145Z"
 status: "active"
 ---
 

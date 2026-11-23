@@ -3,9 +3,9 @@ title: "Section 187 - Repealed. Pub. L. 87–826, § 3 , Oct. 15, 1962 , 76 Stat
 usc_title: 15
 usc_section: "187"
 chapter: 5
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "15 U.S.C. § 187"
-generated_at: "2026-11-23T20:49:53.419Z"
+generated_at: "2026-11-23T20:52:52.469Z"
 status: "repealed"
 ---
 

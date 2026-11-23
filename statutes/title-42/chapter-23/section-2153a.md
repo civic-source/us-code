@@ -3,9 +3,9 @@ title: "Section 2153a - Approval for enrichment after export of source or specia
 usc_title: 42
 usc_section: "2153a"
 chapter: 23
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "42 U.S.C. § 2153a"
-generated_at: "2026-11-23T20:51:12.264Z"
+generated_at: "2026-11-23T20:53:44.871Z"
 status: "active"
 ---
 

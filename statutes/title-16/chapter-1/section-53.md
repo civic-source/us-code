@@ -3,9 +3,9 @@ title: "Section 53 - Science committee"
 usc_title: 16
 usc_section: "53"
 chapter: 1
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "16 U.S.C. § 53"
-generated_at: "2026-11-23T20:50:09.210Z"
+generated_at: "2026-11-23T20:53:02.885Z"
 status: "active"
 ---
 

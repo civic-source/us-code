@@ -3,9 +3,9 @@ title: "Section 7612 - Eligibility; application; agreement"
 usc_title: 38
 usc_section: "7612"
 chapter: 76
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "38 U.S.C. § 7612"
-generated_at: "2026-11-23T20:50:49.812Z"
+generated_at: "2026-11-23T20:53:29.848Z"
 status: "active"
 ---
 

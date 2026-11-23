@@ -3,9 +3,9 @@ title: "Section 20906 - Powers"
 usc_title: 36
 usc_section: "20906"
 chapter: 209
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "36 U.S.C. § 20906"
-generated_at: "2026-11-23T20:50:46.439Z"
+generated_at: "2026-11-23T20:53:27.617Z"
 status: "active"
 ---
 

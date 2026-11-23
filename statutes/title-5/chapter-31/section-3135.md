@@ -3,9 +3,9 @@ title: "Section 3135 - Repealed. Pub. L. 104–66, title II, § 2181(a)(1) , Dec
 usc_title: 5
 usc_section: "3135"
 chapter: 31
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "5 U.S.C. § 3135"
-generated_at: "2026-11-23T20:49:24.016Z"
+generated_at: "2026-11-23T20:52:31.552Z"
 status: "repealed"
 ---
 

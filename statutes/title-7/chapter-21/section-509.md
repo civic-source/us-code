@@ -3,9 +3,9 @@ title: "Section 509 - Repealed. Pub. L. 104–127, title II, § 262 , Apr. 4, 19
 usc_title: 7
 usc_section: "509"
 chapter: 21
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "7 U.S.C. § 509"
-generated_at: "2026-11-23T20:49:32.323Z"
+generated_at: "2026-11-23T20:52:37.007Z"
 status: "repealed"
 ---
 

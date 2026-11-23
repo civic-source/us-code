@@ -3,9 +3,9 @@ title: "Section 3309 - Buildings and sites in the District of Columbia"
 usc_title: 40
 usc_section: "3309"
 chapter: 33
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "40 U.S.C. § 3309"
-generated_at: "2026-11-23T20:50:45.334Z"
+generated_at: "2026-11-23T20:53:26.629Z"
 status: "active"
 ---
 

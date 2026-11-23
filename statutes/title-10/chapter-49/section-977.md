@@ -3,9 +3,9 @@ title: "Section 977 - Conversion of military medical and dental positions to civ
 usc_title: 10
 usc_section: "977"
 chapter: 49
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "10 U.S.C. § 977"
-generated_at: "2026-11-23T20:49:41.457Z"
+generated_at: "2026-11-23T20:52:43.867Z"
 status: "active"
 ---
 

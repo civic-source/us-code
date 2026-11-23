@@ -3,9 +3,9 @@ title: "Section 1803 - Antitrust exemptions"
 usc_title: 15
 usc_section: "1803"
 chapter: 43
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "15 U.S.C. § 1803"
-generated_at: "2026-11-23T20:49:53.890Z"
+generated_at: "2026-11-23T20:52:52.852Z"
 status: "active"
 ---
 

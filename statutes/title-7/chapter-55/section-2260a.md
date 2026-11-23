@@ -3,9 +3,9 @@ title: "Section 2260a - Repealed. Pub. L. 107–171, title X, § 10418(a)(3) , (
 usc_title: 7
 usc_section: "2260a"
 chapter: 55
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "7 U.S.C. § 2260a"
-generated_at: "2026-11-23T20:49:32.758Z"
+generated_at: "2026-11-23T20:52:37.387Z"
 status: "repealed"
 ---
 

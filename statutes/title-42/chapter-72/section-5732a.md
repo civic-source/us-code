@@ -3,9 +3,9 @@ title: "Section 5732a - Transferred"
 usc_title: 42
 usc_section: "5732a"
 chapter: 72
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "42 U.S.C. § 5732a"
-generated_at: "2026-11-23T20:51:12.755Z"
+generated_at: "2026-11-23T20:53:45.272Z"
 status: "transferred"
 ---
 

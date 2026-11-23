@@ -3,9 +3,9 @@ title: "Section 8316 - Refund of contributions and deposits"
 usc_title: 5
 usc_section: "8316"
 chapter: 83
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "5 U.S.C. § 8316"
-generated_at: "2026-11-23T20:49:24.368Z"
+generated_at: "2026-11-23T20:52:31.747Z"
 status: "active"
 ---
 

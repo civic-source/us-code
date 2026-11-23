@@ -3,9 +3,9 @@ title: "Section 918c - Rural and remote communities electrification grants"
 usc_title: 7
 usc_section: "918c"
 chapter: 31
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "7 U.S.C. § 918c"
-generated_at: "2026-11-23T20:49:32.366Z"
+generated_at: "2026-11-23T20:52:37.043Z"
 status: "active"
 ---
 

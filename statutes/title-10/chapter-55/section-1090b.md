@@ -3,9 +3,9 @@ title: "Section 1090b - Commanding officer and supervisor referrals of members f
 usc_title: 10
 usc_section: "1090b"
 chapter: 55
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "10 U.S.C. § 1090b"
-generated_at: "2026-11-23T20:49:41.559Z"
+generated_at: "2026-11-23T20:52:43.918Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 17825 - Repealed or Omitted"
 usc_title: 42
 usc_section: "17825"
 chapter: 155
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "42 U.S.C. § 17825"
-generated_at: "2026-11-23T20:51:13.958Z"
+generated_at: "2026-11-23T20:53:46.186Z"
 status: "repealed"
 ---
 

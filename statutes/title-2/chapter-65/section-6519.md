@@ -3,9 +3,9 @@ title: "Section 6519 - McCain-Mansfield and SFC Sean Cooley and SPC Christopher 
 usc_title: 2
 usc_section: "6519"
 chapter: 65
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "2 U.S.C. § 6519"
-generated_at: "2026-11-23T20:49:21.688Z"
+generated_at: "2026-11-23T20:52:29.898Z"
 status: "active"
 ---
 

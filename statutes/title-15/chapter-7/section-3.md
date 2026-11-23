@@ -3,9 +3,9 @@ title: "Section 3 - Computer standards program"
 usc_title: 15
 usc_section: "3"
 chapter: 7
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "15 U.S.C. § 3"
-generated_at: "2026-11-23T20:49:53.440Z"
+generated_at: "2026-11-23T20:52:52.487Z"
 status: "active"
 ---
 

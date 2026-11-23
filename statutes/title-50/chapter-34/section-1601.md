@@ -3,9 +3,9 @@ title: "Section 1601 - Termination of existing declared emergencies"
 usc_title: 50
 usc_section: "1601"
 chapter: 34
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "50 U.S.C. § 1601"
-generated_at: "2026-11-23T20:51:21.569Z"
+generated_at: "2026-11-23T20:53:51.045Z"
 status: "active"
 ---
 

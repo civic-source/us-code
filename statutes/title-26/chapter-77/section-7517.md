@@ -3,9 +3,9 @@ title: "Section 7517 - Furnishing on request of statement explaining estate or g
 usc_title: 26
 usc_section: "7517"
 chapter: 77
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "26 U.S.C. § 7517"
-generated_at: "2026-11-23T20:50:35.250Z"
+generated_at: "2026-11-23T20:53:19.625Z"
 status: "active"
 ---
 

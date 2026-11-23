@@ -3,9 +3,9 @@ title: "Section 797c - Dams in National Park System units"
 usc_title: 16
 usc_section: "797c"
 chapter: 12
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "16 U.S.C. § 797c"
-generated_at: "2026-11-23T20:50:09.504Z"
+generated_at: "2026-11-23T20:53:03.026Z"
 status: "active"
 ---
 

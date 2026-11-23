@@ -3,9 +3,9 @@ title: "Section 5115 - Authorization of appropriations"
 usc_title: 42
 usc_section: "5115"
 chapter: 67
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "42 U.S.C. § 5115"
-generated_at: "2026-11-23T20:51:12.661Z"
+generated_at: "2026-11-23T20:53:45.195Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 442 - Litigation management"
 usc_title: 6
 usc_section: "442"
 chapter: 1
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "6 U.S.C. § 442"
-generated_at: "2026-11-23T20:49:27.429Z"
+generated_at: "2026-11-23T20:52:33.558Z"
 status: "active"
 ---
 

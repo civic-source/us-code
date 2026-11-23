@@ -3,9 +3,9 @@ title: "Section 3 - Critical capital level"
 usc_title: 12
 usc_section: "3"
 chapter: 23
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "12 U.S.C. § 3"
-generated_at: "2026-11-23T20:49:49.166Z"
+generated_at: "2026-11-23T20:52:49.277Z"
 status: "active"
 ---
 

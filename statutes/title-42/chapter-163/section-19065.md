@@ -3,9 +3,9 @@ title: "Section 19065 - Clean water research and technology acceleration"
 usc_title: 42
 usc_section: "19065"
 chapter: 163
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "42 U.S.C. § 19065"
-generated_at: "2026-11-23T20:51:14.069Z"
+generated_at: "2026-11-23T20:53:46.269Z"
 status: "active"
 ---
 

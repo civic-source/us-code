@@ -3,9 +3,9 @@ title: "Section 102 - Gifts and inheritances"
 usc_title: 26
 usc_section: "102"
 chapter: 1
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "26 U.S.C. § 102"
-generated_at: "2026-11-23T20:50:33.841Z"
+generated_at: "2026-11-23T20:53:18.766Z"
 status: "active"
 ---
 

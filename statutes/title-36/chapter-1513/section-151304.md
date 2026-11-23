@@ -3,9 +3,9 @@ title: "Section 151304 - Officers and employees"
 usc_title: 36
 usc_section: "151304"
 chapter: 1513
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "36 U.S.C. § 151304"
-generated_at: "2026-11-23T20:50:46.624Z"
+generated_at: "2026-11-23T20:53:27.728Z"
 status: "active"
 ---
 

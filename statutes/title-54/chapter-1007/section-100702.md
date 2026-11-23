@@ -3,9 +3,9 @@ title: "Section 100702 - Research mandate"
 usc_title: 54
 usc_section: "100702"
 chapter: 1007
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "54 U.S.C. § 100702"
-generated_at: "2026-11-23T20:51:29.445Z"
+generated_at: "2026-11-23T20:53:55.876Z"
 status: "active"
 ---
 

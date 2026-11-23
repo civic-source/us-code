@@ -3,9 +3,9 @@ title: "Section 12 - Deposit of net realized gain of Commodity Credit Corporatio
 usc_title: 15
 usc_section: "12"
 chapter: 15
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "15 U.S.C. § 12"
-generated_at: "2026-11-23T20:49:53.649Z"
+generated_at: "2026-11-23T20:52:52.660Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 331 - General bonus authority for enlisted members"
 usc_title: 37
 usc_section: "331"
 chapter: 5
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "37 U.S.C. § 331"
-generated_at: "2026-11-23T20:50:44.164Z"
+generated_at: "2026-11-23T20:53:26.203Z"
 status: "active"
 ---
 

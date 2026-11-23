@@ -3,9 +3,9 @@ title: "Section 21721 - Establishment of best practices for local, State, and Fe
 usc_title: 34
 usc_section: "21721"
 chapter: 217
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "34 U.S.C. § 21721"
-generated_at: "2026-11-23T20:50:42.103Z"
+generated_at: "2026-11-23T20:53:22.223Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1551 - Correction of name after separation from service under an
 usc_title: 10
 usc_section: "1551"
 chapter: 79
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "10 U.S.C. § 1551"
-generated_at: "2026-11-23T20:49:41.707Z"
+generated_at: "2026-11-23T20:52:43.994Z"
 status: "active"
 ---
 

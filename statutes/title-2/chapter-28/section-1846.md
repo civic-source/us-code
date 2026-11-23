@@ -3,9 +3,9 @@ title: "Section 1846 - Exemptions"
 usc_title: 2
 usc_section: "1846"
 chapter: 28
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "2 U.S.C. § 1846"
-generated_at: "2026-11-23T20:49:21.568Z"
+generated_at: "2026-11-23T20:52:29.818Z"
 status: "active"
 ---
 

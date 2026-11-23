@@ -3,9 +3,9 @@ title: "Section 48 - Animal crushing"
 usc_title: 18
 usc_section: "48"
 chapter: 3
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "18 U.S.C. § 48"
-generated_at: "2026-11-23T20:50:00.586Z"
+generated_at: "2026-11-23T20:52:55.861Z"
 status: "active"
 ---
 

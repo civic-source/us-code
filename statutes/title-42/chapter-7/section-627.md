@@ -3,9 +3,9 @@ title: "Section 627 - Kinship navigators"
 usc_title: 42
 usc_section: "627"
 chapter: 7
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "42 U.S.C. § 627"
-generated_at: "2026-11-23T20:51:11.048Z"
+generated_at: "2026-11-23T20:53:44.095Z"
 status: "active"
 ---
 

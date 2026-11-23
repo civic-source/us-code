@@ -3,9 +3,9 @@ title: "Section 715r - Partial invalidity; validity of remainder"
 usc_title: 16
 usc_section: "715r"
 chapter: 7
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "16 U.S.C. § 715r"
-generated_at: "2026-11-23T20:50:09.449Z"
+generated_at: "2026-11-23T20:53:03.000Z"
 status: "active"
 ---
 

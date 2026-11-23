@@ -3,9 +3,9 @@ title: "Section 316f - Terms and conditions of lease"
 usc_title: 43
 usc_section: "316f"
 chapter: 8
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "43 U.S.C. § 316f"
-generated_at: "2026-11-23T20:50:54.376Z"
+generated_at: "2026-11-23T20:53:33.143Z"
 status: "active"
 ---
 

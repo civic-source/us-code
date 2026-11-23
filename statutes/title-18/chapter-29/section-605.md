@@ -3,9 +3,9 @@ title: "Section 605 - Disclosure of names of persons on relief"
 usc_title: 18
 usc_section: "605"
 chapter: 29
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "18 U.S.C. § 605"
-generated_at: "2026-11-23T20:50:00.644Z"
+generated_at: "2026-11-23T20:52:55.892Z"
 status: "active"
 ---
 

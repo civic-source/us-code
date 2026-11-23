@@ -3,9 +3,9 @@ title: "Section 5623 - Agricultural trade promotion and facilitation"
 usc_title: 7
 usc_section: "5623"
 chapter: 87
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "7 U.S.C. § 5623"
-generated_at: "2026-11-23T20:49:32.907Z"
+generated_at: "2026-11-23T20:52:37.563Z"
 status: "active"
 ---
 

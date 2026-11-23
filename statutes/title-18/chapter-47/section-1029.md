@@ -3,9 +3,9 @@ title: "Section 1029 - Fraud and related activity in connection with access devi
 usc_title: 18
 usc_section: "1029"
 chapter: 47
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "18 U.S.C. § 1029"
-generated_at: "2026-11-23T20:50:00.715Z"
+generated_at: "2026-11-23T20:52:55.933Z"
 status: "active"
 ---
 

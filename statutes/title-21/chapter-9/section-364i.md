@@ -3,9 +3,9 @@ title: "Section 364i - Exemption for certain products and facilities"
 usc_title: 21
 usc_section: "364i"
 chapter: 9
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "21 U.S.C. § 364i"
-generated_at: "2026-11-23T20:50:16.499Z"
+generated_at: "2026-11-23T20:53:08.015Z"
 status: "active"
 ---
 

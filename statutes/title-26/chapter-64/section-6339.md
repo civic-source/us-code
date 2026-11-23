@@ -3,9 +3,9 @@ title: "Section 6339 - Legal effect of certificate of sale of personal property 
 usc_title: 26
 usc_section: "6339"
 chapter: 64
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "26 U.S.C. § 6339"
-generated_at: "2026-11-23T20:50:35.090Z"
+generated_at: "2026-11-23T20:53:19.550Z"
 status: "active"
 ---
 

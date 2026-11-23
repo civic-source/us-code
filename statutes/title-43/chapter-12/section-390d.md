@@ -3,9 +3,9 @@ title: "Section 390d - Dams and reservoirs wherein costs thereof, or rights ther
 usc_title: 43
 usc_section: "390d"
 chapter: 12
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "43 U.S.C. § 390d"
-generated_at: "2026-11-23T20:50:54.392Z"
+generated_at: "2026-11-23T20:53:33.155Z"
 status: "active"
 ---
 

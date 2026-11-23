@@ -3,9 +3,9 @@ title: "Section 579g - Annual reports"
 usc_title: 33
 usc_section: "579g"
 chapter: 12
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "33 U.S.C. § 579g"
-generated_at: "2026-11-23T20:50:40.638Z"
+generated_at: "2026-11-23T20:53:24.080Z"
 status: "active"
 ---
 

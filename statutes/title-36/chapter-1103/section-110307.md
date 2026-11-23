@@ -3,9 +3,9 @@ title: "Section 110307 - Records and inspection"
 usc_title: 36
 usc_section: "110307"
 chapter: 1103
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "36 U.S.C. § 110307"
-generated_at: "2026-11-23T20:50:46.568Z"
+generated_at: "2026-11-23T20:53:27.693Z"
 status: "active"
 ---
 

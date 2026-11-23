@@ -3,9 +3,9 @@ title: "Section 3372 - Transferred"
 usc_title: 19
 usc_section: "3372"
 chapter: 21
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "19 U.S.C. § 3372"
-generated_at: "2026-11-23T20:49:58.745Z"
+generated_at: "2026-11-23T20:52:57.619Z"
 status: "transferred"
 ---
 

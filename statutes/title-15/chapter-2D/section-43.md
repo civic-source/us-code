@@ -3,9 +3,9 @@ title: "Section 43 - Jurisdiction of offenses and suits"
 usc_title: 15
 usc_section: "43"
 chapter: 2
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "15 U.S.C. § 43"
-generated_at: "2026-11-23T20:49:53.387Z"
+generated_at: "2026-11-23T20:52:52.442Z"
 status: "active"
 ---
 

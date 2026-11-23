@@ -3,9 +3,9 @@ title: "Section 9174 - Repealed. Pub. L. 108–81, title III, § 304 , Sept. 25,
 usc_title: 20
 usc_section: "9174"
 chapter: 72
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "20 U.S.C. § 9174"
-generated_at: "2026-11-23T20:50:04.427Z"
+generated_at: "2026-11-23T20:52:59.919Z"
 status: "repealed"
 ---
 

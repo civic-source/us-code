@@ -3,9 +3,9 @@ title: "Section 2275 - Repealed. Pub. L. 115–334, title V, § 5411(36) , Dec. 
 usc_title: 12
 usc_section: "2275"
 chapter: 23
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "12 U.S.C. § 2275"
-generated_at: "2026-11-23T20:49:49.149Z"
+generated_at: "2026-11-23T20:52:49.255Z"
 status: "repealed"
 ---
 

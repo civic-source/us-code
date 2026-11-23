@@ -3,9 +3,9 @@ title: "Section 3154d - Renewable energy program"
 usc_title: 42
 usc_section: "3154d"
 chapter: 38
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "42 U.S.C. § 3154d"
-generated_at: "2026-11-23T20:51:12.459Z"
+generated_at: "2026-11-23T20:53:45.027Z"
 status: "active"
 ---
 

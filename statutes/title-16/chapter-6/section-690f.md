@@ -3,9 +3,9 @@ title: "Section 690f - Expenditures by Secretary of the Interior for constructio
 usc_title: 16
 usc_section: "690f"
 chapter: 6
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "16 U.S.C. § 690f"
-generated_at: "2026-11-23T20:50:09.419Z"
+generated_at: "2026-11-23T20:53:02.991Z"
 status: "active"
 ---
 

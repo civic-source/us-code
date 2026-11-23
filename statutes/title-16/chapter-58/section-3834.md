@@ -3,9 +3,9 @@ title: "Section 3834 - Payments"
 usc_title: 16
 usc_section: "3834"
 chapter: 58
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "16 U.S.C. § 3834"
-generated_at: "2026-11-23T20:50:10.004Z"
+generated_at: "2026-11-23T20:53:03.302Z"
 status: "active"
 ---
 

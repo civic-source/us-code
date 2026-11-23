@@ -3,9 +3,9 @@ title: "Section 8549 - Cost recovery reform"
 usc_title: 16
 usc_section: "8549"
 chapter: 103
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "16 U.S.C. § 8549"
-generated_at: "2026-11-23T20:50:10.226Z"
+generated_at: "2026-11-23T20:53:03.404Z"
 status: "active"
 ---
 

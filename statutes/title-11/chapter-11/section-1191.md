@@ -3,9 +3,9 @@ title: "Section 1191 - Confirmation of plan"
 usc_title: 11
 usc_section: "1191"
 chapter: 11
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "11 U.S.C. § 1191"
-generated_at: "2026-11-23T20:49:45.096Z"
+generated_at: "2026-11-23T20:52:46.711Z"
 status: "active"
 ---
 

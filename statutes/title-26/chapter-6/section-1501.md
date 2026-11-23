@@ -3,9 +3,9 @@ title: "Section 1501 - Privilege to file consolidated returns"
 usc_title: 26
 usc_section: "1501"
 chapter: 6
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "26 U.S.C. § 1501"
-generated_at: "2026-11-23T20:50:34.619Z"
+generated_at: "2026-11-23T20:53:19.328Z"
 status: "active"
 ---
 

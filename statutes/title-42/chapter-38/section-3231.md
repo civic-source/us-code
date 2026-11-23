@@ -3,9 +3,9 @@ title: "Section 3231 - General authorization of appropriations"
 usc_title: 42
 usc_section: "3231"
 chapter: 38
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "42 U.S.C. § 3231"
-generated_at: "2026-11-23T20:51:12.471Z"
+generated_at: "2026-11-23T20:53:45.034Z"
 status: "active"
 ---
 

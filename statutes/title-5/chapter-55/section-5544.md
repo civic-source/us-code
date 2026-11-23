@@ -3,9 +3,9 @@ title: "Section 5544 - Wage-board overtime, Sunday rates, and other premium pay"
 usc_title: 5
 usc_section: "5544"
 chapter: 55
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "5 U.S.C. § 5544"
-generated_at: "2026-11-23T20:49:24.189Z"
+generated_at: "2026-11-23T20:52:31.650Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8241 - Navy ration: persons entitled to"
 usc_title: 10
 usc_section: "8241"
 chapter: 827
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "10 U.S.C. § 8241"
-generated_at: "2026-11-23T20:49:42.491Z"
+generated_at: "2026-11-23T20:52:44.382Z"
 status: "active"
 ---
 

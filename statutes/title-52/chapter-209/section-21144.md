@@ -3,9 +3,9 @@ title: "Section 21144 - Other criminal penalties"
 usc_title: 52
 usc_section: "21144"
 chapter: 209
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "52 U.S.C. § 21144"
-generated_at: "2026-11-23T20:51:28.339Z"
+generated_at: "2026-11-23T20:53:55.346Z"
 status: "active"
 ---
 

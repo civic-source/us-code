@@ -3,9 +3,9 @@ title: "Section 129 - Dependent care assistance programs"
 usc_title: 26
 usc_section: "129"
 chapter: 1
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "26 U.S.C. § 129"
-generated_at: "2026-11-23T20:50:33.872Z"
+generated_at: "2026-11-23T20:53:18.780Z"
 status: "active"
 ---
 

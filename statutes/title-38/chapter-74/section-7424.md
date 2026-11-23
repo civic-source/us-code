@@ -3,9 +3,9 @@ title: "Section 7424 - Travel expenses of certain employees"
 usc_title: 38
 usc_section: "7424"
 chapter: 74
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "38 U.S.C. § 7424"
-generated_at: "2026-11-23T20:50:49.790Z"
+generated_at: "2026-11-23T20:53:29.835Z"
 status: "active"
 ---
 

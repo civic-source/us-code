@@ -3,9 +3,9 @@ title: "Section 5902 - Issuance and treatment of payment stablecoins"
 usc_title: 12
 usc_section: "5902"
 chapter: 56
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "12 U.S.C. § 5902"
-generated_at: "2026-11-23T20:49:49.447Z"
+generated_at: "2026-11-23T20:52:49.477Z"
 status: "active"
 ---
 

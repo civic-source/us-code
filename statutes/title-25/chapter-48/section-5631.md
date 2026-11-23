@@ -3,9 +3,9 @@ title: "Section 5631 - Purpose"
 usc_title: 25
 usc_section: "5631"
 chapter: 48
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "25 U.S.C. § 5631"
-generated_at: "2026-11-23T20:50:13.870Z"
+generated_at: "2026-11-23T20:53:06.174Z"
 status: "active"
 ---
 

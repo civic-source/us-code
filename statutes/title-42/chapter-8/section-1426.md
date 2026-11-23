@@ -3,9 +3,9 @@ title: "Section 1426 - Repealed. June 25, 1948, ch. 645, § 21 , 62 Stat. 862"
 usc_title: 42
 usc_section: "1426"
 chapter: 8
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "42 U.S.C. § 1426"
-generated_at: "2026-11-23T20:51:11.941Z"
+generated_at: "2026-11-23T20:53:44.615Z"
 status: "repealed"
 ---
 

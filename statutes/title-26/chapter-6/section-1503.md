@@ -3,9 +3,9 @@ title: "Section 1503 - Computation and payment of tax"
 usc_title: 26
 usc_section: "1503"
 chapter: 6
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "26 U.S.C. § 1503"
-generated_at: "2026-11-23T20:50:34.619Z"
+generated_at: "2026-11-23T20:53:19.329Z"
 status: "active"
 ---
 

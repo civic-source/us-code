@@ -3,9 +3,9 @@ title: "Section 494 - Contractors’ bonds, bids, and public records"
 usc_title: 18
 usc_section: "494"
 chapter: 25
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "18 U.S.C. § 494"
-generated_at: "2026-11-23T20:50:00.633Z"
+generated_at: "2026-11-23T20:52:55.887Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5311 - Establishment of coordinated program"
 usc_title: 7
 usc_section: "5311"
 chapter: 84
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "7 U.S.C. § 5311"
-generated_at: "2026-11-23T20:49:32.899Z"
+generated_at: "2026-11-23T20:52:37.555Z"
 status: "active"
 ---
 

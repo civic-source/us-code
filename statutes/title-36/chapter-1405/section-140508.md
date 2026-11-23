@@ -3,9 +3,9 @@ title: "Section 140508 - Records and inspection"
 usc_title: 36
 usc_section: "140508"
 chapter: 1405
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "36 U.S.C. § 140508"
-generated_at: "2026-11-23T20:50:46.586Z"
+generated_at: "2026-11-23T20:53:27.707Z"
 status: "active"
 ---
 

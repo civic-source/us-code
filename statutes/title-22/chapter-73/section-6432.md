@@ -3,9 +3,9 @@ title: "Section 6432 - Duties of Commission"
 usc_title: 22
 usc_section: "6432"
 chapter: 73
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "22 U.S.C. § 6432"
-generated_at: "2026-11-23T20:50:20.814Z"
+generated_at: "2026-11-23T20:53:10.695Z"
 status: "active"
 ---
 

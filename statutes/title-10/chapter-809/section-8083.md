@@ -3,9 +3,9 @@ title: "Section 8083 - Office of Navy Reserve: appointment of Chief"
 usc_title: 10
 usc_section: "8083"
 chapter: 809
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "10 U.S.C. § 8083"
-generated_at: "2026-11-23T20:49:42.471Z"
+generated_at: "2026-11-23T20:52:44.374Z"
 status: "active"
 ---
 

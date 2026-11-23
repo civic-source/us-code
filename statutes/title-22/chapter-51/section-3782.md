@@ -3,9 +3,9 @@ title: "Section 3782 - Transfers and cross-servicing between agencies"
 usc_title: 22
 usc_section: "3782"
 chapter: 51
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "22 U.S.C. § 3782"
-generated_at: "2026-11-23T20:50:20.671Z"
+generated_at: "2026-11-23T20:53:10.610Z"
 status: "active"
 ---
 

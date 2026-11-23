@@ -3,9 +3,9 @@ title: "Section 1762a - Commodity distribution program"
 usc_title: 42
 usc_section: "1762a"
 chapter: 13
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "42 U.S.C. § 1762a"
-generated_at: "2026-11-23T20:51:12.088Z"
+generated_at: "2026-11-23T20:53:44.710Z"
 status: "active"
 ---
 

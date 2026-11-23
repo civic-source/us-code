@@ -3,9 +3,9 @@ title: "Section 6611 - Findings and purposes"
 usc_title: 7
 usc_section: "6611"
 chapter: 95
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "7 U.S.C. § 6611"
-generated_at: "2026-11-23T20:49:32.971Z"
+generated_at: "2026-11-23T20:52:37.629Z"
 status: "active"
 ---
 

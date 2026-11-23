@@ -3,9 +3,9 @@ title: "Section 3375 - Travel expenses"
 usc_title: 5
 usc_section: "3375"
 chapter: 33
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "5 U.S.C. § 3375"
-generated_at: "2026-11-23T20:49:24.046Z"
+generated_at: "2026-11-23T20:52:31.570Z"
 status: "active"
 ---
 

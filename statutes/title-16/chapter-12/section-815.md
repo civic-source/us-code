@@ -3,9 +3,9 @@ title: "Section 815 - Contract to furnish power extending beyond period of licen
 usc_title: 16
 usc_section: "815"
 chapter: 12
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "16 U.S.C. § 815"
-generated_at: "2026-11-23T20:50:09.511Z"
+generated_at: "2026-11-23T20:53:03.030Z"
 status: "active"
 ---
 

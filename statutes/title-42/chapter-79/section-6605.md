@@ -3,9 +3,9 @@ title: "Section 6605 - Disclosure of funding sources in applications for Federal
 usc_title: 42
 usc_section: "6605"
 chapter: 79
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "42 U.S.C. § 6605"
-generated_at: "2026-11-23T20:51:12.879Z"
+generated_at: "2026-11-23T20:53:45.373Z"
 status: "active"
 ---
 

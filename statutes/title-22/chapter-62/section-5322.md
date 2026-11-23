@@ -3,9 +3,9 @@ title: "Section 5322 - Findings"
 usc_title: 22
 usc_section: "5322"
 chapter: 62
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "22 U.S.C. § 5322"
-generated_at: "2026-11-23T20:50:20.761Z"
+generated_at: "2026-11-23T20:53:10.664Z"
 status: "active"
 ---
 

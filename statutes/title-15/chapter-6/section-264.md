@@ -3,9 +3,9 @@ title: "Section 264 - Part of Idaho in fourth zone"
 usc_title: 15
 usc_section: "264"
 chapter: 6
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "15 U.S.C. § 264"
-generated_at: "2026-11-23T20:49:53.431Z"
+generated_at: "2026-11-23T20:52:52.480Z"
 status: "active"
 ---
 

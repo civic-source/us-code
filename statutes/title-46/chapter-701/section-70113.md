@@ -3,9 +3,9 @@ title: "Section 70113 - Maritime intelligence"
 usc_title: 46
 usc_section: "70113"
 chapter: 701
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "46 U.S.C. § 70113"
-generated_at: "2026-11-23T20:51:19.610Z"
+generated_at: "2026-11-23T20:53:49.935Z"
 status: "active"
 ---
 

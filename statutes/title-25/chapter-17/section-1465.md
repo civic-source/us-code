@@ -3,9 +3,9 @@ title: "Section 1465 - Modification of amount of loan and document securing loan
 usc_title: 25
 usc_section: "1465"
 chapter: 17
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "25 U.S.C. § 1465"
-generated_at: "2026-11-23T20:50:13.585Z"
+generated_at: "2026-11-23T20:53:05.939Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3171 - Temporary access"
 usc_title: 16
 usc_section: "3171"
 chapter: 51
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "16 U.S.C. § 3171"
-generated_at: "2026-11-23T20:50:09.934Z"
+generated_at: "2026-11-23T20:53:03.277Z"
 status: "active"
 ---
 

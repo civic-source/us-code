@@ -3,9 +3,9 @@ title: "Section 5136a - Assistance and training for communities with technologic
 usc_title: 42
 usc_section: "5136a"
 chapter: 68
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "42 U.S.C. § 5136a"
-generated_at: "2026-11-23T20:51:12.672Z"
+generated_at: "2026-11-23T20:53:45.204Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8442 - Improved recreation visitation data"
 usc_title: 16
 usc_section: "8442"
 chapter: 103
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "16 U.S.C. § 8442"
-generated_at: "2026-11-23T20:50:10.214Z"
+generated_at: "2026-11-23T20:53:03.398Z"
 status: "active"
 ---
 

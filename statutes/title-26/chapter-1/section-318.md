@@ -3,9 +3,9 @@ title: "Section 318 - Constructive ownership of stock"
 usc_title: 26
 usc_section: "318"
 chapter: 1
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "26 U.S.C. § 318"
-generated_at: "2026-11-23T20:50:34.068Z"
+generated_at: "2026-11-23T20:53:18.930Z"
 status: "active"
 ---
 

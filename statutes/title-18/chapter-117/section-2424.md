@@ -3,9 +3,9 @@ title: "Section 2424 - Filing factual statement about alien individual"
 usc_title: 18
 usc_section: "2424"
 chapter: 117
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "18 U.S.C. § 2424"
-generated_at: "2026-11-23T20:50:00.860Z"
+generated_at: "2026-11-23T20:52:56.007Z"
 status: "active"
 ---
 

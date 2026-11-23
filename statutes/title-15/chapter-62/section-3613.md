@@ -3,9 +3,9 @@ title: "Section 3613 - Limitation of actions"
 usc_title: 15
 usc_section: "3613"
 chapter: 62
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "15 U.S.C. § 3613"
-generated_at: "2026-11-23T20:49:54.055Z"
+generated_at: "2026-11-23T20:52:52.969Z"
 status: "active"
 ---
 

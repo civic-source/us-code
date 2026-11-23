@@ -3,9 +3,9 @@ title: "Section 155 - Authority of registrar in obtaining evidence"
 usc_title: 15
 usc_section: "155"
 chapter: 4
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "15 U.S.C. § 155"
-generated_at: "2026-11-23T20:49:53.416Z"
+generated_at: "2026-11-23T20:52:52.466Z"
 status: "active"
 ---
 

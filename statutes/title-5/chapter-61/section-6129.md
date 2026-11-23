@@ -3,9 +3,9 @@ title: "Section 6129 - Administration of leave and retirement provisions"
 usc_title: 5
 usc_section: "6129"
 chapter: 61
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "5 U.S.C. § 6129"
-generated_at: "2026-11-23T20:49:24.266Z"
+generated_at: "2026-11-23T20:52:31.696Z"
 status: "active"
 ---
 

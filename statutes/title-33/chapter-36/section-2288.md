@@ -3,9 +3,9 @@ title: "Section 2288 - Repealed. Pub. L. 113–121, title I, § 1004 , June 10, 
 usc_title: 33
 usc_section: "2288"
 chapter: 36
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "33 U.S.C. § 2288"
-generated_at: "2026-11-23T20:50:40.883Z"
+generated_at: "2026-11-23T20:53:24.273Z"
 status: "repealed"
 ---
 

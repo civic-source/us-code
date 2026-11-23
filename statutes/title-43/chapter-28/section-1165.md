@@ -3,9 +3,9 @@ title: "Section 1165 - Transferred"
 usc_title: 43
 usc_section: "1165"
 chapter: 28
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "43 U.S.C. § 1165"
-generated_at: "2026-11-23T20:50:54.529Z"
+generated_at: "2026-11-23T20:53:33.234Z"
 status: "transferred"
 ---
 

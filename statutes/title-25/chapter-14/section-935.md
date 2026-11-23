@@ -3,9 +3,9 @@ title: "Section 935 - Repealed. Pub. L. 103–116, § 4(c) , Oct. 27, 1993 , 107
 usc_title: 25
 usc_section: "935"
 chapter: 14
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "25 U.S.C. § 935"
-generated_at: "2026-11-23T20:50:13.566Z"
+generated_at: "2026-11-23T20:53:05.912Z"
 status: "repealed"
 ---
 

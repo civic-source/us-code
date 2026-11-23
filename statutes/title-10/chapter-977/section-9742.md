@@ -3,9 +3,9 @@ title: "Section 9742 - Repealed. Pub. L. 104–201, div. A, title IX, § 906(c) 
 usc_title: 10
 usc_section: "9742"
 chapter: 977
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "10 U.S.C. § 9742"
-generated_at: "2026-11-23T20:49:42.706Z"
+generated_at: "2026-11-23T20:52:44.479Z"
 status: "repealed"
 ---
 

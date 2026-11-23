@@ -3,9 +3,9 @@ title: "Section 856 - Repealed. Pub. L. 97–79, § 9(b)(1) , Nov. 16, 1981 , 95
 usc_title: 16
 usc_section: "856"
 chapter: 13
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "16 U.S.C. § 856"
-generated_at: "2026-11-23T20:50:09.584Z"
+generated_at: "2026-11-23T20:53:03.076Z"
 status: "repealed"
 ---
 

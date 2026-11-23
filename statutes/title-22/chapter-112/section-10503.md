@@ -3,9 +3,9 @@ title: "Section 10503 - Minimum standards for the elimination of corruption and 
 usc_title: 22
 usc_section: "10503"
 chapter: 112
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "22 U.S.C. § 10503"
-generated_at: "2026-11-23T20:50:20.985Z"
+generated_at: "2026-11-23T20:53:10.816Z"
 status: "active"
 ---
 

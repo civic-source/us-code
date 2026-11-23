@@ -3,9 +3,9 @@ title: "Section 1402 - Foreign pesticide information"
 usc_title: 21
 usc_section: "1402"
 chapter: 19
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "21 U.S.C. § 1402"
-generated_at: "2026-11-23T20:50:16.695Z"
+generated_at: "2026-11-23T20:53:08.128Z"
 status: "active"
 ---
 

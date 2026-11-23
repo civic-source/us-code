@@ -3,9 +3,9 @@ title: "Section 1712 - Disqualification from benefits"
 usc_title: 42
 usc_section: "1712"
 chapter: 12
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "42 U.S.C. § 1712"
-generated_at: "2026-11-23T20:51:12.061Z"
+generated_at: "2026-11-23T20:53:44.689Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4513 - Implementing actions in anticipation of entry into force;
 usc_title: 19
 usc_section: "4513"
 chapter: 29
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "19 U.S.C. § 4513"
-generated_at: "2026-11-23T20:49:58.884Z"
+generated_at: "2026-11-23T20:52:57.678Z"
 status: "active"
 ---
 

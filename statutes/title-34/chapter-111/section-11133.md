@@ -3,9 +3,9 @@ title: "Section 11133 - State plans"
 usc_title: 34
 usc_section: "11133"
 chapter: 111
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "34 U.S.C. § 11133"
-generated_at: "2026-11-23T20:50:41.958Z"
+generated_at: "2026-11-23T20:53:22.111Z"
 status: "active"
 ---
 

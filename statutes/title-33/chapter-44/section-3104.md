@@ -3,9 +3,9 @@ title: "Section 3104 - Authorization of appropriations"
 usc_title: 33
 usc_section: "3104"
 chapter: 44
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "33 U.S.C. § 3104"
-generated_at: "2026-11-23T20:50:40.953Z"
+generated_at: "2026-11-23T20:53:24.315Z"
 status: "active"
 ---
 

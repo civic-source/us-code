@@ -3,9 +3,9 @@ title: "Section 1759 - Membership"
 usc_title: 12
 usc_section: "1759"
 chapter: 14
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "12 U.S.C. § 1759"
-generated_at: "2026-11-23T20:49:48.985Z"
+generated_at: "2026-11-23T20:52:49.076Z"
 status: "active"
 ---
 

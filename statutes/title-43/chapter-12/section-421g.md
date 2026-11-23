@@ -3,9 +3,9 @@ title: "Section 421g - Existing rights unaffected"
 usc_title: 43
 usc_section: "421g"
 chapter: 12
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "43 U.S.C. § 421g"
-generated_at: "2026-11-23T20:50:54.417Z"
+generated_at: "2026-11-23T20:53:33.167Z"
 status: "active"
 ---
 

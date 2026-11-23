@@ -3,9 +3,9 @@ title: "Section 23108 - Records and inspection"
 usc_title: 36
 usc_section: "23108"
 chapter: 231
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "36 U.S.C. § 23108"
-generated_at: "2026-11-23T20:50:46.473Z"
+generated_at: "2026-11-23T20:53:27.636Z"
 status: "active"
 ---
 

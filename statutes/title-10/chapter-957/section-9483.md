@@ -3,9 +3,9 @@ title: "Section 9483 - Transportation and subsistence during travel"
 usc_title: 10
 usc_section: "9483"
 chapter: 957
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "10 U.S.C. § 9483"
-generated_at: "2026-11-23T20:49:42.691Z"
+generated_at: "2026-11-23T20:52:44.472Z"
 status: "active"
 ---
 

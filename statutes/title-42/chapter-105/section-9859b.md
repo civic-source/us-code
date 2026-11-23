@@ -3,9 +3,9 @@ title: "Section 9859b - Programs"
 usc_title: 42
 usc_section: "9859b"
 chapter: 105
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "42 U.S.C. § 9859b"
-generated_at: "2026-11-23T20:51:13.377Z"
+generated_at: "2026-11-23T20:53:45.780Z"
 status: "active"
 ---
 

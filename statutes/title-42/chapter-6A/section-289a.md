@@ -3,9 +3,9 @@ title: "Section 289a - Peer review requirements"
 usc_title: 42
 usc_section: "289a"
 chapter: 6
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "42 U.S.C. § 289a"
-generated_at: "2026-11-23T20:51:10.425Z"
+generated_at: "2026-11-23T20:53:43.657Z"
 status: "active"
 ---
 

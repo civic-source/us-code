@@ -3,9 +3,9 @@ title: "Section 1346 - United States as defendant"
 usc_title: 28
 usc_section: "1346"
 chapter: 85
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "28 U.S.C. § 1346"
-generated_at: "2026-11-23T20:50:24.322Z"
+generated_at: "2026-11-23T20:53:13.305Z"
 status: "active"
 ---
 

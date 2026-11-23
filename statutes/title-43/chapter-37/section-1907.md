@@ -3,9 +3,9 @@ title: "Section 1907 - National Grasslands; exemptions"
 usc_title: 43
 usc_section: "1907"
 chapter: 37
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "43 U.S.C. § 1907"
-generated_at: "2026-11-23T20:50:54.659Z"
+generated_at: "2026-11-23T20:53:33.300Z"
 status: "active"
 ---
 

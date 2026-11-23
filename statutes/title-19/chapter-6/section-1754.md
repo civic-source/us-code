@@ -3,9 +3,9 @@ title: "Section 1754 - Marking, packaging, and labeling requirements"
 usc_title: 19
 usc_section: "1754"
 chapter: 6
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "19 U.S.C. § 1754"
-generated_at: "2026-11-23T20:49:58.562Z"
+generated_at: "2026-11-23T20:52:57.524Z"
 status: "active"
 ---
 

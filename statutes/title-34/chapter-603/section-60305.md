@@ -3,9 +3,9 @@ title: "Section 60305 - Evaluations by Inspector General and administrative reme
 usc_title: 34
 usc_section: "60305"
 chapter: 603
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "34 U.S.C. § 60305"
-generated_at: "2026-11-23T20:50:42.166Z"
+generated_at: "2026-11-23T20:53:22.271Z"
 status: "active"
 ---
 

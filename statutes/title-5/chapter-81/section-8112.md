@@ -3,9 +3,9 @@ title: "Section 8112 - Maximum and minimum monthly payments"
 usc_title: 5
 usc_section: "8112"
 chapter: 81
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "5 U.S.C. § 8112"
-generated_at: "2026-11-23T20:49:24.335Z"
+generated_at: "2026-11-23T20:52:31.732Z"
 status: "active"
 ---
 

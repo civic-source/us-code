@@ -3,9 +3,9 @@ title: "Section 937 - Admiralty claims against the United States"
 usc_title: 14
 usc_section: "937"
 chapter: 9
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "14 U.S.C. § 937"
-generated_at: "2026-11-23T20:49:45.799Z"
+generated_at: "2026-11-23T20:52:46.206Z"
 status: "active"
 ---
 

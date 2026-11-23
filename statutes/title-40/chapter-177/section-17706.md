@@ -3,9 +3,9 @@ title: "Section 17706 - Gross proceeds as miscellaneous receipts in the Treasury
 usc_title: 40
 usc_section: "17706"
 chapter: 177
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "40 U.S.C. § 17706"
-generated_at: "2026-11-23T20:50:45.460Z"
+generated_at: "2026-11-23T20:53:26.718Z"
 status: "active"
 ---
 

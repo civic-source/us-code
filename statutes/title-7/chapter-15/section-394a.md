@@ -3,9 +3,9 @@ title: "Section 394a - Overtime of employees working at establishments which pre
 usc_title: 7
 usc_section: "394a"
 chapter: 15
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "7 U.S.C. § 394a"
-generated_at: "2026-11-23T20:49:32.306Z"
+generated_at: "2026-11-23T20:52:36.990Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1446 - Procedure for removal of civil actions"
 usc_title: 28
 usc_section: "1446"
 chapter: 89
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "28 U.S.C. § 1446"
-generated_at: "2026-11-23T20:50:24.334Z"
+generated_at: "2026-11-23T20:53:13.311Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 44107 - Recordation of conveyances, leases, and security instrum
 usc_title: 49
 usc_section: "44107"
 chapter: 441
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "49 U.S.C. § 44107"
-generated_at: "2026-11-23T20:51:26.265Z"
+generated_at: "2026-11-23T20:53:53.795Z"
 status: "active"
 ---
 

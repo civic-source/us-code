@@ -3,9 +3,9 @@ title: "Section 803 - Life insurance gross income"
 usc_title: 26
 usc_section: "803"
 chapter: 1
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "26 U.S.C. § 803"
-generated_at: "2026-11-23T20:50:34.364Z"
+generated_at: "2026-11-23T20:53:19.180Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 609 - Examination of animals and food products thereof, slaughte
 usc_title: 21
 usc_section: "609"
 chapter: 12
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "21 U.S.C. § 609"
-generated_at: "2026-11-23T20:50:16.608Z"
+generated_at: "2026-11-23T20:53:08.082Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6339 - Limitation on establishing an enduring bioassurance progr
 usc_title: 10
 usc_section: "6339"
 chapter: 608
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "10 U.S.C. § 6339"
-generated_at: "2026-11-23T20:49:42.343Z"
+generated_at: "2026-11-23T20:52:44.319Z"
 status: "active"
 ---
 

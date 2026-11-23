@@ -3,9 +3,9 @@ title: "Section 1111 - Murder"
 usc_title: 18
 usc_section: "1111"
 chapter: 51
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "18 U.S.C. § 1111"
-generated_at: "2026-11-23T20:50:00.724Z"
+generated_at: "2026-11-23T20:52:55.938Z"
 status: "active"
 ---
 

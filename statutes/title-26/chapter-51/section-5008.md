@@ -3,9 +3,9 @@ title: "Section 5008 - Abatement, remission, refund, and allowance for loss or d
 usc_title: 26
 usc_section: "5008"
 chapter: 51
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "26 U.S.C. § 5008"
-generated_at: "2026-11-23T20:50:34.888Z"
+generated_at: "2026-11-23T20:53:19.455Z"
 status: "active"
 ---
 

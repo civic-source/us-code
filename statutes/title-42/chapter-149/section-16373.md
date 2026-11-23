@@ -3,9 +3,9 @@ title: "Section 16373 - Secured loans"
 usc_title: 42
 usc_section: "16373"
 chapter: 149
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "42 U.S.C. § 16373"
-generated_at: "2026-11-23T20:51:13.856Z"
+generated_at: "2026-11-23T20:53:46.119Z"
 status: "active"
 ---
 

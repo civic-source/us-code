@@ -3,9 +3,9 @@ title: "Section 4627 - State required to furnish real property incident to Feder
 usc_title: 42
 usc_section: "4627"
 chapter: 61
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "42 U.S.C. § 4627"
-generated_at: "2026-11-23T20:51:12.600Z"
+generated_at: "2026-11-23T20:53:45.144Z"
 status: "active"
 ---
 

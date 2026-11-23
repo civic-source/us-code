@@ -3,9 +3,9 @@ title: "Section 5703 - Improving Tribal access to databases"
 usc_title: 25
 usc_section: "5703"
 chapter: 49
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "25 U.S.C. § 5703"
-generated_at: "2026-11-23T20:50:13.872Z"
+generated_at: "2026-11-23T20:53:06.175Z"
 status: "active"
 ---
 

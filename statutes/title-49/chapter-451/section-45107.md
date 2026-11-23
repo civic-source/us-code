@@ -3,9 +3,9 @@ title: "Section 45107 - Transportation Security Administration"
 usc_title: 49
 usc_section: "45107"
 chapter: 451
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "49 U.S.C. § 45107"
-generated_at: "2026-11-23T20:51:26.388Z"
+generated_at: "2026-11-23T20:53:53.856Z"
 status: "active"
 ---
 

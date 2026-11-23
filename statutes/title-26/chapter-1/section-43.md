@@ -3,9 +3,9 @@ title: "Section 43 - Enhanced oil recovery credit"
 usc_title: 26
 usc_section: "43"
 chapter: 1
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "26 U.S.C. § 43"
-generated_at: "2026-11-23T20:50:33.723Z"
+generated_at: "2026-11-23T20:53:18.698Z"
 status: "active"
 ---
 

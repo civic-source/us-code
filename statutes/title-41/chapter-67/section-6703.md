@@ -3,9 +3,9 @@ title: "Section 6703 - Required contract terms"
 usc_title: 41
 usc_section: "6703"
 chapter: 67
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "41 U.S.C. § 6703"
-generated_at: "2026-11-23T20:50:52.429Z"
+generated_at: "2026-11-23T20:53:32.393Z"
 status: "active"
 ---
 

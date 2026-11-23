@@ -3,9 +3,9 @@ title: "Section 3733 - Civil investigative demands"
 usc_title: 31
 usc_section: "3733"
 chapter: 37
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "31 U.S.C. § 3733"
-generated_at: "2026-11-23T20:50:38.998Z"
+generated_at: "2026-11-23T20:53:23.124Z"
 status: "active"
 ---
 

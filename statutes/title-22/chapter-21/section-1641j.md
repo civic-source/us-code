@@ -3,9 +3,9 @@ title: "Section 1641j - Claims by corporations or other legal entities"
 usc_title: 22
 usc_section: "1641j"
 chapter: 21
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "22 U.S.C. § 1641j"
-generated_at: "2026-11-23T20:50:20.268Z"
+generated_at: "2026-11-23T20:53:10.408Z"
 status: "active"
 ---
 

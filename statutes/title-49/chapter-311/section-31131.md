@@ -3,9 +3,9 @@ title: "Section 31131 - Purposes and findings"
 usc_title: 49
 usc_section: "31131"
 chapter: 311
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "49 U.S.C. § 31131"
-generated_at: "2026-11-23T20:51:26.060Z"
+generated_at: "2026-11-23T20:53:53.701Z"
 status: "active"
 ---
 

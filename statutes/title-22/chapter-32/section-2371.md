@@ -3,9 +3,9 @@ title: "Section 2371 - Prohibition on assistance to governments supporting inter
 usc_title: 22
 usc_section: "2371"
 chapter: 32
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "22 U.S.C. § 2371"
-generated_at: "2026-11-23T20:50:20.435Z"
+generated_at: "2026-11-23T20:53:10.497Z"
 status: "active"
 ---
 

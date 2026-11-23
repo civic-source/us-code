@@ -3,9 +3,9 @@ title: "Section 7423 - Personnel administration: full-time employees"
 usc_title: 38
 usc_section: "7423"
 chapter: 74
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "38 U.S.C. § 7423"
-generated_at: "2026-11-23T20:50:49.790Z"
+generated_at: "2026-11-23T20:53:29.834Z"
 status: "active"
 ---
 

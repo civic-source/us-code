@@ -3,9 +3,9 @@ title: "Section 5496a - Annual audits"
 usc_title: 12
 usc_section: "5496a"
 chapter: 53
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "12 U.S.C. § 5496a"
-generated_at: "2026-11-23T20:49:49.406Z"
+generated_at: "2026-11-23T20:52:49.451Z"
 status: "active"
 ---
 

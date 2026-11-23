@@ -3,9 +3,9 @@ title: "Section 20 - Authorization of appropriations for General and Special Ris
 usc_title: 12
 usc_section: "20"
 chapter: 13
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "12 U.S.C. § 20"
-generated_at: "2026-11-23T20:49:48.965Z"
+generated_at: "2026-11-23T20:52:49.050Z"
 status: "active"
 ---
 

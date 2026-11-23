@@ -3,9 +3,9 @@ title: "Section 5903d - Clean coal technology projects; proposals, implementatio
 usc_title: 42
 usc_section: "5903d"
 chapter: 74
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "42 U.S.C. § 5903d"
-generated_at: "2026-11-23T20:51:12.769Z"
+generated_at: "2026-11-23T20:53:45.284Z"
 status: "active"
 ---
 

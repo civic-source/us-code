@@ -3,9 +3,9 @@ title: "Section 8736 - Execution of deeds"
 usc_title: 40
 usc_section: "8736"
 chapter: 87
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "40 U.S.C. § 8736"
-generated_at: "2026-11-23T20:50:45.395Z"
+generated_at: "2026-11-23T20:53:26.662Z"
 status: "active"
 ---
 

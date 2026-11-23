@@ -3,9 +3,9 @@ title: "Section 1917 - District courts; fee on filing notice of or petition for 
 usc_title: 28
 usc_section: "1917"
 chapter: 123
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "28 U.S.C. § 1917"
-generated_at: "2026-11-23T20:50:24.366Z"
+generated_at: "2026-11-23T20:53:13.327Z"
 status: "active"
 ---
 

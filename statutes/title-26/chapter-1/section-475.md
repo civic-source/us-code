@@ -3,9 +3,9 @@ title: "Section 475 - Mark to market accounting method for dealers in securities
 usc_title: 26
 usc_section: "475"
 chapter: 1
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "26 U.S.C. § 475"
-generated_at: "2026-11-23T20:50:34.266Z"
+generated_at: "2026-11-23T20:53:19.097Z"
 status: "active"
 ---
 

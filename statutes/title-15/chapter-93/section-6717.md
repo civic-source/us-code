@@ -3,9 +3,9 @@ title: "Section 6717 - Definition of State"
 usc_title: 15
 usc_section: "6717"
 chapter: 93
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "15 U.S.C. § 6717"
-generated_at: "2026-11-23T20:49:54.176Z"
+generated_at: "2026-11-23T20:52:53.052Z"
 status: "active"
 ---
 

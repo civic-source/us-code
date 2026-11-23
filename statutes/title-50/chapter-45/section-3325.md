@@ -3,9 +3,9 @@ title: "Section 3325 - Reaffirmation of longstanding prohibition against drug tr
 usc_title: 50
 usc_section: "3325"
 chapter: 45
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "50 U.S.C. § 3325"
-generated_at: "2026-11-23T20:51:21.787Z"
+generated_at: "2026-11-23T20:53:51.151Z"
 status: "active"
 ---
 

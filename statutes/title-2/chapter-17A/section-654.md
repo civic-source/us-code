@@ -3,9 +3,9 @@ title: "Section 654 - Study by Government Accountability Office of forms of Fede
 usc_title: 2
 usc_section: "654"
 chapter: 17
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "2 U.S.C. § 654"
-generated_at: "2026-11-23T20:49:21.467Z"
+generated_at: "2026-11-23T20:52:29.773Z"
 status: "active"
 ---
 

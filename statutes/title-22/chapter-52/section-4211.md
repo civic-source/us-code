@@ -3,9 +3,9 @@ title: "Section 4211 - Returns as to fees by officers compensated by fees"
 usc_title: 22
 usc_section: "4211"
 chapter: 52
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "22 U.S.C. § 4211"
-generated_at: "2026-11-23T20:50:20.736Z"
+generated_at: "2026-11-23T20:53:10.644Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 10307 - Definitions"
 usc_title: 34
 usc_section: "10307"
 chapter: 101
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "34 U.S.C. § 10307"
-generated_at: "2026-11-23T20:50:41.895Z"
+generated_at: "2026-11-23T20:53:22.080Z"
 status: "active"
 ---
 

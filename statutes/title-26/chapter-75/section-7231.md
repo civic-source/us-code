@@ -3,9 +3,9 @@ title: "Section 7231 - Failure to obtain license for collection of foreign items
 usc_title: 26
 usc_section: "7231"
 chapter: 75
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "26 U.S.C. § 7231"
-generated_at: "2026-11-23T20:50:35.206Z"
+generated_at: "2026-11-23T20:53:19.606Z"
 status: "active"
 ---
 

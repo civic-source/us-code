@@ -3,9 +3,9 @@ title: "Section 70012 - Navigational hazards"
 usc_title: 46
 usc_section: "70012"
 chapter: 700
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "46 U.S.C. § 70012"
-generated_at: "2026-11-23T20:51:19.588Z"
+generated_at: "2026-11-23T20:53:49.922Z"
 status: "active"
 ---
 

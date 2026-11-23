@@ -3,9 +3,9 @@ title: "Section 8521 - Weather and climate information in agriculture"
 usc_title: 15
 usc_section: "8521"
 chapter: 111
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "15 U.S.C. § 8521"
-generated_at: "2026-11-23T20:49:54.261Z"
+generated_at: "2026-11-23T20:52:53.099Z"
 status: "active"
 ---
 

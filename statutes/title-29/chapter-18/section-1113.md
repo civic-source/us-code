@@ -3,9 +3,9 @@ title: "Section 1113 - Limitation of actions"
 usc_title: 29
 usc_section: "1113"
 chapter: 18
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "29 U.S.C. § 1113"
-generated_at: "2026-11-23T20:50:25.785Z"
+generated_at: "2026-11-23T20:53:14.718Z"
 status: "active"
 ---
 

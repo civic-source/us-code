@@ -3,9 +3,9 @@ title: "Section 1918 - Transferred"
 usc_title: 42
 usc_section: "1918"
 chapter: 17
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "42 U.S.C. § 1918"
-generated_at: "2026-11-23T20:51:12.165Z"
+generated_at: "2026-11-23T20:53:44.788Z"
 status: "transferred"
 ---
 

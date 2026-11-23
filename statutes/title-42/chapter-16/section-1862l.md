@@ -3,9 +3,9 @@ title: "Section 1862l - National research facilities"
 usc_title: 42
 usc_section: "1862l"
 chapter: 16
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "42 U.S.C. § 1862l"
-generated_at: "2026-11-23T20:51:12.134Z"
+generated_at: "2026-11-23T20:53:44.757Z"
 status: "active"
 ---
 

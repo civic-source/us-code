@@ -3,9 +3,9 @@ title: "Section 8514c - Imposition of sanctions with respect to persons engaged 
 usc_title: 22
 usc_section: "8514c"
 chapter: 92
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "22 U.S.C. § 8514c"
-generated_at: "2026-11-23T20:50:20.899Z"
+generated_at: "2026-11-23T20:53:10.762Z"
 status: "active"
 ---
 

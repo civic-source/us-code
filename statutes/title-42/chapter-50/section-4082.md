@@ -3,9 +3,9 @@ title: "Section 4082 - Use of insurance pool, companies, or other private organi
 usc_title: 42
 usc_section: "4082"
 chapter: 50
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "42 U.S.C. § 4082"
-generated_at: "2026-11-23T20:51:12.549Z"
+generated_at: "2026-11-23T20:53:45.102Z"
 status: "active"
 ---
 

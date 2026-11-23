@@ -3,9 +3,9 @@ title: "Section 6313 - Fractional parts of a cent"
 usc_title: 26
 usc_section: "6313"
 chapter: 64
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "26 U.S.C. § 6313"
-generated_at: "2026-11-23T20:50:35.077Z"
+generated_at: "2026-11-23T20:53:19.544Z"
 status: "active"
 ---
 

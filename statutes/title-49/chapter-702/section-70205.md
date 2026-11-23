@@ -3,9 +3,9 @@ title: "Section 70205 - National multimodal cooperative freight research program
 usc_title: 49
 usc_section: "70205"
 chapter: 702
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "49 U.S.C. § 70205"
-generated_at: "2026-11-23T20:51:26.560Z"
+generated_at: "2026-11-23T20:53:53.944Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2648 - Emergency authority"
 usc_title: 15
 usc_section: "2648"
 chapter: 53
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "15 U.S.C. § 2648"
-generated_at: "2026-11-23T20:49:54.001Z"
+generated_at: "2026-11-23T20:52:52.929Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3058 - Review of final decisions of the Authority"
 usc_title: 15
 usc_section: "3058"
 chapter: 57
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "15 U.S.C. § 3058"
-generated_at: "2026-11-23T20:49:54.035Z"
+generated_at: "2026-11-23T20:52:52.955Z"
 status: "active"
 ---
 

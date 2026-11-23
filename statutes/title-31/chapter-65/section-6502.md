@@ -3,9 +3,9 @@ title: "Section 6502 - Information on grants received"
 usc_title: 31
 usc_section: "6502"
 chapter: 65
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "31 U.S.C. § 6502"
-generated_at: "2026-11-23T20:50:39.098Z"
+generated_at: "2026-11-23T20:53:23.210Z"
 status: "active"
 ---
 

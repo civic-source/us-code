@@ -3,9 +3,9 @@ title: "Section 1977 - Settlement and payment of tort claims"
 usc_title: 2
 usc_section: "1977"
 chapter: 29
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "2 U.S.C. § 1977"
-generated_at: "2026-11-23T20:49:21.599Z"
+generated_at: "2026-11-23T20:52:29.831Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1541 - Competent management and technical assistance for economi
 usc_title: 25
 usc_section: "1541"
 chapter: 17
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "25 U.S.C. § 1541"
-generated_at: "2026-11-23T20:50:13.589Z"
+generated_at: "2026-11-23T20:53:05.944Z"
 status: "active"
 ---
 

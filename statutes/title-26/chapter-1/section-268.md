@@ -3,9 +3,9 @@ title: "Section 268 - Sale of land with unharvested crop"
 usc_title: 26
 usc_section: "268"
 chapter: 1
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "26 U.S.C. § 268"
-generated_at: "2026-11-23T20:50:34.035Z"
+generated_at: "2026-11-23T20:53:18.907Z"
 status: "active"
 ---
 

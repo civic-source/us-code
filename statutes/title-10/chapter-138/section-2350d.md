@@ -3,9 +3,9 @@ title: "Section 2350d - Cooperative acquisition and logistics support agreements
 usc_title: 10
 usc_section: "2350d"
 chapter: 138
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "10 U.S.C. § 2350d"
-generated_at: "2026-11-23T20:49:41.865Z"
+generated_at: "2026-11-23T20:52:44.099Z"
 status: "active"
 ---
 

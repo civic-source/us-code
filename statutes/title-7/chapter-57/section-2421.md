@@ -3,9 +3,9 @@ title: "Section 2421 - Application for recognition of plant variety rights"
 usc_title: 7
 usc_section: "2421"
 chapter: 57
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "7 U.S.C. § 2421"
-generated_at: "2026-11-23T20:49:32.776Z"
+generated_at: "2026-11-23T20:52:37.404Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9563 - Prioritization of efforts and assistance for energy infra
 usc_title: 22
 usc_section: "9563"
 chapter: 102
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "22 U.S.C. § 9563"
-generated_at: "2026-11-23T20:50:20.956Z"
+generated_at: "2026-11-23T20:53:10.796Z"
 status: "active"
 ---
 

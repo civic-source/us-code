@@ -3,9 +3,9 @@ title: "Section 1354 - Land grants from different states"
 usc_title: 28
 usc_section: "1354"
 chapter: 85
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "28 U.S.C. § 1354"
-generated_at: "2026-11-23T20:50:24.324Z"
+generated_at: "2026-11-23T20:53:13.306Z"
 status: "active"
 ---
 

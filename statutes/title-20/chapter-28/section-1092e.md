@@ -3,9 +3,9 @@ title: "Section 1092e - College access initiative"
 usc_title: 20
 usc_section: "1092e"
 chapter: 28
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "20 U.S.C. § 1092e"
-generated_at: "2026-11-23T20:50:03.973Z"
+generated_at: "2026-11-23T20:52:59.686Z"
 status: "active"
 ---
 

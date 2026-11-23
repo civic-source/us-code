@@ -3,9 +3,9 @@ title: "Section 643 - Chaplains: discharge or retirement upon loss of profession
 usc_title: 10
 usc_section: "643"
 chapter: 36
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "10 U.S.C. § 643"
-generated_at: "2026-11-23T20:49:41.314Z"
+generated_at: "2026-11-23T20:52:43.792Z"
 status: "active"
 ---
 

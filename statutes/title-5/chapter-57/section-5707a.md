@@ -3,9 +3,9 @@ title: "Section 5707a - Adherence to fire safety guidelines in establishing rate
 usc_title: 5
 usc_section: "5707a"
 chapter: 57
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "5 U.S.C. § 5707a"
-generated_at: "2026-11-23T20:49:24.229Z"
+generated_at: "2026-11-23T20:52:31.668Z"
 status: "active"
 ---
 

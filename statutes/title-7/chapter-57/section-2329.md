@@ -3,9 +3,9 @@ title: "Section 2329 - Register of protected plant varieties"
 usc_title: 7
 usc_section: "2329"
 chapter: 57
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "7 U.S.C. § 2329"
-generated_at: "2026-11-23T20:49:32.773Z"
+generated_at: "2026-11-23T20:52:37.401Z"
 status: "active"
 ---
 

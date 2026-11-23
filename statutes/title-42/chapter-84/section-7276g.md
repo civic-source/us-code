@@ -3,9 +3,9 @@ title: "Section 7276g - Western Area Power Administration; deposit and availabil
 usc_title: 42
 usc_section: "7276g"
 chapter: 84
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "42 U.S.C. § 7276g"
-generated_at: "2026-11-23T20:51:12.999Z"
+generated_at: "2026-11-23T20:53:45.464Z"
 status: "active"
 ---
 

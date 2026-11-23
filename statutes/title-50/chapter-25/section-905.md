@@ -3,9 +3,9 @@ title: "Section 905 - Repealed. Aug. 10, 1956, ch. 1041, § 53 , 70A Stat. 641"
 usc_title: 50
 usc_section: "905"
 chapter: 25
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "50 U.S.C. § 905"
-generated_at: "2026-11-23T20:51:21.551Z"
+generated_at: "2026-11-23T20:53:51.037Z"
 status: "repealed"
 ---
 

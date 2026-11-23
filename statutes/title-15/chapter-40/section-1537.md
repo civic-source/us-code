@@ -3,9 +3,9 @@ title: "Section 1537 - Needs assessment for data management, archival, and distr
 usc_title: 15
 usc_section: "1537"
 chapter: 40
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "15 U.S.C. § 1537"
-generated_at: "2026-11-23T20:49:53.776Z"
+generated_at: "2026-11-23T20:52:52.766Z"
 status: "active"
 ---
 

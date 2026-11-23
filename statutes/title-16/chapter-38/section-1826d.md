@@ -3,9 +3,9 @@ title: "Section 1826d - Prohibition"
 usc_title: 16
 usc_section: "1826d"
 chapter: 38
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "16 U.S.C. § 1826d"
-generated_at: "2026-11-23T20:50:09.836Z"
+generated_at: "2026-11-23T20:53:03.222Z"
 status: "active"
 ---
 

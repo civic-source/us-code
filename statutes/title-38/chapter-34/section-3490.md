@@ -3,9 +3,9 @@ title: "Section 3490 - Purpose"
 usc_title: 38
 usc_section: "3490"
 chapter: 34
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "38 U.S.C. § 3490"
-generated_at: "2026-11-23T20:50:49.582Z"
+generated_at: "2026-11-23T20:53:29.718Z"
 status: "active"
 ---
 

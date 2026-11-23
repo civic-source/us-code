@@ -3,9 +3,9 @@ title: "Section 72 - Preference right of coal mine entry; acreage limitation"
 usc_title: 30
 usc_section: "72"
 chapter: 3
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "30 U.S.C. § 72"
-generated_at: "2026-11-23T20:50:22.881Z"
+generated_at: "2026-11-23T20:53:12.430Z"
 status: "active"
 ---
 

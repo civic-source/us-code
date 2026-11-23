@@ -3,9 +3,9 @@ title: "Section 4306a - Indian community development initiatives"
 usc_title: 25
 usc_section: "4306a"
 chapter: 44
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "25 U.S.C. § 4306a"
-generated_at: "2026-11-23T20:50:13.812Z"
+generated_at: "2026-11-23T20:53:06.131Z"
 status: "active"
 ---
 

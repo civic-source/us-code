@@ -3,9 +3,9 @@ title: "Section 1101 - Acquisition directorate"
 usc_title: 14
 usc_section: "1101"
 chapter: 11
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "14 U.S.C. § 1101"
-generated_at: "2026-11-23T20:49:45.804Z"
+generated_at: "2026-11-23T20:52:46.209Z"
 status: "active"
 ---
 

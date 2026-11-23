@@ -3,9 +3,9 @@ title: "Section 701 - Authorization to convey; acreage limitations; qualified ap
 usc_title: 30
 usc_section: "701"
 chapter: 20
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "30 U.S.C. § 701"
-generated_at: "2026-11-23T20:50:22.929Z"
+generated_at: "2026-11-23T20:53:12.474Z"
 status: "active"
 ---
 

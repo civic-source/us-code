@@ -3,9 +3,9 @@ title: "Section 130309 - Service of process"
 usc_title: 36
 usc_section: "130309"
 chapter: 1303
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "36 U.S.C. § 130309"
-generated_at: "2026-11-23T20:50:46.576Z"
+generated_at: "2026-11-23T20:53:27.699Z"
 status: "active"
 ---
 

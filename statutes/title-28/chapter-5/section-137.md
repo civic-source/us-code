@@ -3,9 +3,9 @@ title: "Section 137 - Division of business among district judges"
 usc_title: 28
 usc_section: "137"
 chapter: 5
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "28 U.S.C. § 137"
-generated_at: "2026-11-23T20:50:24.198Z"
+generated_at: "2026-11-23T20:53:13.246Z"
 status: "active"
 ---
 

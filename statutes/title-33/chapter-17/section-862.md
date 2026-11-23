@@ -3,9 +3,9 @@ title: "Section 862 - Repealed. Pub. L. 87–649, § 14b , Sept. 7, 1962 , 76 St
 usc_title: 33
 usc_section: "862"
 chapter: 17
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "33 U.S.C. § 862"
-generated_at: "2026-11-23T20:50:40.695Z"
+generated_at: "2026-11-23T20:53:24.122Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 20135 - Licensing or certification of locomotive operators"
 usc_title: 49
 usc_section: "20135"
 chapter: 201
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "49 U.S.C. § 20135"
-generated_at: "2026-11-23T20:51:25.902Z"
+generated_at: "2026-11-23T20:53:53.610Z"
 status: "active"
 ---
 

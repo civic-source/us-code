@@ -3,9 +3,9 @@ title: "Section 7218 - Duties: warrant officers; limitations"
 usc_title: 10
 usc_section: "7218"
 chapter: 723
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "10 U.S.C. § 7218"
-generated_at: "2026-11-23T20:49:42.372Z"
+generated_at: "2026-11-23T20:52:44.331Z"
 status: "active"
 ---
 

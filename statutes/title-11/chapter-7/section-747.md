@@ -3,9 +3,9 @@ title: "Section 747 - Subordination of certain customer claims"
 usc_title: 11
 usc_section: "747"
 chapter: 7
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "11 U.S.C. § 747"
-generated_at: "2026-11-23T20:49:45.067Z"
+generated_at: "2026-11-23T20:52:46.690Z"
 status: "active"
 ---
 

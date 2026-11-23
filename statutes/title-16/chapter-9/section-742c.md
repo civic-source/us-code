@@ -3,9 +3,9 @@ title: "Section 742c - Loans for financing or refinancing of cost of purchasing,
 usc_title: 16
 usc_section: "742c"
 chapter: 9
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "16 U.S.C. § 742c"
-generated_at: "2026-11-23T20:50:09.465Z"
+generated_at: "2026-11-23T20:53:03.005Z"
 status: "active"
 ---
 

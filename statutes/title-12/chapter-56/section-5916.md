@@ -3,9 +3,9 @@ title: "Section 5916 - Exception for foreign payment stablecoin issuers and reci
 usc_title: 12
 usc_section: "5916"
 chapter: 56
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "12 U.S.C. § 5916"
-generated_at: "2026-11-23T20:49:49.457Z"
+generated_at: "2026-11-23T20:52:49.486Z"
 status: "active"
 ---
 

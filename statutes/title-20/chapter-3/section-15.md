@@ -3,9 +3,9 @@ title: "Section 15 - Authorization of appropriations"
 usc_title: 20
 usc_section: "15"
 chapter: 3
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "20 U.S.C. § 15"
-generated_at: "2026-11-23T20:50:03.673Z"
+generated_at: "2026-11-23T20:52:59.461Z"
 status: "active"
 ---
 

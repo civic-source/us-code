@@ -3,9 +3,9 @@ title: "Section 229 - Repealed. Pub. L. 110–234, title XI , 11004(b), May 22, 
 usc_title: 7
 usc_section: "229"
 chapter: 9
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "7 U.S.C. § 229"
-generated_at: "2026-11-23T20:49:32.284Z"
+generated_at: "2026-11-23T20:52:36.970Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 329 - Transportation information"
 usc_title: 49
 usc_section: "329"
 chapter: 3
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "49 U.S.C. § 329"
-generated_at: "2026-11-23T20:51:25.639Z"
+generated_at: "2026-11-23T20:53:53.496Z"
 status: "active"
 ---
 

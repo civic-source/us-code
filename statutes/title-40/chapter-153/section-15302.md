@@ -3,9 +3,9 @@ title: "Section 15302 - Decisions"
 usc_title: 40
 usc_section: "15302"
 chapter: 153
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "40 U.S.C. § 15302"
-generated_at: "2026-11-23T20:50:45.444Z"
+generated_at: "2026-11-23T20:53:26.703Z"
 status: "active"
 ---
 

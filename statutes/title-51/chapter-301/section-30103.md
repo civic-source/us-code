@@ -3,9 +3,9 @@ title: "Section 30103 - Budgets"
 usc_title: 51
 usc_section: "30103"
 chapter: 301
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "51 U.S.C. § 30103"
-generated_at: "2026-11-23T20:51:28.833Z"
+generated_at: "2026-11-23T20:53:55.611Z"
 status: "active"
 ---
 

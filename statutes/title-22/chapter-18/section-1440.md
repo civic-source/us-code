@@ -3,9 +3,9 @@ title: "Section 1440 - Repealed. Pub. L. 105–277, div. G , subdiv. A, title XI
 usc_title: 22
 usc_section: "1440"
 chapter: 18
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "22 U.S.C. § 1440"
-generated_at: "2026-11-23T20:50:20.237Z"
+generated_at: "2026-11-23T20:53:10.395Z"
 status: "repealed"
 ---
 

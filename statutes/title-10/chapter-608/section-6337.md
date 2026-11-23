@@ -3,9 +3,9 @@ title: "Section 6337 - Critical technology partnerships and cooperative research
 usc_title: 10
 usc_section: "6337"
 chapter: 608
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "10 U.S.C. § 6337"
-generated_at: "2026-11-23T20:49:42.343Z"
+generated_at: "2026-11-23T20:52:44.319Z"
 status: "active"
 ---
 

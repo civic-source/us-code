@@ -3,9 +3,9 @@ title: "Section 133 - Provider requirements with respect to disclosure on patien
 usc_title: 42
 usc_section: "133"
 chapter: 6
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "42 U.S.C. § 133"
-generated_at: "2026-11-23T20:51:10.839Z"
+generated_at: "2026-11-23T20:53:43.977Z"
 status: "active"
 ---
 

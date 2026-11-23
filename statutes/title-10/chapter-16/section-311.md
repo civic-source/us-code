@@ -3,9 +3,9 @@ title: "Section 311 - Exchange of defense personnel between United States and fr
 usc_title: 10
 usc_section: "311"
 chapter: 16
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "10 U.S.C. § 311"
-generated_at: "2026-11-23T20:49:41.173Z"
+generated_at: "2026-11-23T20:52:43.711Z"
 status: "active"
 ---
 

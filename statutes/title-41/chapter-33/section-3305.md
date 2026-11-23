@@ -3,9 +3,9 @@ title: "Section 3305 - Simplified procedures for small purchases"
 usc_title: 41
 usc_section: "3305"
 chapter: 33
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "41 U.S.C. § 3305"
-generated_at: "2026-11-23T20:50:52.355Z"
+generated_at: "2026-11-23T20:53:32.361Z"
 status: "active"
 ---
 

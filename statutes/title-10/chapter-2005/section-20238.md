@@ -3,9 +3,9 @@ title: "Section 20238 - Establishment of promotion zones"
 usc_title: 10
 usc_section: "20238"
 chapter: 2005
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "10 U.S.C. § 20238"
-generated_at: "2026-11-23T20:49:42.849Z"
+generated_at: "2026-11-23T20:52:44.542Z"
 status: "active"
 ---
 

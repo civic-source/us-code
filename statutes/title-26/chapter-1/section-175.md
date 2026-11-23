@@ -3,9 +3,9 @@ title: "Section 175 - Soil and water conservation expenditures; endangered speci
 usc_title: 26
 usc_section: "175"
 chapter: 1
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "26 U.S.C. § 175"
-generated_at: "2026-11-23T20:50:33.982Z"
+generated_at: "2026-11-23T20:53:18.875Z"
 status: "active"
 ---
 

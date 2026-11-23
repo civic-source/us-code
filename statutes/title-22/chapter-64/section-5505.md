@@ -3,9 +3,9 @@ title: "Section 5505 - Disaster training for State Department personnel"
 usc_title: 22
 usc_section: "5505"
 chapter: 64
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "22 U.S.C. § 5505"
-generated_at: "2026-11-23T20:50:20.768Z"
+generated_at: "2026-11-23T20:53:10.669Z"
 status: "active"
 ---
 

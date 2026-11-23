@@ -3,9 +3,9 @@ title: "Section 402 - Notice of copyright: Phonorecords of sound recordings"
 usc_title: 17
 usc_section: "402"
 chapter: 4
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "17 U.S.C. § 402"
-generated_at: "2026-11-23T20:49:56.249Z"
+generated_at: "2026-11-23T20:52:54.547Z"
 status: "active"
 ---
 

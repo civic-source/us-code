@@ -3,9 +3,9 @@ title: "Section 4414 - General powers of Board"
 usc_title: 20
 usc_section: "4414"
 chapter: 56
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "20 U.S.C. § 4414"
-generated_at: "2026-11-23T20:50:04.216Z"
+generated_at: "2026-11-23T20:52:59.822Z"
 status: "active"
 ---
 

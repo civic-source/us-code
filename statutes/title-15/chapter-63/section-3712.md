@@ -3,9 +3,9 @@ title: "Section 3712 - Personnel exchanges"
 usc_title: 15
 usc_section: "3712"
 chapter: 63
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "15 U.S.C. § 3712"
-generated_at: "2026-11-23T20:49:54.067Z"
+generated_at: "2026-11-23T20:52:52.978Z"
 status: "active"
 ---
 

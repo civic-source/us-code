@@ -3,9 +3,9 @@ title: "Section 20125 - Grants to combat violent crimes on campuses"
 usc_title: 34
 usc_section: "20125"
 chapter: 201
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "34 U.S.C. § 20125"
-generated_at: "2026-11-23T20:50:42.054Z"
+generated_at: "2026-11-23T20:53:22.179Z"
 status: "active"
 ---
 

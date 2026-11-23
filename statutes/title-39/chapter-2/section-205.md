@@ -3,9 +3,9 @@ title: "Section 205 - Procedures of the Board of Governors"
 usc_title: 39
 usc_section: "205"
 chapter: 2
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "39 U.S.C. § 205"
-generated_at: "2026-11-23T20:50:44.518Z"
+generated_at: "2026-11-23T20:53:25.804Z"
 status: "active"
 ---
 

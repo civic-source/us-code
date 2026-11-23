@@ -3,9 +3,9 @@ title: "Section 4423 - Headquarters"
 usc_title: 20
 usc_section: "4423"
 chapter: 56
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "20 U.S.C. § 4423"
-generated_at: "2026-11-23T20:50:04.222Z"
+generated_at: "2026-11-23T20:52:59.823Z"
 status: "active"
 ---
 

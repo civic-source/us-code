@@ -3,9 +3,9 @@ title: "Section 3844 - Administrative requirements for conservation programs"
 usc_title: 16
 usc_section: "3844"
 chapter: 58
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "16 U.S.C. § 3844"
-generated_at: "2026-11-23T20:50:10.025Z"
+generated_at: "2026-11-23T20:53:03.312Z"
 status: "active"
 ---
 

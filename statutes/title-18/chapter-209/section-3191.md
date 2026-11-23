@@ -3,9 +3,9 @@ title: "Section 3191 - Witnesses for indigent fugitives"
 usc_title: 18
 usc_section: "3191"
 chapter: 209
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "18 U.S.C. § 3191"
-generated_at: "2026-11-23T20:50:00.935Z"
+generated_at: "2026-11-23T20:52:56.038Z"
 status: "active"
 ---
 

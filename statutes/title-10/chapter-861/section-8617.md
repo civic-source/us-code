@@ -3,9 +3,9 @@ title: "Section 8617 - National Museum of the United States Navy"
 usc_title: 10
 usc_section: "8617"
 chapter: 861
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "10 U.S.C. § 8617"
-generated_at: "2026-11-23T20:49:42.562Z"
+generated_at: "2026-11-23T20:52:44.412Z"
 status: "active"
 ---
 

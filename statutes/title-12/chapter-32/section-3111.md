@@ -3,9 +3,9 @@ title: "Section 3111 - Criminal penalty"
 usc_title: 12
 usc_section: "3111"
 chapter: 32
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "12 U.S.C. § 3111"
-generated_at: "2026-11-23T20:49:49.199Z"
+generated_at: "2026-11-23T20:52:49.307Z"
 status: "active"
 ---
 

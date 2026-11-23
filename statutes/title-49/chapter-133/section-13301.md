@@ -3,9 +3,9 @@ title: "Section 13301 - Powers"
 usc_title: 49
 usc_section: "13301"
 chapter: 133
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "49 U.S.C. § 13301"
-generated_at: "2026-11-23T20:51:25.848Z"
+generated_at: "2026-11-23T20:53:53.585Z"
 status: "active"
 ---
 

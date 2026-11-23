@@ -3,9 +3,9 @@ title: "Section 6d - Filming and still photography"
 usc_title: 16
 usc_section: "6d"
 chapter: 1
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "16 U.S.C. § 6d"
-generated_at: "2026-11-23T20:50:09.079Z"
+generated_at: "2026-11-23T20:53:02.810Z"
 status: "active"
 ---
 

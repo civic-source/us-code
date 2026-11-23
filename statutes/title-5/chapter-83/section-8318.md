@@ -3,9 +3,9 @@ title: "Section 8318 - Restoration of annuity or retired pay"
 usc_title: 5
 usc_section: "8318"
 chapter: 83
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "5 U.S.C. § 8318"
-generated_at: "2026-11-23T20:49:24.369Z"
+generated_at: "2026-11-23T20:52:31.747Z"
 status: "active"
 ---
 

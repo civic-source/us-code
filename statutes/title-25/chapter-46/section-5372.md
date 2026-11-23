@@ -3,9 +3,9 @@ title: "Section 5372 - Reports"
 usc_title: 25
 usc_section: "5372"
 chapter: 46
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "25 U.S.C. § 5372"
-generated_at: "2026-11-23T20:50:13.854Z"
+generated_at: "2026-11-23T20:53:06.160Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2355 - Prior project authorization"
 usc_title: 33
 usc_section: "2355"
 chapter: 36
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "33 U.S.C. § 2355"
-generated_at: "2026-11-23T20:50:40.917Z"
+generated_at: "2026-11-23T20:53:24.293Z"
 status: "active"
 ---
 

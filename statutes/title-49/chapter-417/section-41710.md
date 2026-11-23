@@ -3,9 +3,9 @@ title: "Section 41710 - Time requirements"
 usc_title: 49
 usc_section: "41710"
 chapter: 417
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "49 U.S.C. § 41710"
-generated_at: "2026-11-23T20:51:26.223Z"
+generated_at: "2026-11-23T20:53:53.775Z"
 status: "active"
 ---
 

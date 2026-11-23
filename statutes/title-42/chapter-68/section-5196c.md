@@ -3,9 +3,9 @@ title: "Section 5196c - Grants for construction of emergency operations centers"
 usc_title: 42
 usc_section: "5196c"
 chapter: 68
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "42 U.S.C. § 5196c"
-generated_at: "2026-11-23T20:51:12.704Z"
+generated_at: "2026-11-23T20:53:45.233Z"
 status: "active"
 ---
 

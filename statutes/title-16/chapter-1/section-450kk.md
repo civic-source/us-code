@@ -3,9 +3,9 @@ title: "Section 450kk - Fort Union National Monument; acquisition of site and ot
 usc_title: 16
 usc_section: "450kk"
 chapter: 1
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "16 U.S.C. § 450kk"
-generated_at: "2026-11-23T20:50:09.036Z"
+generated_at: "2026-11-23T20:53:02.773Z"
 status: "active"
 ---
 

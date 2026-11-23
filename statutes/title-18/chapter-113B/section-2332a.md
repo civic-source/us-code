@@ -3,9 +3,9 @@ title: "Section 2332a - Use of weapons of mass destruction"
 usc_title: 18
 usc_section: "2332a"
 chapter: 113
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "18 U.S.C. § 2332a"
-generated_at: "2026-11-23T20:50:00.845Z"
+generated_at: "2026-11-23T20:52:55.999Z"
 status: "active"
 ---
 

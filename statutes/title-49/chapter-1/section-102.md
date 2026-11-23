@@ -3,9 +3,9 @@ title: "Section 102 - Department of Transportation"
 usc_title: 49
 usc_section: "102"
 chapter: 1
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "49 U.S.C. § 102"
-generated_at: "2026-11-23T20:51:25.593Z"
+generated_at: "2026-11-23T20:53:53.470Z"
 status: "active"
 ---
 

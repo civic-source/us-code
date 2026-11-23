@@ -3,9 +3,9 @@ title: "Section 1160 - Special consideration for certain cases of loss of paired
 usc_title: 38
 usc_section: "1160"
 chapter: 11
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "38 U.S.C. § 1160"
-generated_at: "2026-11-23T20:50:49.313Z"
+generated_at: "2026-11-23T20:53:29.580Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4501 - Application"
 usc_title: 46
 usc_section: "4501"
 chapter: 45
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "46 U.S.C. § 4501"
-generated_at: "2026-11-23T20:51:19.205Z"
+generated_at: "2026-11-23T20:53:49.627Z"
 status: "active"
 ---
 

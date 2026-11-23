@@ -3,9 +3,9 @@ title: "Section 8605 - Promotion of health and prevention of accidents"
 usc_title: 10
 usc_section: "8605"
 chapter: 861
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "10 U.S.C. § 8605"
-generated_at: "2026-11-23T20:49:42.559Z"
+generated_at: "2026-11-23T20:52:44.411Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2123 - Members of the program: active duty obligation; failure t
 usc_title: 10
 usc_section: "2123"
 chapter: 105
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "10 U.S.C. § 2123"
-generated_at: "2026-11-23T20:49:41.802Z"
+generated_at: "2026-11-23T20:52:44.050Z"
 status: "active"
 ---
 

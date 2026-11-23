@@ -3,9 +3,9 @@ title: "Section 1202 - Commercial Mobile Service Alert Advisory Committee"
 usc_title: 47
 usc_section: "1202"
 chapter: 11
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "47 U.S.C. § 1202"
-generated_at: "2026-11-23T20:51:17.685Z"
+generated_at: "2026-11-23T20:53:48.685Z"
 status: "active"
 ---
 

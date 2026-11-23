@@ -3,9 +3,9 @@ title: "Section 973m - Fisheries-related assistance"
 usc_title: 16
 usc_section: "973m"
 chapter: 16
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "16 U.S.C. § 973m"
-generated_at: "2026-11-23T20:50:09.604Z"
+generated_at: "2026-11-23T20:53:03.090Z"
 status: "active"
 ---
 

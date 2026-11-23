@@ -3,9 +3,9 @@ title: "Section 139 - Steelmark Month"
 usc_title: 36
 usc_section: "139"
 chapter: 1
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "36 U.S.C. § 139"
-generated_at: "2026-11-23T20:50:46.400Z"
+generated_at: "2026-11-23T20:53:27.580Z"
 status: "active"
 ---
 

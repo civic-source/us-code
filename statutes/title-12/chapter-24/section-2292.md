@@ -3,9 +3,9 @@ title: "Section 2292 - Annual report to the President and Congress"
 usc_title: 12
 usc_section: "2292"
 chapter: 24
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "12 U.S.C. § 2292"
-generated_at: "2026-11-23T20:49:49.169Z"
+generated_at: "2026-11-23T20:52:49.280Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6083 - Nonsmoking policy for children’s services"
 usc_title: 20
 usc_section: "6083"
 chapter: 68
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "20 U.S.C. § 6083"
-generated_at: "2026-11-23T20:50:04.254Z"
+generated_at: "2026-11-23T20:52:59.839Z"
 status: "active"
 ---
 

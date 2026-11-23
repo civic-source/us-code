@@ -3,9 +3,9 @@ title: "Section 37b - Confirmation of antitrust status of graduate medical resid
 usc_title: 15
 usc_section: "37b"
 chapter: 1
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "15 U.S.C. § 37b"
-generated_at: "2026-11-23T20:49:53.157Z"
+generated_at: "2026-11-23T20:52:52.252Z"
 status: "active"
 ---
 

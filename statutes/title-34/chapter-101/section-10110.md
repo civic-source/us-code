@@ -3,9 +3,9 @@ title: "Section 10110 - Office of Justice Programs grants, cooperative agreement
 usc_title: 34
 usc_section: "10110"
 chapter: 101
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "34 U.S.C. § 10110"
-generated_at: "2026-11-23T20:50:41.868Z"
+generated_at: "2026-11-23T20:53:22.065Z"
 status: "active"
 ---
 

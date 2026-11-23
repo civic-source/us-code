@@ -3,9 +3,9 @@ title: "Section 2433 - Authorization of appropriations"
 usc_title: 43
 usc_section: "2433"
 chapter: 42
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "43 U.S.C. § 2433"
-generated_at: "2026-11-23T20:50:54.674Z"
+generated_at: "2026-11-23T20:53:33.310Z"
 status: "active"
 ---
 

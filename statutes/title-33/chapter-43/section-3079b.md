@@ -3,9 +3,9 @@ title: "Section 3079b - Shore leave for professional mariners"
 usc_title: 33
 usc_section: "3079b"
 chapter: 43
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "33 U.S.C. § 3079b"
-generated_at: "2026-11-23T20:50:40.952Z"
+generated_at: "2026-11-23T20:53:24.314Z"
 status: "active"
 ---
 

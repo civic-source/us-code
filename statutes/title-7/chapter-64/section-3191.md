@@ -3,9 +3,9 @@ title: "Section 3191 - Purposes and findings relating to animal health and disea
 usc_title: 7
 usc_section: "3191"
 chapter: 64
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "7 U.S.C. § 3191"
-generated_at: "2026-11-23T20:49:32.826Z"
+generated_at: "2026-11-23T20:52:37.465Z"
 status: "active"
 ---
 

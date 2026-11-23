@@ -3,9 +3,9 @@ title: "Section 10005 - Support for conflict mitigation"
 usc_title: 22
 usc_section: "10005"
 chapter: 107
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "22 U.S.C. § 10005"
-generated_at: "2026-11-23T20:50:20.974Z"
+generated_at: "2026-11-23T20:53:10.809Z"
 status: "active"
 ---
 

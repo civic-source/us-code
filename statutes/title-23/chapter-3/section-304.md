@@ -3,9 +3,9 @@ title: "Section 304 - Participation by small business enterprises"
 usc_title: 23
 usc_section: "304"
 chapter: 3
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "23 U.S.C. § 304"
-generated_at: "2026-11-23T20:50:14.864Z"
+generated_at: "2026-11-23T20:53:06.897Z"
 status: "active"
 ---
 

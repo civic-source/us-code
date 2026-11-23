@@ -3,9 +3,9 @@ title: "Section 110 - Penalty for persons who negligently or fraudulently prepar
 usc_title: 11
 usc_section: "110"
 chapter: 1
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "11 U.S.C. § 110"
-generated_at: "2026-11-23T20:49:45.021Z"
+generated_at: "2026-11-23T20:52:46.640Z"
 status: "active"
 ---
 

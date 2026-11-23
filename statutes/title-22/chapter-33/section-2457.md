@@ -3,9 +3,9 @@ title: "Section 2457 - Reports by Board"
 usc_title: 22
 usc_section: "2457"
 chapter: 33
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "22 U.S.C. § 2457"
-generated_at: "2026-11-23T20:50:20.481Z"
+generated_at: "2026-11-23T20:53:10.520Z"
 status: "active"
 ---
 

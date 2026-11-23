@@ -3,9 +3,9 @@ title: "Section 81b - Wildlife corridors"
 usc_title: 16
 usc_section: "81b"
 chapter: 1
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "16 U.S.C. § 81b"
-generated_at: "2026-11-23T20:50:08.920Z"
+generated_at: "2026-11-23T20:53:02.710Z"
 status: "active"
 ---
 

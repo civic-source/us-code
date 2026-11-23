@@ -3,9 +3,9 @@ title: "Section 5931 - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 S
 usc_title: 16
 usc_section: "5931"
 chapter: 79
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "16 U.S.C. § 5931"
-generated_at: "2026-11-23T20:50:10.108Z"
+generated_at: "2026-11-23T20:53:03.350Z"
 status: "repealed"
 ---
 

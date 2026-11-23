@@ -3,9 +3,9 @@ title: "Section 508 - Transferred"
 usc_title: 25
 usc_section: "508"
 chapter: 14
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "25 U.S.C. § 508"
-generated_at: "2026-11-23T20:50:13.551Z"
+generated_at: "2026-11-23T20:53:05.893Z"
 status: "transferred"
 ---
 

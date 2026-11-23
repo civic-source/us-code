@@ -3,9 +3,9 @@ title: "Section 8182 - Repealed. Pub. L. 107–110, title X, § 1011(5)(A) , Jan
 usc_title: 20
 usc_section: "8182"
 chapter: 70
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "20 U.S.C. § 8182"
-generated_at: "2026-11-23T20:50:04.410Z"
+generated_at: "2026-11-23T20:52:59.913Z"
 status: "repealed"
 ---
 

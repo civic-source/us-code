@@ -3,9 +3,9 @@ title: "Section 4336b - Programmatic environmental document"
 usc_title: 42
 usc_section: "4336b"
 chapter: 55
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "42 U.S.C. § 4336b"
-generated_at: "2026-11-23T20:51:12.571Z"
+generated_at: "2026-11-23T20:53:45.119Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 296d - Preference"
 usc_title: 42
 usc_section: "296d"
 chapter: 6
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "42 U.S.C. § 296d"
-generated_at: "2026-11-23T20:51:10.556Z"
+generated_at: "2026-11-23T20:53:43.767Z"
 status: "active"
 ---
 

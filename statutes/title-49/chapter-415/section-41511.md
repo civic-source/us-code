@@ -3,9 +3,9 @@ title: "Section 41511 - Special prices for foreign air transportation"
 usc_title: 49
 usc_section: "41511"
 chapter: 415
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "49 U.S.C. § 41511"
-generated_at: "2026-11-23T20:51:26.217Z"
+generated_at: "2026-11-23T20:53:53.772Z"
 status: "active"
 ---
 

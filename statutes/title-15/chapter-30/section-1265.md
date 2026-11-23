@@ -3,9 +3,9 @@ title: "Section 1265 - Seizures"
 usc_title: 15
 usc_section: "1265"
 chapter: 30
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "15 U.S.C. § 1265"
-generated_at: "2026-11-23T20:49:53.744Z"
+generated_at: "2026-11-23T20:52:52.738Z"
 status: "active"
 ---
 

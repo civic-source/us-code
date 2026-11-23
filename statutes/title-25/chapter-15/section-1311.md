@@ -3,9 +3,9 @@ title: "Section 1311 - Model code"
 usc_title: 25
 usc_section: "1311"
 chapter: 15
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "25 U.S.C. § 1311"
-generated_at: "2026-11-23T20:50:13.581Z"
+generated_at: "2026-11-23T20:53:05.936Z"
 status: "active"
 ---
 

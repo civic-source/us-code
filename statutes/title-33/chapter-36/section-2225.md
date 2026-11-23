@@ -3,9 +3,9 @@ title: "Section 2225 - Credit or reimbursement"
 usc_title: 33
 usc_section: "2225"
 chapter: 36
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "33 U.S.C. § 2225"
-generated_at: "2026-11-23T20:50:40.865Z"
+generated_at: "2026-11-23T20:53:24.250Z"
 status: "active"
 ---
 

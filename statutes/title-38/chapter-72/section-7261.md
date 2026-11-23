@@ -3,9 +3,9 @@ title: "Section 7261 - Scope of review"
 usc_title: 38
 usc_section: "7261"
 chapter: 72
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "38 U.S.C. § 7261"
-generated_at: "2026-11-23T20:50:49.750Z"
+generated_at: "2026-11-23T20:53:29.804Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7901 - Health service programs"
 usc_title: 5
 usc_section: "7901"
 chapter: 79
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "5 U.S.C. § 7901"
-generated_at: "2026-11-23T20:49:24.322Z"
+generated_at: "2026-11-23T20:52:31.725Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 130101 - Organization"
 usc_title: 36
 usc_section: "130101"
 chapter: 1301
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "36 U.S.C. § 130101"
-generated_at: "2026-11-23T20:50:46.570Z"
+generated_at: "2026-11-23T20:53:27.695Z"
 status: "active"
 ---
 

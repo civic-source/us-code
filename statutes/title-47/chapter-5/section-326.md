@@ -3,9 +3,9 @@ title: "Section 326 - Censorship"
 usc_title: 47
 usc_section: "326"
 chapter: 5
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "47 U.S.C. § 326"
-generated_at: "2026-11-23T20:51:17.573Z"
+generated_at: "2026-11-23T20:53:48.624Z"
 status: "active"
 ---
 

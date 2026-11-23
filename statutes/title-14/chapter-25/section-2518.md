@@ -3,9 +3,9 @@ title: "Section 2518 - Command sponsorship"
 usc_title: 14
 usc_section: "2518"
 chapter: 25
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "14 U.S.C. § 2518"
-generated_at: "2026-11-23T20:49:45.862Z"
+generated_at: "2026-11-23T20:52:46.239Z"
 status: "active"
 ---
 

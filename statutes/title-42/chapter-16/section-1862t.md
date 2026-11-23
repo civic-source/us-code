@@ -3,9 +3,9 @@ title: "Section 1862t - Supporting veterans in STEM education and computer scien
 usc_title: 42
 usc_section: "1862t"
 chapter: 16
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "42 U.S.C. § 1862t"
-generated_at: "2026-11-23T20:51:12.154Z"
+generated_at: "2026-11-23T20:53:44.777Z"
 status: "active"
 ---
 

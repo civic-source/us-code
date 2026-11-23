@@ -3,9 +3,9 @@ title: "Section 1723 - General education, training, and experience requirements"
 usc_title: 10
 usc_section: "1723"
 chapter: 87
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "10 U.S.C. § 1723"
-generated_at: "2026-11-23T20:49:41.748Z"
+generated_at: "2026-11-23T20:52:44.016Z"
 status: "active"
 ---
 

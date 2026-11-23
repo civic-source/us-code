@@ -3,9 +3,9 @@ title: "Section 2205 - Public education"
 usc_title: 15
 usc_section: "2205"
 chapter: 49
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "15 U.S.C. § 2205"
-generated_at: "2026-11-23T20:49:53.937Z"
+generated_at: "2026-11-23T20:52:52.887Z"
 status: "active"
 ---
 

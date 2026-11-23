@@ -3,9 +3,9 @@ title: "Section 8424 - Restoration of overnight campsites"
 usc_title: 16
 usc_section: "8424"
 chapter: 103
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "16 U.S.C. § 8424"
-generated_at: "2026-11-23T20:50:10.212Z"
+generated_at: "2026-11-23T20:53:03.398Z"
 status: "active"
 ---
 

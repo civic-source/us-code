@@ -3,9 +3,9 @@ title: "Section 3982 - Assignments to Foreign Service positions"
 usc_title: 22
 usc_section: "3982"
 chapter: 52
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "22 U.S.C. § 3982"
-generated_at: "2026-11-23T20:50:20.686Z"
+generated_at: "2026-11-23T20:53:10.619Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 114 - Standards"
 usc_title: 41
 usc_section: "114"
 chapter: 1
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "41 U.S.C. § 114"
-generated_at: "2026-11-23T20:50:52.248Z"
+generated_at: "2026-11-23T20:53:32.328Z"
 status: "active"
 ---
 

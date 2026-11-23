@@ -3,9 +3,9 @@ title: "Section 507 - Office of Electronic Government"
 usc_title: 31
 usc_section: "507"
 chapter: 5
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "31 U.S.C. § 507"
-generated_at: "2026-11-23T20:50:38.832Z"
+generated_at: "2026-11-23T20:53:22.983Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 240i - Annual report on unfunded priorities"
 usc_title: 10
 usc_section: "240i"
 chapter: 9
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "10 U.S.C. § 240i"
-generated_at: "2026-11-23T20:49:41.154Z"
+generated_at: "2026-11-23T20:52:43.705Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 10703 - Definitions"
 usc_title: 22
 usc_section: "10703"
 chapter: 114
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "22 U.S.C. § 10703"
-generated_at: "2026-11-23T20:50:20.988Z"
+generated_at: "2026-11-23T20:53:10.819Z"
 status: "active"
 ---
 

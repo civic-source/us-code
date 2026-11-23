@@ -3,9 +3,9 @@ title: "Section 154107 - Restrictions"
 usc_title: 36
 usc_section: "154107"
 chapter: 1541
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "36 U.S.C. § 154107"
-generated_at: "2026-11-23T20:50:46.667Z"
+generated_at: "2026-11-23T20:53:27.769Z"
 status: "active"
 ---
 

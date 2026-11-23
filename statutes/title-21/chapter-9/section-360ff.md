@@ -3,9 +3,9 @@ title: "Section 360ff - Priority review to encourage treatments for rare pediatr
 usc_title: 21
 usc_section: "360ff"
 chapter: 9
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "21 U.S.C. § 360ff"
-generated_at: "2026-11-23T20:50:16.452Z"
+generated_at: "2026-11-23T20:53:07.992Z"
 status: "active"
 ---
 

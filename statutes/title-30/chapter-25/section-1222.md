@@ -3,9 +3,9 @@ title: "Section 1222 - Research funds to institutes"
 usc_title: 30
 usc_section: "1222"
 chapter: 25
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "30 U.S.C. § 1222"
-generated_at: "2026-11-23T20:50:22.969Z"
+generated_at: "2026-11-23T20:53:12.514Z"
 status: "active"
 ---
 

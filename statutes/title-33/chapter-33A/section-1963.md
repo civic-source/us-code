@@ -3,9 +3,9 @@ title: "Section 1963 - Rights and obligations of the Foundation"
 usc_title: 33
 usc_section: "1963"
 chapter: 33
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "33 U.S.C. § 1963"
-generated_at: "2026-11-23T20:50:40.855Z"
+generated_at: "2026-11-23T20:53:24.239Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7246 - Authorization of appropriations"
 usc_title: 20
 usc_section: "7246"
 chapter: 70
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "20 U.S.C. § 7246"
-generated_at: "2026-11-23T20:50:04.341Z"
+generated_at: "2026-11-23T20:52:59.881Z"
 status: "active"
 ---
 

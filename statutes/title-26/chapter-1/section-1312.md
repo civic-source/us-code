@@ -3,9 +3,9 @@ title: "Section 1312 - Circumstances of adjustment"
 usc_title: 26
 usc_section: "1312"
 chapter: 1
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "26 U.S.C. § 1312"
-generated_at: "2026-11-23T20:50:34.567Z"
+generated_at: "2026-11-23T20:53:19.303Z"
 status: "active"
 ---
 

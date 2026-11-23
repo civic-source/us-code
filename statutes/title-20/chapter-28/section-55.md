@@ -3,9 +3,9 @@ title: "Section 55 - Flexible use of funds"
 usc_title: 20
 usc_section: "55"
 chapter: 28
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "20 U.S.C. § 55"
-generated_at: "2026-11-23T20:50:03.907Z"
+generated_at: "2026-11-23T20:52:59.624Z"
 status: "active"
 ---
 

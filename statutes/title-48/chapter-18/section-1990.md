@@ -3,9 +3,9 @@ title: "Section 1990 - Compact appropriations"
 usc_title: 48
 usc_section: "1990"
 chapter: 18
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "48 U.S.C. § 1990"
-generated_at: "2026-11-23T20:51:16.712Z"
+generated_at: "2026-11-23T20:53:48.229Z"
 status: "active"
 ---
 

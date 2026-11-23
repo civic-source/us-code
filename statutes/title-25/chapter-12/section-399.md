@@ -3,9 +3,9 @@ title: "Section 399 - Leases of unallotted mineral lands withdrawn from entry un
 usc_title: 25
 usc_section: "399"
 chapter: 12
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "25 U.S.C. § 399"
-generated_at: "2026-11-23T20:50:13.523Z"
+generated_at: "2026-11-23T20:53:05.878Z"
 status: "active"
 ---
 

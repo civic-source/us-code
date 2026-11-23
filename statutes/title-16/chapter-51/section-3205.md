@@ -3,9 +3,9 @@ title: "Section 3205 - General wilderness review"
 usc_title: 16
 usc_section: "3205"
 chapter: 51
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "16 U.S.C. § 3205"
-generated_at: "2026-11-23T20:50:09.945Z"
+generated_at: "2026-11-23T20:53:03.280Z"
 status: "active"
 ---
 

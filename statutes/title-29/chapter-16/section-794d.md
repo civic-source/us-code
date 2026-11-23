@@ -3,9 +3,9 @@ title: "Section 794d - Electronic and information technology"
 usc_title: 29
 usc_section: "794d"
 chapter: 16
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "29 U.S.C. § 794d"
-generated_at: "2026-11-23T20:50:25.676Z"
+generated_at: "2026-11-23T20:53:14.640Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6201 - Definitions"
 usc_title: 31
 usc_section: "6201"
 chapter: 62
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "31 U.S.C. § 6201"
-generated_at: "2026-11-23T20:50:39.092Z"
+generated_at: "2026-11-23T20:53:23.204Z"
 status: "active"
 ---
 

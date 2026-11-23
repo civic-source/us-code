@@ -3,9 +3,9 @@ title: "Section 331 - Retirement of land-grant college employees"
 usc_title: 7
 usc_section: "331"
 chapter: 13
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "7 U.S.C. § 331"
-generated_at: "2026-11-23T20:49:32.294Z"
+generated_at: "2026-11-23T20:52:36.979Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1011a - Watershed agreements"
 usc_title: 16
 usc_section: "1011a"
 chapter: 18
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "16 U.S.C. § 1011a"
-generated_at: "2026-11-23T20:50:09.609Z"
+generated_at: "2026-11-23T20:53:03.092Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 450r - Ackia Battleground National Monument; establishment"
 usc_title: 16
 usc_section: "450r"
 chapter: 1
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "16 U.S.C. § 450r"
-generated_at: "2026-11-23T20:50:09.025Z"
+generated_at: "2026-11-23T20:53:02.768Z"
 status: "active"
 ---
 

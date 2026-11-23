@@ -3,9 +3,9 @@ title: "Section 8702 - Automatic coverage"
 usc_title: 5
 usc_section: "8702"
 chapter: 87
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "5 U.S.C. § 8702"
-generated_at: "2026-11-23T20:49:24.488Z"
+generated_at: "2026-11-23T20:52:31.821Z"
 status: "active"
 ---
 

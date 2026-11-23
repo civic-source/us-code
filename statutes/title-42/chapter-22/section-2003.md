@@ -3,9 +3,9 @@ title: "Section 2003 - Regulations"
 usc_title: 42
 usc_section: "2003"
 chapter: 22
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "42 U.S.C. § 2003"
-generated_at: "2026-11-23T20:51:12.229Z"
+generated_at: "2026-11-23T20:53:44.843Z"
 status: "active"
 ---
 

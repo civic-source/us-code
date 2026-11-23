@@ -3,9 +3,9 @@ title: "Section 7004 - United States representation on joint technical committee
 usc_title: 16
 usc_section: "7004"
 chapter: 89
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "16 U.S.C. § 7004"
-generated_at: "2026-11-23T20:50:10.166Z"
+generated_at: "2026-11-23T20:53:03.377Z"
 status: "active"
 ---
 

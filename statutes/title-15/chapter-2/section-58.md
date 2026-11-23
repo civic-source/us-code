@@ -3,9 +3,9 @@ title: "Section 58 - Short title"
 usc_title: 15
 usc_section: "58"
 chapter: 2
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "15 U.S.C. § 58"
-generated_at: "2026-11-23T20:49:53.183Z"
+generated_at: "2026-11-23T20:52:52.270Z"
 status: "active"
 ---
 

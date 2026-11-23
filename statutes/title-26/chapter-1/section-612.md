@@ -3,9 +3,9 @@ title: "Section 612 - Basis for cost depletion"
 usc_title: 26
 usc_section: "612"
 chapter: 1
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "26 U.S.C. § 612"
-generated_at: "2026-11-23T20:50:34.324Z"
+generated_at: "2026-11-23T20:53:19.144Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3388 - Supporting United States educational and exchange program
 usc_title: 22
 usc_section: "3388"
 chapter: 48
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "22 U.S.C. § 3388"
-generated_at: "2026-11-23T20:50:20.653Z"
+generated_at: "2026-11-23T20:53:10.596Z"
 status: "active"
 ---
 

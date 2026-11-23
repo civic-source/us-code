@@ -3,9 +3,9 @@ title: "Section 3 - Responsiveness to Congressional Research Service inquiries a
 usc_title: 22
 usc_section: "3"
 chapter: 38
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "22 U.S.C. § 3"
-generated_at: "2026-11-23T20:50:20.544Z"
+generated_at: "2026-11-23T20:53:10.548Z"
 status: "active"
 ---
 

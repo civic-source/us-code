@@ -3,9 +3,9 @@ title: "Section 8302 - Regulations"
 usc_title: 10
 usc_section: "8302"
 chapter: 837
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "10 U.S.C. § 8302"
-generated_at: "2026-11-23T20:49:42.504Z"
+generated_at: "2026-11-23T20:52:44.387Z"
 status: "active"
 ---
 

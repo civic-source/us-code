@@ -3,9 +3,9 @@ title: "Section 173 - Rural surface transportation grant program"
 usc_title: 23
 usc_section: "173"
 chapter: 1
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "23 U.S.C. § 173"
-generated_at: "2026-11-23T20:50:14.840Z"
+generated_at: "2026-11-23T20:53:06.883Z"
 status: "active"
 ---
 

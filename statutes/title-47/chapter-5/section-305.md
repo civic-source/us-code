@@ -3,9 +3,9 @@ title: "Section 305 - Government owned stations"
 usc_title: 47
 usc_section: "305"
 chapter: 5
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "47 U.S.C. § 305"
-generated_at: "2026-11-23T20:51:17.559Z"
+generated_at: "2026-11-23T20:53:48.616Z"
 status: "active"
 ---
 

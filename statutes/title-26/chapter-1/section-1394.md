@@ -3,9 +3,9 @@ title: "Section 1394 - Tax-exempt enterprise zone facility bonds"
 usc_title: 26
 usc_section: "1394"
 chapter: 1
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "26 U.S.C. § 1394"
-generated_at: "2026-11-23T20:50:34.595Z"
+generated_at: "2026-11-23T20:53:19.315Z"
 status: "active"
 ---
 

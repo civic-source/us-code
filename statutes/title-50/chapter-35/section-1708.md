@@ -3,9 +3,9 @@ title: "Section 1708 - Actions to address economic or industrial espionage in cy
 usc_title: 50
 usc_section: "1708"
 chapter: 35
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "50 U.S.C. § 1708"
-generated_at: "2026-11-23T20:51:21.588Z"
+generated_at: "2026-11-23T20:53:51.053Z"
 status: "active"
 ---
 

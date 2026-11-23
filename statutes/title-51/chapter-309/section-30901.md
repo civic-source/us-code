@@ -3,9 +3,9 @@ title: "Section 30901 - Congressional Space Medal of Honor"
 usc_title: 51
 usc_section: "30901"
 chapter: 309
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "51 U.S.C. § 30901"
-generated_at: "2026-11-23T20:51:28.842Z"
+generated_at: "2026-11-23T20:53:55.616Z"
 status: "active"
 ---
 

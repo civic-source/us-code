@@ -3,9 +3,9 @@ title: "Section 1875 - Protection of jurors’ employment"
 usc_title: 28
 usc_section: "1875"
 chapter: 121
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "28 U.S.C. § 1875"
-generated_at: "2026-11-23T20:50:24.364Z"
+generated_at: "2026-11-23T20:53:13.326Z"
 status: "active"
 ---
 

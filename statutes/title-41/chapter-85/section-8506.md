@@ -3,9 +3,9 @@ title: "Section 8506 - Authorization of appropriations"
 usc_title: 41
 usc_section: "8506"
 chapter: 85
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "41 U.S.C. § 8506"
-generated_at: "2026-11-23T20:50:52.448Z"
+generated_at: "2026-11-23T20:53:32.403Z"
 status: "active"
 ---
 

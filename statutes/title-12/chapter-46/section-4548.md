@@ -3,9 +3,9 @@ title: "Section 4548 - Regulations for use of credit scores"
 usc_title: 12
 usc_section: "4548"
 chapter: 46
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "12 U.S.C. § 4548"
-generated_at: "2026-11-23T20:49:49.273Z"
+generated_at: "2026-11-23T20:52:49.367Z"
 status: "active"
 ---
 

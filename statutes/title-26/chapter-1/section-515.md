@@ -3,9 +3,9 @@ title: "Section 515 - Taxes of foreign countries and possessions of the United S
 usc_title: 26
 usc_section: "515"
 chapter: 1
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "26 U.S.C. § 515"
-generated_at: "2026-11-23T20:50:34.290Z"
+generated_at: "2026-11-23T20:53:19.119Z"
 status: "active"
 ---
 

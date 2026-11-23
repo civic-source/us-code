@@ -3,9 +3,9 @@ title: "Section 5232 - Imported distilled spirits"
 usc_title: 26
 usc_section: "5232"
 chapter: 51
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "26 U.S.C. § 5232"
-generated_at: "2026-11-23T20:50:34.914Z"
+generated_at: "2026-11-23T20:53:19.470Z"
 status: "active"
 ---
 

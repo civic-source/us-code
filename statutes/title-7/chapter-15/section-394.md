@@ -3,9 +3,9 @@ title: "Section 394 - Repealed. Pub. L. 107–171, title X, § 10703(c)(3) , May
 usc_title: 7
 usc_section: "394"
 chapter: 15
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "7 U.S.C. § 394"
-generated_at: "2026-11-23T20:49:32.306Z"
+generated_at: "2026-11-23T20:52:36.990Z"
 status: "repealed"
 ---
 

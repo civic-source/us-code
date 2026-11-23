@@ -3,9 +3,9 @@ title: "Section 54 - Sources of matching funds"
 usc_title: 20
 usc_section: "54"
 chapter: 28
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "20 U.S.C. § 54"
-generated_at: "2026-11-23T20:50:03.907Z"
+generated_at: "2026-11-23T20:52:59.623Z"
 status: "active"
 ---
 

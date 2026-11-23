@@ -3,9 +3,9 @@ title: "Section 6333 - Funding for laboratory directed research and development"
 usc_title: 10
 usc_section: "6333"
 chapter: 608
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "10 U.S.C. § 6333"
-generated_at: "2026-11-23T20:49:42.342Z"
+generated_at: "2026-11-23T20:52:44.319Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1361 - Administration"
 usc_title: 33
 usc_section: "1361"
 chapter: 26
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "33 U.S.C. § 1361"
-generated_at: "2026-11-23T20:50:40.821Z"
+generated_at: "2026-11-23T20:53:24.210Z"
 status: "active"
 ---
 

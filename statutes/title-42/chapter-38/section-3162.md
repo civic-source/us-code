@@ -3,9 +3,9 @@ title: "Section 3162 - Comprehensive economic development strategies"
 usc_title: 42
 usc_section: "3162"
 chapter: 38
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "42 U.S.C. § 3162"
-generated_at: "2026-11-23T20:51:12.461Z"
+generated_at: "2026-11-23T20:53:45.029Z"
 status: "active"
 ---
 

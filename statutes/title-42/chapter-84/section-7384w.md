@@ -3,9 +3,9 @@ title: "Section 7384w - Subpoenas; oaths; examination of witnesses"
 usc_title: 42
 usc_section: "7384w"
 chapter: 84
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "42 U.S.C. § 7384w"
-generated_at: "2026-11-23T20:51:13.023Z"
+generated_at: "2026-11-23T20:53:45.481Z"
 status: "active"
 ---
 

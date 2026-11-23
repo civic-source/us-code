@@ -3,9 +3,9 @@ title: "Section 2051 - Continued benefits for certain Senate Restaurants employe
 usc_title: 2
 usc_section: "2051"
 chapter: 30
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "2 U.S.C. § 2051"
-generated_at: "2026-11-23T20:49:21.603Z"
+generated_at: "2026-11-23T20:52:29.837Z"
 status: "active"
 ---
 

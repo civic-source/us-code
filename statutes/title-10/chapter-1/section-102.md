@@ -3,9 +3,9 @@ title: "Section 102 - Effect of certain amendments on conforming changes to tabl
 usc_title: 10
 usc_section: "102"
 chapter: 1
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "10 U.S.C. § 102"
-generated_at: "2026-11-23T20:49:40.973Z"
+generated_at: "2026-11-23T20:52:43.620Z"
 status: "active"
 ---
 

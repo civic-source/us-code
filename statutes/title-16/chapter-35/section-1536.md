@@ -3,9 +3,9 @@ title: "Section 1536 - Interagency cooperation"
 usc_title: 16
 usc_section: "1536"
 chapter: 35
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "16 U.S.C. § 1536"
-generated_at: "2026-11-23T20:50:09.799Z"
+generated_at: "2026-11-23T20:53:03.204Z"
 status: "active"
 ---
 

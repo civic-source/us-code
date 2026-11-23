@@ -3,9 +3,9 @@ title: "Section 1237 - Acquisition and reclamation of land adversely affected by
 usc_title: 30
 usc_section: "1237"
 chapter: 25
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "30 U.S.C. § 1237"
-generated_at: "2026-11-23T20:50:22.978Z"
+generated_at: "2026-11-23T20:53:12.525Z"
 status: "active"
 ---
 

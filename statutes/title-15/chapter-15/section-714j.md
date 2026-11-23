@@ -3,9 +3,9 @@ title: "Section 714j - Utilization of associations and trade facilities"
 usc_title: 15
 usc_section: "714j"
 chapter: 15
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "15 U.S.C. § 714j"
-generated_at: "2026-11-23T20:49:53.656Z"
+generated_at: "2026-11-23T20:52:52.667Z"
 status: "active"
 ---
 

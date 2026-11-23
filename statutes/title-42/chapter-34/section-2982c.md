@@ -3,9 +3,9 @@ title: "Section 2982c - Repealed. Pub. L. 97–35, title VI, § 683(a) , Aug. 13
 usc_title: 42
 usc_section: "2982c"
 chapter: 34
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "42 U.S.C. § 2982c"
-generated_at: "2026-11-23T20:51:12.364Z"
+generated_at: "2026-11-23T20:53:44.947Z"
 status: "repealed"
 ---
 

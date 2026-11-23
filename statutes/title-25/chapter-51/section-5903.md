@@ -3,9 +3,9 @@ title: "Section 5903 - Establishment of Realty Ombudsman position"
 usc_title: 25
 usc_section: "5903"
 chapter: 51
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "25 U.S.C. § 5903"
-generated_at: "2026-11-23T20:50:13.877Z"
+generated_at: "2026-11-23T20:53:06.180Z"
 status: "active"
 ---
 

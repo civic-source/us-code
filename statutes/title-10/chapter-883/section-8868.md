@@ -3,9 +3,9 @@ title: "Section 8868 - Disposition of prize money"
 usc_title: 10
 usc_section: "8868"
 chapter: 883
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "10 U.S.C. § 8868"
-generated_at: "2026-11-23T20:49:42.618Z"
+generated_at: "2026-11-23T20:52:44.437Z"
 status: "active"
 ---
 

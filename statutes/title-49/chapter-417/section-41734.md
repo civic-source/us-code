@@ -3,9 +3,9 @@ title: "Section 41734 - Ending, suspending, and reducing basic essential air ser
 usc_title: 49
 usc_section: "41734"
 chapter: 417
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "49 U.S.C. § 41734"
-generated_at: "2026-11-23T20:51:26.236Z"
+generated_at: "2026-11-23T20:53:53.781Z"
 status: "active"
 ---
 

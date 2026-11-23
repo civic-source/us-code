@@ -3,9 +3,9 @@ title: "Section 409a - Acceptance of title to lands"
 usc_title: 16
 usc_section: "409a"
 chapter: 1
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "16 U.S.C. § 409a"
-generated_at: "2026-11-23T20:50:08.848Z"
+generated_at: "2026-11-23T20:53:02.675Z"
 status: "active"
 ---
 

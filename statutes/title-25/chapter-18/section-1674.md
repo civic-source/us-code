@@ -3,9 +3,9 @@ title: "Section 1674 - Leases with Indian tribes"
 usc_title: 25
 usc_section: "1674"
 chapter: 18
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "25 U.S.C. § 1674"
-generated_at: "2026-11-23T20:50:13.640Z"
+generated_at: "2026-11-23T20:53:05.982Z"
 status: "active"
 ---
 

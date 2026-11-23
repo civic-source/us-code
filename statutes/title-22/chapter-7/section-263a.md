@@ -3,9 +3,9 @@ title: "Section 263a - International Criminal Police Organization"
 usc_title: 22
 usc_section: "263a"
 chapter: 7
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "22 U.S.C. § 263a"
-generated_at: "2026-11-23T20:50:20.103Z"
+generated_at: "2026-11-23T20:53:10.334Z"
 status: "active"
 ---
 

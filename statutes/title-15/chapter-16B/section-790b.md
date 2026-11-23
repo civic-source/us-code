@@ -3,9 +3,9 @@ title: "Section 790b - Administrative provisions"
 usc_title: 15
 usc_section: "790b"
 chapter: 16
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "15 U.S.C. § 790b"
-generated_at: "2026-11-23T20:49:53.685Z"
+generated_at: "2026-11-23T20:52:52.692Z"
 status: "active"
 ---
 

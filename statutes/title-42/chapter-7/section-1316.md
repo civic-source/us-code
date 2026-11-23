@@ -3,9 +3,9 @@ title: "Section 1316 - Administrative and judicial review of public assistance d
 usc_title: 42
 usc_section: "1316"
 chapter: 7
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "42 U.S.C. § 1316"
-generated_at: "2026-11-23T20:51:11.197Z"
+generated_at: "2026-11-23T20:53:44.178Z"
 status: "active"
 ---
 

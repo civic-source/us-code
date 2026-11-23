@@ -3,9 +3,9 @@ title: "Section 2627 - Authorization"
 usc_title: 7
 usc_section: "2627"
 chapter: 58
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "7 U.S.C. § 2627"
-generated_at: "2026-11-23T20:49:32.786Z"
+generated_at: "2026-11-23T20:52:37.413Z"
 status: "active"
 ---
 

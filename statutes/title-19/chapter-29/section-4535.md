@@ -3,9 +3,9 @@ title: "Section 4535 - Regulations"
 usc_title: 19
 usc_section: "4535"
 chapter: 29
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "19 U.S.C. § 4535"
-generated_at: "2026-11-23T20:49:58.893Z"
+generated_at: "2026-11-23T20:52:57.683Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4168 - Public availability of information"
 usc_title: 25
 usc_section: "4168"
 chapter: 43
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "25 U.S.C. § 4168"
-generated_at: "2026-11-23T20:50:13.797Z"
+generated_at: "2026-11-23T20:53:06.119Z"
 status: "active"
 ---
 

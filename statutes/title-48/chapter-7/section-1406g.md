@@ -3,9 +3,9 @@ title: "Section 1406g - Repealed. Pub. L. 97–357, title III, § 307 , Oct. 19,
 usc_title: 48
 usc_section: "1406g"
 chapter: 7
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "48 U.S.C. § 1406g"
-generated_at: "2026-11-23T20:51:16.516Z"
+generated_at: "2026-11-23T20:53:48.121Z"
 status: "repealed"
 ---
 

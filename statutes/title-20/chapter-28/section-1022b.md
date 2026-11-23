@@ -3,9 +3,9 @@ title: "Section 1022b - Administrative provisions"
 usc_title: 20
 usc_section: "1022b"
 chapter: 28
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "20 U.S.C. § 1022b"
-generated_at: "2026-11-23T20:50:03.779Z"
+generated_at: "2026-11-23T20:52:59.518Z"
 status: "active"
 ---
 

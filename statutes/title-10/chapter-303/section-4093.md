@@ -3,9 +3,9 @@ title: "Section 4093 - Science, Mathematics, and Research for Transformation (SM
 usc_title: 10
 usc_section: "4093"
 chapter: 303
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "10 U.S.C. § 4093"
-generated_at: "2026-11-23T20:49:42.189Z"
+generated_at: "2026-11-23T20:52:44.253Z"
 status: "active"
 ---
 

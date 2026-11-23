@@ -3,9 +3,9 @@ title: "Section 1201 - Congressional findings"
 usc_title: 30
 usc_section: "1201"
 chapter: 25
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "30 U.S.C. § 1201"
-generated_at: "2026-11-23T20:50:22.967Z"
+generated_at: "2026-11-23T20:53:12.513Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 268 - International Joint Commission; salaries; powers"
 usc_title: 22
 usc_section: "268"
 chapter: 7
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "22 U.S.C. § 268"
-generated_at: "2026-11-23T20:50:20.105Z"
+generated_at: "2026-11-23T20:53:10.335Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 77a - Short title"
 usc_title: 15
 usc_section: "77a"
 chapter: 2
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "15 U.S.C. § 77a"
-generated_at: "2026-11-23T20:49:53.209Z"
+generated_at: "2026-11-23T20:52:52.286Z"
 status: "active"
 ---
 

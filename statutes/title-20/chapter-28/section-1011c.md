@@ -3,9 +3,9 @@ title: "Section 1011c - National Advisory Committee on Institutional Quality and
 usc_title: 20
 usc_section: "1011c"
 chapter: 28
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "20 U.S.C. § 1011c"
-generated_at: "2026-11-23T20:50:03.747Z"
+generated_at: "2026-11-23T20:52:59.499Z"
 status: "active"
 ---
 

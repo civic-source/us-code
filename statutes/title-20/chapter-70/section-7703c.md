@@ -3,9 +3,9 @@ title: "Section 7703c - Plan and authority to assist local educational agencies 
 usc_title: 20
 usc_section: "7703c"
 chapter: 70
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "20 U.S.C. § 7703c"
-generated_at: "2026-11-23T20:50:04.377Z"
+generated_at: "2026-11-23T20:52:59.899Z"
 status: "active"
 ---
 

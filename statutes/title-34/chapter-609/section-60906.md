@@ -3,9 +3,9 @@ title: "Section 60906 - Data collection"
 usc_title: 34
 usc_section: "60906"
 chapter: 609
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "34 U.S.C. § 60906"
-generated_at: "2026-11-23T20:50:42.175Z"
+generated_at: "2026-11-23T20:53:22.278Z"
 status: "active"
 ---
 

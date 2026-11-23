@@ -3,9 +3,9 @@ title: "Section 8168 - Annual reports"
 usc_title: 38
 usc_section: "8168"
 chapter: 81
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "38 U.S.C. § 8168"
-generated_at: "2026-11-23T20:50:49.860Z"
+generated_at: "2026-11-23T20:53:29.893Z"
 status: "active"
 ---
 

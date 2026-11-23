@@ -3,9 +3,9 @@ title: "Section 3571 - Reinstatement or restoration; individuals suspended or re
 usc_title: 5
 usc_section: "3571"
 chapter: 35
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "5 U.S.C. § 3571"
-generated_at: "2026-11-23T20:49:24.055Z"
+generated_at: "2026-11-23T20:52:31.579Z"
 status: "active"
 ---
 

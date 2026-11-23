@@ -3,9 +3,9 @@ title: "Section 60105 - Clearance of vessels"
 usc_title: 46
 usc_section: "60105"
 chapter: 601
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "46 U.S.C. § 60105"
-generated_at: "2026-11-23T20:51:19.576Z"
+generated_at: "2026-11-23T20:53:49.908Z"
 status: "active"
 ---
 

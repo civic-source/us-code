@@ -3,9 +3,9 @@ title: "Section 33 - Authorization; construction, operation, and maintenance, ap
 usc_title: 22
 usc_section: "33"
 chapter: 7
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "22 U.S.C. § 33"
-generated_at: "2026-11-23T20:50:20.122Z"
+generated_at: "2026-11-23T20:53:10.343Z"
 status: "active"
 ---
 

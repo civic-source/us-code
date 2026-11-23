@@ -3,9 +3,9 @@ title: "Section 7517 - Definitions"
 usc_title: 20
 usc_section: "7517"
 chapter: 70
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "20 U.S.C. § 7517"
-generated_at: "2026-11-23T20:50:04.366Z"
+generated_at: "2026-11-23T20:52:59.894Z"
 status: "active"
 ---
 

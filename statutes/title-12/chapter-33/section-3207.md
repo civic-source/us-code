@@ -3,9 +3,9 @@ title: "Section 3207 - Rules and regulations"
 usc_title: 12
 usc_section: "3207"
 chapter: 33
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "12 U.S.C. § 3207"
-generated_at: "2026-11-23T20:49:49.201Z"
+generated_at: "2026-11-23T20:52:49.309Z"
 status: "active"
 ---
 

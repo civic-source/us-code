@@ -3,9 +3,9 @@ title: "Section 3041 - Appointment of officials responsible for intelligence-rel
 usc_title: 50
 usc_section: "3041"
 chapter: 44
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "50 U.S.C. § 3041"
-generated_at: "2026-11-23T20:51:21.729Z"
+generated_at: "2026-11-23T20:53:51.119Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4605 - Displaced persons not eligible for assistance"
 usc_title: 42
 usc_section: "4605"
 chapter: 61
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "42 U.S.C. § 4605"
-generated_at: "2026-11-23T20:51:12.597Z"
+generated_at: "2026-11-23T20:53:45.142Z"
 status: "active"
 ---
 

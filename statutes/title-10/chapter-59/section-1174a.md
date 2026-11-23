@@ -3,9 +3,9 @@ title: "Section 1174a - Special separation benefits programs"
 usc_title: 10
 usc_section: "1174a"
 chapter: 59
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "10 U.S.C. § 1174a"
-generated_at: "2026-11-23T20:49:41.610Z"
+generated_at: "2026-11-23T20:52:43.942Z"
 status: "active"
 ---
 

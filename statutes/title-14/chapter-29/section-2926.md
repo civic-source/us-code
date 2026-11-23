@@ -3,9 +3,9 @@ title: "Section 2926 - Family child care providers"
 usc_title: 14
 usc_section: "2926"
 chapter: 29
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "14 U.S.C. § 2926"
-generated_at: "2026-11-23T20:49:45.882Z"
+generated_at: "2026-11-23T20:52:46.248Z"
 status: "active"
 ---
 

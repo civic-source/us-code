@@ -3,9 +3,9 @@ title: "Section 8624 - Applications and requirements"
 usc_title: 42
 usc_section: "8624"
 chapter: 94
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "42 U.S.C. § 8624"
-generated_at: "2026-11-23T20:51:13.251Z"
+generated_at: "2026-11-23T20:53:45.668Z"
 status: "active"
 ---
 

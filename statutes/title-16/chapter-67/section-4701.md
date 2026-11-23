@@ -3,9 +3,9 @@ title: "Section 4701 - Findings and purposes"
 usc_title: 16
 usc_section: "4701"
 chapter: 67
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "16 U.S.C. § 4701"
-generated_at: "2026-11-23T20:50:10.073Z"
+generated_at: "2026-11-23T20:53:03.331Z"
 status: "active"
 ---
 

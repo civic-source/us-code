@@ -3,9 +3,9 @@ title: "Section 223a - Notice and removal of nonconsensual intimate visual depic
 usc_title: 47
 usc_section: "223a"
 chapter: 5
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "47 U.S.C. § 223a"
-generated_at: "2026-11-23T20:51:17.528Z"
+generated_at: "2026-11-23T20:53:48.600Z"
 status: "active"
 ---
 

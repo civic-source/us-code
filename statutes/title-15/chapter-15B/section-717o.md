@@ -3,9 +3,9 @@ title: "Section 717o - Administrative powers of Commission; rules, regulations, 
 usc_title: 15
 usc_section: "717o"
 chapter: 15
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "15 U.S.C. § 717o"
-generated_at: "2026-11-23T20:49:53.664Z"
+generated_at: "2026-11-23T20:52:52.673Z"
 status: "active"
 ---
 

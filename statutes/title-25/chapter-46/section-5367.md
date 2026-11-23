@@ -3,9 +3,9 @@ title: "Section 5367 - Construction programs and projects"
 usc_title: 25
 usc_section: "5367"
 chapter: 46
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "25 U.S.C. § 5367"
-generated_at: "2026-11-23T20:50:13.852Z"
+generated_at: "2026-11-23T20:53:06.158Z"
 status: "active"
 ---
 

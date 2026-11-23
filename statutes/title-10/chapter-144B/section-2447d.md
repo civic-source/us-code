@@ -3,9 +3,9 @@ title: "Section 2447d - Renumbered § 4424]"
 usc_title: 10
 usc_section: "2447d"
 chapter: 144
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "10 U.S.C. § 2447d"
-generated_at: "2026-11-23T20:49:41.886Z"
+generated_at: "2026-11-23T20:52:44.109Z"
 status: "renumbered"
 ---
 

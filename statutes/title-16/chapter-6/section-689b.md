@@ -3,9 +3,9 @@ title: "Section 689b - Hunting, pursuing, capturing in Tahquitz National Game Pr
 usc_title: 16
 usc_section: "689b"
 chapter: 6
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "16 U.S.C. § 689b"
-generated_at: "2026-11-23T20:50:09.417Z"
+generated_at: "2026-11-23T20:53:02.990Z"
 status: "active"
 ---
 

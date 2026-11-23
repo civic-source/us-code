@@ -3,9 +3,9 @@ title: "Section 1465bb - Television broadcasting to Cuba"
 usc_title: 22
 usc_section: "1465bb"
 chapter: 18
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "22 U.S.C. § 1465bb"
-generated_at: "2026-11-23T20:50:20.249Z"
+generated_at: "2026-11-23T20:53:10.399Z"
 status: "active"
 ---
 

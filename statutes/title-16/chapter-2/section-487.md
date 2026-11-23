@@ -3,9 +3,9 @@ title: "Section 487 - Cutting timber on land added to Siskiyou National Forest"
 usc_title: 16
 usc_section: "487"
 chapter: 2
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "16 U.S.C. § 487"
-generated_at: "2026-11-23T20:50:09.271Z"
+generated_at: "2026-11-23T20:53:02.921Z"
 status: "active"
 ---
 

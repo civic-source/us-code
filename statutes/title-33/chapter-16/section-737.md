@@ -3,9 +3,9 @@ title: "Section 737 - Repealed. Pub. L. 117–263, div. K, title CXVIII, § 1180
 usc_title: 33
 usc_section: "737"
 chapter: 16
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "33 U.S.C. § 737"
-generated_at: "2026-11-23T20:50:40.687Z"
+generated_at: "2026-11-23T20:53:24.117Z"
 status: "repealed"
 ---
 

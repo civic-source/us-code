@@ -3,9 +3,9 @@ title: "Section 1703G - Quarterly report on referrals for non-Department health 
 usc_title: 38
 usc_section: "1703G"
 chapter: 17
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "38 U.S.C. § 1703G"
-generated_at: "2026-11-23T20:50:49.377Z"
+generated_at: "2026-11-23T20:53:29.605Z"
 status: "active"
 ---
 

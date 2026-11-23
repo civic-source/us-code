@@ -3,9 +3,9 @@ title: "Section 2245 - Certificate of trial judge admissible in evidence"
 usc_title: 28
 usc_section: "2245"
 chapter: 153
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "28 U.S.C. § 2245"
-generated_at: "2026-11-23T20:50:24.387Z"
+generated_at: "2026-11-23T20:53:13.339Z"
 status: "active"
 ---
 

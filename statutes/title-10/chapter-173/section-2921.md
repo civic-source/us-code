@@ -3,9 +3,9 @@ title: "Section 2921 - Energy efficiency targets for data centers"
 usc_title: 10
 usc_section: "2921"
 chapter: 173
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "10 U.S.C. § 2921"
-generated_at: "2026-11-23T20:49:42.080Z"
+generated_at: "2026-11-23T20:52:44.201Z"
 status: "active"
 ---
 

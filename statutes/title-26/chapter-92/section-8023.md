@@ -3,9 +3,9 @@ title: "Section 8023 - Additional powers to obtain data"
 usc_title: 26
 usc_section: "8023"
 chapter: 92
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "26 U.S.C. § 8023"
-generated_at: "2026-11-23T20:50:35.323Z"
+generated_at: "2026-11-23T20:53:19.656Z"
 status: "active"
 ---
 

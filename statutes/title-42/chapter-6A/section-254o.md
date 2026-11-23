@@ -3,9 +3,9 @@ title: "Section 254o - Breach of scholarship contract or loan repayment contract
 usc_title: 42
 usc_section: "254o"
 chapter: 6
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "42 U.S.C. § 254o"
-generated_at: "2026-11-23T20:51:10.246Z"
+generated_at: "2026-11-23T20:53:43.502Z"
 status: "active"
 ---
 

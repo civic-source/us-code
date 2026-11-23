@@ -3,9 +3,9 @@ title: "Section 47131 - Repealed. Pub. L. 118–63, title II, § 218(d) , May 16
 usc_title: 49
 usc_section: "47131"
 chapter: 471
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "49 U.S.C. § 47131"
-generated_at: "2026-11-23T20:51:26.455Z"
+generated_at: "2026-11-23T20:53:53.898Z"
 status: "repealed"
 ---
 

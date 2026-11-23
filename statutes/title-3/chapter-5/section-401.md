@@ -3,9 +3,9 @@ title: "Section 401 - Definitions"
 usc_title: 3
 usc_section: "401"
 chapter: 5
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "3 U.S.C. § 401"
-generated_at: "2026-11-23T20:49:20.120Z"
+generated_at: "2026-11-23T20:52:29.057Z"
 status: "active"
 ---
 

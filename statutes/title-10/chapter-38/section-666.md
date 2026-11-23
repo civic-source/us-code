@@ -3,9 +3,9 @@ title: "Section 666 - Reserve officers not on the active-duty list"
 usc_title: 10
 usc_section: "666"
 chapter: 38
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "10 U.S.C. § 666"
-generated_at: "2026-11-23T20:49:41.323Z"
+generated_at: "2026-11-23T20:52:43.798Z"
 status: "active"
 ---
 

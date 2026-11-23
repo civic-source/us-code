@@ -3,9 +3,9 @@ title: "Section 30110 - Improved investigative and forensic resources for enforc
 usc_title: 34
 usc_section: "30110"
 chapter: 301
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "34 U.S.C. § 30110"
-generated_at: "2026-11-23T20:50:42.115Z"
+generated_at: "2026-11-23T20:53:22.229Z"
 status: "active"
 ---
 

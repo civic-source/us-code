@@ -3,9 +3,9 @@ title: "Section 4 - Repealed. Pub. L. 91–230, title IV, § 401(d)(1) , (2), Ap
 usc_title: 20
 usc_section: "4"
 chapter: 1
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "20 U.S.C. § 4"
-generated_at: "2026-11-23T20:50:03.647Z"
+generated_at: "2026-11-23T20:52:59.445Z"
 status: "repealed"
 ---
 

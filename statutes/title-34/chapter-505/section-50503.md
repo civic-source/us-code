@@ -3,9 +3,9 @@ title: "Section 50503 - Blue Alert Coordinator; guidelines"
 usc_title: 34
 usc_section: "50503"
 chapter: 505
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "34 U.S.C. § 50503"
-generated_at: "2026-11-23T20:50:42.160Z"
+generated_at: "2026-11-23T20:53:22.266Z"
 status: "active"
 ---
 

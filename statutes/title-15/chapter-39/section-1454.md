@@ -3,9 +3,9 @@ title: "Section 1454 - Rules and regulations"
 usc_title: 15
 usc_section: "1454"
 chapter: 39
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "15 U.S.C. § 1454"
-generated_at: "2026-11-23T20:49:53.762Z"
+generated_at: "2026-11-23T20:52:52.754Z"
 status: "active"
 ---
 

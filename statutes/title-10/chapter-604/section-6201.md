@@ -3,9 +3,9 @@ title: "Section 6201 - Safety measures for waste tanks at Hanford Nuclear Reserv
 usc_title: 10
 usc_section: "6201"
 chapter: 604
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "10 U.S.C. § 6201"
-generated_at: "2026-11-23T20:49:42.323Z"
+generated_at: "2026-11-23T20:52:44.311Z"
 status: "active"
 ---
 

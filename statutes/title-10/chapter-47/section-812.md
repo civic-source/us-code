@@ -3,9 +3,9 @@ title: "Section 812 - Art. 12. Prohibition of confinement of members of the arme
 usc_title: 10
 usc_section: "812"
 chapter: 47
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "10 U.S.C. § 812"
-generated_at: "2026-11-23T20:49:41.365Z"
+generated_at: "2026-11-23T20:52:43.819Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 685 - Construction by commission of restraining works, etc.; use
 usc_title: 33
 usc_section: "685"
 chapter: 14
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "33 U.S.C. § 685"
-generated_at: "2026-11-23T20:50:40.654Z"
+generated_at: "2026-11-23T20:53:24.095Z"
 status: "active"
 ---
 

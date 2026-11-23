@@ -3,9 +3,9 @@ title: "Section 152404 - Officers and employees"
 usc_title: 36
 usc_section: "152404"
 chapter: 1524
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "36 U.S.C. § 152404"
-generated_at: "2026-11-23T20:50:46.643Z"
+generated_at: "2026-11-23T20:53:27.748Z"
 status: "active"
 ---
 

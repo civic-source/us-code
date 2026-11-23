@@ -3,9 +3,9 @@ title: "Section 30105 - Powers"
 usc_title: 36
 usc_section: "30105"
 chapter: 301
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "36 U.S.C. § 30105"
-generated_at: "2026-11-23T20:50:46.476Z"
+generated_at: "2026-11-23T20:53:27.637Z"
 status: "active"
 ---
 

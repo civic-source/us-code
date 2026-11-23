@@ -3,9 +3,9 @@ title: "Section 5304 - Rhinoceros and tiger conservation assistance"
 usc_title: 16
 usc_section: "5304"
 chapter: 73
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "16 U.S.C. § 5304"
-generated_at: "2026-11-23T20:50:10.096Z"
+generated_at: "2026-11-23T20:53:03.345Z"
 status: "active"
 ---
 

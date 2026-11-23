@@ -3,9 +3,9 @@ title: "Section 5905 - Liens"
 usc_title: 49
 usc_section: "5905"
 chapter: 59
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "49 U.S.C. § 5905"
-generated_at: "2026-11-23T20:51:25.815Z"
+generated_at: "2026-11-23T20:53:53.569Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2317 - Aviation cadets; procurement; transfer"
 usc_title: 14
 usc_section: "2317"
 chapter: 23
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "14 U.S.C. § 2317"
-generated_at: "2026-11-23T20:49:45.856Z"
+generated_at: "2026-11-23T20:52:46.235Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3606 - Report to Congress"
 usc_title: 33
 usc_section: "3606"
 chapter: 49
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "33 U.S.C. § 3606"
-generated_at: "2026-11-23T20:50:40.968Z"
+generated_at: "2026-11-23T20:53:24.331Z"
 status: "active"
 ---
 

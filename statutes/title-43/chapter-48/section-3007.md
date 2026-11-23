@@ -3,9 +3,9 @@ title: "Section 3007 - Renewable energy fees on Federal land"
 usc_title: 43
 usc_section: "3007"
 chapter: 48
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "43 U.S.C. § 3007"
-generated_at: "2026-11-23T20:50:54.692Z"
+generated_at: "2026-11-23T20:53:33.317Z"
 status: "active"
 ---
 

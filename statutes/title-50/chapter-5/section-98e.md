@@ -3,9 +3,9 @@ title: "Section 98e - Stockpile management"
 usc_title: 50
 usc_section: "98e"
 chapter: 5
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "50 U.S.C. § 98e"
-generated_at: "2026-11-23T20:51:21.504Z"
+generated_at: "2026-11-23T20:53:51.008Z"
 status: "active"
 ---
 

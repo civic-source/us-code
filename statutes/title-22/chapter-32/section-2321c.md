@@ -3,9 +3,9 @@ title: "Section 2321c - Definitions"
 usc_title: 22
 usc_section: "2321c"
 chapter: 32
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "22 U.S.C. § 2321c"
-generated_at: "2026-11-23T20:50:20.398Z"
+generated_at: "2026-11-23T20:53:10.482Z"
 status: "active"
 ---
 

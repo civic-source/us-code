@@ -3,9 +3,9 @@ title: "Section 8235e - Authority of Federal Energy Regulatory Commission to exe
 usc_title: 42
 usc_section: "8235e"
 chapter: 91
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "42 U.S.C. § 8235e"
-generated_at: "2026-11-23T20:51:13.211Z"
+generated_at: "2026-11-23T20:53:45.635Z"
 status: "active"
 ---
 

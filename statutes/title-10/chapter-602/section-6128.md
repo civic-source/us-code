@@ -3,9 +3,9 @@ title: "Section 6128 - Plutonium pit production capacity"
 usc_title: 10
 usc_section: "6128"
 chapter: 602
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "10 U.S.C. § 6128"
-generated_at: "2026-11-23T20:49:42.303Z"
+generated_at: "2026-11-23T20:52:44.304Z"
 status: "active"
 ---
 

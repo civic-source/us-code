@@ -3,9 +3,9 @@ title: "Section 195a - Repealed. Pub. L. 98–621, § 10(d)(1) , Nov. 8, 1984 , 
 usc_title: 24
 usc_section: "195a"
 chapter: 4
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "24 U.S.C. § 195a"
-generated_at: "2026-11-23T20:50:11.938Z"
+generated_at: "2026-11-23T20:53:04.731Z"
 status: "repealed"
 ---
 

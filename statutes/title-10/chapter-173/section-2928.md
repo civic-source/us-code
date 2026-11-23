@@ -3,9 +3,9 @@ title: "Section 2928 - Programs on reduction of fuel reliance and promotion of e
 usc_title: 10
 usc_section: "2928"
 chapter: 173
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "10 U.S.C. § 2928"
-generated_at: "2026-11-23T20:49:42.088Z"
+generated_at: "2026-11-23T20:52:44.204Z"
 status: "active"
 ---
 

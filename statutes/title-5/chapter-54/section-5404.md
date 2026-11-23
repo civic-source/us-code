@@ -3,9 +3,9 @@ title: "Section 5404 - Human capital performance payments"
 usc_title: 5
 usc_section: "5404"
 chapter: 54
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "5 U.S.C. § 5404"
-generated_at: "2026-11-23T20:49:24.162Z"
+generated_at: "2026-11-23T20:52:31.639Z"
 status: "active"
 ---
 

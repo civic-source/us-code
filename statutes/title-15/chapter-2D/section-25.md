@@ -3,9 +3,9 @@ title: "Section 25 - Reorganization plans; reports by Commission"
 usc_title: 15
 usc_section: "25"
 chapter: 2
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "15 U.S.C. § 25"
-generated_at: "2026-11-23T20:49:53.379Z"
+generated_at: "2026-11-23T20:52:52.435Z"
 status: "active"
 ---
 

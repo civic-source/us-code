@@ -3,9 +3,9 @@ title: "Section 777j - Repealed. Pub. L. 89–348, § 1(14) , Nov. 8, 1965 , 79 
 usc_title: 16
 usc_section: "777j"
 chapter: 10
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "16 U.S.C. § 777j"
-generated_at: "2026-11-23T20:50:09.494Z"
+generated_at: "2026-11-23T20:53:03.021Z"
 status: "repealed"
 ---
 

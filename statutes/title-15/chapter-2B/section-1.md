@@ -3,9 +3,9 @@ title: "Section 1 - Effective date of certain sections"
 usc_title: 15
 usc_section: "1"
 chapter: 2
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "15 U.S.C. § 1"
-generated_at: "2026-11-23T20:49:53.347Z"
+generated_at: "2026-11-23T20:52:52.406Z"
 status: "active"
 ---
 

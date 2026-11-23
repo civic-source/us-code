@@ -3,9 +3,9 @@ title: "Section 6 - Environmental Protection Agency minor use program"
 usc_title: 7
 usc_section: "6"
 chapter: 6
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "7 U.S.C. § 6"
-generated_at: "2026-11-23T20:49:32.224Z"
+generated_at: "2026-11-23T20:52:36.912Z"
 status: "active"
 ---
 

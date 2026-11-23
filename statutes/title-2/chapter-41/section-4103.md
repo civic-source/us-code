@@ -3,9 +3,9 @@ title: "Section 4103 - Contracts to furnish property, supplies, or services to C
 usc_title: 2
 usc_section: "4103"
 chapter: 41
-current_through: "PL 119-99"
+current_through: "PL 119-100"
 classification: "2 U.S.C. § 4103"
-generated_at: "2026-11-23T20:49:21.616Z"
+generated_at: "2026-11-23T20:52:29.852Z"
 status: "active"
 ---
 
