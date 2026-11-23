@@ -3,9 +3,9 @@ title: "Section 8814a - Subcommittee on the Economic and Security Implications o
 usc_title: 15
 usc_section: "8814a"
 chapter: 114
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "15 U.S.C. § 8814a"
-generated_at: "2026-11-23T20:30:09.280Z"
+generated_at: "2026-11-23T20:32:36.593Z"
 status: "active"
 ---
 

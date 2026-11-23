@@ -3,9 +3,9 @@ title: "Section 973 - Definitions"
 usc_title: 16
 usc_section: "973"
 chapter: 16
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "16 U.S.C. § 973"
-generated_at: "2026-11-23T20:30:23.831Z"
+generated_at: "2026-11-23T20:32:46.570Z"
 status: "active"
 ---
 

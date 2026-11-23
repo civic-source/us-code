@@ -3,9 +3,9 @@ title: "Section 19403 - Limitation on judicial enforceability of nondisclosure a
 usc_title: 42
 usc_section: "19403"
 chapter: 164
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "42 U.S.C. § 19403"
-generated_at: "2026-11-23T20:31:26.496Z"
+generated_at: "2026-11-23T20:33:22.530Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 715 - Attending Physician to the Congress: grade"
 usc_title: 10
 usc_section: "715"
 chapter: 41
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "10 U.S.C. § 715"
-generated_at: "2026-11-23T20:29:57.006Z"
+generated_at: "2026-11-23T20:32:29.869Z"
 status: "active"
 ---
 

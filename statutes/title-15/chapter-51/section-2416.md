@@ -3,9 +3,9 @@ title: "Section 2416 - Contracts and other funding arrangements"
 usc_title: 15
 usc_section: "2416"
 chapter: 51
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "15 U.S.C. § 2416"
-generated_at: "2026-11-23T20:30:08.977Z"
+generated_at: "2026-11-23T20:32:36.364Z"
 status: "active"
 ---
 

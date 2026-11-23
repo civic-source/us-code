@@ -3,9 +3,9 @@ title: "Section 1183 - Trustee"
 usc_title: 11
 usc_section: "1183"
 chapter: 11
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "11 U.S.C. § 1183"
-generated_at: "2026-11-23T20:30:00.850Z"
+generated_at: "2026-11-23T20:32:32.052Z"
 status: "active"
 ---
 

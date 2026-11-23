@@ -3,9 +3,9 @@ title: "Section 2003 - Conference"
 usc_title: 48
 usc_section: "2003"
 chapter: 19
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "48 U.S.C. § 2003"
-generated_at: "2026-11-23T20:31:28.991Z"
+generated_at: "2026-11-23T20:33:24.470Z"
 status: "active"
 ---
 

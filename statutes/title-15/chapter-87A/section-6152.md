@@ -3,9 +3,9 @@ title: "Section 6152 - Telemarketing Sales Rule; do-not-call registry fees"
 usc_title: 15
 usc_section: "6152"
 chapter: 87
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "15 U.S.C. § 6152"
-generated_at: "2026-11-23T20:30:09.160Z"
+generated_at: "2026-11-23T20:32:36.500Z"
 status: "active"
 ---
 

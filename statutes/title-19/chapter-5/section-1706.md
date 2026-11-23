@@ -3,9 +3,9 @@ title: "Section 1706 - Importation in vessels under thirty tons and aircraft; li
 usc_title: 19
 usc_section: "1706"
 chapter: 5
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "19 U.S.C. § 1706"
-generated_at: "2026-11-23T20:30:15.039Z"
+generated_at: "2026-11-23T20:32:41.452Z"
 status: "active"
 ---
 

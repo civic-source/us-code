@@ -3,9 +3,9 @@ title: "Section 54 - Repealed. Pub. L. 101–510, div. A, title XV, § 1532(b)(1
 usc_title: 24
 usc_section: "54"
 chapter: 2
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "24 U.S.C. § 54"
-generated_at: "2026-11-23T20:30:25.863Z"
+generated_at: "2026-11-23T20:32:48.184Z"
 status: "repealed"
 ---
 

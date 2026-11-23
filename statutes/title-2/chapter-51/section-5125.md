@@ -3,9 +3,9 @@ title: "Section 5125 - Repealed. Pub. L. 115–244, div. B, title I, § 118(a) ,
 usc_title: 2
 usc_section: "5125"
 chapter: 51
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "2 U.S.C. § 5125"
-generated_at: "2026-11-23T20:29:37.447Z"
+generated_at: "2026-11-23T20:32:17.990Z"
 status: "repealed"
 ---
 

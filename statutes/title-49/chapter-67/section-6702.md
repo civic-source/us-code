@@ -3,9 +3,9 @@ title: "Section 6702 - Local and regional project assistance"
 usc_title: 49
 usc_section: "6702"
 chapter: 67
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "49 U.S.C. § 6702"
-generated_at: "2026-11-23T20:31:37.927Z"
+generated_at: "2026-11-23T20:33:29.035Z"
 status: "active"
 ---
 

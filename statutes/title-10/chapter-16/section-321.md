@@ -3,9 +3,9 @@ title: "Section 321 - Training and exercises with friendly foreign countries: pa
 usc_title: 10
 usc_section: "321"
 chapter: 16
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "10 U.S.C. § 321"
-generated_at: "2026-11-23T20:29:56.850Z"
+generated_at: "2026-11-23T20:32:29.809Z"
 status: "active"
 ---
 

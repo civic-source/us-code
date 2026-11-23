@@ -3,9 +3,9 @@ title: "Section 6233 - Supplement to plan for declassification of restricted dat
 usc_title: 10
 usc_section: "6233"
 chapter: 605
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "10 U.S.C. § 6233"
-generated_at: "2026-11-23T20:29:57.994Z"
+generated_at: "2026-11-23T20:32:30.297Z"
 status: "active"
 ---
 

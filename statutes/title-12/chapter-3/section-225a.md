@@ -3,9 +3,9 @@ title: "Section 225a - Maintenance of long run growth of monetary and credit agg
 usc_title: 12
 usc_section: "225a"
 chapter: 3
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "12 U.S.C. § 225a"
-generated_at: "2026-11-23T20:30:04.303Z"
+generated_at: "2026-11-23T20:32:33.782Z"
 status: "active"
 ---
 

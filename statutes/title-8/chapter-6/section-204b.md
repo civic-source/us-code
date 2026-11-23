@@ -3,9 +3,9 @@ title: "Section 204b - Omitted"
 usc_title: 8
 usc_section: "204b"
 chapter: 6
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "8 U.S.C. § 204b"
-generated_at: "2026-11-23T20:29:44.391Z"
+generated_at: "2026-11-23T20:32:21.539Z"
 status: "omitted"
 ---
 

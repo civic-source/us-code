@@ -3,9 +3,9 @@ title: "Section 3136 - Defense Modernization Account"
 usc_title: 10
 usc_section: "3136"
 chapter: 207
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "10 U.S.C. § 3136"
-generated_at: "2026-11-23T20:29:57.746Z"
+generated_at: "2026-11-23T20:32:30.204Z"
 status: "active"
 ---
 

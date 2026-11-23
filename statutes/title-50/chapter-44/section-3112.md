@@ -3,9 +3,9 @@ title: "Section 3112 - Annual reports on the domestic activities of the intellig
 usc_title: 50
 usc_section: "3112"
 chapter: 44
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "50 U.S.C. § 3112"
-generated_at: "2026-11-23T20:31:33.376Z"
+generated_at: "2026-11-23T20:33:26.948Z"
 status: "active"
 ---
 

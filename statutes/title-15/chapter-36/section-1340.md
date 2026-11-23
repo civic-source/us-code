@@ -3,9 +3,9 @@ title: "Section 1340 - Cigarettes for export"
 usc_title: 15
 usc_section: "1340"
 chapter: 36
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "15 U.S.C. § 1340"
-generated_at: "2026-11-23T20:30:08.817Z"
+generated_at: "2026-11-23T20:32:36.219Z"
 status: "active"
 ---
 

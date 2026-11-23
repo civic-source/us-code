@@ -3,9 +3,9 @@ title: "Section 8561 - Extension of seasonal recreation opportunities"
 usc_title: 16
 usc_section: "8561"
 chapter: 103
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "16 U.S.C. § 8561"
-generated_at: "2026-11-23T20:30:24.423Z"
+generated_at: "2026-11-23T20:32:46.911Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4603 - United States Institute of Peace"
 usc_title: 22
 usc_section: "4603"
 chapter: 56
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "22 U.S.C. § 4603"
-generated_at: "2026-11-23T20:30:34.572Z"
+generated_at: "2026-11-23T20:32:52.336Z"
 status: "active"
 ---
 

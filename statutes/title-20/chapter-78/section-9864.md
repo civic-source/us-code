@@ -3,9 +3,9 @@ title: "Section 9864 - Repealed. Pub. L. 111–358, title X, § 1002(a)(4) , Jan
 usc_title: 20
 usc_section: "9864"
 chapter: 78
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "20 U.S.C. § 9864"
-generated_at: "2026-11-23T20:30:18.742Z"
+generated_at: "2026-11-23T20:32:43.569Z"
 status: "repealed"
 ---
 

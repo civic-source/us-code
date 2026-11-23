@@ -3,9 +3,9 @@ title: "Section 3244 - Fiscal controls; sanctions"
 usc_title: 29
 usc_section: "3244"
 chapter: 32
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "29 U.S.C. § 3244"
-generated_at: "2026-11-23T20:30:40.069Z"
+generated_at: "2026-11-23T20:32:55.861Z"
 status: "active"
 ---
 

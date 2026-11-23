@@ -3,9 +3,9 @@ title: "Section 2661 - Miscellaneous administrative provisions relating to real 
 usc_title: 10
 usc_section: "2661"
 chapter: 159
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "10 U.S.C. § 2661"
-generated_at: "2026-11-23T20:29:57.619Z"
+generated_at: "2026-11-23T20:32:30.145Z"
 status: "active"
 ---
 

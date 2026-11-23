@@ -3,9 +3,9 @@ title: "Section 12651b - Authorities and duties of the Board of Directors"
 usc_title: 42
 usc_section: "12651b"
 chapter: 129
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "42 U.S.C. § 12651b"
-generated_at: "2026-11-23T20:31:25.980Z"
+generated_at: "2026-11-23T20:33:22.288Z"
 status: "active"
 ---
 

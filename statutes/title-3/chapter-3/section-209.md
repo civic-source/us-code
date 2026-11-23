@@ -3,9 +3,9 @@ title: "Section 209 - Repealed. Pub. L. 109–177, title VI, § 605(c) , Mar. 9,
 usc_title: 3
 usc_section: "209"
 chapter: 3
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "3 U.S.C. § 209"
-generated_at: "2026-11-23T20:29:35.595Z"
+generated_at: "2026-11-23T20:32:16.934Z"
 status: "repealed"
 ---
 

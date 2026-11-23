@@ -3,9 +3,9 @@ title: "Section 554b - Medical care for employees engaged in hazardous work; not
 usc_title: 16
 usc_section: "554b"
 chapter: 3
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "16 U.S.C. § 554b"
-generated_at: "2026-11-23T20:30:23.565Z"
+generated_at: "2026-11-23T20:32:46.400Z"
 status: "active"
 ---
 

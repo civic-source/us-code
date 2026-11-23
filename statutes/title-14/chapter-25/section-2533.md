@@ -3,9 +3,9 @@ title: "Section 2533 - Covered misconduct in Coast Guard"
 usc_title: 14
 usc_section: "2533"
 chapter: 25
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "14 U.S.C. § 2533"
-generated_at: "2026-11-23T20:30:01.416Z"
+generated_at: "2026-11-23T20:32:32.415Z"
 status: "active"
 ---
 

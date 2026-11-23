@@ -3,9 +3,9 @@ title: "Section 22 - Reauthorization; reporting requirements"
 usc_title: 21
 usc_section: "22"
 chapter: 9
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "21 U.S.C. § 22"
-generated_at: "2026-11-23T20:30:28.893Z"
+generated_at: "2026-11-23T20:32:50.348Z"
 status: "active"
 ---
 

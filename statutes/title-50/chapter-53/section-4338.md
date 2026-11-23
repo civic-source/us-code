@@ -3,9 +3,9 @@ title: "Section 4338 - Divestment of estates, trusts, insurance policies, annuit
 usc_title: 50
 usc_section: "4338"
 chapter: 53
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "50 U.S.C. § 4338"
-generated_at: "2026-11-23T20:31:33.554Z"
+generated_at: "2026-11-23T20:33:27.033Z"
 status: "active"
 ---
 

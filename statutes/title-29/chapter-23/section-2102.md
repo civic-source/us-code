@@ -3,9 +3,9 @@ title: "Section 2102 - Notice required before plant closings and mass layoffs"
 usc_title: 29
 usc_section: "2102"
 chapter: 23
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "29 U.S.C. § 2102"
-generated_at: "2026-11-23T20:30:39.987Z"
+generated_at: "2026-11-23T20:32:55.816Z"
 status: "active"
 ---
 

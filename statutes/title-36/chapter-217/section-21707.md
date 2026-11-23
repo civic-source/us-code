@@ -3,9 +3,9 @@ title: "Section 21707 - Service of process"
 usc_title: 36
 usc_section: "21707"
 chapter: 217
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "36 U.S.C. § 21707"
-generated_at: "2026-11-23T20:31:00.177Z"
+generated_at: "2026-11-23T20:33:07.774Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1831bb - Capital requirements for certain acquisition, developme
 usc_title: 12
 usc_section: "1831bb"
 chapter: 16
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "12 U.S.C. § 1831bb"
-generated_at: "2026-11-23T20:30:04.806Z"
+generated_at: "2026-11-23T20:32:34.003Z"
 status: "active"
 ---
 

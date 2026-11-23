@@ -3,9 +3,9 @@ title: "Section 2680b - Special rules for certain monthly workers’ compensatio
 usc_title: 22
 usc_section: "2680b"
 chapter: 38
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "22 U.S.C. § 2680b"
-generated_at: "2026-11-23T20:30:34.362Z"
+generated_at: "2026-11-23T20:32:52.214Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7507 - New motor vehicle emission standards in nonattainment are
 usc_title: 42
 usc_section: "7507"
 chapter: 85
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "42 U.S.C. § 7507"
-generated_at: "2026-11-23T20:31:25.473Z"
+generated_at: "2026-11-23T20:33:22.033Z"
 status: "active"
 ---
 

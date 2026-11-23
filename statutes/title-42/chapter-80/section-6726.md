@@ -3,9 +3,9 @@ title: "Section 6726 - Repealed. Pub. L. 95–30, title VI, § 603(i) , May 23, 
 usc_title: 42
 usc_section: "6726"
 chapter: 80
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "42 U.S.C. § 6726"
-generated_at: "2026-11-23T20:31:25.280Z"
+generated_at: "2026-11-23T20:33:21.951Z"
 status: "repealed"
 ---
 

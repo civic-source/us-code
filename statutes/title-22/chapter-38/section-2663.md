@@ -3,9 +3,9 @@ title: "Section 2663 - Omitted"
 usc_title: 22
 usc_section: "2663"
 chapter: 38
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "22 U.S.C. § 2663"
-generated_at: "2026-11-23T20:30:34.354Z"
+generated_at: "2026-11-23T20:32:52.206Z"
 status: "omitted"
 ---
 

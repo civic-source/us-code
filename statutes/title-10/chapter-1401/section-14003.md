@@ -3,9 +3,9 @@ title: "Section 14003 - Reserve active-status lists: position of officers on the
 usc_title: 10
 usc_section: "14003"
 chapter: 1401
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "10 U.S.C. § 14003"
-generated_at: "2026-11-23T20:29:58.511Z"
+generated_at: "2026-11-23T20:32:30.496Z"
 status: "active"
 ---
 

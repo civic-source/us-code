@@ -3,9 +3,9 @@ title: "Section 1441 - Removal of civil actions"
 usc_title: 28
 usc_section: "1441"
 chapter: 89
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "28 U.S.C. § 1441"
-generated_at: "2026-11-23T20:30:38.282Z"
+generated_at: "2026-11-23T20:32:56.581Z"
 status: "active"
 ---
 

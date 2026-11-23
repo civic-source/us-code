@@ -3,9 +3,9 @@ title: "Section 157 - Inspection"
 usc_title: 21
 usc_section: "157"
 chapter: 5
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "21 U.S.C. § 157"
-generated_at: "2026-11-23T20:30:28.642Z"
+generated_at: "2026-11-23T20:32:50.234Z"
 status: "active"
 ---
 

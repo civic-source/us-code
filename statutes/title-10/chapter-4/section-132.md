@@ -3,9 +3,9 @@ title: "Section 132 - Deputy Secretary of Defense"
 usc_title: 10
 usc_section: "132"
 chapter: 4
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "10 U.S.C. § 132"
-generated_at: "2026-11-23T20:29:56.766Z"
+generated_at: "2026-11-23T20:32:29.775Z"
 status: "active"
 ---
 

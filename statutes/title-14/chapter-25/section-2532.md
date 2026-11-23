@@ -3,9 +3,9 @@ title: "Section 2532 - Requirement to maintain certain records"
 usc_title: 14
 usc_section: "2532"
 chapter: 25
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "14 U.S.C. § 2532"
-generated_at: "2026-11-23T20:30:01.415Z"
+generated_at: "2026-11-23T20:32:32.415Z"
 status: "active"
 ---
 

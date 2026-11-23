@@ -3,9 +3,9 @@ title: "Section 834 - Art. 34. Advice to convening authority before referral for
 usc_title: 10
 usc_section: "834"
 chapter: 47
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "10 U.S.C. § 834"
-generated_at: "2026-11-23T20:29:57.035Z"
+generated_at: "2026-11-23T20:32:29.885Z"
 status: "active"
 ---
 

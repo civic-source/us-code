@@ -3,9 +3,9 @@ title: "Section 3121 - General prohibition on pen register and trap and trace de
 usc_title: 18
 usc_section: "3121"
 chapter: 206
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "18 U.S.C. § 3121"
-generated_at: "2026-11-23T20:30:12.935Z"
+generated_at: "2026-11-23T20:32:39.886Z"
 status: "active"
 ---
 

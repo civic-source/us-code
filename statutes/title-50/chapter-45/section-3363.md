@@ -3,9 +3,9 @@ title: "Section 3363 - Terrorist Identification Classification System"
 usc_title: 50
 usc_section: "3363"
 chapter: 45
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "50 U.S.C. § 3363"
-generated_at: "2026-11-23T20:31:33.438Z"
+generated_at: "2026-11-23T20:33:26.974Z"
 status: "active"
 ---
 

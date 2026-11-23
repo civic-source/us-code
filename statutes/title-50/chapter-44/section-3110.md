@@ -3,9 +3,9 @@ title: "Section 3110 - Annual report on violations of law or executive order"
 usc_title: 50
 usc_section: "3110"
 chapter: 44
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "50 U.S.C. § 3110"
-generated_at: "2026-11-23T20:31:33.375Z"
+generated_at: "2026-11-23T20:33:26.948Z"
 status: "active"
 ---
 

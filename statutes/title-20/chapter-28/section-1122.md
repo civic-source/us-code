@@ -3,9 +3,9 @@ title: "Section 1122 - Graduate and undergraduate language and area centers and 
 usc_title: 20
 usc_section: "1122"
 chapter: 28
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "20 U.S.C. § 1122"
-generated_at: "2026-11-23T20:30:18.293Z"
+generated_at: "2026-11-23T20:32:43.342Z"
 status: "active"
 ---
 

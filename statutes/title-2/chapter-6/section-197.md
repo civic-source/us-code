@@ -3,9 +3,9 @@ title: "Section 197 - Compensation of employees"
 usc_title: 2
 usc_section: "197"
 chapter: 6
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "2 U.S.C. § 197"
-generated_at: "2026-11-23T20:29:37.161Z"
+generated_at: "2026-11-23T20:32:17.847Z"
 status: "active"
 ---
 

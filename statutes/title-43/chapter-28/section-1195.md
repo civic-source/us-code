@@ -3,9 +3,9 @@ title: "Section 1195 - Transferred"
 usc_title: 43
 usc_section: "1195"
 chapter: 28
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "43 U.S.C. § 1195"
-generated_at: "2026-11-23T20:31:07.499Z"
+generated_at: "2026-11-23T20:33:11.546Z"
 status: "transferred"
 ---
 

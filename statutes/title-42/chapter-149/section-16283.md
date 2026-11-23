@@ -3,9 +3,9 @@ title: "Section 16283 - International nuclear energy"
 usc_title: 42
 usc_section: "16283"
 chapter: 149
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "42 U.S.C. § 16283"
-generated_at: "2026-11-23T20:31:26.232Z"
+generated_at: "2026-11-23T20:33:22.400Z"
 status: "active"
 ---
 

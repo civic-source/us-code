@@ -3,9 +3,9 @@ title: "Section 2407 - Authority to accept and maintain suitable memorials"
 usc_title: 38
 usc_section: "2407"
 chapter: 24
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "38 U.S.C. § 2407"
-generated_at: "2026-11-23T20:31:02.883Z"
+generated_at: "2026-11-23T20:33:09.076Z"
 status: "active"
 ---
 

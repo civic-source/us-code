@@ -3,9 +3,9 @@ title: "Section 6456 - Definitions"
 usc_title: 16
 usc_section: "6456"
 chapter: 83
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "16 U.S.C. § 6456"
-generated_at: "2026-11-23T20:30:24.334Z"
+generated_at: "2026-11-23T20:32:46.866Z"
 status: "active"
 ---
 

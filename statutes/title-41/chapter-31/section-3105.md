@@ -3,9 +3,9 @@ title: "Section 3105 - New contracts and grants and merit-based selection proced
 usc_title: 41
 usc_section: "3105"
 chapter: 31
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "41 U.S.C. § 3105"
-generated_at: "2026-11-23T20:31:05.012Z"
+generated_at: "2026-11-23T20:33:11.065Z"
 status: "active"
 ---
 

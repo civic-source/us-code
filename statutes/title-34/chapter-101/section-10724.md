@@ -3,9 +3,9 @@ title: "Section 10724 - Application"
 usc_title: 34
 usc_section: "10724"
 chapter: 101
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "34 U.S.C. § 10724"
-generated_at: "2026-11-23T20:30:53.843Z"
+generated_at: "2026-11-23T20:33:05.092Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 17937 - Temporary breach notification requirement for vendors of
 usc_title: 42
 usc_section: "17937"
 chapter: 156
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "42 U.S.C. § 17937"
-generated_at: "2026-11-23T20:31:26.368Z"
+generated_at: "2026-11-23T20:33:22.461Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 18937 - Artificial intelligence"
 usc_title: 42
 usc_section: "18937"
 chapter: 163
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "42 U.S.C. § 18937"
-generated_at: "2026-11-23T20:31:26.449Z"
+generated_at: "2026-11-23T20:33:22.505Z"
 status: "active"
 ---
 

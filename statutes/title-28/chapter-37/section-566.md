@@ -3,9 +3,9 @@ title: "Section 566 - Powers and duties"
 usc_title: 28
 usc_section: "566"
 chapter: 37
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "28 U.S.C. § 566"
-generated_at: "2026-11-23T20:30:38.218Z"
+generated_at: "2026-11-23T20:32:56.551Z"
 status: "active"
 ---
 

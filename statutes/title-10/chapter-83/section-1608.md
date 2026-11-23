@@ -3,9 +3,9 @@ title: "Section 1608 - Time-limited appointments"
 usc_title: 10
 usc_section: "1608"
 chapter: 83
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "10 U.S.C. § 1608"
-generated_at: "2026-11-23T20:29:57.440Z"
+generated_at: "2026-11-23T20:32:30.041Z"
 status: "active"
 ---
 

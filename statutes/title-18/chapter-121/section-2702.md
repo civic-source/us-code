@@ -3,9 +3,9 @@ title: "Section 2702 - Voluntary disclosure of customer communications or record
 usc_title: 18
 usc_section: "2702"
 chapter: 121
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "18 U.S.C. § 2702"
-generated_at: "2026-11-23T20:30:12.912Z"
+generated_at: "2026-11-23T20:32:39.863Z"
 status: "active"
 ---
 

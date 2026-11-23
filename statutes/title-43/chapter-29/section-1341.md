@@ -3,9 +3,9 @@ title: "Section 1341 - Reservation of lands and rights"
 usc_title: 43
 usc_section: "1341"
 chapter: 29
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "43 U.S.C. § 1341"
-generated_at: "2026-11-23T20:31:07.512Z"
+generated_at: "2026-11-23T20:33:11.551Z"
 status: "active"
 ---
 

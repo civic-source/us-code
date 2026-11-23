@@ -3,9 +3,9 @@ title: "Section 2004c - Detail as students at schools for education required for
 usc_title: 10
 usc_section: "2004c"
 chapter: 101
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "10 U.S.C. § 2004c"
-generated_at: "2026-11-23T20:29:57.471Z"
+generated_at: "2026-11-23T20:32:30.060Z"
 status: "active"
 ---
 

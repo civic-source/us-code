@@ -3,9 +3,9 @@ title: "Section 2 - Technical support to exporters and importers of United State
 usc_title: 7
 usc_section: "2"
 chapter: 26
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "7 U.S.C. § 2"
-generated_at: "2026-11-23T20:29:48.462Z"
+generated_at: "2026-11-23T20:32:25.043Z"
 status: "active"
 ---
 

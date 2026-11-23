@@ -3,9 +3,9 @@ title: "Section 1640 - Relinquishment of selections partly within conservation u
 usc_title: 43
 usc_section: "1640"
 chapter: 33
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "43 U.S.C. § 1640"
-generated_at: "2026-11-23T20:31:07.579Z"
+generated_at: "2026-11-23T20:33:11.583Z"
 status: "active"
 ---
 

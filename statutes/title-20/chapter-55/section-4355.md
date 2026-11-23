@@ -3,9 +3,9 @@ title: "Section 4355 - Monitoring, evaluation, and reporting"
 usc_title: 20
 usc_section: "4355"
 chapter: 55
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "20 U.S.C. § 4355"
-generated_at: "2026-11-23T20:30:18.492Z"
+generated_at: "2026-11-23T20:32:43.442Z"
 status: "active"
 ---
 

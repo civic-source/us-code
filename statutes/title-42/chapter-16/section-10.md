@@ -3,9 +3,9 @@ title: "Section 10 - Academic technology transfer and commercialization of unive
 usc_title: 42
 usc_section: "10"
 chapter: 16
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "42 U.S.C. § 10"
-generated_at: "2026-11-23T20:31:24.542Z"
+generated_at: "2026-11-23T20:33:21.595Z"
 status: "active"
 ---
 

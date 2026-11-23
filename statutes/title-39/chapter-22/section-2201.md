@@ -3,9 +3,9 @@ title: "Section 2201 - No postal equipment or supplies manufactured by convict l
 usc_title: 39
 usc_section: "2201"
 chapter: 22
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "39 U.S.C. § 2201"
-generated_at: "2026-11-23T20:30:57.682Z"
+generated_at: "2026-11-23T20:33:06.522Z"
 status: "active"
 ---
 

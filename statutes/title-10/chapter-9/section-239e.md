@@ -3,9 +3,9 @@ title: "Section 239e - Nuclear command, control, and communications: major force
 usc_title: 10
 usc_section: "239e"
 chapter: 9
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "10 U.S.C. § 239e"
-generated_at: "2026-11-23T20:29:56.834Z"
+generated_at: "2026-11-23T20:32:29.802Z"
 status: "active"
 ---
 

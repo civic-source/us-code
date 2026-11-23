@@ -3,9 +3,9 @@ title: "Section 1448 - Process after removal"
 usc_title: 28
 usc_section: "1448"
 chapter: 89
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "28 U.S.C. § 1448"
-generated_at: "2026-11-23T20:30:38.285Z"
+generated_at: "2026-11-23T20:32:56.583Z"
 status: "active"
 ---
 

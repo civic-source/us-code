@@ -3,9 +3,9 @@ title: "Section 460dddd - Establishment of Recreation Area"
 usc_title: 16
 usc_section: "460dddd"
 chapter: 1
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "16 U.S.C. § 460dddd"
-generated_at: "2026-11-23T20:30:23.475Z"
+generated_at: "2026-11-23T20:32:46.339Z"
 status: "active"
 ---
 

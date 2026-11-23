@@ -3,9 +3,9 @@ title: "Section 1159 - Floating drydock for United States Coast Guard Yard"
 usc_title: 14
 usc_section: "1159"
 chapter: 11
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "14 U.S.C. § 1159"
-generated_at: "2026-11-23T20:30:01.379Z"
+generated_at: "2026-11-23T20:32:32.393Z"
 status: "active"
 ---
 

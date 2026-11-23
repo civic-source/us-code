@@ -3,9 +3,9 @@ title: "Section 4554 - Waiver by Speaker of House of claims of United States ari
 usc_title: 2
 usc_section: "4554"
 chapter: 45
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "2 U.S.C. § 4554"
-generated_at: "2026-11-23T20:29:37.418Z"
+generated_at: "2026-11-23T20:32:17.978Z"
 status: "active"
 ---
 

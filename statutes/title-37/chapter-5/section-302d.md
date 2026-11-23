@@ -3,9 +3,9 @@ title: "Section 302d - Special pay: accession bonus for registered nurses"
 usc_title: 37
 usc_section: "302d"
 chapter: 5
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "37 U.S.C. § 302d"
-generated_at: "2026-11-23T20:30:58.384Z"
+generated_at: "2026-11-23T20:33:07.318Z"
 status: "active"
 ---
 

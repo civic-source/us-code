@@ -3,9 +3,9 @@ title: "Section 717h - Rates of depreciation"
 usc_title: 15
 usc_section: "717h"
 chapter: 15
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "15 U.S.C. § 717h"
-generated_at: "2026-11-23T20:30:08.736Z"
+generated_at: "2026-11-23T20:32:36.148Z"
 status: "active"
 ---
 

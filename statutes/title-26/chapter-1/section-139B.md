@@ -3,9 +3,9 @@ title: "Section 139B - Benefits provided to volunteer firefighters and emergency
 usc_title: 26
 usc_section: "139B"
 chapter: 1
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "26 U.S.C. § 139B"
-generated_at: "2026-11-23T20:30:47.291Z"
+generated_at: "2026-11-23T20:33:00.042Z"
 status: "active"
 ---
 

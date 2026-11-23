@@ -3,9 +3,9 @@ title: "Section 13335 - Coal refinery program"
 usc_title: 42
 usc_section: "13335"
 chapter: 134
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "42 U.S.C. § 13335"
-generated_at: "2026-11-23T20:31:26.056Z"
+generated_at: "2026-11-23T20:33:22.324Z"
 status: "active"
 ---
 

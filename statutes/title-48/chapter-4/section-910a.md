@@ -3,9 +3,9 @@ title: "Section 910a - Authorization of loans, conveyances, etc., by government 
 usc_title: 48
 usc_section: "910a"
 chapter: 4
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "48 U.S.C. § 910a"
-generated_at: "2026-11-23T20:31:28.787Z"
+generated_at: "2026-11-23T20:33:24.304Z"
 status: "active"
 ---
 

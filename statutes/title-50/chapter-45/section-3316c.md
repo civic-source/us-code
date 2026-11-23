@@ -3,9 +3,9 @@ title: "Section 3316c - Development of definitions for certain terms relating to
 usc_title: 50
 usc_section: "3316c"
 chapter: 45
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "50 U.S.C. § 3316c"
-generated_at: "2026-11-23T20:31:33.410Z"
+generated_at: "2026-11-23T20:33:26.962Z"
 status: "active"
 ---
 

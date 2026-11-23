@@ -3,9 +3,9 @@ title: "Section 1351 - Authorization of appropriations"
 usc_title: 42
 usc_section: "1351"
 chapter: 7
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "42 U.S.C. § 1351"
-generated_at: "2026-11-23T20:31:23.648Z"
+generated_at: "2026-11-23T20:33:21.001Z"
 status: "active"
 ---
 

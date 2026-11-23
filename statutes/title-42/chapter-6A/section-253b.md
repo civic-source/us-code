@@ -3,9 +3,9 @@ title: "Section 253b - Former Lighthouse Service employees; medical service elig
 usc_title: 42
 usc_section: "253b"
 chapter: 6
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "42 U.S.C. § 253b"
-generated_at: "2026-11-23T20:31:22.622Z"
+generated_at: "2026-11-23T20:33:20.445Z"
 status: "active"
 ---
 

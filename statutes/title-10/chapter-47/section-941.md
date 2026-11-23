@@ -3,9 +3,9 @@ title: "Section 941 - Art. 141. Status"
 usc_title: 10
 usc_section: "941"
 chapter: 47
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "10 U.S.C. § 941"
-generated_at: "2026-11-23T20:29:57.100Z"
+generated_at: "2026-11-23T20:32:29.906Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1404 - Repealed. Pub. L. 115–334, title V, § 5411(64) , Dec. 
 usc_title: 12
 usc_section: "1404"
 chapter: 10
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "12 U.S.C. § 1404"
-generated_at: "2026-11-23T20:30:04.396Z"
+generated_at: "2026-11-23T20:32:33.827Z"
 status: "repealed"
 ---
 

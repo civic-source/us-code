@@ -3,9 +3,9 @@ title: "Section 676 - Violations"
 usc_title: 21
 usc_section: "676"
 chapter: 12
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "21 U.S.C. § 676"
-generated_at: "2026-11-23T20:30:28.976Z"
+generated_at: "2026-11-23T20:32:50.385Z"
 status: "active"
 ---
 

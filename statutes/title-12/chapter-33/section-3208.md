@@ -3,9 +3,9 @@ title: "Section 3208 - Powers available to Attorney General for enforcement"
 usc_title: 12
 usc_section: "3208"
 chapter: 33
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "12 U.S.C. § 3208"
-generated_at: "2026-11-23T20:30:04.956Z"
+generated_at: "2026-11-23T20:32:34.064Z"
 status: "active"
 ---
 

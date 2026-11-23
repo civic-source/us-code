@@ -3,9 +3,9 @@ title: "Section 2766 - Travel card management"
 usc_title: 14
 usc_section: "2766"
 chapter: 27
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "14 U.S.C. § 2766"
-generated_at: "2026-11-23T20:30:01.424Z"
+generated_at: "2026-11-23T20:32:32.419Z"
 status: "active"
 ---
 

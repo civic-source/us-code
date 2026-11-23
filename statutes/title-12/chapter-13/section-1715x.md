@@ -3,9 +3,9 @@ title: "Section 1715x - Experimental housing insurance"
 usc_title: 12
 usc_section: "1715x"
 chapter: 13
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "12 U.S.C. § 1715x"
-generated_at: "2026-11-23T20:30:04.546Z"
+generated_at: "2026-11-23T20:32:33.899Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 696b - Authorization of appropriations; limitation"
 usc_title: 16
 usc_section: "696b"
 chapter: 6
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "16 U.S.C. § 696b"
-generated_at: "2026-11-23T20:30:23.665Z"
+generated_at: "2026-11-23T20:32:46.444Z"
 status: "active"
 ---
 

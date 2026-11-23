@@ -3,9 +3,9 @@ title: "Section 1015d - In-State tuition rates for members of qualifying Federal
 usc_title: 20
 usc_section: "1015d"
 chapter: 28
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "20 U.S.C. § 1015d"
-generated_at: "2026-11-23T20:30:18.104Z"
+generated_at: "2026-11-23T20:32:43.224Z"
 status: "active"
 ---
 

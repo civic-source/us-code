@@ -3,9 +3,9 @@ title: "Section 44810 - Airport safety and airspace hazard mitigation and enforc
 usc_title: 49
 usc_section: "44810"
 chapter: 448
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "49 U.S.C. § 44810"
-generated_at: "2026-11-23T20:31:38.478Z"
+generated_at: "2026-11-23T20:33:29.277Z"
 status: "active"
 ---
 
@@ -62,6 +62,28 @@ Sunset
 Civil Penalties
 
 Rule of Construction
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
 
 ## Source Credit
 

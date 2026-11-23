@@ -3,9 +3,9 @@ title: "Section 325 - State to replace funds misapplied, etc.; restrictions on u
 usc_title: 7
 usc_section: "325"
 chapter: 13
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "7 U.S.C. § 325"
-generated_at: "2026-11-23T20:29:48.410Z"
+generated_at: "2026-11-23T20:32:24.999Z"
 status: "active"
 ---
 

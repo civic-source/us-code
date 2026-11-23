@@ -3,9 +3,9 @@ title: "Section 3131 - Congressional statement of purpose"
 usc_title: 15
 usc_section: "3131"
 chapter: 58
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "15 U.S.C. § 3131"
-generated_at: "2026-11-23T20:30:09.049Z"
+generated_at: "2026-11-23T20:32:36.419Z"
 status: "active"
 ---
 

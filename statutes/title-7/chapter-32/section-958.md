@@ -3,9 +3,9 @@ title: "Section 958 - Repealed. Pub. L. 104–66, title I, § 1011(d) , Dec. 21,
 usc_title: 7
 usc_section: "958"
 chapter: 32
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "7 U.S.C. § 958"
-generated_at: "2026-11-23T20:29:48.498Z"
+generated_at: "2026-11-23T20:32:25.071Z"
 status: "repealed"
 ---
 

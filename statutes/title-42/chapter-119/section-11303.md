@@ -3,9 +3,9 @@ title: "Section 11303 - Funding availability and limitations"
 usc_title: 42
 usc_section: "11303"
 chapter: 119
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "42 U.S.C. § 11303"
-generated_at: "2026-11-23T20:31:25.862Z"
+generated_at: "2026-11-23T20:33:22.230Z"
 status: "active"
 ---
 

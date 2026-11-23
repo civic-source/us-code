@@ -3,9 +3,9 @@ title: "Section 618m - Effect on existing laws and States’ rights"
 usc_title: 43
 usc_section: "618m"
 chapter: 12
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "43 U.S.C. § 618m"
-generated_at: "2026-11-23T20:31:07.455Z"
+generated_at: "2026-11-23T20:33:11.523Z"
 status: "active"
 ---
 

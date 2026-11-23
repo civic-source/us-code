@@ -3,9 +3,9 @@ title: "Section 200308 - Contracts for acquisition of land and water"
 usc_title: 54
 usc_section: "200308"
 chapter: 2003
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "54 U.S.C. § 200308"
-generated_at: "2026-11-23T20:31:40.773Z"
+generated_at: "2026-11-23T20:33:30.943Z"
 status: "active"
 ---
 

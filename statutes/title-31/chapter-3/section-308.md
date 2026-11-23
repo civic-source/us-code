@@ -3,9 +3,9 @@ title: "Section 308 - United States Customs Service"
 usc_title: 31
 usc_section: "308"
 chapter: 3
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "31 U.S.C. § 308"
-generated_at: "2026-11-23T20:30:52.262Z"
+generated_at: "2026-11-23T20:33:04.337Z"
 status: "active"
 ---
 

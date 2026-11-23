@@ -3,9 +3,9 @@ title: "Section 30 - Payments to donors of blood for persons undergoing treatmen
 usc_title: 24
 usc_section: "30"
 chapter: 1
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "24 U.S.C. § 30"
-generated_at: "2026-11-23T20:30:25.861Z"
+generated_at: "2026-11-23T20:32:48.182Z"
 status: "active"
 ---
 

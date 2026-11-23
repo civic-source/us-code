@@ -3,9 +3,9 @@ title: "Section 1022h - Authorization of appropriations"
 usc_title: 20
 usc_section: "1022h"
 chapter: 28
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "20 U.S.C. § 1022h"
-generated_at: "2026-11-23T20:30:18.115Z"
+generated_at: "2026-11-23T20:32:43.232Z"
 status: "active"
 ---
 

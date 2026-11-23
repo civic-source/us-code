@@ -3,9 +3,9 @@ title: "Section 4872 - Acquisition of sensitive materials from non-allied foreig
 usc_title: 10
 usc_section: "4872"
 chapter: 385
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "10 U.S.C. § 4872"
-generated_at: "2026-11-23T20:29:57.934Z"
+generated_at: "2026-11-23T20:32:30.276Z"
 status: "active"
 ---
 

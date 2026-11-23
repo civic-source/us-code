@@ -3,9 +3,9 @@ title: "Section 4711 - Repealed. Pub. L. 103–236, title I, § 139(13) , Apr. 3
 usc_title: 22
 usc_section: "4711"
 chapter: 57
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "22 U.S.C. § 4711"
-generated_at: "2026-11-23T20:30:34.577Z"
+generated_at: "2026-11-23T20:32:52.341Z"
 status: "repealed"
 ---
 

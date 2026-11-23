@@ -3,9 +3,9 @@ title: "Section 2507 - Entries and final proofs, made out of proper district, co
 usc_title: 43
 usc_section: "2507"
 chapter: 43
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "43 U.S.C. § 2507"
-generated_at: "2026-11-23T20:31:07.617Z"
+generated_at: "2026-11-23T20:33:11.606Z"
 status: "active"
 ---
 

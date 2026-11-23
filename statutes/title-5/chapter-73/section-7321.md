@@ -3,9 +3,9 @@ title: "Section 7321 - Political participation"
 usc_title: 5
 usc_section: "7321"
 chapter: 73
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "5 U.S.C. § 7321"
-generated_at: "2026-11-23T20:29:40.678Z"
+generated_at: "2026-11-23T20:32:19.588Z"
 status: "active"
 ---
 

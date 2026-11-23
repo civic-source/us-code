@@ -3,9 +3,9 @@ title: "Section 17510 - Cooperation"
 usc_title: 40
 usc_section: "17510"
 chapter: 175
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "40 U.S.C. § 17510"
-generated_at: "2026-11-23T20:30:59.386Z"
+generated_at: "2026-11-23T20:33:06.973Z"
 status: "active"
 ---
 

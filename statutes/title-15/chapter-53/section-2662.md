@@ -3,9 +3,9 @@ title: "Section 2662 - Definitions"
 usc_title: 15
 usc_section: "2662"
 chapter: 53
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "15 U.S.C. § 2662"
-generated_at: "2026-11-23T20:30:09.013Z"
+generated_at: "2026-11-23T20:32:36.391Z"
 status: "active"
 ---
 

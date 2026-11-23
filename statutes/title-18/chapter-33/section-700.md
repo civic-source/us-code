@@ -3,9 +3,9 @@ title: "Section 700 - Desecration of the flag of the United States; penalties"
 usc_title: 18
 usc_section: "700"
 chapter: 33
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "18 U.S.C. § 700"
-generated_at: "2026-11-23T20:30:12.676Z"
+generated_at: "2026-11-23T20:32:39.660Z"
 status: "active"
 ---
 
@@ -19,6 +19,16 @@ status: "active"
 - **(d)**
   - **(1)** An appeal may be taken directly to the Supreme Court of the United States from any interlocutory or final judgment, decree, or order issued by a United States district court ruling upon the constitutionality of subsection (a).
   - **(2)** The Supreme Court shall, if it has not previously ruled on the question, accept jurisdiction over the appeal and advance on the docket and expedite to the greatest extent possible.
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
 
 ## Source Credit
 

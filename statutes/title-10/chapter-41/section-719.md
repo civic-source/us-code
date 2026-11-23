@@ -3,9 +3,9 @@ title: "Section 719 - Department of Commerce: assignment or detail of members of
 usc_title: 10
 usc_section: "719"
 chapter: 41
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "10 U.S.C. § 719"
-generated_at: "2026-11-23T20:29:57.007Z"
+generated_at: "2026-11-23T20:32:29.870Z"
 status: "active"
 ---
 

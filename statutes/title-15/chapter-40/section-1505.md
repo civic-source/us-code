@@ -3,9 +3,9 @@ title: "Section 1505 - Additional Assistant Secretary; duties, rank of Assistant
 usc_title: 15
 usc_section: "1505"
 chapter: 40
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "15 U.S.C. § 1505"
-generated_at: "2026-11-23T20:30:08.825Z"
+generated_at: "2026-11-23T20:32:36.227Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6 - Effectiveness of Agreement"
 usc_title: 22
 usc_section: "6"
 chapter: 7
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "22 U.S.C. § 6"
-generated_at: "2026-11-23T20:30:34.093Z"
+generated_at: "2026-11-23T20:32:52.027Z"
 status: "active"
 ---
 

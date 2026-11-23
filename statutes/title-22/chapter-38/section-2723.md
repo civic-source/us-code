@@ -3,9 +3,9 @@ title: "Section 2723 - Denial of visas"
 usc_title: 22
 usc_section: "2723"
 chapter: 38
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "22 U.S.C. § 2723"
-generated_at: "2026-11-23T20:30:34.382Z"
+generated_at: "2026-11-23T20:32:52.231Z"
 status: "active"
 ---
 

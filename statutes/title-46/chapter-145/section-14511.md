@@ -3,9 +3,9 @@ title: "Section 14511 - Application"
 usc_title: 46
 usc_section: "14511"
 chapter: 145
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "46 U.S.C. § 14511"
-generated_at: "2026-11-23T20:31:31.251Z"
+generated_at: "2026-11-23T20:33:25.804Z"
 status: "active"
 ---
 

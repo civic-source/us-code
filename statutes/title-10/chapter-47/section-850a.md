@@ -3,9 +3,9 @@ title: "Section 850a - Art. 50a. Defense of lack of mental responsibility"
 usc_title: 10
 usc_section: "850a"
 chapter: 47
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "10 U.S.C. § 850a"
-generated_at: "2026-11-23T20:29:57.044Z"
+generated_at: "2026-11-23T20:32:29.888Z"
 status: "active"
 ---
 

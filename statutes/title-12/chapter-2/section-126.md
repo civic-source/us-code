@@ -3,9 +3,9 @@ title: "Section 126 - Repealed. Pub. L. 103–325, title VI, § 602(e)(12) , (13
 usc_title: 12
 usc_section: "126"
 chapter: 2
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "12 U.S.C. § 126"
-generated_at: "2026-11-23T20:30:04.277Z"
+generated_at: "2026-11-23T20:32:33.776Z"
 status: "repealed"
 ---
 

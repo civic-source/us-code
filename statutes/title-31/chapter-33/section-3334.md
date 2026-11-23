@@ -3,9 +3,9 @@ title: "Section 3334 - Cancellation and proceeds distribution of Treasury checks
 usc_title: 31
 usc_section: "3334"
 chapter: 33
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "31 U.S.C. § 3334"
-generated_at: "2026-11-23T20:30:52.426Z"
+generated_at: "2026-11-23T20:33:04.397Z"
 status: "active"
 ---
 

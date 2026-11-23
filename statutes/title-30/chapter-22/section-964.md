@@ -3,9 +3,9 @@ title: "Section 964 - Scholarships"
 usc_title: 30
 usc_section: "964"
 chapter: 22
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "30 U.S.C. § 964"
-generated_at: "2026-11-23T20:30:36.866Z"
+generated_at: "2026-11-23T20:32:54.572Z"
 status: "active"
 ---
 

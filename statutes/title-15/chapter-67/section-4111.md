@@ -3,9 +3,9 @@ title: "Section 4111 - “Arctic” defined"
 usc_title: 15
 usc_section: "4111"
 chapter: 67
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "15 U.S.C. § 4111"
-generated_at: "2026-11-23T20:30:09.102Z"
+generated_at: "2026-11-23T20:32:36.461Z"
 status: "active"
 ---
 

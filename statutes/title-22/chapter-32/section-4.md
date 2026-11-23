@@ -3,9 +3,9 @@ title: "Section 4 - Authorization of appropriations"
 usc_title: 22
 usc_section: "4"
 chapter: 32
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "22 U.S.C. § 4"
-generated_at: "2026-11-23T20:30:34.264Z"
+generated_at: "2026-11-23T20:32:52.150Z"
 status: "active"
 ---
 

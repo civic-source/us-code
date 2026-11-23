@@ -3,9 +3,9 @@ title: "Section 1964 - Administrative services and support"
 usc_title: 33
 usc_section: "1964"
 chapter: 33
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "33 U.S.C. § 1964"
-generated_at: "2026-11-23T20:30:55.820Z"
+generated_at: "2026-11-23T20:33:03.671Z"
 status: "active"
 ---
 

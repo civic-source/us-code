@@ -3,9 +3,9 @@ title: "Section 44728 - Flight attendant certification"
 usc_title: 49
 usc_section: "44728"
 chapter: 447
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "49 U.S.C. § 44728"
-generated_at: "2026-11-23T20:31:38.459Z"
+generated_at: "2026-11-23T20:33:29.267Z"
 status: "active"
 ---
 

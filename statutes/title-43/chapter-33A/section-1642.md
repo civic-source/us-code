@@ -3,9 +3,9 @@ title: "Section 1642 - Land conveyances"
 usc_title: 43
 usc_section: "1642"
 chapter: 33
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "43 U.S.C. § 1642"
-generated_at: "2026-11-23T20:31:07.580Z"
+generated_at: "2026-11-23T20:33:11.583Z"
 status: "active"
 ---
 

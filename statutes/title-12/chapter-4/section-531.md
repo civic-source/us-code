@@ -3,9 +3,9 @@ title: "Section 531 - Exemption from taxation"
 usc_title: 12
 usc_section: "531"
 chapter: 4
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "12 U.S.C. § 531"
-generated_at: "2026-11-23T20:30:04.360Z"
+generated_at: "2026-11-23T20:32:33.810Z"
 status: "active"
 ---
 

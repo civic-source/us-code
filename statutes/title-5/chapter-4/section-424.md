@@ -3,9 +3,9 @@ title: "Section 424 - Establishment of the Council of the Inspectors General on 
 usc_title: 5
 usc_section: "424"
 chapter: 4
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "5 U.S.C. § 424"
-generated_at: "2026-11-23T20:29:40.259Z"
+generated_at: "2026-11-23T20:32:19.403Z"
 status: "active"
 ---
 

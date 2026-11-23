@@ -3,9 +3,9 @@ title: "Section 5965 - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 S
 usc_title: 16
 usc_section: "5965"
 chapter: 79
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "16 U.S.C. § 5965"
-generated_at: "2026-11-23T20:30:24.316Z"
+generated_at: "2026-11-23T20:32:46.855Z"
 status: "repealed"
 ---
 

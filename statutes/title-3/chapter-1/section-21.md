@@ -3,9 +3,9 @@ title: "Section 21 - Definitions"
 usc_title: 3
 usc_section: "21"
 chapter: 1
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "3 U.S.C. § 21"
-generated_at: "2026-11-23T20:29:35.571Z"
+generated_at: "2026-11-23T20:32:16.917Z"
 status: "active"
 ---
 

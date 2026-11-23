@@ -3,9 +3,9 @@ title: "Section 15d - Measurement of damages"
 usc_title: 15
 usc_section: "15d"
 chapter: 1
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "15 U.S.C. § 15d"
-generated_at: "2026-11-23T20:30:08.251Z"
+generated_at: "2026-11-23T20:32:35.896Z"
 status: "active"
 ---
 

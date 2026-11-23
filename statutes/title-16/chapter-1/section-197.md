@@ -3,9 +3,9 @@ title: "Section 197 - Applicability of other laws"
 usc_title: 16
 usc_section: "197"
 chapter: 1
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "16 U.S.C. § 197"
-generated_at: "2026-11-23T20:30:23.038Z"
+generated_at: "2026-11-23T20:32:46.041Z"
 status: "active"
 ---
 

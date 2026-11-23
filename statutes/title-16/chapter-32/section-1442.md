@@ -3,9 +3,9 @@ title: "Section 1442 - Cooperative agreements, donations, and acquisitions"
 usc_title: 16
 usc_section: "1442"
 chapter: 32
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "16 U.S.C. § 1442"
-generated_at: "2026-11-23T20:30:24.000Z"
+generated_at: "2026-11-23T20:32:46.673Z"
 status: "active"
 ---
 

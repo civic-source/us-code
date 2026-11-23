@@ -3,9 +3,9 @@ title: "Section 4754 - Management of purchase cards"
 usc_title: 10
 usc_section: "4754"
 chapter: 367
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "10 U.S.C. § 4754"
-generated_at: "2026-11-23T20:29:57.901Z"
+generated_at: "2026-11-23T20:32:30.264Z"
 status: "active"
 ---
 

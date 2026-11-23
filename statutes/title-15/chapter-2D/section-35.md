@@ -3,9 +3,9 @@ title: "Section 35 - Breach of fiduciary duty"
 usc_title: 15
 usc_section: "35"
 chapter: 2
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "15 U.S.C. § 35"
-generated_at: "2026-11-23T20:30:08.473Z"
+generated_at: "2026-11-23T20:32:35.997Z"
 status: "active"
 ---
 

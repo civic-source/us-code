@@ -3,9 +3,9 @@ title: "Section 901 - Definitions; findings; policy"
 usc_title: 47
 usc_section: "901"
 chapter: 8
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "47 U.S.C. § 901"
-generated_at: "2026-11-23T20:31:29.955Z"
+generated_at: "2026-11-23T20:33:25.121Z"
 status: "active"
 ---
 

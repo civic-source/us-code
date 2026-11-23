@@ -3,9 +3,9 @@ title: "Section 523 - Omitted"
 usc_title: 16
 usc_section: "523"
 chapter: 2
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "16 U.S.C. § 523"
-generated_at: "2026-11-23T20:30:23.520Z"
+generated_at: "2026-11-23T20:32:46.373Z"
 status: "omitted"
 ---
 

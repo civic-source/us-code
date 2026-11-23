@@ -3,9 +3,9 @@ title: "Section 1689 - Task Force on Sexual Violence in Education"
 usc_title: 20
 usc_section: "1689"
 chapter: 38
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "20 U.S.C. § 1689"
-generated_at: "2026-11-23T20:30:18.412Z"
+generated_at: "2026-11-23T20:32:43.403Z"
 status: "active"
 ---
 

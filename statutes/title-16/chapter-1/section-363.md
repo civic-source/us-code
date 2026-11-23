@@ -3,9 +3,9 @@ title: "Section 363 - Rules and regulations"
 usc_title: 16
 usc_section: "363"
 chapter: 1
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "16 U.S.C. § 363"
-generated_at: "2026-11-23T20:30:23.080Z"
+generated_at: "2026-11-23T20:32:46.063Z"
 status: "active"
 ---
 

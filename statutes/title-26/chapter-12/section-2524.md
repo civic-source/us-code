@@ -3,9 +3,9 @@ title: "Section 2524 - Extent of deductions"
 usc_title: 26
 usc_section: "2524"
 chapter: 12
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "26 U.S.C. § 2524"
-generated_at: "2026-11-23T20:30:48.320Z"
+generated_at: "2026-11-23T20:33:00.448Z"
 status: "active"
 ---
 

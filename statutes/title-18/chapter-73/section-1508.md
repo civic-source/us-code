@@ -3,9 +3,9 @@ title: "Section 1508 - Recording, listening to, or observing proceedings of gran
 usc_title: 18
 usc_section: "1508"
 chapter: 73
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "18 U.S.C. § 1508"
-generated_at: "2026-11-23T20:30:12.775Z"
+generated_at: "2026-11-23T20:32:39.749Z"
 status: "active"
 ---
 

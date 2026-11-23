@@ -3,9 +3,9 @@ title: "Section 634 - Authorization of appropriations"
 usc_title: 29
 usc_section: "634"
 chapter: 14
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "29 U.S.C. § 634"
-generated_at: "2026-11-23T20:30:39.732Z"
+generated_at: "2026-11-23T20:32:55.692Z"
 status: "active"
 ---
 

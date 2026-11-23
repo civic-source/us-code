@@ -3,9 +3,9 @@ title: "Section 1011j - Prior rights and obligations"
 usc_title: 20
 usc_section: "1011j"
 chapter: 28
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "20 U.S.C. § 1011j"
-generated_at: "2026-11-23T20:30:18.100Z"
+generated_at: "2026-11-23T20:32:43.221Z"
 status: "active"
 ---
 

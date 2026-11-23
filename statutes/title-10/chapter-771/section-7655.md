@@ -3,9 +3,9 @@ title: "Section 7655 - Arms and ammunition: agencies and departments of the Unit
 usc_title: 10
 usc_section: "7655"
 chapter: 771
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "10 U.S.C. § 7655"
-generated_at: "2026-11-23T20:29:58.116Z"
+generated_at: "2026-11-23T20:32:30.338Z"
 status: "active"
 ---
 

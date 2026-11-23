@@ -3,9 +3,9 @@ title: "Section 1109 - Right to be heard"
 usc_title: 11
 usc_section: "1109"
 chapter: 11
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "11 U.S.C. § 1109"
-generated_at: "2026-11-23T20:30:00.836Z"
+generated_at: "2026-11-23T20:32:32.046Z"
 status: "active"
 ---
 

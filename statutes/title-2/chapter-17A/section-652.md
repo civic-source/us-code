@@ -3,9 +3,9 @@ title: "Section 652 - Repealed. Pub. L. 105–33, title X, § 10116(b) , Aug. 5,
 usc_title: 2
 usc_section: "652"
 chapter: 17
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "2 U.S.C. § 652"
-generated_at: "2026-11-23T20:29:37.222Z"
+generated_at: "2026-11-23T20:32:17.886Z"
 status: "repealed"
 ---
 

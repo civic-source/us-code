@@ -3,9 +3,9 @@ title: "Section 3581 - Presumption of accessibility for statistical agencies and
 usc_title: 44
 usc_section: "3581"
 chapter: 35
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "44 U.S.C. § 3581"
-generated_at: "2026-11-23T20:31:05.594Z"
+generated_at: "2026-11-23T20:33:10.765Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 620f - Regulations and review"
 usc_title: 16
 usc_section: "620f"
 chapter: 4
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "16 U.S.C. § 620f"
-generated_at: "2026-11-23T20:30:23.615Z"
+generated_at: "2026-11-23T20:32:46.421Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 726 - Evaluation standards and performance indicators"
 usc_title: 29
 usc_section: "726"
 chapter: 16
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "29 U.S.C. § 726"
-generated_at: "2026-11-23T20:30:39.753Z"
+generated_at: "2026-11-23T20:32:55.702Z"
 status: "active"
 ---
 

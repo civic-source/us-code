@@ -3,9 +3,9 @@ title: "Section 3112 - Alaska Native technical assistance program"
 usc_title: 25
 usc_section: "3112"
 chapter: 33
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "25 U.S.C. § 3112"
-generated_at: "2026-11-23T20:30:30.689Z"
+generated_at: "2026-11-23T20:32:49.071Z"
 status: "active"
 ---
 

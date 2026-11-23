@@ -3,9 +3,9 @@ title: "Section 6597 - Abolition of statutory positions in Office of Sergeant at
 usc_title: 2
 usc_section: "6597"
 chapter: 65
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "2 U.S.C. § 6597"
-generated_at: "2026-11-23T20:29:37.500Z"
+generated_at: "2026-11-23T20:32:18.020Z"
 status: "active"
 ---
 

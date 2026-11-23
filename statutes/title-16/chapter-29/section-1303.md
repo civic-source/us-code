@@ -3,9 +3,9 @@ title: "Section 1303 - Terms of agreement; required provisions"
 usc_title: 16
 usc_section: "1303"
 chapter: 29
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "16 U.S.C. § 1303"
-generated_at: "2026-11-23T20:30:23.955Z"
+generated_at: "2026-11-23T20:32:46.648Z"
 status: "active"
 ---
 

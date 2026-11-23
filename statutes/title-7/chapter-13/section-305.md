@@ -3,9 +3,9 @@ title: "Section 305 - Conditions of grant"
 usc_title: 7
 usc_section: "305"
 chapter: 13
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "7 U.S.C. § 305"
-generated_at: "2026-11-23T20:29:48.408Z"
+generated_at: "2026-11-23T20:32:24.999Z"
 status: "active"
 ---
 

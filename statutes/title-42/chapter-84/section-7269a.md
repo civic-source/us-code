@@ -3,9 +3,9 @@ title: "Section 7269a - Repealed. Pub. L. 109–289, div. B, title II, § 20319 
 usc_title: 42
 usc_section: "7269a"
 chapter: 84
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "42 U.S.C. § 7269a"
-generated_at: "2026-11-23T20:31:25.383Z"
+generated_at: "2026-11-23T20:33:21.992Z"
 status: "repealed"
 ---
 

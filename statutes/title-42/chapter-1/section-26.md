@@ -3,9 +3,9 @@ title: "Section 26 - Isolation of civilians for protection of military, air and 
 usc_title: 42
 usc_section: "26"
 chapter: 1
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "42 U.S.C. § 26"
-generated_at: "2026-11-23T20:31:22.486Z"
+generated_at: "2026-11-23T20:33:20.377Z"
 status: "active"
 ---
 

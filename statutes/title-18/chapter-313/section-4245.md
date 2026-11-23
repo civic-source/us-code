@@ -3,9 +3,9 @@ title: "Section 4245 - Hospitalization of an imprisoned person suffering from me
 usc_title: 18
 usc_section: "4245"
 chapter: 313
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "18 U.S.C. § 4245"
-generated_at: "2026-11-23T20:30:13.043Z"
+generated_at: "2026-11-23T20:32:39.987Z"
 status: "active"
 ---
 

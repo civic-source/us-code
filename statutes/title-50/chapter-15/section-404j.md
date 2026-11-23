@@ -3,9 +3,9 @@ title: "Section 404j - Transferred"
 usc_title: 50
 usc_section: "404j"
 chapter: 15
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "50 U.S.C. § 404j"
-generated_at: "2026-11-23T20:31:33.153Z"
+generated_at: "2026-11-23T20:33:26.858Z"
 status: "transferred"
 ---
 

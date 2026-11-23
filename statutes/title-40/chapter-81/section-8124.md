@@ -3,9 +3,9 @@ title: "Section 8124 - Transfer of jurisdiction between Federal and District of 
 usc_title: 40
 usc_section: "8124"
 chapter: 81
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "40 U.S.C. § 8124"
-generated_at: "2026-11-23T20:30:59.308Z"
+generated_at: "2026-11-23T20:33:06.920Z"
 status: "active"
 ---
 

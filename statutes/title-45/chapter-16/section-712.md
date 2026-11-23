@@ -3,9 +3,9 @@ title: "Section 712 - Functions of Association"
 usc_title: 45
 usc_section: "712"
 chapter: 16
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "45 U.S.C. § 712"
-generated_at: "2026-11-23T20:31:06.058Z"
+generated_at: "2026-11-23T20:33:12.092Z"
 status: "active"
 ---
 

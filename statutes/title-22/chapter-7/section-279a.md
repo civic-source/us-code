@@ -3,9 +3,9 @@ title: "Section 279a - Authorization of appropriations for payment of United Sta
 usc_title: 22
 usc_section: "279a"
 chapter: 7
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "22 U.S.C. § 279a"
-generated_at: "2026-11-23T20:30:34.028Z"
+generated_at: "2026-11-23T20:32:51.987Z"
 status: "active"
 ---
 

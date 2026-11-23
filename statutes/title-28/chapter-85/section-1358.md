@@ -3,9 +3,9 @@ title: "Section 1358 - Eminent domain"
 usc_title: 28
 usc_section: "1358"
 chapter: 85
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "28 U.S.C. § 1358"
-generated_at: "2026-11-23T20:30:38.276Z"
+generated_at: "2026-11-23T20:32:56.578Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2015 - Lending authority"
 usc_title: 12
 usc_section: "2015"
 chapter: 23
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "12 U.S.C. § 2015"
-generated_at: "2026-11-23T20:30:04.847Z"
+generated_at: "2026-11-23T20:32:34.019Z"
 status: "active"
 ---
 

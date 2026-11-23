@@ -3,9 +3,9 @@ title: "Section 3784 - Technical data under contracts for commercial items: pres
 usc_title: 10
 usc_section: "3784"
 chapter: 275
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "10 U.S.C. § 3784"
-generated_at: "2026-11-23T20:29:57.803Z"
+generated_at: "2026-11-23T20:32:30.227Z"
 status: "active"
 ---
 

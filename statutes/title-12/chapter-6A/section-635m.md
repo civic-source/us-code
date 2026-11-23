@@ -3,9 +3,9 @@ title: "Section 635m - Loans, guarantees, and insurance subject to the provision
 usc_title: 12
 usc_section: "635m"
 chapter: 6
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "12 U.S.C. § 635m"
-generated_at: "2026-11-23T20:30:04.390Z"
+generated_at: "2026-11-23T20:32:33.825Z"
 status: "active"
 ---
 

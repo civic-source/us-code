@@ -3,9 +3,9 @@ title: "Section 6301 - Restriction on use of funds to pay penalties under enviro
 usc_title: 10
 usc_section: "6301"
 chapter: 607
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "10 U.S.C. § 6301"
-generated_at: "2026-11-23T20:29:58.009Z"
+generated_at: "2026-11-23T20:32:30.301Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6875 - Reports"
 usc_title: 16
 usc_section: "6875"
 chapter: 87
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "16 U.S.C. § 6875"
-generated_at: "2026-11-23T20:30:24.370Z"
+generated_at: "2026-11-23T20:32:46.884Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9 - Construction"
 usc_title: 16
 usc_section: "9"
 chapter: 2
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "16 U.S.C. § 9"
-generated_at: "2026-11-23T20:30:23.534Z"
+generated_at: "2026-11-23T20:32:46.385Z"
 status: "active"
 ---
 

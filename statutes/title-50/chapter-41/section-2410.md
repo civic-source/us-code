@@ -3,9 +3,9 @@ title: "Section 2410 - Status of Administration and contractor personnel within 
 usc_title: 50
 usc_section: "2410"
 chapter: 41
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "50 U.S.C. § 2410"
-generated_at: "2026-11-23T20:31:33.303Z"
+generated_at: "2026-11-23T20:33:26.915Z"
 status: "active"
 ---
 

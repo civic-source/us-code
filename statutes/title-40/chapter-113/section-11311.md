@@ -3,9 +3,9 @@ title: "Section 11311 - Responsibilities"
 usc_title: 40
 usc_section: "11311"
 chapter: 113
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "40 U.S.C. § 11311"
-generated_at: "2026-11-23T20:30:59.335Z"
+generated_at: "2026-11-23T20:33:06.940Z"
 status: "active"
 ---
 

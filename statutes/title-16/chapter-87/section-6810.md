@@ -3,9 +3,9 @@ title: "Section 6810 - Volunteers"
 usc_title: 16
 usc_section: "6810"
 chapter: 87
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "16 U.S.C. § 6810"
-generated_at: "2026-11-23T20:30:24.365Z"
+generated_at: "2026-11-23T20:32:46.882Z"
 status: "active"
 ---
 

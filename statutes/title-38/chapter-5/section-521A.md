@@ -3,9 +3,9 @@ title: "Section 521A - Adaptive sports programs for disabled veterans and member
 usc_title: 38
 usc_section: "521A"
 chapter: 5
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "38 U.S.C. § 521A"
-generated_at: "2026-11-23T20:31:02.701Z"
+generated_at: "2026-11-23T20:33:08.976Z"
 status: "active"
 ---
 

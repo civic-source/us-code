@@ -3,9 +3,9 @@ title: "Section 41110 - Data collection"
 usc_title: 46
 usc_section: "41110"
 chapter: 411
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "46 U.S.C. § 41110"
-generated_at: "2026-11-23T20:31:31.277Z"
+generated_at: "2026-11-23T20:33:25.835Z"
 status: "active"
 ---
 

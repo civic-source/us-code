@@ -3,9 +3,9 @@ title: "Section 183a - Military Aviation and Installation Assurance Clearinghous
 usc_title: 10
 usc_section: "183a"
 chapter: 7
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "10 U.S.C. § 183a"
-generated_at: "2026-11-23T20:29:56.814Z"
+generated_at: "2026-11-23T20:32:29.790Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 10381 - Authority to make public safety and community policing g
 usc_title: 34
 usc_section: "10381"
 chapter: 101
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "34 U.S.C. § 10381"
-generated_at: "2026-11-23T20:30:53.786Z"
+generated_at: "2026-11-23T20:33:05.066Z"
 status: "active"
 ---
 

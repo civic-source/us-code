@@ -3,9 +3,9 @@ title: "Section 422 - Moores Creek National Battlefield; establishment"
 usc_title: 16
 usc_section: "422"
 chapter: 1
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "16 U.S.C. § 422"
-generated_at: "2026-11-23T20:30:23.248Z"
+generated_at: "2026-11-23T20:32:46.143Z"
 status: "active"
 ---
 

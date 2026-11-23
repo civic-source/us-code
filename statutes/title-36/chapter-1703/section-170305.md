@@ -3,9 +3,9 @@ title: "Section 170305 - Governing body"
 usc_title: 36
 usc_section: "170305"
 chapter: 1703
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "36 U.S.C. § 170305"
-generated_at: "2026-11-23T20:31:00.355Z"
+generated_at: "2026-11-23T20:33:07.863Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 123b - Transferred"
 usc_title: 2
 usc_section: "123b"
 chapter: 4
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "2 U.S.C. § 123b"
-generated_at: "2026-11-23T20:29:37.122Z"
+generated_at: "2026-11-23T20:32:17.823Z"
 status: "transferred"
 ---
 

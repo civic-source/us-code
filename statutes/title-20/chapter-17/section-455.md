@@ -3,9 +3,9 @@ title: "Section 455 - Omitted"
 usc_title: 20
 usc_section: "455"
 chapter: 17
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "20 U.S.C. § 455"
-generated_at: "2026-11-23T20:30:18.062Z"
+generated_at: "2026-11-23T20:32:43.203Z"
 status: "omitted"
 ---
 

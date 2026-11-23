@@ -3,9 +3,9 @@ title: "Section 4124 - Purchase of prison-made products by Federal departments"
 usc_title: 18
 usc_section: "4124"
 chapter: 307
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "18 U.S.C. § 4124"
-generated_at: "2026-11-23T20:30:13.040Z"
+generated_at: "2026-11-23T20:32:39.983Z"
 status: "active"
 ---
 

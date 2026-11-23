@@ -3,9 +3,9 @@ title: "Section 3113 - Unfunded priorities of the intelligence community: annual
 usc_title: 50
 usc_section: "3113"
 chapter: 44
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "50 U.S.C. § 3113"
-generated_at: "2026-11-23T20:31:33.376Z"
+generated_at: "2026-11-23T20:33:26.948Z"
 status: "active"
 ---
 

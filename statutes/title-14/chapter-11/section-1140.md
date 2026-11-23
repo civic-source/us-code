@@ -3,9 +3,9 @@ title: "Section 1140 - Contracts that provide best value for taxpayer"
 usc_title: 14
 usc_section: "1140"
 chapter: 11
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "14 U.S.C. § 1140"
-generated_at: "2026-11-23T20:30:01.377Z"
+generated_at: "2026-11-23T20:32:32.392Z"
 status: "active"
 ---
 

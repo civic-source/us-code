@@ -3,9 +3,9 @@ title: "Section 406b - Renumbered § 476b]"
 usc_title: 37
 usc_section: "406b"
 chapter: 7
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "37 U.S.C. § 406b"
-generated_at: "2026-11-23T20:30:58.458Z"
+generated_at: "2026-11-23T20:33:07.347Z"
 status: "renumbered"
 ---
 

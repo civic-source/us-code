@@ -3,9 +3,9 @@ title: "Section 204 - Repealed. Pub. L. 98–621, § 10(a) , Nov. 8, 1984 , 98 S
 usc_title: 24
 usc_section: "204"
 chapter: 4
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "24 U.S.C. § 204"
-generated_at: "2026-11-23T20:30:25.868Z"
+generated_at: "2026-11-23T20:32:48.199Z"
 status: "repealed"
 ---
 

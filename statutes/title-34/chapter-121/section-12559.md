@@ -3,9 +3,9 @@ title: "Section 12559 - State plan requirements"
 usc_title: 34
 usc_section: "12559"
 chapter: 121
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "34 U.S.C. § 12559"
-generated_at: "2026-11-23T20:30:53.906Z"
+generated_at: "2026-11-23T20:33:05.127Z"
 status: "active"
 ---
 

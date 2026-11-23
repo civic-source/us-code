@@ -3,9 +3,9 @@ title: "Section 35 - Agreements"
 usc_title: 20
 usc_section: "35"
 chapter: 28
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "20 U.S.C. § 35"
-generated_at: "2026-11-23T20:30:18.151Z"
+generated_at: "2026-11-23T20:32:43.260Z"
 status: "active"
 ---
 

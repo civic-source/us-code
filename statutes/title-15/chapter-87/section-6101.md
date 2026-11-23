@@ -3,9 +3,9 @@ title: "Section 6101 - Findings"
 usc_title: 15
 usc_section: "6101"
 chapter: 87
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "15 U.S.C. § 6101"
-generated_at: "2026-11-23T20:30:09.158Z"
+generated_at: "2026-11-23T20:32:36.498Z"
 status: "active"
 ---
 

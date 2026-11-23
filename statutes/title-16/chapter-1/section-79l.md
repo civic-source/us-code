@@ -3,9 +3,9 @@ title: "Section 79l - Employment of personnel for rehabilitation, protection, an
 usc_title: 16
 usc_section: "79l"
 chapter: 1
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "16 U.S.C. § 79l"
-generated_at: "2026-11-23T20:30:23.004Z"
+generated_at: "2026-11-23T20:32:46.026Z"
 status: "active"
 ---
 

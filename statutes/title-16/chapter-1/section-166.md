@@ -3,9 +3,9 @@ title: "Section 166 - Exchange of timber for private holdings; valuations"
 usc_title: 16
 usc_section: "166"
 chapter: 1
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "16 U.S.C. § 166"
-generated_at: "2026-11-23T20:30:23.029Z"
+generated_at: "2026-11-23T20:32:46.038Z"
 status: "active"
 ---
 

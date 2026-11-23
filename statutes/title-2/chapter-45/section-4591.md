@@ -3,9 +3,9 @@ title: "Section 4591 - Vice President, Senators, officers, and employees paid by
 usc_title: 2
 usc_section: "4591"
 chapter: 45
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "2 U.S.C. § 4591"
-generated_at: "2026-11-23T20:29:37.429Z"
+generated_at: "2026-11-23T20:32:17.985Z"
 status: "active"
 ---
 

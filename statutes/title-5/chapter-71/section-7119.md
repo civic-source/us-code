@@ -3,9 +3,9 @@ title: "Section 7119 - Negotiation impasses; Federal Service Impasses Panel"
 usc_title: 5
 usc_section: "7119"
 chapter: 71
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "5 U.S.C. § 7119"
-generated_at: "2026-11-23T20:29:40.670Z"
+generated_at: "2026-11-23T20:32:19.585Z"
 status: "active"
 ---
 

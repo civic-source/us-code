@@ -3,13 +3,13 @@ title: "Section 3317 - Competitive service; certification using numerical rating
 usc_title: 5
 usc_section: "3317"
 chapter: 33
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "5 U.S.C. § 3317"
-generated_at: "2026-11-23T20:29:40.378Z"
+generated_at: "2026-11-23T20:32:19.457Z"
 status: "active"
 ---
 
-# § 3317 . Competitive service; certification using numerical ratings
+# § 3317. Competitive service; certification using numerical ratings
 
 - **(a)**
   - **(1)** The Director of the Office of Personnel Management, or the head of an agency to which the Director has delegated examining authority under section 1104(a)(2), shall certify a sufficient number of names from the top of the appropriate register or list of eligibles, as determined pursuant to regulations prescribed under subsection (c), and provide a certificate with such names to an appointing authority that has requested a certificate of eligibles to consider when filling a job in the competitive service.

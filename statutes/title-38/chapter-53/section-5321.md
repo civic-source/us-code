@@ -3,9 +3,9 @@ title: "Section 5321 - Benefits helpline"
 usc_title: 38
 usc_section: "5321"
 chapter: 53
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "38 U.S.C. § 5321"
-generated_at: "2026-11-23T20:31:03.072Z"
+generated_at: "2026-11-23T20:33:09.171Z"
 status: "active"
 ---
 

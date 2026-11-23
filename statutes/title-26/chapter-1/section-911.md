@@ -3,9 +3,9 @@ title: "Section 911 - Citizens or residents of the United States living abroad"
 usc_title: 26
 usc_section: "911"
 chapter: 1
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "26 U.S.C. § 911"
-generated_at: "2026-11-23T20:30:48.114Z"
+generated_at: "2026-11-23T20:33:00.314Z"
 status: "active"
 ---
 

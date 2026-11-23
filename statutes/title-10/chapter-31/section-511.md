@@ -3,9 +3,9 @@ title: "Section 511 - College First Program"
 usc_title: 10
 usc_section: "511"
 chapter: 31
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "10 U.S.C. § 511"
-generated_at: "2026-11-23T20:29:56.919Z"
+generated_at: "2026-11-23T20:32:29.834Z"
 status: "active"
 ---
 

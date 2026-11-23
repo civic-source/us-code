@@ -3,9 +3,9 @@ title: "Section 6910 - Implementation"
 usc_title: 15
 usc_section: "6910"
 chapter: 95
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "15 U.S.C. § 6910"
-generated_at: "2026-11-23T20:30:09.199Z"
+generated_at: "2026-11-23T20:32:36.528Z"
 status: "active"
 ---
 

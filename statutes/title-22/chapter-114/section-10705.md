@@ -3,9 +3,9 @@ title: "Section 10705 - Democratic and economic development and prosperity initi
 usc_title: 22
 usc_section: "10705"
 chapter: 114
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "22 U.S.C. § 10705"
-generated_at: "2026-11-23T20:30:34.911Z"
+generated_at: "2026-11-23T20:32:52.575Z"
 status: "active"
 ---
 

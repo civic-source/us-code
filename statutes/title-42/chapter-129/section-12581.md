@@ -3,9 +3,9 @@ title: "Section 12581 - Provision of assistance and approved national service po
 usc_title: 42
 usc_section: "12581"
 chapter: 129
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "42 U.S.C. § 12581"
-generated_at: "2026-11-23T20:31:25.953Z"
+generated_at: "2026-11-23T20:33:22.273Z"
 status: "active"
 ---
 

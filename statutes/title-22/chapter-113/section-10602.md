@@ -3,9 +3,9 @@ title: "Section 10602 - United States Foundation for International Conservation"
 usc_title: 22
 usc_section: "10602"
 chapter: 113
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "22 U.S.C. § 10602"
-generated_at: "2026-11-23T20:30:34.906Z"
+generated_at: "2026-11-23T20:32:52.573Z"
 status: "active"
 ---
 

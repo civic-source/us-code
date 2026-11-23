@@ -3,9 +3,9 @@ title: "Section 6105 - Common financial reporting system for the nuclear securit
 usc_title: 10
 usc_section: "6105"
 chapter: 601
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "10 U.S.C. § 6105"
-generated_at: "2026-11-23T20:29:57.969Z"
+generated_at: "2026-11-23T20:32:30.285Z"
 status: "active"
 ---
 

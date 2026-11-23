@@ -3,9 +3,9 @@ title: "Section 151710 - Immunity of United States Government"
 usc_title: 36
 usc_section: "151710"
 chapter: 1517
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "36 U.S.C. § 151710"
-generated_at: "2026-11-23T20:31:00.312Z"
+generated_at: "2026-11-23T20:33:07.840Z"
 status: "active"
 ---
 

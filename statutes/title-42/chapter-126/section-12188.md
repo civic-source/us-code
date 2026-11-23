@@ -3,9 +3,9 @@ title: "Section 12188 - Enforcement"
 usc_title: 42
 usc_section: "12188"
 chapter: 126
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "42 U.S.C. § 12188"
-generated_at: "2026-11-23T20:31:25.920Z"
+generated_at: "2026-11-23T20:33:22.260Z"
 status: "active"
 ---
 

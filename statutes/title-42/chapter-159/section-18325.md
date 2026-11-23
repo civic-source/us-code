@@ -3,9 +3,9 @@ title: "Section 18325 - NASA launch support and infrastructure modernization pro
 usc_title: 42
 usc_section: "18325"
 chapter: 159
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "42 U.S.C. § 18325"
-generated_at: "2026-11-23T20:31:26.396Z"
+generated_at: "2026-11-23T20:33:22.478Z"
 status: "active"
 ---
 

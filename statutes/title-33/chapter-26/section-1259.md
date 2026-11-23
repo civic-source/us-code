@@ -3,9 +3,9 @@ title: "Section 1259 - Training grants and contracts"
 usc_title: 33
 usc_section: "1259"
 chapter: 26
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "33 U.S.C. § 1259"
-generated_at: "2026-11-23T20:30:55.672Z"
+generated_at: "2026-11-23T20:33:03.605Z"
 status: "active"
 ---
 

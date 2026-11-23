@@ -3,9 +3,9 @@ title: "Section 8897 - Duration of stay"
 usc_title: 10
 usc_section: "8897"
 chapter: 885
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "10 U.S.C. § 8897"
-generated_at: "2026-11-23T20:29:58.318Z"
+generated_at: "2026-11-23T20:32:30.423Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8711 - Amendments to orders"
 usc_title: 15
 usc_section: "8711"
 chapter: 113
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "15 U.S.C. § 8711"
-generated_at: "2026-11-23T20:30:09.276Z"
+generated_at: "2026-11-23T20:32:36.590Z"
 status: "active"
 ---
 

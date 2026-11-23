@@ -3,9 +3,9 @@ title: "Section 4022 - Authority of the Department of Defense to carry out certa
 usc_title: 10
 usc_section: "4022"
 chapter: 301
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "10 U.S.C. § 4022"
-generated_at: "2026-11-23T20:29:57.830Z"
+generated_at: "2026-11-23T20:32:30.236Z"
 status: "active"
 ---
 

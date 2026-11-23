@@ -3,9 +3,9 @@ title: "Section 5874 - Definitions"
 usc_title: 22
 usc_section: "5874"
 chapter: 67
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "22 U.S.C. § 5874"
-generated_at: "2026-11-23T20:30:34.621Z"
+generated_at: "2026-11-23T20:32:52.377Z"
 status: "active"
 ---
 

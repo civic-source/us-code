@@ -3,9 +3,9 @@ title: "Section 150415 - Annual report"
 usc_title: 36
 usc_section: "150415"
 chapter: 1504
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "36 U.S.C. § 150415"
-generated_at: "2026-11-23T20:31:00.292Z"
+generated_at: "2026-11-23T20:33:07.830Z"
 status: "active"
 ---
 

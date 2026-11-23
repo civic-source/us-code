@@ -3,9 +3,9 @@ title: "Section 7516 - Administrative provisions"
 usc_title: 22
 usc_section: "7516"
 chapter: 82
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "22 U.S.C. § 7516"
-generated_at: "2026-11-23T20:30:34.725Z"
+generated_at: "2026-11-23T20:32:52.449Z"
 status: "active"
 ---
 

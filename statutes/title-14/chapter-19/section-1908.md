@@ -3,9 +3,9 @@ title: "Section 1908 - Authorization for use of Coast Guard Academy facilities a
 usc_title: 14
 usc_section: "1908"
 chapter: 19
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "14 U.S.C. § 1908"
-generated_at: "2026-11-23T20:30:01.384Z"
+generated_at: "2026-11-23T20:32:32.399Z"
 status: "active"
 ---
 

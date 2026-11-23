@@ -3,9 +3,9 @@ title: "Section 3 - Transferred"
 usc_title: 42
 usc_section: "3"
 chapter: 46
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "42 U.S.C. § 3"
-generated_at: "2026-11-23T20:31:24.909Z"
+generated_at: "2026-11-23T20:33:21.769Z"
 status: "transferred"
 ---
 

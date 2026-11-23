@@ -3,9 +3,9 @@ title: "Section 4104 - Transfer of offenders on probation"
 usc_title: 18
 usc_section: "4104"
 chapter: 306
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "18 U.S.C. § 4104"
-generated_at: "2026-11-23T20:30:13.036Z"
+generated_at: "2026-11-23T20:32:39.980Z"
 status: "active"
 ---
 

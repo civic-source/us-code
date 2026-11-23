@@ -3,9 +3,9 @@ title: "Section 1649 - Repealed. Pub. L. 115–334, title VIII, § 8202 , Dec. 2
 usc_title: 16
 usc_section: "1649"
 chapter: 36
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "16 U.S.C. § 1649"
-generated_at: "2026-11-23T20:30:24.046Z"
+generated_at: "2026-11-23T20:32:46.698Z"
 status: "repealed"
 ---
 

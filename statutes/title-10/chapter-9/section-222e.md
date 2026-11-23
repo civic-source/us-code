@@ -3,9 +3,9 @@ title: "Section 222e - Programs, projects, and activities that were internally c
 usc_title: 10
 usc_section: "222e"
 chapter: 9
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "10 U.S.C. § 222e"
-generated_at: "2026-11-23T20:29:56.826Z"
+generated_at: "2026-11-23T20:32:29.796Z"
 status: "active"
 ---
 

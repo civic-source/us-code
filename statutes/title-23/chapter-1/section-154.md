@@ -3,9 +3,9 @@ title: "Section 154 - Open container requirements"
 usc_title: 23
 usc_section: "154"
 chapter: 1
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "23 U.S.C. § 154"
-generated_at: "2026-11-23T20:30:26.989Z"
+generated_at: "2026-11-23T20:32:49.521Z"
 status: "active"
 ---
 

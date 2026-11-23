@@ -3,9 +3,9 @@ title: "Section 1211 - Limitation on capital losses"
 usc_title: 26
 usc_section: "1211"
 chapter: 1
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "26 U.S.C. § 1211"
-generated_at: "2026-11-23T20:30:48.181Z"
+generated_at: "2026-11-23T20:33:00.343Z"
 status: "active"
 ---
 

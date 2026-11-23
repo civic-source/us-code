@@ -3,9 +3,9 @@ title: "Section 6302 - Definitions"
 usc_title: 31
 usc_section: "6302"
 chapter: 63
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "31 U.S.C. § 6302"
-generated_at: "2026-11-23T20:30:52.559Z"
+generated_at: "2026-11-23T20:33:04.464Z"
 status: "active"
 ---
 

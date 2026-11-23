@@ -3,9 +3,9 @@ title: "Section 282i - Increase in capital stock of Corporation; subscription to
 usc_title: 22
 usc_section: "282i"
 chapter: 7
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "22 U.S.C. § 282i"
-generated_at: "2026-11-23T20:30:34.030Z"
+generated_at: "2026-11-23T20:32:51.988Z"
 status: "active"
 ---
 

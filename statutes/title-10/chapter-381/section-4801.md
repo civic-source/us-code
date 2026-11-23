@@ -3,9 +3,9 @@ title: "Section 4801 - Definitions"
 usc_title: 10
 usc_section: "4801"
 chapter: 381
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "10 U.S.C. § 4801"
-generated_at: "2026-11-23T20:29:57.902Z"
+generated_at: "2026-11-23T20:32:30.265Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2307 - Treatment of funds"
 usc_title: 25
 usc_section: "2307"
 chapter: 25
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "25 U.S.C. § 2307"
-generated_at: "2026-11-23T20:30:30.644Z"
+generated_at: "2026-11-23T20:32:49.049Z"
 status: "active"
 ---
 

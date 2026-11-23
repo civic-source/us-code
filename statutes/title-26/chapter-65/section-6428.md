@@ -3,9 +3,9 @@ title: "Section 6428 - 2020 recovery rebates for individuals"
 usc_title: 26
 usc_section: "6428"
 chapter: 65
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "26 U.S.C. § 6428"
-generated_at: "2026-11-23T20:30:48.756Z"
+generated_at: "2026-11-23T20:33:00.712Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3810 - Emergency medical care"
 usc_title: 50
 usc_section: "3810"
 chapter: 49
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "50 U.S.C. § 3810"
-generated_at: "2026-11-23T20:31:33.501Z"
+generated_at: "2026-11-23T20:33:27.002Z"
 status: "active"
 ---
 

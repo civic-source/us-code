@@ -3,9 +3,9 @@ title: "Section 2657 - Custody of seals and property"
 usc_title: 22
 usc_section: "2657"
 chapter: 38
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "22 U.S.C. § 2657"
-generated_at: "2026-11-23T20:30:34.353Z"
+generated_at: "2026-11-23T20:32:52.205Z"
 status: "active"
 ---
 

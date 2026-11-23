@@ -3,9 +3,9 @@ title: "Section 30142 - Importing motor vehicles for personal use"
 usc_title: 49
 usc_section: "30142"
 chapter: 301
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "49 U.S.C. § 30142"
-generated_at: "2026-11-23T20:31:38.142Z"
+generated_at: "2026-11-23T20:33:29.141Z"
 status: "active"
 ---
 

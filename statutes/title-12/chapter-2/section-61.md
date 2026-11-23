@@ -3,9 +3,9 @@ title: "Section 61 - Shareholders’ voting rights; cumulative and distributive 
 usc_title: 12
 usc_section: "61"
 chapter: 2
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "12 U.S.C. § 61"
-generated_at: "2026-11-23T20:30:04.265Z"
+generated_at: "2026-11-23T20:32:33.771Z"
 status: "active"
 ---
 

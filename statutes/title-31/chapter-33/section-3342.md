@@ -3,9 +3,9 @@ title: "Section 3342 - Check cashing and exchange transactions"
 usc_title: 31
 usc_section: "3342"
 chapter: 33
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "31 U.S.C. § 3342"
-generated_at: "2026-11-23T20:30:52.427Z"
+generated_at: "2026-11-23T20:33:04.398Z"
 status: "active"
 ---
 

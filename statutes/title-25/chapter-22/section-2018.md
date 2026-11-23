@@ -3,9 +3,9 @@ title: "Section 2018 - Regional meetings and negotiated rulemaking"
 usc_title: 25
 usc_section: "2018"
 chapter: 22
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "25 U.S.C. § 2018"
-generated_at: "2026-11-23T20:30:30.624Z"
+generated_at: "2026-11-23T20:32:49.038Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 167g - Promulgation of rules and regulations"
 usc_title: 50
 usc_section: "167g"
 chapter: 10
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "50 U.S.C. § 167g"
-generated_at: "2026-11-23T20:31:33.141Z"
+generated_at: "2026-11-23T20:33:26.854Z"
 status: "active"
 ---
 

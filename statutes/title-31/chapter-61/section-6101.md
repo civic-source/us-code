@@ -3,9 +3,9 @@ title: "Section 6101 - Definitions"
 usc_title: 31
 usc_section: "6101"
 chapter: 61
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "31 U.S.C. § 6101"
-generated_at: "2026-11-23T20:30:52.553Z"
+generated_at: "2026-11-23T20:33:04.462Z"
 status: "active"
 ---
 
@@ -284,6 +284,22 @@ Sec
 Sec
 
 George Bush.
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
 
 ## Source Credit
 

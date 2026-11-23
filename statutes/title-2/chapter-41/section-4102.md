@@ -3,9 +3,9 @@ title: "Section 4102 - Purchase of supplies for Senate and House"
 usc_title: 2
 usc_section: "4102"
 chapter: 41
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "2 U.S.C. § 4102"
-generated_at: "2026-11-23T20:29:37.401Z"
+generated_at: "2026-11-23T20:32:17.969Z"
 status: "active"
 ---
 

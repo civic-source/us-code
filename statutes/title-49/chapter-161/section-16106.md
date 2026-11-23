@@ -3,9 +3,9 @@ title: "Section 16106 - Punishment of corporation for violations committed by ce
 usc_title: 49
 usc_section: "16106"
 chapter: 161
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "49 U.S.C. § 16106"
-generated_at: "2026-11-23T20:31:37.994Z"
+generated_at: "2026-11-23T20:33:29.065Z"
 status: "active"
 ---
 

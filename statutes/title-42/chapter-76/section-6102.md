@@ -3,9 +3,9 @@ title: "Section 6102 - Prohibition of discrimination"
 usc_title: 42
 usc_section: "6102"
 chapter: 76
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "42 U.S.C. § 6102"
-generated_at: "2026-11-23T20:31:25.162Z"
+generated_at: "2026-11-23T20:33:21.899Z"
 status: "active"
 ---
 

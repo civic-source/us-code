@@ -3,9 +3,9 @@ title: "Section 1458 - Review of performance"
 usc_title: 16
 usc_section: "1458"
 chapter: 33
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "16 U.S.C. § 1458"
-generated_at: "2026-11-23T20:30:24.018Z"
+generated_at: "2026-11-23T20:32:46.680Z"
 status: "active"
 ---
 

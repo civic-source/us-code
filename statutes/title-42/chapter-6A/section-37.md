@@ -3,9 +3,9 @@ title: "Section 37 - General grant and loan provisions"
 usc_title: 42
 usc_section: "37"
 chapter: 6
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "42 U.S.C. § 37"
-generated_at: "2026-11-23T20:31:23.267Z"
+generated_at: "2026-11-23T20:33:20.792Z"
 status: "active"
 ---
 

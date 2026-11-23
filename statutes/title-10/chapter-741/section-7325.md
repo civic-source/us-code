@@ -3,9 +3,9 @@ title: "Section 7325 - Computation of years of service: voluntary retirement; en
 usc_title: 10
 usc_section: "7325"
 chapter: 741
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "10 U.S.C. § 7325"
-generated_at: "2026-11-23T20:29:58.056Z"
+generated_at: "2026-11-23T20:32:30.319Z"
 status: "active"
 ---
 

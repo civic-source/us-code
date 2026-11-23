@@ -3,9 +3,9 @@ title: "Section 64p - Omitted"
 usc_title: 27
 usc_section: "64p"
 chapter: 2
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "27 U.S.C. § 64p"
-generated_at: "2026-11-23T20:30:36.149Z"
+generated_at: "2026-11-23T20:32:53.755Z"
 status: "omitted"
 ---
 

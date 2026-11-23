@@ -3,9 +3,9 @@ title: "Section 58 - General inspection and sampling of cotton"
 usc_title: 7
 usc_section: "58"
 chapter: 2
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "7 U.S.C. § 58"
-generated_at: "2026-11-23T20:29:48.308Z"
+generated_at: "2026-11-23T20:32:24.915Z"
 status: "active"
 ---
 

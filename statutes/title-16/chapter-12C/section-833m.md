@@ -3,9 +3,9 @@ title: "Section 833m - Determination of compensation for acquisition of Indian l
 usc_title: 16
 usc_section: "833m"
 chapter: 12
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "16 U.S.C. § 833m"
-generated_at: "2026-11-23T20:30:23.785Z"
+generated_at: "2026-11-23T20:32:46.535Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 254d - Dismissal on motion of action against individual entitled
 usc_title: 22
 usc_section: "254d"
 chapter: 6
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "22 U.S.C. § 254d"
-generated_at: "2026-11-23T20:30:33.991Z"
+generated_at: "2026-11-23T20:32:51.958Z"
 status: "active"
 ---
 

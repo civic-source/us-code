@@ -3,9 +3,9 @@ title: "Section 2056f - Consumer product safety standard to protect against tip-
 usc_title: 15
 usc_section: "2056f"
 chapter: 47
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "15 U.S.C. § 2056f"
-generated_at: "2026-11-23T20:30:08.930Z"
+generated_at: "2026-11-23T20:32:36.328Z"
 status: "active"
 ---
 

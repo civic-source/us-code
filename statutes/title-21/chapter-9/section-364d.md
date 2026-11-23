@@ -3,9 +3,9 @@ title: "Section 364d - Safety substantiation"
 usc_title: 21
 usc_section: "364d"
 chapter: 9
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "21 U.S.C. § 364d"
-generated_at: "2026-11-23T20:30:28.859Z"
+generated_at: "2026-11-23T20:32:50.333Z"
 status: "active"
 ---
 

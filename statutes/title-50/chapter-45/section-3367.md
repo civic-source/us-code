@@ -3,9 +3,9 @@ title: "Section 3367 - Requirement for efficient use by intelligence community o
 usc_title: 50
 usc_section: "3367"
 chapter: 45
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "50 U.S.C. § 3367"
-generated_at: "2026-11-23T20:31:33.440Z"
+generated_at: "2026-11-23T20:33:26.974Z"
 status: "active"
 ---
 

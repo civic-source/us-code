@@ -3,9 +3,9 @@ title: "Section 9502 - Definitions"
 usc_title: 31
 usc_section: "9502"
 chapter: 95
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "31 U.S.C. § 9502"
-generated_at: "2026-11-23T20:30:52.602Z"
+generated_at: "2026-11-23T20:33:04.482Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6004 - Standards"
 usc_title: 15
 usc_section: "6004"
 chapter: 86
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "15 U.S.C. § 6004"
-generated_at: "2026-11-23T20:30:09.157Z"
+generated_at: "2026-11-23T20:32:36.498Z"
 status: "active"
 ---
 

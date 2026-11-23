@@ -3,9 +3,9 @@ title: "Section 3791 - Management of intellectual property matters within the De
 usc_title: 10
 usc_section: "3791"
 chapter: 275
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "10 U.S.C. § 3791"
-generated_at: "2026-11-23T20:29:57.804Z"
+generated_at: "2026-11-23T20:32:30.227Z"
 status: "active"
 ---
 

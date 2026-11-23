@@ -3,9 +3,9 @@ title: "Section 715 - Short title"
 usc_title: 16
 usc_section: "715"
 chapter: 7
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "16 U.S.C. § 715"
-generated_at: "2026-11-23T20:30:23.680Z"
+generated_at: "2026-11-23T20:32:46.451Z"
 status: "active"
 ---
 

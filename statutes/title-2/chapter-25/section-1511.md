@@ -3,9 +3,9 @@ title: "Section 1511 - Cost of regulations"
 usc_title: 2
 usc_section: "1511"
 chapter: 25
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "2 U.S.C. § 1511"
-generated_at: "2026-11-23T20:29:37.311Z"
+generated_at: "2026-11-23T20:32:17.927Z"
 status: "active"
 ---
 

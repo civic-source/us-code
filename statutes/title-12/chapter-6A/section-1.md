@@ -3,9 +3,9 @@ title: "Section 1 - Annual competitiveness report"
 usc_title: 12
 usc_section: "1"
 chapter: 6
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "12 U.S.C. § 1"
-generated_at: "2026-11-23T20:30:04.384Z"
+generated_at: "2026-11-23T20:32:33.822Z"
 status: "active"
 ---
 

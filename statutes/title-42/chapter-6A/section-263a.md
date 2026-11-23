@@ -3,9 +3,9 @@ title: "Section 263a - Certification of laboratories"
 usc_title: 42
 usc_section: "263a"
 chapter: 6
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "42 U.S.C. § 263a"
-generated_at: "2026-11-23T20:31:22.668Z"
+generated_at: "2026-11-23T20:33:20.476Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8678a - Limitation on decommissioning or inactivating a battle f
 usc_title: 10
 usc_section: "8678a"
 chapter: 863
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "10 U.S.C. § 8678a"
-generated_at: "2026-11-23T20:29:58.259Z"
+generated_at: "2026-11-23T20:32:30.399Z"
 status: "active"
 ---
 

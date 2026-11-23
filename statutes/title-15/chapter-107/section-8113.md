@@ -3,9 +3,9 @@ title: "Section 8113 - Joint Strategic Plan"
 usc_title: 15
 usc_section: "8113"
 chapter: 107
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "15 U.S.C. § 8113"
-generated_at: "2026-11-23T20:30:09.251Z"
+generated_at: "2026-11-23T20:32:36.568Z"
 status: "active"
 ---
 

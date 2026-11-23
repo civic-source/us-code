@@ -3,9 +3,9 @@ title: "Section 301 - General authorization to delegate functions; publication o
 usc_title: 3
 usc_section: "301"
 chapter: 4
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "3 U.S.C. § 301"
-generated_at: "2026-11-23T20:29:35.595Z"
+generated_at: "2026-11-23T20:32:16.934Z"
 status: "active"
 ---
 

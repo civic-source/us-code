@@ -3,9 +3,9 @@ title: "Section 3536 - Annual reports"
 usc_title: 42
 usc_section: "3536"
 chapter: 44
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "42 U.S.C. § 3536"
-generated_at: "2026-11-23T20:31:24.881Z"
+generated_at: "2026-11-23T20:33:21.756Z"
 status: "active"
 ---
 

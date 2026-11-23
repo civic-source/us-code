@@ -3,9 +3,9 @@ title: "Section 2532 - Authorization of appropriations"
 usc_title: 20
 usc_section: "2532"
 chapter: 45
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "20 U.S.C. § 2532"
-generated_at: "2026-11-23T20:30:18.448Z"
+generated_at: "2026-11-23T20:32:43.421Z"
 status: "active"
 ---
 

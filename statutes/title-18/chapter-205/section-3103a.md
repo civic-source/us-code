@@ -3,9 +3,9 @@ title: "Section 3103a - Additional grounds for issuing warrant"
 usc_title: 18
 usc_section: "3103a"
 chapter: 205
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "18 U.S.C. § 3103a"
-generated_at: "2026-11-23T20:30:12.932Z"
+generated_at: "2026-11-23T20:32:39.884Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7344 - Extended application of penalties relating to officers of
 usc_title: 26
 usc_section: "7344"
 chapter: 75
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "26 U.S.C. § 7344"
-generated_at: "2026-11-23T20:30:48.844Z"
+generated_at: "2026-11-23T20:33:00.758Z"
 status: "active"
 ---
 

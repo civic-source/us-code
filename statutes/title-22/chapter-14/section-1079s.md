@@ -3,9 +3,9 @@ title: "Section 1079s - Repealed. Pub. L. 96–465, title II, § 2205(16) , Oct.
 usc_title: 22
 usc_section: "1079s"
 chapter: 14
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "22 U.S.C. § 1079s"
-generated_at: "2026-11-23T20:30:34.110Z"
+generated_at: "2026-11-23T20:32:52.048Z"
 status: "repealed"
 ---
 

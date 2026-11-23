@@ -3,9 +3,9 @@ title: "Section 1231 - Repealed. Pub. L. 115–282, title IV, § 402(e) , Dec. 4
 usc_title: 33
 usc_section: "1231"
 chapter: 25
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "33 U.S.C. § 1231"
-generated_at: "2026-11-23T20:30:55.665Z"
+generated_at: "2026-11-23T20:33:03.602Z"
 status: "repealed"
 ---
 

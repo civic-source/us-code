@@ -3,9 +3,9 @@ title: "Section 613 - Establishment of senior level positions"
 usc_title: 2
 usc_section: "613"
 chapter: 17
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "2 U.S.C. § 613"
-generated_at: "2026-11-23T20:29:37.195Z"
+generated_at: "2026-11-23T20:32:17.877Z"
 status: "active"
 ---
 

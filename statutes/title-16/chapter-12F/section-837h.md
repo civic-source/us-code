@@ -3,9 +3,9 @@ title: "Section 837h - Provisions not applicable to Canyon Ferry project or bene
 usc_title: 16
 usc_section: "837h"
 chapter: 12
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "16 U.S.C. § 837h"
-generated_at: "2026-11-23T20:30:23.792Z"
+generated_at: "2026-11-23T20:32:46.540Z"
 status: "active"
 ---
 

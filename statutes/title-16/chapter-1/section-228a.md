@@ -3,9 +3,9 @@ title: "Section 228a - Enlargement of boundaries; statement of purpose"
 usc_title: 16
 usc_section: "228a"
 chapter: 1
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "16 U.S.C. § 228a"
-generated_at: "2026-11-23T20:30:23.047Z"
+generated_at: "2026-11-23T20:32:46.047Z"
 status: "active"
 ---
 

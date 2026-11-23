@@ -3,9 +3,9 @@ title: "Section 6266 - Notification of nuclear criticality and non-nuclear incid
 usc_title: 10
 usc_section: "6266"
 chapter: 606
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "10 U.S.C. § 6266"
-generated_at: "2026-11-23T20:29:57.999Z"
+generated_at: "2026-11-23T20:32:30.299Z"
 status: "active"
 ---
 

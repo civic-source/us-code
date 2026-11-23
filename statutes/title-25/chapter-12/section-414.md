@@ -3,9 +3,9 @@ title: "Section 414 - Reservation of minerals in sale of Choctaw-Chickasaw lands
 usc_title: 25
 usc_section: "414"
 chapter: 12
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "25 U.S.C. § 414"
-generated_at: "2026-11-23T20:30:30.460Z"
+generated_at: "2026-11-23T20:32:48.970Z"
 status: "active"
 ---
 

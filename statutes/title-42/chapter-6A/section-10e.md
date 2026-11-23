@@ -3,9 +3,9 @@ title: "Section 10e - Advisory Committee Coordination"
 usc_title: 42
 usc_section: "10e"
 chapter: 6
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "42 U.S.C. § 10e"
-generated_at: "2026-11-23T20:31:23.243Z"
+generated_at: "2026-11-23T20:33:20.782Z"
 status: "active"
 ---
 

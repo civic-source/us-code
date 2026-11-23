@@ -3,9 +3,9 @@ title: "Section 57512 - Competitive bidding"
 usc_title: 46
 usc_section: "57512"
 chapter: 575
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "46 U.S.C. § 57512"
-generated_at: "2026-11-23T20:31:31.423Z"
+generated_at: "2026-11-23T20:33:25.954Z"
 status: "active"
 ---
 

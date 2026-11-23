@@ -3,9 +3,9 @@ title: "Section 7702 - Congressional statement of purpose"
 usc_title: 42
 usc_section: "7702"
 chapter: 86
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "42 U.S.C. § 7702"
-generated_at: "2026-11-23T20:31:25.571Z"
+generated_at: "2026-11-23T20:33:22.085Z"
 status: "active"
 ---
 

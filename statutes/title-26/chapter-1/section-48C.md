@@ -3,9 +3,9 @@ title: "Section 48C - Qualifying advanced energy project credit"
 usc_title: 26
 usc_section: "48C"
 chapter: 1
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "26 U.S.C. § 48C"
-generated_at: "2026-11-23T20:30:47.200Z"
+generated_at: "2026-11-23T20:32:59.997Z"
 status: "active"
 ---
 

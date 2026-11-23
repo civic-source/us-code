@@ -3,9 +3,9 @@ title: "Section 69j - Application of other laws"
 usc_title: 15
 usc_section: "69j"
 chapter: 2
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "15 U.S.C. § 69j"
-generated_at: "2026-11-23T20:30:08.287Z"
+generated_at: "2026-11-23T20:32:35.913Z"
 status: "active"
 ---
 

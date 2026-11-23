@@ -3,9 +3,9 @@ title: "Section 793 - Employment under Federal contracts"
 usc_title: 29
 usc_section: "793"
 chapter: 16
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "29 U.S.C. § 793"
-generated_at: "2026-11-23T20:30:39.782Z"
+generated_at: "2026-11-23T20:32:55.712Z"
 status: "active"
 ---
 

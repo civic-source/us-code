@@ -3,9 +3,9 @@ title: "Section 475 - Repealed. Pub. L. 104–127, title VIII, § 870 , Apr. 4, 
 usc_title: 7
 usc_section: "475"
 chapter: 19
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "7 U.S.C. § 475"
-generated_at: "2026-11-23T20:29:48.427Z"
+generated_at: "2026-11-23T20:32:25.015Z"
 status: "repealed"
 ---
 

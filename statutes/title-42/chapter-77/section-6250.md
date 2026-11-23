@@ -3,9 +3,9 @@ title: "Section 6250 - Establishment"
 usc_title: 42
 usc_section: "6250"
 chapter: 77
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "42 U.S.C. § 6250"
-generated_at: "2026-11-23T20:31:25.177Z"
+generated_at: "2026-11-23T20:33:21.906Z"
 status: "active"
 ---
 

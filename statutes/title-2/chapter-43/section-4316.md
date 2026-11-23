@@ -3,9 +3,9 @@ title: "Section 4316 - Allowances for compensation of interns in House committee
 usc_title: 2
 usc_section: "4316"
 chapter: 43
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "2 U.S.C. § 4316"
-generated_at: "2026-11-23T20:29:37.409Z"
+generated_at: "2026-11-23T20:32:17.973Z"
 status: "active"
 ---
 

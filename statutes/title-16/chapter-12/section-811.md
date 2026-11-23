@@ -3,9 +3,9 @@ title: "Section 811 - Operation of navigation facilities; rules and regulations;
 usc_title: 16
 usc_section: "811"
 chapter: 12
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "16 U.S.C. § 811"
-generated_at: "2026-11-23T20:30:23.737Z"
+generated_at: "2026-11-23T20:32:46.495Z"
 status: "active"
 ---
 

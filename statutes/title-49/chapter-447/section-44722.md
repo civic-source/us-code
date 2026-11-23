@@ -3,9 +3,9 @@ title: "Section 44722 - Aircraft operations in winter conditions"
 usc_title: 49
 usc_section: "44722"
 chapter: 447
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "49 U.S.C. § 44722"
-generated_at: "2026-11-23T20:31:38.457Z"
+generated_at: "2026-11-23T20:33:29.266Z"
 status: "active"
 ---
 

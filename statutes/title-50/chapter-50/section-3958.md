@@ -3,9 +3,9 @@ title: "Section 3958 - Enforcement of storage liens"
 usc_title: 50
 usc_section: "3958"
 chapter: 50
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "50 U.S.C. § 3958"
-generated_at: "2026-11-23T20:31:33.515Z"
+generated_at: "2026-11-23T20:33:27.010Z"
 status: "active"
 ---
 

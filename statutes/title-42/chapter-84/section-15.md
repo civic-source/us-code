@@ -3,9 +3,9 @@ title: "Section 15 - Office of Ombudsman"
 usc_title: 42
 usc_section: "15"
 chapter: 84
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "42 U.S.C. § 15"
-generated_at: "2026-11-23T20:31:25.417Z"
+generated_at: "2026-11-23T20:33:22.008Z"
 status: "active"
 ---
 

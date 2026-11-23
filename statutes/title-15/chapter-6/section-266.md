@@ -3,9 +3,9 @@ title: "Section 266 - Applicability of administrative procedure provisions"
 usc_title: 15
 usc_section: "266"
 chapter: 6
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "15 U.S.C. § 266"
-generated_at: "2026-11-23T20:30:08.519Z"
+generated_at: "2026-11-23T20:32:36.018Z"
 status: "active"
 ---
 

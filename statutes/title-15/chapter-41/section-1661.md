@@ -3,9 +3,9 @@ title: "Section 1661 - Catalogs and multiple-page advertisements"
 usc_title: 15
 usc_section: "1661"
 chapter: 41
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "15 U.S.C. § 1661"
-generated_at: "2026-11-23T20:30:08.854Z"
+generated_at: "2026-11-23T20:32:36.262Z"
 status: "active"
 ---
 

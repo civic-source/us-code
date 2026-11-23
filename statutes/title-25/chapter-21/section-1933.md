@@ -3,9 +3,9 @@ title: "Section 1933 - Funds for on and off reservation programs"
 usc_title: 25
 usc_section: "1933"
 chapter: 21
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "25 U.S.C. § 1933"
-generated_at: "2026-11-23T20:30:30.607Z"
+generated_at: "2026-11-23T20:32:49.030Z"
 status: "active"
 ---
 

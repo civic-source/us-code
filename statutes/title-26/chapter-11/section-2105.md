@@ -3,9 +3,9 @@ title: "Section 2105 - Property without the United States"
 usc_title: 26
 usc_section: "2105"
 chapter: 11
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "26 U.S.C. § 2105"
-generated_at: "2026-11-23T20:30:48.307Z"
+generated_at: "2026-11-23T20:33:00.437Z"
 status: "active"
 ---
 

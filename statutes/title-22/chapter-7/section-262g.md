@@ -3,9 +3,9 @@ title: "Section 262g - Human nutrition in developing countries and United States
 usc_title: 22
 usc_section: "262g"
 chapter: 7
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "22 U.S.C. § 262g"
-generated_at: "2026-11-23T20:30:33.993Z"
+generated_at: "2026-11-23T20:32:51.960Z"
 status: "active"
 ---
 

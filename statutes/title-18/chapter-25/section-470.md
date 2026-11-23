@@ -3,9 +3,9 @@ title: "Section 470 - Counterfeit acts committed outside the United States"
 usc_title: 18
 usc_section: "470"
 chapter: 25
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "18 U.S.C. § 470"
-generated_at: "2026-11-23T20:30:12.650Z"
+generated_at: "2026-11-23T20:32:39.638Z"
 status: "active"
 ---
 

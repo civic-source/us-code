@@ -3,9 +3,9 @@ title: "Section 9 - Award of arbitrators; confirmation; jurisdiction; procedure"
 usc_title: 9
 usc_section: "9"
 chapter: 1
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "9 U.S.C. § 9"
-generated_at: "2026-11-23T20:29:42.446Z"
+generated_at: "2026-11-23T20:32:20.880Z"
 status: "active"
 ---
 

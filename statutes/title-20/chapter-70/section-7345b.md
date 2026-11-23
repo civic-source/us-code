@@ -3,9 +3,9 @@ title: "Section 7345b - Repealed. Pub. L. 114–95, title V, § 5003(3) , Dec. 1
 usc_title: 20
 usc_section: "7345b"
 chapter: 70
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "20 U.S.C. § 7345b"
-generated_at: "2026-11-23T20:30:18.636Z"
+generated_at: "2026-11-23T20:32:43.512Z"
 status: "repealed"
 ---
 

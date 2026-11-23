@@ -3,9 +3,9 @@ title: "Section 4p - Encouragement of fair labor practices"
 usc_title: 22
 usc_section: "4p"
 chapter: 7
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "22 U.S.C. § 4p"
-generated_at: "2026-11-23T20:30:34.006Z"
+generated_at: "2026-11-23T20:32:51.971Z"
 status: "active"
 ---
 

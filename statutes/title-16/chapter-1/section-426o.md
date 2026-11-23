@@ -3,9 +3,9 @@ title: "Section 426o - Agreement with Murfreesboro, Tennessee, respecting battle
 usc_title: 16
 usc_section: "426o"
 chapter: 1
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "16 U.S.C. § 426o"
-generated_at: "2026-11-23T20:30:23.261Z"
+generated_at: "2026-11-23T20:32:46.155Z"
 status: "active"
 ---
 

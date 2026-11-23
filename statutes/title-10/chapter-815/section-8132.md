@@ -3,9 +3,9 @@ title: "Section 8132 - Regular Navy: transfers, line and staff corps"
 usc_title: 10
 usc_section: "8132"
 chapter: 815
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "10 U.S.C. § 8132"
-generated_at: "2026-11-23T20:29:58.160Z"
+generated_at: "2026-11-23T20:32:30.353Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 374 - Omitted"
 usc_title: 15
 usc_section: "374"
 chapter: 10
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "15 U.S.C. § 374"
-generated_at: "2026-11-23T20:30:08.551Z"
+generated_at: "2026-11-23T20:32:36.032Z"
 status: "omitted"
 ---
 

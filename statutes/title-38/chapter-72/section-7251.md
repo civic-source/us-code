@@ -3,9 +3,9 @@ title: "Section 7251 - Status"
 usc_title: 38
 usc_section: "7251"
 chapter: 72
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "38 U.S.C. § 7251"
-generated_at: "2026-11-23T20:31:03.090Z"
+generated_at: "2026-11-23T20:33:09.184Z"
 status: "active"
 ---
 

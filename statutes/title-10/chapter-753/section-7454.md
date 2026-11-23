@@ -3,9 +3,9 @@ title: "Section 7454 - Buildings and grounds: memorial hall; buildings for relig
 usc_title: 10
 usc_section: "7454"
 chapter: 753
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "10 U.S.C. § 7454"
-generated_at: "2026-11-23T20:29:58.094Z"
+generated_at: "2026-11-23T20:32:30.328Z"
 status: "active"
 ---
 

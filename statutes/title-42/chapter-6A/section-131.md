@@ -3,9 +3,9 @@ title: "Section 131 - Balance billing in cases of emergency services"
 usc_title: 42
 usc_section: "131"
 chapter: 6
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "42 U.S.C. § 131"
-generated_at: "2026-11-23T20:31:23.232Z"
+generated_at: "2026-11-23T20:33:20.777Z"
 status: "active"
 ---
 

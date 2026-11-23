@@ -3,9 +3,9 @@ title: "Section 1923 - Fraudulent receipt of payments of missing persons"
 usc_title: 18
 usc_section: "1923"
 chapter: 93
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "18 U.S.C. § 1923"
-generated_at: "2026-11-23T20:30:12.822Z"
+generated_at: "2026-11-23T20:32:39.784Z"
 status: "active"
 ---
 

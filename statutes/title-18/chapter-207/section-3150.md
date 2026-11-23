@@ -3,9 +3,9 @@ title: "Section 3150 - Applicability to a case removed from a State court"
 usc_title: 18
 usc_section: "3150"
 chapter: 207
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "18 U.S.C. § 3150"
-generated_at: "2026-11-23T20:30:12.941Z"
+generated_at: "2026-11-23T20:32:39.891Z"
 status: "active"
 ---
 

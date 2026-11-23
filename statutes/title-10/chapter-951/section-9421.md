@@ -3,9 +3,9 @@ title: "Section 9421 - Space Force officer training course requirements"
 usc_title: 10
 usc_section: "9421"
 chapter: 951
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "10 U.S.C. § 9421"
-generated_at: "2026-11-23T20:29:58.375Z"
+generated_at: "2026-11-23T20:32:30.446Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 20911 - Relevant definitions, including Amie Zyla expansion of s
 usc_title: 34
 usc_section: "20911"
 chapter: 209
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "34 U.S.C. § 20911"
-generated_at: "2026-11-23T20:30:53.949Z"
+generated_at: "2026-11-23T20:33:05.151Z"
 status: "active"
 ---
 

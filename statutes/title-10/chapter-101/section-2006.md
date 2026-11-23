@@ -3,9 +3,9 @@ title: "Section 2006 - Department of Defense Education Benefits Fund"
 usc_title: 10
 usc_section: "2006"
 chapter: 101
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "10 U.S.C. § 2006"
-generated_at: "2026-11-23T20:29:57.472Z"
+generated_at: "2026-11-23T20:32:30.061Z"
 status: "active"
 ---
 

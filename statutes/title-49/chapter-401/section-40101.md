@@ -3,9 +3,9 @@ title: "Section 40101 - Policy"
 usc_title: 49
 usc_section: "40101"
 chapter: 401
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "49 U.S.C. § 40101"
-generated_at: "2026-11-23T20:31:38.281Z"
+generated_at: "2026-11-23T20:33:29.196Z"
 status: "active"
 ---
 
@@ -1671,6 +1671,18 @@ Sec
 Sec
 
 George W. Bush.
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
 
 ## Source Credit
 

@@ -3,9 +3,9 @@ title: "Section 1735 - Definitions"
 usc_title: 38
 usc_section: "1735"
 chapter: 17
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "38 U.S.C. § 1735"
-generated_at: "2026-11-23T20:31:02.811Z"
+generated_at: "2026-11-23T20:33:09.040Z"
 status: "active"
 ---
 

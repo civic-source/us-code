@@ -3,9 +3,9 @@ title: "Section 2796 - Omitted"
 usc_title: 20
 usc_section: "2796"
 chapter: 47
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "20 U.S.C. § 2796"
-generated_at: "2026-11-23T20:30:18.451Z"
+generated_at: "2026-11-23T20:32:43.423Z"
 status: "omitted"
 ---
 

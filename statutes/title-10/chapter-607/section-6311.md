@@ -3,9 +3,9 @@ title: "Section 6311 - Reports on financial balances for atomic energy defense a
 usc_title: 10
 usc_section: "6311"
 chapter: 607
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "10 U.S.C. § 6311"
-generated_at: "2026-11-23T20:29:58.009Z"
+generated_at: "2026-11-23T20:32:30.301Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7434 - Command and supervision"
 usc_title: 10
 usc_section: "7434"
 chapter: 753
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "10 U.S.C. § 7434"
-generated_at: "2026-11-23T20:29:58.085Z"
+generated_at: "2026-11-23T20:32:30.325Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 386g - Repealed. Pub. L. 104–208, div. A, title I, § 101(e) [
 usc_title: 20
 usc_section: "386g"
 chapter: 16
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "20 U.S.C. § 386g"
-generated_at: "2026-11-23T20:30:18.062Z"
+generated_at: "2026-11-23T20:32:43.203Z"
 status: "repealed"
 ---
 

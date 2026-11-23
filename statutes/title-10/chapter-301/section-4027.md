@@ -3,9 +3,9 @@ title: "Section 4027 - Disclosure requirements for recipients of research and de
 usc_title: 10
 usc_section: "4027"
 chapter: 301
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "10 U.S.C. § 4027"
-generated_at: "2026-11-23T20:29:57.833Z"
+generated_at: "2026-11-23T20:32:30.237Z"
 status: "active"
 ---
 

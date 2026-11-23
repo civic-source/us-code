@@ -3,9 +3,9 @@ title: "Section 1378 - Collection of data on other detained aliens"
 usc_title: 8
 usc_section: "1378"
 chapter: 12
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "8 U.S.C. § 1378"
-generated_at: "2026-11-23T20:29:44.590Z"
+generated_at: "2026-11-23T20:32:21.669Z"
 status: "active"
 ---
 

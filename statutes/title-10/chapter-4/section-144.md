@@ -3,9 +3,9 @@ title: "Section 144 - Director of Small Business Programs"
 usc_title: 10
 usc_section: "144"
 chapter: 4
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "10 U.S.C. § 144"
-generated_at: "2026-11-23T20:29:56.780Z"
+generated_at: "2026-11-23T20:32:29.780Z"
 status: "active"
 ---
 

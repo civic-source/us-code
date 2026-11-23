@@ -3,9 +3,9 @@ title: "Section 318 - Judge Advocate General; Deputy Judge Advocate General: app
 usc_title: 14
 usc_section: "318"
 chapter: 3
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "14 U.S.C. § 318"
-generated_at: "2026-11-23T20:30:01.327Z"
+generated_at: "2026-11-23T20:32:32.374Z"
 status: "active"
 ---
 

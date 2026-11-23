@@ -3,9 +3,9 @@ title: "Section 6760 - Relationship to State law"
 usc_title: 15
 usc_section: "6760"
 chapter: 93
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "15 U.S.C. § 6760"
-generated_at: "2026-11-23T20:30:09.190Z"
+generated_at: "2026-11-23T20:32:36.522Z"
 status: "active"
 ---
 

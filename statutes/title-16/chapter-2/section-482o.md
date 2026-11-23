@@ -3,9 +3,9 @@ title: "Section 482o - Kaibab National Forest; mining rights; protection of scen
 usc_title: 16
 usc_section: "482o"
 chapter: 2
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "16 U.S.C. § 482o"
-generated_at: "2026-11-23T20:30:23.505Z"
+generated_at: "2026-11-23T20:32:46.364Z"
 status: "active"
 ---
 

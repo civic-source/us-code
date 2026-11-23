@@ -3,9 +3,9 @@ title: "Section 411 - Repealed. Pub. L. 112–141, div. C, title I, § 31109(e) 
 usc_title: 23
 usc_section: "411"
 chapter: 4
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "23 U.S.C. § 411"
-generated_at: "2026-11-23T20:30:27.055Z"
+generated_at: "2026-11-23T20:32:49.554Z"
 status: "repealed"
 ---
 

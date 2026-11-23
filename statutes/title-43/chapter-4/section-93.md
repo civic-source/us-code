@@ -3,9 +3,9 @@ title: "Section 93 - Deposit of moneys deposited by unknown parties"
 usc_title: 43
 usc_section: "93"
 chapter: 4
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "43 U.S.C. § 93"
-generated_at: "2026-11-23T20:31:07.377Z"
+generated_at: "2026-11-23T20:33:11.479Z"
 status: "active"
 ---
 

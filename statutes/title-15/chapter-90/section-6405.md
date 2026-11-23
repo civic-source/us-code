@@ -3,9 +3,9 @@ title: "Section 6405 - Assessments"
 usc_title: 15
 usc_section: "6405"
 chapter: 90
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "15 U.S.C. § 6405"
-generated_at: "2026-11-23T20:30:09.170Z"
+generated_at: "2026-11-23T20:32:36.507Z"
 status: "active"
 ---
 

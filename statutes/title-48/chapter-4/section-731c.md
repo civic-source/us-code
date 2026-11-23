@@ -3,9 +3,9 @@ title: "Section 731c - Submission of sections 731b to 731e of this title to peop
 usc_title: 48
 usc_section: "731c"
 chapter: 4
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "48 U.S.C. § 731c"
-generated_at: "2026-11-23T20:31:28.780Z"
+generated_at: "2026-11-23T20:33:24.298Z"
 status: "active"
 ---
 

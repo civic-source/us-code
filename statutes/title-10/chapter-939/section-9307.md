@@ -3,9 +3,9 @@ title: "Section 9307 - Aviation cadets: discharge"
 usc_title: 10
 usc_section: "9307"
 chapter: 939
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "10 U.S.C. § 9307"
-generated_at: "2026-11-23T20:29:58.357Z"
+generated_at: "2026-11-23T20:32:30.439Z"
 status: "active"
 ---
 

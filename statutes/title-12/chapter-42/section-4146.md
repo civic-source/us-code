@@ -3,9 +3,9 @@ title: "Section 4146 - Definitions"
 usc_title: 12
 usc_section: "4146"
 chapter: 42
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "12 U.S.C. § 4146"
-generated_at: "2026-11-23T20:30:05.005Z"
+generated_at: "2026-11-23T20:32:34.086Z"
 status: "active"
 ---
 

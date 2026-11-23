@@ -3,9 +3,9 @@ title: "Section 10101 - Audits"
 usc_title: 36
 usc_section: "10101"
 chapter: 101
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "36 U.S.C. § 10101"
-generated_at: "2026-11-23T20:31:00.142Z"
+generated_at: "2026-11-23T20:33:07.760Z"
 status: "active"
 ---
 

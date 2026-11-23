@@ -3,9 +3,9 @@ title: "Section 1681h - Conditions and form of disclosure to consumers"
 usc_title: 15
 usc_section: "1681h"
 chapter: 41
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "15 U.S.C. § 1681h"
-generated_at: "2026-11-23T20:30:08.869Z"
+generated_at: "2026-11-23T20:32:36.280Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2432 - Freedom of emigration in East-West trade"
 usc_title: 19
 usc_section: "2432"
 chapter: 12
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "19 U.S.C. § 2432"
-generated_at: "2026-11-23T20:30:15.105Z"
+generated_at: "2026-11-23T20:32:41.519Z"
 status: "active"
 ---
 

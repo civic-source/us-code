@@ -3,9 +3,9 @@ title: "Section 911 - Art. 111. Leaving scene of vehicle accident"
 usc_title: 10
 usc_section: "911"
 chapter: 47
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "10 U.S.C. § 911"
-generated_at: "2026-11-23T20:29:57.073Z"
+generated_at: "2026-11-23T20:32:29.900Z"
 status: "active"
 ---
 

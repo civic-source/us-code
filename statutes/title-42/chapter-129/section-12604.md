@@ -3,9 +3,9 @@ title: "Section 12604 - Disbursement of educational awards"
 usc_title: 42
 usc_section: "12604"
 chapter: 129
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "42 U.S.C. § 12604"
-generated_at: "2026-11-23T20:31:25.962Z"
+generated_at: "2026-11-23T20:33:22.277Z"
 status: "active"
 ---
 

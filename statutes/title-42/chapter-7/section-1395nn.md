@@ -3,9 +3,9 @@ title: "Section 1395nn - Limitation on certain physician referrals"
 usc_title: 42
 usc_section: "1395nn"
 chapter: 7
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "42 U.S.C. § 1395nn"
-generated_at: "2026-11-23T20:31:23.997Z"
+generated_at: "2026-11-23T20:33:21.219Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 158 - Agreement to arbitrate; form and contents; signatures and 
 usc_title: 45
 usc_section: "158"
 chapter: 8
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "45 U.S.C. § 158"
-generated_at: "2026-11-23T20:31:06.000Z"
+generated_at: "2026-11-23T20:33:12.051Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 709 - Employment restrictions"
 usc_title: 38
 usc_section: "709"
 chapter: 7
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "38 U.S.C. § 709"
-generated_at: "2026-11-23T20:31:02.715Z"
+generated_at: "2026-11-23T20:33:08.981Z"
 status: "active"
 ---
 

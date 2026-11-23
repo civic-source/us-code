@@ -3,9 +3,9 @@ title: "Section 1323 - Recovery for infringement"
 usc_title: 17
 usc_section: "1323"
 chapter: 13
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "17 U.S.C. § 1323"
-generated_at: "2026-11-23T20:30:11.149Z"
+generated_at: "2026-11-23T20:32:38.300Z"
 status: "active"
 ---
 

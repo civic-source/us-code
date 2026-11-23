@@ -3,9 +3,9 @@ title: "Section 3455 - Repealed. Pub. L. 119–60, div. A, title VIII, § 811(a)
 usc_title: 10
 usc_section: "3455"
 chapter: 247
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "10 U.S.C. § 3455"
-generated_at: "2026-11-23T20:29:57.777Z"
+generated_at: "2026-11-23T20:32:30.216Z"
 status: "repealed"
 ---
 

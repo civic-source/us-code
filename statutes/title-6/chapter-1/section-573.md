@@ -3,9 +3,9 @@ title: "Section 573 - Assessments and reports"
 usc_title: 6
 usc_section: "573"
 chapter: 1
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "6 U.S.C. § 573"
-generated_at: "2026-11-23T20:29:43.536Z"
+generated_at: "2026-11-23T20:32:22.128Z"
 status: "active"
 ---
 

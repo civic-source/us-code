@@ -3,9 +3,9 @@ title: "Section 7 - Special maritime and territorial jurisdiction of the United 
 usc_title: 18
 usc_section: "7"
 chapter: 1
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "18 U.S.C. § 7"
-generated_at: "2026-11-23T20:30:12.603Z"
+generated_at: "2026-11-23T20:32:39.595Z"
 status: "active"
 ---
 

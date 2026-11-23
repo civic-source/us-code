@@ -3,9 +3,9 @@ title: "Section 539e - Reports"
 usc_title: 16
 usc_section: "539e"
 chapter: 2
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "16 U.S.C. § 539e"
-generated_at: "2026-11-23T20:30:23.526Z"
+generated_at: "2026-11-23T20:32:46.378Z"
 status: "active"
 ---
 

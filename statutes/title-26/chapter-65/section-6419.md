@@ -3,9 +3,9 @@ title: "Section 6419 - Excise tax on wagering"
 usc_title: 26
 usc_section: "6419"
 chapter: 65
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "26 U.S.C. § 6419"
-generated_at: "2026-11-23T20:30:48.745Z"
+generated_at: "2026-11-23T20:33:00.705Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 47b - Determination by Attorney General of entitlement and amoun
 usc_title: 50
 usc_section: "47b"
 chapter: 4
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "50 U.S.C. § 47b"
-generated_at: "2026-11-23T20:31:33.123Z"
+generated_at: "2026-11-23T20:33:26.843Z"
 status: "active"
 ---
 

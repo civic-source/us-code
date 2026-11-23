@@ -3,9 +3,9 @@ title: "Section 10 - Pennsylvania fish hatchery; authorization of appropriations
 usc_title: 16
 usc_section: "10"
 chapter: 9
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "16 U.S.C. § 10"
-generated_at: "2026-11-23T20:30:23.709Z"
+generated_at: "2026-11-23T20:32:46.473Z"
 status: "active"
 ---
 

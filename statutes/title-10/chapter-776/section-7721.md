@@ -3,9 +3,9 @@ title: "Section 7721 - Authority and responsibilities of the Secretary of the Ar
 usc_title: 10
 usc_section: "7721"
 chapter: 776
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "10 U.S.C. § 7721"
-generated_at: "2026-11-23T20:29:58.124Z"
+generated_at: "2026-11-23T20:32:30.340Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 10704 - Sanctions relating to the Western Balkans"
 usc_title: 22
 usc_section: "10704"
 chapter: 114
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "22 U.S.C. § 10704"
-generated_at: "2026-11-23T20:30:34.911Z"
+generated_at: "2026-11-23T20:32:52.575Z"
 status: "active"
 ---
 

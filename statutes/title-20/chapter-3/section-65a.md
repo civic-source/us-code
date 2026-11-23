@@ -3,9 +3,9 @@ title: "Section 65a - Director of the National Museum"
 usc_title: 20
 usc_section: "65a"
 chapter: 3
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "20 U.S.C. § 65a"
-generated_at: "2026-11-23T20:30:18.016Z"
+generated_at: "2026-11-23T20:32:43.177Z"
 status: "active"
 ---
 

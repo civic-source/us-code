@@ -3,9 +3,9 @@ title: "Section 1603 - Implementation of policies"
 usc_title: 30
 usc_section: "1603"
 chapter: 28
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "30 U.S.C. § 1603"
-generated_at: "2026-11-23T20:30:36.933Z"
+generated_at: "2026-11-23T20:32:54.620Z"
 status: "active"
 ---
 

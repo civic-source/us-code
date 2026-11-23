@@ -3,9 +3,9 @@ title: "Section 1607 - Cooperation with other governmental agencies"
 usc_title: 7
 usc_section: "1607"
 chapter: 37
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "7 U.S.C. § 1607"
-generated_at: "2026-11-23T20:29:48.615Z"
+generated_at: "2026-11-23T20:32:25.179Z"
 status: "active"
 ---
 

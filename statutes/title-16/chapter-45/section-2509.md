@@ -3,9 +3,9 @@ title: "Section 2509 - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 S
 usc_title: 16
 usc_section: "2509"
 chapter: 45
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "16 U.S.C. § 2509"
-generated_at: "2026-11-23T20:30:24.134Z"
+generated_at: "2026-11-23T20:32:46.752Z"
 status: "repealed"
 ---
 

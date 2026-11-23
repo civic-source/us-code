@@ -3,9 +3,9 @@ title: "Section 1643b - Receipt of claims; determination of amount and validity"
 usc_title: 22
 usc_section: "1643b"
 chapter: 21
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "22 U.S.C. § 1643b"
-generated_at: "2026-11-23T20:30:34.141Z"
+generated_at: "2026-11-23T20:32:52.077Z"
 status: "active"
 ---
 

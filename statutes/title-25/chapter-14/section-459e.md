@@ -3,9 +3,9 @@ title: "Section 459e - Transferred"
 usc_title: 25
 usc_section: "459e"
 chapter: 14
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "25 U.S.C. § 459e"
-generated_at: "2026-11-23T20:30:30.468Z"
+generated_at: "2026-11-23T20:32:48.974Z"
 status: "transferred"
 ---
 

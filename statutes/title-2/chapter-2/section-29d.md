@@ -3,9 +3,9 @@ title: "Section 29d - Transferred"
 usc_title: 2
 usc_section: "29d"
 chapter: 2
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "2 U.S.C. § 29d"
-generated_at: "2026-11-23T20:29:37.097Z"
+generated_at: "2026-11-23T20:32:17.808Z"
 status: "transferred"
 ---
 

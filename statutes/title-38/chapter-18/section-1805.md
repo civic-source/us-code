@@ -3,9 +3,9 @@ title: "Section 1805 - Monetary allowance"
 usc_title: 38
 usc_section: "1805"
 chapter: 18
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "38 U.S.C. § 1805"
-generated_at: "2026-11-23T20:31:02.819Z"
+generated_at: "2026-11-23T20:33:09.046Z"
 status: "active"
 ---
 

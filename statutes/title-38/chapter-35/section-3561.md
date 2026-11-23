@@ -3,9 +3,9 @@ title: "Section 3561 - Authority and duties of Secretary"
 usc_title: 38
 usc_section: "3561"
 chapter: 35
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "38 U.S.C. § 3561"
-generated_at: "2026-11-23T20:31:02.959Z"
+generated_at: "2026-11-23T20:33:09.115Z"
 status: "active"
 ---
 

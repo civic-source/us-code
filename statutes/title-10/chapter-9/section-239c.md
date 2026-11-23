@@ -3,9 +3,9 @@ title: "Section 239c - Certain multiyear contracts for acquisition of property: 
 usc_title: 10
 usc_section: "239c"
 chapter: 9
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "10 U.S.C. § 239c"
-generated_at: "2026-11-23T20:29:56.833Z"
+generated_at: "2026-11-23T20:32:29.802Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2231 - Repealed. Pub. L. 105–394, title IV, § 401 , Nov. 13, 
 usc_title: 29
 usc_section: "2231"
 chapter: 24
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "29 U.S.C. § 2231"
-generated_at: "2026-11-23T20:30:39.989Z"
+generated_at: "2026-11-23T20:32:55.817Z"
 status: "repealed"
 ---
 

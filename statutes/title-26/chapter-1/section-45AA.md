@@ -3,9 +3,9 @@ title: "Section 45AA - Military spouse retirement plan eligibility credit for sm
 usc_title: 26
 usc_section: "45AA"
 chapter: 1
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "26 U.S.C. § 45AA"
-generated_at: "2026-11-23T20:30:47.185Z"
+generated_at: "2026-11-23T20:32:59.991Z"
 status: "active"
 ---
 

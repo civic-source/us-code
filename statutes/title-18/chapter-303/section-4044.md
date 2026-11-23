@@ -3,9 +3,9 @@ title: "Section 4044 - Donations on behalf of the Bureau of Prisons"
 usc_title: 18
 usc_section: "4044"
 chapter: 303
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "18 U.S.C. § 4044"
-generated_at: "2026-11-23T20:30:13.032Z"
+generated_at: "2026-11-23T20:32:39.976Z"
 status: "active"
 ---
 

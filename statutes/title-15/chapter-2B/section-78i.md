@@ -3,9 +3,9 @@ title: "Section 78i - Manipulation of security prices"
 usc_title: 15
 usc_section: "78i"
 chapter: 2
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "15 U.S.C. § 78i"
-generated_at: "2026-11-23T20:30:08.356Z"
+generated_at: "2026-11-23T20:32:35.944Z"
 status: "active"
 ---
 

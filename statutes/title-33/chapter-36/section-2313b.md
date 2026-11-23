@@ -3,9 +3,9 @@ title: "Section 2313b - Support of Army civil works program"
 usc_title: 33
 usc_section: "2313b"
 chapter: 36
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "33 U.S.C. § 2313b"
-generated_at: "2026-11-23T20:30:55.875Z"
+generated_at: "2026-11-23T20:33:03.699Z"
 status: "active"
 ---
 

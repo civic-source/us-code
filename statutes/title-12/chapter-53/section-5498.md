@@ -3,9 +3,9 @@ title: "Section 5498 - Data standards"
 usc_title: 12
 usc_section: "5498"
 chapter: 53
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "12 U.S.C. § 5498"
-generated_at: "2026-11-23T20:30:05.162Z"
+generated_at: "2026-11-23T20:32:34.160Z"
 status: "active"
 ---
 

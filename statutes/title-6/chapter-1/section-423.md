@@ -3,9 +3,9 @@ title: "Section 423 - Increased simplified acquisition threshold for procurement
 usc_title: 6
 usc_section: "423"
 chapter: 1
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "6 U.S.C. § 423"
-generated_at: "2026-11-23T20:29:43.501Z"
+generated_at: "2026-11-23T20:32:22.113Z"
 status: "active"
 ---
 

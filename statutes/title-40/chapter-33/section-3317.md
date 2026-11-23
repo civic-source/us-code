@@ -3,9 +3,9 @@ title: "Section 3317 - Certain authority not affected"
 usc_title: 40
 usc_section: "3317"
 chapter: 33
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "40 U.S.C. § 3317"
-generated_at: "2026-11-23T20:30:59.275Z"
+generated_at: "2026-11-23T20:33:06.891Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1185h - Maintenance of price comparison tool"
 usc_title: 29
 usc_section: "1185h"
 chapter: 18
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "29 U.S.C. § 1185h"
-generated_at: "2026-11-23T20:30:39.908Z"
+generated_at: "2026-11-23T20:32:55.778Z"
 status: "active"
 ---
 

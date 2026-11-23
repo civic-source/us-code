@@ -3,9 +3,9 @@ title: "Section 701 - Definitions"
 usc_title: 31
 usc_section: "701"
 chapter: 7
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "31 U.S.C. § 701"
-generated_at: "2026-11-23T20:30:52.327Z"
+generated_at: "2026-11-23T20:33:04.347Z"
 status: "active"
 ---
 

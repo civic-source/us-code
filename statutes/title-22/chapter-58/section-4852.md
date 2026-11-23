@@ -3,9 +3,9 @@ title: "Section 4852 - Diplomatic construction program"
 usc_title: 22
 usc_section: "4852"
 chapter: 58
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "22 U.S.C. § 4852"
-generated_at: "2026-11-23T20:30:34.584Z"
+generated_at: "2026-11-23T20:32:52.350Z"
 status: "active"
 ---
 

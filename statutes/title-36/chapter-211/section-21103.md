@@ -3,9 +3,9 @@ title: "Section 21103 - Purposes"
 usc_title: 36
 usc_section: "21103"
 chapter: 211
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "36 U.S.C. § 21103"
-generated_at: "2026-11-23T20:31:00.161Z"
+generated_at: "2026-11-23T20:33:07.771Z"
 status: "active"
 ---
 

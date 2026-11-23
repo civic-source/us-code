@@ -3,9 +3,9 @@ title: "Section 3391 - Definitions"
 usc_title: 5
 usc_section: "3391"
 chapter: 33
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "5 U.S.C. § 3391"
-generated_at: "2026-11-23T20:29:40.397Z"
+generated_at: "2026-11-23T20:32:19.472Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 947 - Repealed. Pub. L. 98–426, § 25 , Sept. 28, 1984 , 98 St
 usc_title: 33
 usc_section: "947"
 chapter: 18
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "33 U.S.C. § 947"
-generated_at: "2026-11-23T20:30:55.650Z"
+generated_at: "2026-11-23T20:33:03.593Z"
 status: "repealed"
 ---
 

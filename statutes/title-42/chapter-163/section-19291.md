@@ -3,9 +3,9 @@ title: "Section 19291 - Definitions"
 usc_title: 42
 usc_section: "19291"
 chapter: 163
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "42 U.S.C. § 19291"
-generated_at: "2026-11-23T20:31:26.493Z"
+generated_at: "2026-11-23T20:33:22.527Z"
 status: "active"
 ---
 

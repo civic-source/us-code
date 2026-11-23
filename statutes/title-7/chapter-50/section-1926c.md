@@ -3,9 +3,9 @@ title: "Section 1926c - Water and waste facility loans and grants to alleviate h
 usc_title: 7
 usc_section: "1926c"
 chapter: 50
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "7 U.S.C. § 1926c"
-generated_at: "2026-11-23T20:29:48.700Z"
+generated_at: "2026-11-23T20:32:25.222Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1615 - Prohibition on use of “Rule of 78’s” in connection 
 usc_title: 15
 usc_section: "1615"
 chapter: 41
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "15 U.S.C. § 1615"
-generated_at: "2026-11-23T20:30:08.836Z"
+generated_at: "2026-11-23T20:32:36.241Z"
 status: "active"
 ---
 

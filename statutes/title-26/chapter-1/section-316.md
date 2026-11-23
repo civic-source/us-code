@@ -3,9 +3,9 @@ title: "Section 316 - Dividend defined"
 usc_title: 26
 usc_section: "316"
 chapter: 1
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "26 U.S.C. § 316"
-generated_at: "2026-11-23T20:30:47.507Z"
+generated_at: "2026-11-23T20:33:00.128Z"
 status: "active"
 ---
 

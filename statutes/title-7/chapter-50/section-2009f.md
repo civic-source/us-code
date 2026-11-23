@@ -3,9 +3,9 @@ title: "Section 2009f - Grants to States"
 usc_title: 7
 usc_section: "2009f"
 chapter: 50
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "7 U.S.C. § 2009f"
-generated_at: "2026-11-23T20:29:48.749Z"
+generated_at: "2026-11-23T20:32:25.244Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3917 - Extension of rights and protections to reserves ordered t
 usc_title: 50
 usc_section: "3917"
 chapter: 50
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "50 U.S.C. § 3917"
-generated_at: "2026-11-23T20:31:33.507Z"
+generated_at: "2026-11-23T20:33:27.005Z"
 status: "active"
 ---
 

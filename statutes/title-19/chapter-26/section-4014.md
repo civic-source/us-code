@@ -3,9 +3,9 @@ title: "Section 4014 - Consultation and layover provisions for, and effective da
 usc_title: 19
 usc_section: "4014"
 chapter: 26
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "19 U.S.C. § 4014"
-generated_at: "2026-11-23T20:30:15.235Z"
+generated_at: "2026-11-23T20:32:41.615Z"
 status: "active"
 ---
 

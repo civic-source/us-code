@@ -3,9 +3,9 @@ title: "Section 11114 - Concentration of Federal efforts"
 usc_title: 34
 usc_section: "11114"
 chapter: 111
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "34 U.S.C. § 11114"
-generated_at: "2026-11-23T20:30:53.848Z"
+generated_at: "2026-11-23T20:33:05.094Z"
 status: "active"
 ---
 

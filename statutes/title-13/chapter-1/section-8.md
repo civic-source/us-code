@@ -3,9 +3,9 @@ title: "Section 8 - Authenticated transcripts or copies of certain returns; othe
 usc_title: 13
 usc_section: "8"
 chapter: 1
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "13 U.S.C. § 8"
-generated_at: "2026-11-23T20:30:00.156Z"
+generated_at: "2026-11-23T20:32:31.828Z"
 status: "active"
 ---
 

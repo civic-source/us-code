@@ -3,9 +3,9 @@ title: "Section 80t - Findings"
 usc_title: 20
 usc_section: "80t"
 chapter: 3
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "20 U.S.C. § 80t"
-generated_at: "2026-11-23T20:30:18.041Z"
+generated_at: "2026-11-23T20:32:43.193Z"
 status: "active"
 ---
 

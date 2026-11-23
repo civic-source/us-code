@@ -3,9 +3,9 @@ title: "Section 9553 - Report to Congress"
 usc_title: 15
 usc_section: "9553"
 chapter: 120
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "15 U.S.C. § 9553"
-generated_at: "2026-11-23T20:30:09.349Z"
+generated_at: "2026-11-23T20:32:36.651Z"
 status: "active"
 ---
 

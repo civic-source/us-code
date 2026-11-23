@@ -3,9 +3,9 @@ title: "Section 9401 - Purposes"
 usc_title: 20
 usc_section: "9401"
 chapter: 75
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "20 U.S.C. § 9401"
-generated_at: "2026-11-23T20:30:18.714Z"
+generated_at: "2026-11-23T20:32:43.550Z"
 status: "active"
 ---
 

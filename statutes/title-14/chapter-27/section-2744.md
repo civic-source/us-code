@@ -3,9 +3,9 @@ title: "Section 2744 - Life-saving medals"
 usc_title: 14
 usc_section: "2744"
 chapter: 27
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "14 U.S.C. § 2744"
-generated_at: "2026-11-23T20:30:01.423Z"
+generated_at: "2026-11-23T20:32:32.419Z"
 status: "active"
 ---
 

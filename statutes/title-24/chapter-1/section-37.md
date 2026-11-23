@@ -3,9 +3,9 @@ title: "Section 37 - Manufacture of products by patients at naval hospitals; own
 usc_title: 24
 usc_section: "37"
 chapter: 1
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "24 U.S.C. § 37"
-generated_at: "2026-11-23T20:30:25.862Z"
+generated_at: "2026-11-23T20:32:48.183Z"
 status: "active"
 ---
 

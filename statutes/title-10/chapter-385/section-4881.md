@@ -3,9 +3,9 @@ title: "Section 4881 - Defense Industrial Reserve"
 usc_title: 10
 usc_section: "4881"
 chapter: 385
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "10 U.S.C. § 4881"
-generated_at: "2026-11-23T20:29:57.938Z"
+generated_at: "2026-11-23T20:32:30.277Z"
 status: "active"
 ---
 

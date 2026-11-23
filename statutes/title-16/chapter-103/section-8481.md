@@ -3,9 +3,9 @@ title: "Section 8481 - Accessible recreation inventory"
 usc_title: 16
 usc_section: "8481"
 chapter: 103
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "16 U.S.C. § 8481"
-generated_at: "2026-11-23T20:30:24.417Z"
+generated_at: "2026-11-23T20:32:46.908Z"
 status: "active"
 ---
 

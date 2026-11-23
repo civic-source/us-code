@@ -3,9 +3,9 @@ title: "Section 460cccc - John Wesley Powell National Conservation Area"
 usc_title: 16
 usc_section: "460cccc"
 chapter: 1
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "16 U.S.C. § 460cccc"
-generated_at: "2026-11-23T20:30:23.474Z"
+generated_at: "2026-11-23T20:32:46.338Z"
 status: "active"
 ---
 

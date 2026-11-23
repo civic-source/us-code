@@ -3,9 +3,9 @@ title: "Section 593b - Construction of additional works for irrigation purposes"
 usc_title: 43
 usc_section: "593b"
 chapter: 12
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "43 U.S.C. § 593b"
-generated_at: "2026-11-23T20:31:07.444Z"
+generated_at: "2026-11-23T20:33:11.518Z"
 status: "active"
 ---
 

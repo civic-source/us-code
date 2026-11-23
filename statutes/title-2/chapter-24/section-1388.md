@@ -3,9 +3,9 @@ title: "Section 1388 - Workplace climate surveys of employing offices"
 usc_title: 2
 usc_section: "1388"
 chapter: 24
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "2 U.S.C. § 1388"
-generated_at: "2026-11-23T20:29:37.297Z"
+generated_at: "2026-11-23T20:32:17.921Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4524 - Withholding of charitable contributions from salaries pai
 usc_title: 2
 usc_section: "4524"
 chapter: 45
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "2 U.S.C. § 4524"
-generated_at: "2026-11-23T20:29:37.414Z"
+generated_at: "2026-11-23T20:32:17.976Z"
 status: "active"
 ---
 

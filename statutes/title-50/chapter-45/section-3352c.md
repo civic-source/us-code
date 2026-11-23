@@ -3,9 +3,9 @@ title: "Section 3352c - Goals for promptness of determinations regarding securit
 usc_title: 50
 usc_section: "3352c"
 chapter: 45
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "50 U.S.C. § 3352c"
-generated_at: "2026-11-23T20:31:33.432Z"
+generated_at: "2026-11-23T20:33:26.971Z"
 status: "active"
 ---
 

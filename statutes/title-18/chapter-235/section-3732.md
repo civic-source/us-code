@@ -3,9 +3,9 @@ title: "Section 3732 - Taking of appeal; notice; time—(Rule)"
 usc_title: 18
 usc_section: "3732"
 chapter: 235
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "18 U.S.C. § 3732"
-generated_at: "2026-11-23T20:30:13.022Z"
+generated_at: "2026-11-23T20:32:39.966Z"
 status: "active"
 ---
 

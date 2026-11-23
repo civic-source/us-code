@@ -3,9 +3,9 @@ title: "Section 12524 - Allotments"
 usc_title: 42
 usc_section: "12524"
 chapter: 129
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "42 U.S.C. § 12524"
-generated_at: "2026-11-23T20:31:25.937Z"
+generated_at: "2026-11-23T20:33:22.268Z"
 status: "active"
 ---
 

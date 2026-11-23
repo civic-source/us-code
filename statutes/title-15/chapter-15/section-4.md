@@ -3,9 +3,9 @@ title: "Section 4 - Obligations of Commodity Credit Corporation; issuance; sale;
 usc_title: 15
 usc_section: "4"
 chapter: 15
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "15 U.S.C. § 4"
-generated_at: "2026-11-23T20:30:08.724Z"
+generated_at: "2026-11-23T20:32:36.137Z"
 status: "active"
 ---
 

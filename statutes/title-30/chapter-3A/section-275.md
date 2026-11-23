@@ -3,9 +3,9 @@ title: "Section 275 - Laws applicable"
 usc_title: 30
 usc_section: "275"
 chapter: 3
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "30 U.S.C. § 275"
-generated_at: "2026-11-23T20:30:36.805Z"
+generated_at: "2026-11-23T20:32:54.527Z"
 status: "active"
 ---
 

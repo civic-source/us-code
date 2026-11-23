@@ -3,9 +3,9 @@ title: "Section 1225 - State consideration of protection and restoration of estu
 usc_title: 16
 usc_section: "1225"
 chapter: 26
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "16 U.S.C. § 1225"
-generated_at: "2026-11-23T20:30:23.906Z"
+generated_at: "2026-11-23T20:32:46.616Z"
 status: "active"
 ---
 

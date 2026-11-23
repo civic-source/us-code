@@ -3,9 +3,9 @@ title: "Section 5502 - Missile Defense Agency"
 usc_title: 10
 usc_section: "5502"
 chapter: 551
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "10 U.S.C. § 5502"
-generated_at: "2026-11-23T20:29:57.952Z"
+generated_at: "2026-11-23T20:32:30.282Z"
 status: "active"
 ---
 

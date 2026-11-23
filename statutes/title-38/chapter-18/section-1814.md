@@ -3,9 +3,9 @@ title: "Section 1814 - Vocational training"
 usc_title: 38
 usc_section: "1814"
 chapter: 18
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "38 U.S.C. § 1814"
-generated_at: "2026-11-23T20:31:02.820Z"
+generated_at: "2026-11-23T20:33:09.047Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3170 - Speedy trial data"
 usc_title: 18
 usc_section: "3170"
 chapter: 208
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "18 U.S.C. § 3170"
-generated_at: "2026-11-23T20:30:12.946Z"
+generated_at: "2026-11-23T20:32:39.896Z"
 status: "active"
 ---
 

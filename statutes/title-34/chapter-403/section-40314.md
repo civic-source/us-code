@@ -3,9 +3,9 @@ title: "Section 40314 - Effect on other laws"
 usc_title: 34
 usc_section: "40314"
 chapter: 403
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "34 U.S.C. § 40314"
-generated_at: "2026-11-23T20:30:53.992Z"
+generated_at: "2026-11-23T20:33:05.171Z"
 status: "active"
 ---
 

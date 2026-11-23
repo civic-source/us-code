@@ -3,9 +3,9 @@ title: "Section 1730 - Community residential care"
 usc_title: 38
 usc_section: "1730"
 chapter: 17
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "38 U.S.C. § 1730"
-generated_at: "2026-11-23T20:31:02.809Z"
+generated_at: "2026-11-23T20:33:09.039Z"
 status: "active"
 ---
 

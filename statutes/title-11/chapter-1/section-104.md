@@ -3,9 +3,9 @@ title: "Section 104 - Adjustment of dollar amounts"
 usc_title: 11
 usc_section: "104"
 chapter: 1
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "11 U.S.C. § 104"
-generated_at: "2026-11-23T20:30:00.753Z"
+generated_at: "2026-11-23T20:32:32.019Z"
 status: "active"
 ---
 

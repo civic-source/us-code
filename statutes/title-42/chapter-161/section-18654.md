@@ -3,9 +3,9 @@ title: "Section 18654 - Midscale instrumentation and research equipment program"
 usc_title: 42
 usc_section: "18654"
 chapter: 161
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "42 U.S.C. § 18654"
-generated_at: "2026-11-23T20:31:26.417Z"
+generated_at: "2026-11-23T20:33:22.489Z"
 status: "active"
 ---
 

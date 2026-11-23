@@ -3,9 +3,9 @@ title: "Section 3771 - Transferred"
 usc_title: 42
 usc_section: "3771"
 chapter: 46
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "42 U.S.C. § 3771"
-generated_at: "2026-11-23T20:31:24.900Z"
+generated_at: "2026-11-23T20:33:21.766Z"
 status: "transferred"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2160 - Federal Farm Credit Banks Funding Corporation"
 usc_title: 12
 usc_section: "2160"
 chapter: 23
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "12 U.S.C. § 2160"
-generated_at: "2026-11-23T20:30:04.863Z"
+generated_at: "2026-11-23T20:32:34.027Z"
 status: "active"
 ---
 

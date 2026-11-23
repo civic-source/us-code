@@ -3,9 +3,9 @@ title: "Section 306 - Contracting methods in capital construction"
 usc_title: 22
 usc_section: "306"
 chapter: 8
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "22 U.S.C. § 306"
-generated_at: "2026-11-23T20:30:34.099Z"
+generated_at: "2026-11-23T20:32:52.032Z"
 status: "active"
 ---
 

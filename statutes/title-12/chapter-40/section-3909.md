@@ -3,9 +3,9 @@ title: "Section 3909 - General authorities"
 usc_title: 12
 usc_section: "3909"
 chapter: 40
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "12 U.S.C. § 3909"
-generated_at: "2026-11-23T20:30:04.987Z"
+generated_at: "2026-11-23T20:32:34.078Z"
 status: "active"
 ---
 

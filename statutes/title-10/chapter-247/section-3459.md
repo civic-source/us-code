@@ -3,9 +3,9 @@ title: "Section 3459 - Limitation on required flowdown of contract clauses to su
 usc_title: 10
 usc_section: "3459"
 chapter: 247
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "10 U.S.C. § 3459"
-generated_at: "2026-11-23T20:29:57.779Z"
+generated_at: "2026-11-23T20:32:30.217Z"
 status: "active"
 ---
 

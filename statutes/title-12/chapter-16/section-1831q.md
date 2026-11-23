@@ -3,9 +3,9 @@ title: "Section 1831q - FDIC affordable housing program"
 usc_title: 12
 usc_section: "1831q"
 chapter: 16
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "12 U.S.C. § 1831q"
-generated_at: "2026-11-23T20:30:04.793Z"
+generated_at: "2026-11-23T20:32:33.999Z"
 status: "active"
 ---
 

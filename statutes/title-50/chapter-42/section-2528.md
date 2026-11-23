@@ -3,9 +3,9 @@ title: "Section 2528 - Repealed. Pub. L. 112–239, div. C, title XXXI, § 3133(
 usc_title: 50
 usc_section: "2528"
 chapter: 42
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "50 U.S.C. § 2528"
-generated_at: "2026-11-23T20:31:33.314Z"
+generated_at: "2026-11-23T20:33:26.919Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 47142 - Alternative project delivery"
 usc_title: 49
 usc_section: "47142"
 chapter: 471
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "49 U.S.C. § 47142"
-generated_at: "2026-11-23T20:31:38.603Z"
+generated_at: "2026-11-23T20:33:29.331Z"
 status: "active"
 ---
 

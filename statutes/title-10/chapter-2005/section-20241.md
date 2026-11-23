@@ -3,9 +3,9 @@ title: "Section 20241 - Removal of officers from a list of officers recommended 
 usc_title: 10
 usc_section: "20241"
 chapter: 2005
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "10 U.S.C. § 20241"
-generated_at: "2026-11-23T20:29:58.566Z"
+generated_at: "2026-11-23T20:32:30.529Z"
 status: "active"
 ---
 

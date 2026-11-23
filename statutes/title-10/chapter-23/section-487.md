@@ -3,9 +3,9 @@ title: "Section 487 - Repealed. Pub. L. 118–159, div. A, title XVI, § 1649(b)
 usc_title: 10
 usc_section: "487"
 chapter: 23
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "10 U.S.C. § 487"
-generated_at: "2026-11-23T20:29:56.897Z"
+generated_at: "2026-11-23T20:32:29.828Z"
 status: "repealed"
 ---
 

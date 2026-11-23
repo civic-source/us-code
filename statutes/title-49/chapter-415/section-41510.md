@@ -3,9 +3,9 @@ title: "Section 41510 - Required adherence to foreign air transportation tariffs
 usc_title: 49
 usc_section: "41510"
 chapter: 415
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "49 U.S.C. § 41510"
-generated_at: "2026-11-23T20:31:38.354Z"
+generated_at: "2026-11-23T20:33:29.225Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 50924 - Space launch and reentry licensing and permitting user f
 usc_title: 51
 usc_section: "50924"
 chapter: 509
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "51 U.S.C. § 50924"
-generated_at: "2026-11-23T20:31:40.378Z"
+generated_at: "2026-11-23T20:33:31.142Z"
 status: "active"
 ---
 

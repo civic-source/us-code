@@ -3,9 +3,9 @@ title: "Section 495 - Staff composition"
 usc_title: 6
 usc_section: "495"
 chapter: 1
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "6 U.S.C. § 495"
-generated_at: "2026-11-23T20:29:43.529Z"
+generated_at: "2026-11-23T20:32:22.125Z"
 status: "active"
 ---
 

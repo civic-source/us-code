@@ -3,9 +3,9 @@ title: "Section 1306b - State data exchanges"
 usc_title: 42
 usc_section: "1306b"
 chapter: 7
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "42 U.S.C. § 1306b"
-generated_at: "2026-11-23T20:31:23.551Z"
+generated_at: "2026-11-23T20:33:20.954Z"
 status: "active"
 ---
 

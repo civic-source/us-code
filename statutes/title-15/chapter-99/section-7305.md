@@ -3,9 +3,9 @@ title: "Section 7305 - Additional powers"
 usc_title: 15
 usc_section: "7305"
 chapter: 99
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "15 U.S.C. § 7305"
-generated_at: "2026-11-23T20:30:09.223Z"
+generated_at: "2026-11-23T20:32:36.546Z"
 status: "active"
 ---
 

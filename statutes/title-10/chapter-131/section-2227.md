@@ -3,9 +3,9 @@ title: "Section 2227 - Renumbered § 4601]"
 usc_title: 10
 usc_section: "2227"
 chapter: 131
-current_through: "PL 119-84"
+current_through: "PL 119-87"
 classification: "10 U.S.C. § 2227"
-generated_at: "2026-11-23T20:29:57.533Z"
+generated_at: "2026-11-23T20:32:30.096Z"
 status: "renumbered"
 ---
 
