@@ -3,9 +3,9 @@ title: "Section 1720 - Coordination by Secretary of the Interior with State and 
 usc_title: 43
 usc_section: "1720"
 chapter: 35
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "43 U.S.C. § 1720"
-generated_at: "2026-11-23T20:48:02.268Z"
+generated_at: "2026-11-23T20:50:54.630Z"
 status: "active"
 ---
 

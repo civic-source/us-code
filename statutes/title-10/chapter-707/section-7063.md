@@ -3,9 +3,9 @@ title: "Section 7063 - Basic branches"
 usc_title: 10
 usc_section: "7063"
 chapter: 707
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "10 U.S.C. § 7063"
-generated_at: "2026-11-23T20:46:46.188Z"
+generated_at: "2026-11-23T20:49:42.360Z"
 status: "active"
 ---
 

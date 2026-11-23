@@ -3,9 +3,9 @@ title: "Section 9831 - Statement of purpose"
 usc_title: 42
 usc_section: "9831"
 chapter: 105
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "42 U.S.C. § 9831"
-generated_at: "2026-11-23T20:48:18.110Z"
+generated_at: "2026-11-23T20:51:13.336Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3929 - Inspector General"
 usc_title: 22
 usc_section: "3929"
 chapter: 52
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "22 U.S.C. § 3929"
-generated_at: "2026-11-23T20:47:29.412Z"
+generated_at: "2026-11-23T20:50:20.677Z"
 status: "active"
 ---
 

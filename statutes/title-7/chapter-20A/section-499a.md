@@ -3,9 +3,9 @@ title: "Section 499a - Short title and definitions"
 usc_title: 7
 usc_section: "499a"
 chapter: 20
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "7 U.S.C. § 499a"
-generated_at: "2026-11-23T20:46:35.942Z"
+generated_at: "2026-11-23T20:49:32.315Z"
 status: "active"
 ---
 

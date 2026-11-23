@@ -3,9 +3,9 @@ title: "Section 8751 - Codification of sanctions with respect to grave human rig
 usc_title: 22
 usc_section: "8751"
 chapter: 94
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "22 U.S.C. § 8751"
-generated_at: "2026-11-23T20:47:29.841Z"
+generated_at: "2026-11-23T20:50:20.914Z"
 status: "active"
 ---
 

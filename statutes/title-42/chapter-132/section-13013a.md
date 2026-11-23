@@ -3,9 +3,9 @@ title: "Section 13013a - Omitted"
 usc_title: 42
 usc_section: "13013a"
 chapter: 132
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "42 U.S.C. § 13013a"
-generated_at: "2026-11-23T20:48:18.398Z"
+generated_at: "2026-11-23T20:51:13.650Z"
 status: "omitted"
 ---
 

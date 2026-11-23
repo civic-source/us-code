@@ -3,9 +3,9 @@ title: "Section 3217 - Correspondence of members of diplomatic corps and consuls
 usc_title: 39
 usc_section: "3217"
 chapter: 32
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "39 U.S.C. § 3217"
-generated_at: "2026-11-23T20:47:54.010Z"
+generated_at: "2026-11-23T20:50:44.566Z"
 status: "active"
 ---
 

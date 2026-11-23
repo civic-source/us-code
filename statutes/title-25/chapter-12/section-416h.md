@@ -3,9 +3,9 @@ title: "Section 416h - Zoning, building, and sanitary regulations"
 usc_title: 25
 usc_section: "416h"
 chapter: 12
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "25 U.S.C. § 416h"
-generated_at: "2026-11-23T20:47:23.849Z"
+generated_at: "2026-11-23T20:50:13.545Z"
 status: "active"
 ---
 

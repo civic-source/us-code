@@ -3,9 +3,9 @@ title: "Section 1421d - Commodity reports"
 usc_title: 7
 usc_section: "1421d"
 chapter: 35
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "7 U.S.C. § 1421d"
-generated_at: "2026-11-23T20:46:36.055Z"
+generated_at: "2026-11-23T20:49:32.442Z"
 status: "active"
 ---
 

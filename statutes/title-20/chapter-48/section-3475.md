@@ -3,9 +3,9 @@ title: "Section 3475 - Contracts"
 usc_title: 20
 usc_section: "3475"
 chapter: 48
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "20 U.S.C. § 3475"
-generated_at: "2026-11-23T20:47:10.538Z"
+generated_at: "2026-11-23T20:50:04.186Z"
 status: "active"
 ---
 

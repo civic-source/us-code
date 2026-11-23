@@ -3,9 +3,9 @@ title: "Section 4072 - Definitions"
 usc_title: 26
 usc_section: "4072"
 chapter: 32
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "26 U.S.C. § 4072"
-generated_at: "2026-11-23T20:47:44.144Z"
+generated_at: "2026-11-23T20:50:34.769Z"
 status: "active"
 ---
 

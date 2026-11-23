@@ -3,9 +3,9 @@ title: "Section 901 - Purpose and policy"
 usc_title: 40
 usc_section: "901"
 chapter: 9
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "40 U.S.C. § 901"
-generated_at: "2026-11-23T20:47:54.648Z"
+generated_at: "2026-11-23T20:50:45.304Z"
 status: "active"
 ---
 

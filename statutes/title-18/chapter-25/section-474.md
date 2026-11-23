@@ -3,9 +3,9 @@ title: "Section 474 - Plates, stones, or analog, digital, or electronic images f
 usc_title: 18
 usc_section: "474"
 chapter: 25
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "18 U.S.C. § 474"
-generated_at: "2026-11-23T20:47:03.726Z"
+generated_at: "2026-11-23T20:50:00.629Z"
 status: "active"
 ---
 

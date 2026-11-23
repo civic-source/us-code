@@ -3,9 +3,9 @@ title: "Section 558a - Purpose"
 usc_title: 16
 usc_section: "558a"
 chapter: 3
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "16 U.S.C. § 558a"
-generated_at: "2026-11-23T20:47:16.053Z"
+generated_at: "2026-11-23T20:50:09.333Z"
 status: "active"
 ---
 

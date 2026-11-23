@@ -3,9 +3,9 @@ title: "Section 7143a - Amounts obligated but unspent; prohibition on use of fun
 usc_title: 16
 usc_section: "7143a"
 chapter: 90
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "16 U.S.C. § 7143a"
-generated_at: "2026-11-23T20:47:17.003Z"
+generated_at: "2026-11-23T20:50:10.180Z"
 status: "active"
 ---
 

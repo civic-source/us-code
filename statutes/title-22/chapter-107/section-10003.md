@@ -3,9 +3,9 @@ title: "Section 10003 - Support for democratic governance, rule of law, human ri
 usc_title: 22
 usc_section: "10003"
 chapter: 107
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "22 U.S.C. § 10003"
-generated_at: "2026-11-23T20:47:29.935Z"
+generated_at: "2026-11-23T20:50:20.973Z"
 status: "active"
 ---
 

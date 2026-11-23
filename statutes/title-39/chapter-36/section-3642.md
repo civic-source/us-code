@@ -3,9 +3,9 @@ title: "Section 3642 - New products and transfers of products between the market
 usc_title: 39
 usc_section: "3642"
 chapter: 36
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "39 U.S.C. § 3642"
-generated_at: "2026-11-23T20:47:54.017Z"
+generated_at: "2026-11-23T20:50:44.573Z"
 status: "active"
 ---
 

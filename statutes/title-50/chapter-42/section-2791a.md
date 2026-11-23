@@ -3,9 +3,9 @@ title: "Section 2791a - Repealed. Pub. L. 119–60, div. C, title XXXI, § 3111(
 usc_title: 50
 usc_section: "2791a"
 chapter: 42
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "50 U.S.C. § 2791a"
-generated_at: "2026-11-23T20:48:25.105Z"
+generated_at: "2026-11-23T20:51:21.694Z"
 status: "repealed"
 ---
 

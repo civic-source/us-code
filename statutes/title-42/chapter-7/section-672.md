@@ -3,9 +3,9 @@ title: "Section 672 - Foster care maintenance payments program"
 usc_title: 42
 usc_section: "672"
 chapter: 7
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "42 U.S.C. § 672"
-generated_at: "2026-11-23T20:48:16.220Z"
+generated_at: "2026-11-23T20:51:11.111Z"
 status: "active"
 ---
 

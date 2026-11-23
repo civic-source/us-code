@@ -3,9 +3,9 @@ title: "Section 8307 - Inspections, seizures, and warrants"
 usc_title: 7
 usc_section: "8307"
 chapter: 109
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "7 U.S.C. § 8307"
-generated_at: "2026-11-23T20:46:36.807Z"
+generated_at: "2026-11-23T20:49:33.130Z"
 status: "active"
 ---
 

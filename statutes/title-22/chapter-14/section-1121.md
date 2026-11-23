@@ -3,9 +3,9 @@ title: "Section 1121 - Repealed. Pub. L. 96–465, title II, § 2205(1) , (16), 
 usc_title: 22
 usc_section: "1121"
 chapter: 14
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "22 U.S.C. § 1121"
-generated_at: "2026-11-23T20:47:28.911Z"
+generated_at: "2026-11-23T20:50:20.229Z"
 status: "repealed"
 ---
 

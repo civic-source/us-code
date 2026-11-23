@@ -3,9 +3,9 @@ title: "Section 7422 - No regulatory authority"
 usc_title: 15
 usc_section: "7422"
 chapter: 100
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "15 U.S.C. § 7422"
-generated_at: "2026-11-23T20:46:59.784Z"
+generated_at: "2026-11-23T20:49:54.223Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 10e - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 St
 usc_title: 16
 usc_section: "10e"
 chapter: 1
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "16 U.S.C. § 10e"
-generated_at: "2026-11-23T20:47:15.804Z"
+generated_at: "2026-11-23T20:50:09.083Z"
 status: "repealed"
 ---
 

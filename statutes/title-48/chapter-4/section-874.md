@@ -3,9 +3,9 @@ title: "Section 874 - Judicial process; officials to be citizens of United State
 usc_title: 48
 usc_section: "874"
 chapter: 4
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "48 U.S.C. § 874"
-generated_at: "2026-11-23T20:48:23.120Z"
+generated_at: "2026-11-23T20:51:16.493Z"
 status: "active"
 ---
 

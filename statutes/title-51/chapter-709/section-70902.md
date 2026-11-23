@@ -3,9 +3,9 @@ title: "Section 70902 - Allocation of International Space Station research budge
 usc_title: 51
 usc_section: "70902"
 chapter: 709
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "51 U.S.C. § 70902"
-generated_at: "2026-11-23T20:48:31.208Z"
+generated_at: "2026-11-23T20:51:28.934Z"
 status: "active"
 ---
 

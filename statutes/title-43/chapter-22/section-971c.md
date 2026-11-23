@@ -3,9 +3,9 @@ title: "Section 971c - Utilization or occupancy of Alaskan easements; consent of
 usc_title: 43
 usc_section: "971c"
 chapter: 22
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "43 U.S.C. § 971c"
-generated_at: "2026-11-23T20:48:02.200Z"
+generated_at: "2026-11-23T20:50:54.521Z"
 status: "active"
 ---
 

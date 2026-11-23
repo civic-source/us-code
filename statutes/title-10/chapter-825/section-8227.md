@@ -3,9 +3,9 @@ title: "Section 8227 - Notifications on manning of afloat naval forces"
 usc_title: 10
 usc_section: "8227"
 chapter: 825
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "10 U.S.C. § 8227"
-generated_at: "2026-11-23T20:46:46.316Z"
+generated_at: "2026-11-23T20:49:42.490Z"
 status: "active"
 ---
 

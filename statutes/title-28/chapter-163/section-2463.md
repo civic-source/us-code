@@ -3,9 +3,9 @@ title: "Section 2463 - Property taken under revenue law not re­pleviable"
 usc_title: 28
 usc_section: "2463"
 chapter: 163
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "28 U.S.C. § 2463"
-generated_at: "2026-11-23T20:47:33.646Z"
+generated_at: "2026-11-23T20:50:24.407Z"
 status: "active"
 ---
 

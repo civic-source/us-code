@@ -3,9 +3,9 @@ title: "Section 26106 - High-speed rail corridor development"
 usc_title: 49
 usc_section: "26106"
 chapter: 261
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "49 U.S.C. § 26106"
-generated_at: "2026-11-23T20:48:28.338Z"
+generated_at: "2026-11-23T20:51:25.993Z"
 status: "active"
 ---
 

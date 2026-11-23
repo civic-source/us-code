@@ -3,9 +3,9 @@ title: "Section 2294 - Authorization for sale or lease of uranium and plutonium;
 usc_title: 42
 usc_section: "2294"
 chapter: 23
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "42 U.S.C. § 2294"
-generated_at: "2026-11-23T20:48:17.127Z"
+generated_at: "2026-11-23T20:51:12.325Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 804 - Coronavirus capital projects fund"
 usc_title: 42
 usc_section: "804"
 chapter: 7
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "42 U.S.C. § 804"
-generated_at: "2026-11-23T20:48:16.248Z"
+generated_at: "2026-11-23T20:51:11.154Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1521 - Office of Refugee Resettlement; establishment; appointmen
 usc_title: 8
 usc_section: "1521"
 chapter: 12
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "8 U.S.C. § 1521"
-generated_at: "2026-11-23T20:46:32.142Z"
+generated_at: "2026-11-23T20:49:28.702Z"
 status: "active"
 ---
 

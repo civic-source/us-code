@@ -3,9 +3,9 @@ title: "Section 1506 - Transferred"
 usc_title: 29
 usc_section: "1506"
 chapter: 19
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "29 U.S.C. § 1506"
-generated_at: "2026-11-23T20:47:35.188Z"
+generated_at: "2026-11-23T20:50:25.882Z"
 status: "transferred"
 ---
 

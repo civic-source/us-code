@@ -3,9 +3,9 @@ title: "Section 732 - Client assistance program"
 usc_title: 29
 usc_section: "732"
 chapter: 16
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "29 U.S.C. § 732"
-generated_at: "2026-11-23T20:47:34.997Z"
+generated_at: "2026-11-23T20:50:25.655Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 620a - Priority to planning reports of certain additional partic
 usc_title: 43
 usc_section: "620a"
 chapter: 12
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "43 U.S.C. § 620a"
-generated_at: "2026-11-23T20:48:02.178Z"
+generated_at: "2026-11-23T20:50:54.487Z"
 status: "active"
 ---
 

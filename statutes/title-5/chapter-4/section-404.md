@@ -3,9 +3,9 @@ title: "Section 404 - Duties and responsibilities"
 usc_title: 5
 usc_section: "404"
 chapter: 4
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "5 U.S.C. § 404"
-generated_at: "2026-11-23T20:46:27.053Z"
+generated_at: "2026-11-23T20:49:23.900Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 301 - Definitions"
 usc_title: 10
 usc_section: "301"
 chapter: 16
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "10 U.S.C. § 301"
-generated_at: "2026-11-23T20:46:44.982Z"
+generated_at: "2026-11-23T20:49:41.170Z"
 status: "active"
 ---
 

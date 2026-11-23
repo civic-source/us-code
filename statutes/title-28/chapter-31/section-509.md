@@ -3,9 +3,9 @@ title: "Section 509 - Functions of the Attorney General"
 usc_title: 28
 usc_section: "509"
 chapter: 31
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "28 U.S.C. § 509"
-generated_at: "2026-11-23T20:47:33.488Z"
+generated_at: "2026-11-23T20:50:24.238Z"
 status: "active"
 ---
 

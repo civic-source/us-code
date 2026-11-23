@@ -3,9 +3,9 @@ title: "Section 2326h - Five-year regional dredged material management plans"
 usc_title: 33
 usc_section: "2326h"
 chapter: 36
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "33 U.S.C. § 2326h"
-generated_at: "2026-11-23T20:47:52.337Z"
+generated_at: "2026-11-23T20:50:40.896Z"
 status: "active"
 ---
 

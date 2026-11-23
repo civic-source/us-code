@@ -3,9 +3,9 @@ title: "Section 40108 - Duty to maintain tax-exempt status"
 usc_title: 36
 usc_section: "40108"
 chapter: 401
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "36 U.S.C. § 40108"
-generated_at: "2026-11-23T20:47:56.320Z"
+generated_at: "2026-11-23T20:50:46.508Z"
 status: "active"
 ---
 

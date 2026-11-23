@@ -3,9 +3,9 @@ title: "Section 10114 - Coast Guard Reserve"
 usc_title: 10
 usc_section: "10114"
 chapter: 1003
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "10 U.S.C. § 10114"
-generated_at: "2026-11-23T20:46:46.589Z"
+generated_at: "2026-11-23T20:49:42.723Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 102 - Commercial component"
 usc_title: 41
 usc_section: "102"
 chapter: 1
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "41 U.S.C. § 102"
-generated_at: "2026-11-23T20:48:00.577Z"
+generated_at: "2026-11-23T20:50:52.231Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2802 - Indian law enforcement responsibilities"
 usc_title: 25
 usc_section: "2802"
 chapter: 30
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "25 U.S.C. § 2802"
-generated_at: "2026-11-23T20:47:24.088Z"
+generated_at: "2026-11-23T20:50:13.721Z"
 status: "active"
 ---
 

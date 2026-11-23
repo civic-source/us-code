@@ -3,9 +3,9 @@ title: "Section 997 - Special subchapter C rules"
 usc_title: 26
 usc_section: "997"
 chapter: 1
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "26 U.S.C. § 997"
-generated_at: "2026-11-23T20:47:43.870Z"
+generated_at: "2026-11-23T20:50:34.492Z"
 status: "active"
 ---
 

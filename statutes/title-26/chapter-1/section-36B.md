@@ -3,9 +3,9 @@ title: "Section 36B - Refundable credit for coverage under a qualified health pl
 usc_title: 26
 usc_section: "36B"
 chapter: 1
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "26 U.S.C. § 36B"
-generated_at: "2026-11-23T20:47:43.015Z"
+generated_at: "2026-11-23T20:50:33.692Z"
 status: "active"
 ---
 

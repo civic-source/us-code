@@ -3,9 +3,9 @@ title: "Section 182 - Cooperative Acquisitions Program Revolving Fund"
 usc_title: 2
 usc_section: "182"
 chapter: 5
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "2 U.S.C. § 182"
-generated_at: "2026-11-23T20:46:22.304Z"
+generated_at: "2026-11-23T20:49:21.414Z"
 status: "active"
 ---
 

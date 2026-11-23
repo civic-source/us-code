@@ -3,9 +3,9 @@ title: "Section 19017 - Research and dissemination to increase the participation
 usc_title: 42
 usc_section: "19017"
 chapter: 163
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "42 U.S.C. § 19017"
-generated_at: "2026-11-23T20:48:18.787Z"
+generated_at: "2026-11-23T20:51:14.064Z"
 status: "active"
 ---
 

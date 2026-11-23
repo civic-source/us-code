@@ -3,9 +3,9 @@ title: "Section 8663 - Number in service in time of peace"
 usc_title: 10
 usc_section: "8663"
 chapter: 863
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "10 U.S.C. § 8663"
-generated_at: "2026-11-23T20:46:46.417Z"
+generated_at: "2026-11-23T20:49:42.569Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1984 - Suits on insurance"
 usc_title: 38
 usc_section: "1984"
 chapter: 19
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "38 U.S.C. § 1984"
-generated_at: "2026-11-23T20:47:58.725Z"
+generated_at: "2026-11-23T20:50:49.481Z"
 status: "active"
 ---
 

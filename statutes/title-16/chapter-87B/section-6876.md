@@ -3,9 +3,9 @@ title: "Section 6876 - Effect"
 usc_title: 16
 usc_section: "6876"
 chapter: 87
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "16 U.S.C. § 6876"
-generated_at: "2026-11-23T20:47:16.990Z"
+generated_at: "2026-11-23T20:50:10.162Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5792 - Transferred"
 usc_title: 42
 usc_section: "5792"
 chapter: 72
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "42 U.S.C. § 5792"
-generated_at: "2026-11-23T20:48:17.531Z"
+generated_at: "2026-11-23T20:51:12.756Z"
 status: "transferred"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 392 - Personal services"
 usc_title: 6
 usc_section: "392"
 chapter: 1
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "6 U.S.C. § 392"
-generated_at: "2026-11-23T20:46:30.550Z"
+generated_at: "2026-11-23T20:49:27.416Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 321 - Definitions; generally"
 usc_title: 21
 usc_section: "321"
 chapter: 9
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "21 U.S.C. § 321"
-generated_at: "2026-11-23T20:47:21.893Z"
+generated_at: "2026-11-23T20:50:16.304Z"
 status: "active"
 ---
 

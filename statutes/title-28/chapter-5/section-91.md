@@ -3,9 +3,9 @@ title: "Section 91 - Hawaii"
 usc_title: 28
 usc_section: "91"
 chapter: 5
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "28 U.S.C. § 91"
-generated_at: "2026-11-23T20:47:33.400Z"
+generated_at: "2026-11-23T20:50:24.163Z"
 status: "active"
 ---
 

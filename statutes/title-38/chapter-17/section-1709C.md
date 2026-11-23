@@ -3,9 +3,9 @@ title: "Section 1709C - Assistance for child care for certain veterans receiving
 usc_title: 38
 usc_section: "1709C"
 chapter: 17
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "38 U.S.C. § 1709C"
-generated_at: "2026-11-23T20:47:58.648Z"
+generated_at: "2026-11-23T20:50:49.382Z"
 status: "active"
 ---
 

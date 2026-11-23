@@ -3,9 +3,9 @@ title: "Section 16301 - Education loan repayment program: members of Selected Re
 usc_title: 10
 usc_section: "16301"
 chapter: 1609
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "10 U.S.C. § 16301"
-generated_at: "2026-11-23T20:46:46.701Z"
+generated_at: "2026-11-23T20:49:42.832Z"
 status: "active"
 ---
 

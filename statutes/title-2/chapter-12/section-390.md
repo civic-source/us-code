@@ -3,9 +3,9 @@ title: "Section 390 - Penalty for failure to appear, testify, or produce documen
 usc_title: 2
 usc_section: "390"
 chapter: 12
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "2 U.S.C. § 390"
-generated_at: "2026-11-23T20:46:22.329Z"
+generated_at: "2026-11-23T20:49:21.442Z"
 status: "active"
 ---
 

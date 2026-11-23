@@ -3,9 +3,9 @@ title: "Section 9006 - United States Central Authority"
 usc_title: 22
 usc_section: "9006"
 chapter: 97
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "22 U.S.C. § 9006"
-generated_at: "2026-11-23T20:47:29.862Z"
+generated_at: "2026-11-23T20:50:20.932Z"
 status: "active"
 ---
 

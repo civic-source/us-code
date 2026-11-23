@@ -3,9 +3,9 @@ title: "Section 1815 - Inadmissible alien apprehension fee"
 usc_title: 8
 usc_section: "1815"
 chapter: 16
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "8 U.S.C. § 1815"
-generated_at: "2026-11-23T20:46:32.186Z"
+generated_at: "2026-11-23T20:49:28.734Z"
 status: "active"
 ---
 

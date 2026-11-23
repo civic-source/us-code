@@ -3,9 +3,9 @@ title: "Section 51507 - Places of training"
 usc_title: 46
 usc_section: "51507"
 chapter: 515
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "46 U.S.C. § 51507"
-generated_at: "2026-11-23T20:48:21.799Z"
+generated_at: "2026-11-23T20:51:19.444Z"
 status: "active"
 ---
 

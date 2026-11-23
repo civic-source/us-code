@@ -3,9 +3,9 @@ title: "Section 2298a - Databases of Corps recreational sites"
 usc_title: 33
 usc_section: "2298a"
 chapter: 36
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "33 U.S.C. § 2298a"
-generated_at: "2026-11-23T20:47:52.322Z"
+generated_at: "2026-11-23T20:50:40.885Z"
 status: "active"
 ---
 

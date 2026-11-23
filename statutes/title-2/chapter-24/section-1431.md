@@ -3,9 +3,9 @@ title: "Section 1431 - Exercise of rulemaking powers"
 usc_title: 2
 usc_section: "1431"
 chapter: 24
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "2 U.S.C. § 1431"
-generated_at: "2026-11-23T20:46:22.478Z"
+generated_at: "2026-11-23T20:49:21.539Z"
 status: "active"
 ---
 

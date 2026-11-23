@@ -3,9 +3,9 @@ title: "Section 1005 - Lease term and work commitment requirements"
 usc_title: 30
 usc_section: "1005"
 chapter: 23
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "30 U.S.C. § 1005"
-generated_at: "2026-11-23T20:47:32.283Z"
+generated_at: "2026-11-23T20:50:22.960Z"
 status: "active"
 ---
 

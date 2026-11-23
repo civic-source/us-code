@@ -3,9 +3,9 @@ title: "Section 7810 - Revolving fund for redemption of real property"
 usc_title: 26
 usc_section: "7810"
 chapter: 80
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "26 U.S.C. § 7810"
-generated_at: "2026-11-23T20:47:44.677Z"
+generated_at: "2026-11-23T20:50:35.313Z"
 status: "active"
 ---
 

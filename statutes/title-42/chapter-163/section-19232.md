@@ -3,9 +3,9 @@ title: "Section 19232 - Malign foreign talent recruitment program prohibition"
 usc_title: 42
 usc_section: "19232"
 chapter: 163
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "42 U.S.C. § 19232"
-generated_at: "2026-11-23T20:48:18.813Z"
+generated_at: "2026-11-23T20:51:14.095Z"
 status: "active"
 ---
 

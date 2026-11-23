@@ -3,9 +3,9 @@ title: "Section 2713 - Native American lands environmental mitigation program"
 usc_title: 10
 usc_section: "2713"
 chapter: 160
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "10 U.S.C. § 2713"
-generated_at: "2026-11-23T20:46:45.833Z"
+generated_at: "2026-11-23T20:49:41.998Z"
 status: "active"
 ---
 

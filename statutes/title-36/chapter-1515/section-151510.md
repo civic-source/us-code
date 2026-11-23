@@ -3,9 +3,9 @@ title: "Section 151510 - Service of process"
 usc_title: 36
 usc_section: "151510"
 chapter: 1515
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "36 U.S.C. § 151510"
-generated_at: "2026-11-23T20:47:56.440Z"
+generated_at: "2026-11-23T20:50:46.629Z"
 status: "active"
 ---
 

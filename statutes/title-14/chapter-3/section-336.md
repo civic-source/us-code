@@ -3,9 +3,9 @@ title: "Section 336 - Unmanned system program and autonomous control and compute
 usc_title: 14
 usc_section: "336"
 chapter: 3
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "14 U.S.C. § 336"
-generated_at: "2026-11-23T20:46:49.163Z"
+generated_at: "2026-11-23T20:49:45.771Z"
 status: "active"
 ---
 

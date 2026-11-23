@@ -3,9 +3,9 @@ title: "Section 282k - Securities issued by Corporation"
 usc_title: 22
 usc_section: "282k"
 chapter: 7
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "22 U.S.C. § 282k"
-generated_at: "2026-11-23T20:47:28.799Z"
+generated_at: "2026-11-23T20:50:20.131Z"
 status: "active"
 ---
 

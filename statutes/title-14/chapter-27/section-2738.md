@@ -3,9 +3,9 @@ title: "Section 2738 - Distinguished flying cross"
 usc_title: 14
 usc_section: "2738"
 chapter: 27
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "14 U.S.C. § 2738"
-generated_at: "2026-11-23T20:46:49.293Z"
+generated_at: "2026-11-23T20:49:45.872Z"
 status: "active"
 ---
 

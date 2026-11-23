@@ -3,9 +3,9 @@ title: "Section 1976 - Authorization of appropriations"
 usc_title: 33
 usc_section: "1976"
 chapter: 33
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "33 U.S.C. § 1976"
-generated_at: "2026-11-23T20:47:52.277Z"
+generated_at: "2026-11-23T20:50:40.857Z"
 status: "active"
 ---
 

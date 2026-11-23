@@ -3,9 +3,9 @@ title: "Section 3699C - High technology program"
 usc_title: 38
 usc_section: "3699C"
 chapter: 36
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "38 U.S.C. § 3699C"
-generated_at: "2026-11-23T20:47:58.857Z"
+generated_at: "2026-11-23T20:50:49.635Z"
 status: "active"
 ---
 

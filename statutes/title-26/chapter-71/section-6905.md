@@ -3,9 +3,9 @@ title: "Section 6905 - Discharge of executor from personal liability for deceden
 usc_title: 26
 usc_section: "6905"
 chapter: 71
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "26 U.S.C. § 6905"
-generated_at: "2026-11-23T20:47:44.567Z"
+generated_at: "2026-11-23T20:50:35.197Z"
 status: "active"
 ---
 

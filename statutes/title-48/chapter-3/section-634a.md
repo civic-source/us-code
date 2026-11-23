@@ -3,9 +3,9 @@ title: "Section 634a - Repealed. Pub. L. 86–3, § 14(e) , Mar. 18, 1959 , 73 S
 usc_title: 48
 usc_section: "634a"
 chapter: 3
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "48 U.S.C. § 634a"
-generated_at: "2026-11-23T20:48:23.115Z"
+generated_at: "2026-11-23T20:51:16.483Z"
 status: "repealed"
 ---
 

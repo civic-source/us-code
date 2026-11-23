@@ -3,9 +3,9 @@ title: "Section 42503 - Administration"
 usc_title: 46
 usc_section: "42503"
 chapter: 425
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "46 U.S.C. § 42503"
-generated_at: "2026-11-23T20:48:21.774Z"
+generated_at: "2026-11-23T20:51:19.398Z"
 status: "active"
 ---
 

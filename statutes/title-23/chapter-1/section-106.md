@@ -3,9 +3,9 @@ title: "Section 106 - Project approval and oversight"
 usc_title: 23
 usc_section: "106"
 chapter: 1
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "23 U.S.C. § 106"
-generated_at: "2026-11-23T20:47:19.835Z"
+generated_at: "2026-11-23T20:50:14.744Z"
 status: "active"
 ---
 

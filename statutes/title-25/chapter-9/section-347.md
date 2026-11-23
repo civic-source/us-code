@@ -3,9 +3,9 @@ title: "Section 347 - Limitations of actions for lands patented in severalty und
 usc_title: 25
 usc_section: "347"
 chapter: 9
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "25 U.S.C. § 347"
-generated_at: "2026-11-23T20:47:23.828Z"
+generated_at: "2026-11-23T20:50:13.514Z"
 status: "active"
 ---
 

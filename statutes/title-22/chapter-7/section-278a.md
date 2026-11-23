@@ -3,9 +3,9 @@ title: "Section 278a - Annual report to Congress; examination of books and accou
 usc_title: 22
 usc_section: "278a"
 chapter: 7
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "22 U.S.C. § 278a"
-generated_at: "2026-11-23T20:47:28.793Z"
+generated_at: "2026-11-23T20:50:20.127Z"
 status: "active"
 ---
 

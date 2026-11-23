@@ -3,9 +3,9 @@ title: "Section 2991c - Technical assistance and training"
 usc_title: 42
 usc_section: "2991c"
 chapter: 34
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "42 U.S.C. § 2991c"
-generated_at: "2026-11-23T20:48:17.167Z"
+generated_at: "2026-11-23T20:51:12.368Z"
 status: "active"
 ---
 

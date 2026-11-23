@@ -3,9 +3,9 @@ title: "Section 1395u - Provisions relating to the administration of part B"
 usc_title: 42
 usc_section: "1395u"
 chapter: 7
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "42 U.S.C. § 1395u"
-generated_at: "2026-11-23T20:48:16.439Z"
+generated_at: "2026-11-23T20:51:11.438Z"
 status: "active"
 ---
 

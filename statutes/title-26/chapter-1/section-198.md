@@ -3,9 +3,9 @@ title: "Section 198 - Expensing of environmental remediation costs"
 usc_title: 26
 usc_section: "198"
 chapter: 1
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "26 U.S.C. § 198"
-generated_at: "2026-11-23T20:47:43.350Z"
+generated_at: "2026-11-23T20:50:33.997Z"
 status: "active"
 ---
 

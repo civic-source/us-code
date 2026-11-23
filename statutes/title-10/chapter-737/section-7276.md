@@ -3,9 +3,9 @@ title: "Section 7276 - Silver star: award"
 usc_title: 10
 usc_section: "7276"
 chapter: 737
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "10 U.S.C. § 7276"
-generated_at: "2026-11-23T20:46:46.205Z"
+generated_at: "2026-11-23T20:49:42.378Z"
 status: "active"
 ---
 

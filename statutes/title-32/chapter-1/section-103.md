@@ -3,9 +3,9 @@ title: "Section 103 - Branches and organizations"
 usc_title: 32
 usc_section: "103"
 chapter: 1
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "32 U.S.C. § 103"
-generated_at: "2026-11-23T20:47:46.612Z"
+generated_at: "2026-11-23T20:50:37.324Z"
 status: "active"
 ---
 

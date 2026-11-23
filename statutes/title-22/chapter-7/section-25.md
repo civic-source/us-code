@@ -3,9 +3,9 @@ title: "Section 25 - Fifteenth replenishment"
 usc_title: 22
 usc_section: "25"
 chapter: 7
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "22 U.S.C. § 25"
-generated_at: "2026-11-23T20:47:28.874Z"
+generated_at: "2026-11-23T20:50:20.194Z"
 status: "active"
 ---
 

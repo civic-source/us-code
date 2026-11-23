@@ -3,9 +3,9 @@ title: "Section 192a - Cancellation or modification of contracts"
 usc_title: 30
 usc_section: "192a"
 chapter: 3
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "30 U.S.C. § 192a"
-generated_at: "2026-11-23T20:47:32.207Z"
+generated_at: "2026-11-23T20:50:22.893Z"
 status: "active"
 ---
 

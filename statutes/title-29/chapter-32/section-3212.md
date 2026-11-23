@@ -3,9 +3,9 @@ title: "Section 3212 - Authorization of appropriations"
 usc_title: 29
 usc_section: "3212"
 chapter: 32
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "29 U.S.C. § 3212"
-generated_at: "2026-11-23T20:47:35.268Z"
+generated_at: "2026-11-23T20:50:25.972Z"
 status: "active"
 ---
 

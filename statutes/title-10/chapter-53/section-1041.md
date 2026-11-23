@@ -3,9 +3,9 @@ title: "Section 1041 - Replacement of certificate of discharge"
 usc_title: 10
 usc_section: "1041"
 chapter: 53
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "10 U.S.C. § 1041"
-generated_at: "2026-11-23T20:46:45.299Z"
+generated_at: "2026-11-23T20:49:41.486Z"
 status: "active"
 ---
 

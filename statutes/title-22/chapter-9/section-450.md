@@ -3,9 +3,9 @@ title: "Section 450 - Restrictions on use of American ports"
 usc_title: 22
 usc_section: "450"
 chapter: 9
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "22 U.S.C. § 450"
-generated_at: "2026-11-23T20:47:28.895Z"
+generated_at: "2026-11-23T20:50:20.215Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 80106 - Distribution of assets on dissolution"
 usc_title: 36
 usc_section: "80106"
 chapter: 801
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "36 U.S.C. § 80106"
-generated_at: "2026-11-23T20:47:56.363Z"
+generated_at: "2026-11-23T20:50:46.548Z"
 status: "active"
 ---
 

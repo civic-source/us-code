@@ -3,9 +3,9 @@ title: "Section 1421d - Unusual mortality event activity funding"
 usc_title: 16
 usc_section: "1421d"
 chapter: 31
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "16 U.S.C. § 1421d"
-generated_at: "2026-11-23T20:47:16.630Z"
+generated_at: "2026-11-23T20:50:09.760Z"
 status: "active"
 ---
 

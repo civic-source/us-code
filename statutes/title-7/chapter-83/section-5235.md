@@ -3,9 +3,9 @@ title: "Section 5235 - Authorization of additional appropriations"
 usc_title: 7
 usc_section: "5235"
 chapter: 83
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "7 U.S.C. § 5235"
-generated_at: "2026-11-23T20:46:36.574Z"
+generated_at: "2026-11-23T20:49:32.898Z"
 status: "active"
 ---
 

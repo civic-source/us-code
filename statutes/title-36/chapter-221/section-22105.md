@@ -3,9 +3,9 @@ title: "Section 22105 - Restrictions"
 usc_title: 36
 usc_section: "22105"
 chapter: 221
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "36 U.S.C. § 22105"
-generated_at: "2026-11-23T20:47:56.280Z"
+generated_at: "2026-11-23T20:50:46.457Z"
 status: "active"
 ---
 

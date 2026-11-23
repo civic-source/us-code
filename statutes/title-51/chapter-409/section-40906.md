@@ -3,9 +3,9 @@ title: "Section 40906 - Equal access to the Administration’s education program
 usc_title: 51
 usc_section: "40906"
 chapter: 409
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "51 U.S.C. § 40906"
-generated_at: "2026-11-23T20:48:31.147Z"
+generated_at: "2026-11-23T20:51:28.861Z"
 status: "active"
 ---
 

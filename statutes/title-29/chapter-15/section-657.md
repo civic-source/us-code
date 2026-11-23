@@ -3,9 +3,9 @@ title: "Section 657 - Inspections, investigations, and recordkeeping"
 usc_title: 29
 usc_section: "657"
 chapter: 15
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "29 U.S.C. § 657"
-generated_at: "2026-11-23T20:47:34.978Z"
+generated_at: "2026-11-23T20:50:25.629Z"
 status: "active"
 ---
 

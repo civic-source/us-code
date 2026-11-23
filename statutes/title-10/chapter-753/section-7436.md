@@ -3,9 +3,9 @@ title: "Section 7436 - Permanent professors; director of admissions"
 usc_title: 10
 usc_section: "7436"
 chapter: 753
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "10 U.S.C. § 7436"
-generated_at: "2026-11-23T20:46:46.227Z"
+generated_at: "2026-11-23T20:49:42.402Z"
 status: "active"
 ---
 

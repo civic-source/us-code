@@ -3,9 +3,9 @@ title: "Section 1470 - Authorization of appropriations"
 usc_title: 30
 usc_section: "1470"
 chapter: 26
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "30 U.S.C. § 1470"
-generated_at: "2026-11-23T20:47:32.336Z"
+generated_at: "2026-11-23T20:50:23.019Z"
 status: "active"
 ---
 

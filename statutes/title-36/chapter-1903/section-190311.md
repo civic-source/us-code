@@ -3,9 +3,9 @@ title: "Section 190311 - Service of process"
 usc_title: 36
 usc_section: "190311"
 chapter: 1903
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "36 U.S.C. § 190311"
-generated_at: "2026-11-23T20:47:56.506Z"
+generated_at: "2026-11-23T20:50:46.692Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1315 - Publication of announcements and indexes"
 usc_title: 17
 usc_section: "1315"
 chapter: 13
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "17 U.S.C. § 1315"
-generated_at: "2026-11-23T20:47:01.801Z"
+generated_at: "2026-11-23T20:49:56.291Z"
 status: "active"
 ---
 

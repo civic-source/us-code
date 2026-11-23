@@ -3,9 +3,9 @@ title: "Section 2689 - American Sections, International Joint Commission, United
 usc_title: 22
 usc_section: "2689"
 chapter: 38
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "22 U.S.C. § 2689"
-generated_at: "2026-11-23T20:47:29.242Z"
+generated_at: "2026-11-23T20:50:20.548Z"
 status: "active"
 ---
 

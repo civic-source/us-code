@@ -3,9 +3,9 @@ title: "Section 1 - Top water bank"
 usc_title: 43
 usc_section: "1"
 chapter: 12
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "43 U.S.C. § 1"
-generated_at: "2026-11-23T20:48:02.181Z"
+generated_at: "2026-11-23T20:50:54.490Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 414 - Right to copies of collective bargaining agreements"
 usc_title: 29
 usc_section: "414"
 chapter: 11
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "29 U.S.C. § 414"
-generated_at: "2026-11-23T20:47:34.960Z"
+generated_at: "2026-11-23T20:50:25.613Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7215 - Applicability of payment limitations"
 usc_title: 7
 usc_section: "7215"
 chapter: 100
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "7 U.S.C. § 7215"
-generated_at: "2026-11-23T20:46:36.696Z"
+generated_at: "2026-11-23T20:49:33.022Z"
 status: "active"
 ---
 

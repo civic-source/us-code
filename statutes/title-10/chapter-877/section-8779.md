@@ -3,9 +3,9 @@ title: "Section 8779 - Officers’ messes and quarters: limitations on employmen
 usc_title: 10
 usc_section: "8779"
 chapter: 877
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "10 U.S.C. § 8779"
-generated_at: "2026-11-23T20:46:46.457Z"
+generated_at: "2026-11-23T20:49:42.606Z"
 status: "active"
 ---
 

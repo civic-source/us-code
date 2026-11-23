@@ -3,9 +3,9 @@ title: "Section 810 - Disposition of charges arising from licenses"
 usc_title: 16
 usc_section: "810"
 chapter: 12
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "16 U.S.C. § 810"
-generated_at: "2026-11-23T20:47:16.357Z"
+generated_at: "2026-11-23T20:50:09.509Z"
 status: "active"
 ---
 

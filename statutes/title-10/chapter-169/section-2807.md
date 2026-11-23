@@ -3,9 +3,9 @@ title: "Section 2807 - Architectural and engineering services and construction d
 usc_title: 10
 usc_section: "2807"
 chapter: 169
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "10 U.S.C. § 2807"
-generated_at: "2026-11-23T20:46:45.856Z"
+generated_at: "2026-11-23T20:49:42.021Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1339d - Hay production on set-aside or diverted acreage; storage
 usc_title: 7
 usc_section: "1339d"
 chapter: 35
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "7 U.S.C. § 1339d"
-generated_at: "2026-11-23T20:46:36.033Z"
+generated_at: "2026-11-23T20:49:32.411Z"
 status: "active"
 ---
 

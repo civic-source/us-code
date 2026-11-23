@@ -3,9 +3,9 @@ title: "Section 520 - Repealed. Mar. 26, 1934, ch. 88, § 1 , 48 Stat. 467"
 usc_title: 48
 usc_section: "520"
 chapter: 3
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "48 U.S.C. § 520"
-generated_at: "2026-11-23T20:48:23.114Z"
+generated_at: "2026-11-23T20:51:16.483Z"
 status: "repealed"
 ---
 

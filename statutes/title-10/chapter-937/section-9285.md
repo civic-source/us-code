@@ -3,9 +3,9 @@ title: "Section 9285 - Medal of honor: presentation of Medal of Honor Flag"
 usc_title: 10
 usc_section: "9285"
 chapter: 937
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "10 U.S.C. § 9285"
-generated_at: "2026-11-23T20:46:46.524Z"
+generated_at: "2026-11-23T20:49:42.661Z"
 status: "active"
 ---
 

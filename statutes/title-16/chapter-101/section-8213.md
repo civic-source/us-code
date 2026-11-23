@@ -3,9 +3,9 @@ title: "Section 8213 - Prohibition against implementation of regulatory authorit
 usc_title: 16
 usc_section: "8213"
 chapter: 101
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "16 U.S.C. § 8213"
-generated_at: "2026-11-23T20:47:17.036Z"
+generated_at: "2026-11-23T20:50:10.209Z"
 status: "active"
 ---
 

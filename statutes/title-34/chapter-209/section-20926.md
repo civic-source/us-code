@@ -3,9 +3,9 @@ title: "Section 20926 - Period for implementation by jurisdictions"
 usc_title: 34
 usc_section: "20926"
 chapter: 209
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "34 U.S.C. § 20926"
-generated_at: "2026-11-23T20:47:48.217Z"
+generated_at: "2026-11-23T20:50:42.086Z"
 status: "active"
 ---
 

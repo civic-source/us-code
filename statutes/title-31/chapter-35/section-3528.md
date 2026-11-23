@@ -3,9 +3,9 @@ title: "Section 3528 - Responsibilities and relief from liability of certifying 
 usc_title: 31
 usc_section: "3528"
 chapter: 35
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "31 U.S.C. § 3528"
-generated_at: "2026-11-23T20:47:49.624Z"
+generated_at: "2026-11-23T20:50:38.970Z"
 status: "active"
 ---
 

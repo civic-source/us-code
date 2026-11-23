@@ -3,9 +3,9 @@ title: "Section 9115 - Adjacent coastal States"
 usc_title: 42
 usc_section: "9115"
 chapter: 99
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "42 U.S.C. § 9115"
-generated_at: "2026-11-23T20:48:18.046Z"
+generated_at: "2026-11-23T20:51:13.272Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2765 - Retroactive payment of pay and allowances delayed by admi
 usc_title: 14
 usc_section: "2765"
 chapter: 27
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "14 U.S.C. § 2765"
-generated_at: "2026-11-23T20:46:49.296Z"
+generated_at: "2026-11-23T20:49:45.875Z"
 status: "active"
 ---
 

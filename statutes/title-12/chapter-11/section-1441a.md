@@ -3,9 +3,9 @@ title: "Section 1441a - Repealed. Pub. L. 111–203, title III, § 364(b) , July
 usc_title: 12
 usc_section: "1441a"
 chapter: 11
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "12 U.S.C. § 1441a"
-generated_at: "2026-11-23T20:46:53.775Z"
+generated_at: "2026-11-23T20:49:48.806Z"
 status: "repealed"
 ---
 

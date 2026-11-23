@@ -3,9 +3,9 @@ title: "Section 7302 - Post-employment notification"
 usc_title: 5
 usc_section: "7302"
 chapter: 73
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "5 U.S.C. § 7302"
-generated_at: "2026-11-23T20:46:27.487Z"
+generated_at: "2026-11-23T20:49:24.309Z"
 status: "active"
 ---
 

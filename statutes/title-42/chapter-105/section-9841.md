@@ -3,9 +3,9 @@ title: "Section 9841 - Appeals, notice, hearing, and mediation; alternative agen
 usc_title: 42
 usc_section: "9841"
 chapter: 105
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "42 U.S.C. § 9841"
-generated_at: "2026-11-23T20:48:18.127Z"
+generated_at: "2026-11-23T20:51:13.354Z"
 status: "active"
 ---
 

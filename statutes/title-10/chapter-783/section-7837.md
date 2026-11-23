@@ -3,9 +3,9 @@ title: "Section 7837 - Settlement of accounts: remission or cancellation of inde
 usc_title: 10
 usc_section: "7837"
 chapter: 783
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "10 U.S.C. § 7837"
-generated_at: "2026-11-23T20:46:46.268Z"
+generated_at: "2026-11-23T20:49:42.449Z"
 status: "active"
 ---
 

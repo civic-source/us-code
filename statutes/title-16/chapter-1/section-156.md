@@ -3,9 +3,9 @@ title: "Section 156 - Establishment; boundaries"
 usc_title: 16
 usc_section: "156"
 chapter: 1
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "16 U.S.C. § 156"
-generated_at: "2026-11-23T20:47:15.309Z"
+generated_at: "2026-11-23T20:50:08.757Z"
 status: "active"
 ---
 

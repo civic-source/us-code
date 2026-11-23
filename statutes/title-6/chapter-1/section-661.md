@@ -3,9 +3,9 @@ title: "Section 661 - Cybersecurity strategy"
 usc_title: 6
 usc_section: "661"
 chapter: 1
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "6 U.S.C. § 661"
-generated_at: "2026-11-23T20:46:30.620Z"
+generated_at: "2026-11-23T20:49:27.494Z"
 status: "active"
 ---
 

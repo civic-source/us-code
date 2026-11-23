@@ -3,9 +3,9 @@ title: "Section 6381 - Definitions"
 usc_title: 5
 usc_section: "6381"
 chapter: 63
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "5 U.S.C. § 6381"
-generated_at: "2026-11-23T20:46:27.466Z"
+generated_at: "2026-11-23T20:49:24.284Z"
 status: "active"
 ---
 

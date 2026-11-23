@@ -3,9 +3,9 @@ title: "Section 635h - Exemption from prohibition of section 955 of title 18"
 usc_title: 12
 usc_section: "635h"
 chapter: 6
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "12 U.S.C. § 635h"
-generated_at: "2026-11-23T20:46:53.742Z"
+generated_at: "2026-11-23T20:49:48.786Z"
 status: "active"
 ---
 

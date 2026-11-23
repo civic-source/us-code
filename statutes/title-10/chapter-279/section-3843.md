@@ -3,9 +3,9 @@ title: "Section 3843 - [Reserved]"
 usc_title: 10
 usc_section: "3843"
 chapter: 279
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "10 U.S.C. § 3843"
-generated_at: "2026-11-23T20:46:45.996Z"
+generated_at: "2026-11-23T20:49:42.164Z"
 status: "reserved"
 ---
 

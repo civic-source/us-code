@@ -3,9 +3,9 @@ title: "Section 301 - Fee agreements for certain services at ports of entry"
 usc_title: 6
 usc_section: "301"
 chapter: 1
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "6 U.S.C. § 301"
-generated_at: "2026-11-23T20:46:30.508Z"
+generated_at: "2026-11-23T20:49:27.307Z"
 status: "active"
 ---
 

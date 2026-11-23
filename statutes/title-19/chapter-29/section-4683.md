@@ -3,9 +3,9 @@ title: "Section 4683 - Reports required"
 usc_title: 19
 usc_section: "4683"
 chapter: 29
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "19 U.S.C. § 4683"
-generated_at: "2026-11-23T20:47:06.685Z"
+generated_at: "2026-11-23T20:49:58.905Z"
 status: "active"
 ---
 

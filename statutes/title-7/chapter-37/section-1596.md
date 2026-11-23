@@ -3,9 +3,9 @@ title: "Section 1596 - Penalties"
 usc_title: 7
 usc_section: "1596"
 chapter: 37
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "7 U.S.C. § 1596"
-generated_at: "2026-11-23T20:46:36.132Z"
+generated_at: "2026-11-23T20:49:32.514Z"
 status: "active"
 ---
 

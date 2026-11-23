@@ -3,9 +3,9 @@ title: "Section 80 - Transferred"
 usc_title: 2
 usc_section: "80"
 chapter: 4
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "2 U.S.C. § 80"
-generated_at: "2026-11-23T20:46:22.275Z"
+generated_at: "2026-11-23T20:49:21.386Z"
 status: "transferred"
 ---
 

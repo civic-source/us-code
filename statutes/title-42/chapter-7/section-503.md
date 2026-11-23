@@ -3,9 +3,9 @@ title: "Section 503 - State laws"
 usc_title: 42
 usc_section: "503"
 chapter: 7
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "42 U.S.C. § 503"
-generated_at: "2026-11-23T20:48:16.127Z"
+generated_at: "2026-11-23T20:51:10.987Z"
 status: "active"
 ---
 

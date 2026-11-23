@@ -3,9 +3,9 @@ title: "Section 6277 - Conceptual and construction design"
 usc_title: 10
 usc_section: "6277"
 chapter: 607
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "10 U.S.C. § 6277"
-generated_at: "2026-11-23T20:46:46.157Z"
+generated_at: "2026-11-23T20:49:42.334Z"
 status: "active"
 ---
 

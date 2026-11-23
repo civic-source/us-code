@@ -3,9 +3,9 @@ title: "Section 1341 - Legislative findings"
 usc_title: 7
 usc_section: "1341"
 chapter: 35
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "7 U.S.C. § 1341"
-generated_at: "2026-11-23T20:46:36.033Z"
+generated_at: "2026-11-23T20:49:32.412Z"
 status: "active"
 ---
 

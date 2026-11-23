@@ -3,9 +3,9 @@ title: "Section 4172 - Savings provisions"
 usc_title: 22
 usc_section: "4172"
 chapter: 52
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "22 U.S.C. § 4172"
-generated_at: "2026-11-23T20:47:29.484Z"
+generated_at: "2026-11-23T20:50:20.735Z"
 status: "active"
 ---
 

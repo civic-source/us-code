@@ -3,9 +3,9 @@ title: "Section 945 - Continuing jurisdiction and closing of the case"
 usc_title: 11
 usc_section: "945"
 chapter: 9
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "11 U.S.C. § 945"
-generated_at: "2026-11-23T20:46:50.057Z"
+generated_at: "2026-11-23T20:49:45.074Z"
 status: "active"
 ---
 

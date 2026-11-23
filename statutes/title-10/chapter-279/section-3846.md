@@ -3,9 +3,9 @@ title: "Section 3846 - [Reserved]"
 usc_title: 10
 usc_section: "3846"
 chapter: 279
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "10 U.S.C. § 3846"
-generated_at: "2026-11-23T20:46:45.997Z"
+generated_at: "2026-11-23T20:49:42.165Z"
 status: "reserved"
 ---
 

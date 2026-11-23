@@ -3,9 +3,9 @@ title: "Section 606 - Repealed. Aug. 24, 1935, ch. 641, § 34 , 49 Stat. 775"
 usc_title: 7
 usc_section: "606"
 chapter: 26
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "7 U.S.C. § 606"
-generated_at: "2026-11-23T20:46:35.960Z"
+generated_at: "2026-11-23T20:49:32.334Z"
 status: "repealed"
 ---
 

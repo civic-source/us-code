@@ -3,9 +3,9 @@ title: "Section 2415 - Time for commencing actions brought by the United States"
 usc_title: 28
 usc_section: "2415"
 chapter: 161
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "28 U.S.C. § 2415"
-generated_at: "2026-11-23T20:47:33.642Z"
+generated_at: "2026-11-23T20:50:24.403Z"
 status: "active"
 ---
 

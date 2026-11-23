@@ -3,9 +3,9 @@ title: "Section 18934 - Biometrics research and testing"
 usc_title: 42
 usc_section: "18934"
 chapter: 163
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "42 U.S.C. § 18934"
-generated_at: "2026-11-23T20:48:18.777Z"
+generated_at: "2026-11-23T20:51:14.053Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 797m - Arbitration"
 usc_title: 45
 usc_section: "797m"
 chapter: 16
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "45 U.S.C. § 797m"
-generated_at: "2026-11-23T20:48:01.381Z"
+generated_at: "2026-11-23T20:50:52.892Z"
 status: "active"
 ---
 

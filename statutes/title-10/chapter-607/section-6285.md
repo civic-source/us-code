@@ -3,9 +3,9 @@ title: "Section 6285 - Life-cycle cost estimates of certain atomic energy defens
 usc_title: 10
 usc_section: "6285"
 chapter: 607
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "10 U.S.C. § 6285"
-generated_at: "2026-11-23T20:46:46.159Z"
+generated_at: "2026-11-23T20:49:42.336Z"
 status: "active"
 ---
 

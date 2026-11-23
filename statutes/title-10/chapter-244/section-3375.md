@@ -3,9 +3,9 @@ title: "Section 3375 - Undefinitized contractual actions: time limit"
 usc_title: 10
 usc_section: "3375"
 chapter: 244
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "10 U.S.C. § 3375"
-generated_at: "2026-11-23T20:46:45.955Z"
+generated_at: "2026-11-23T20:49:42.119Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 280n - National Parkinson’s Project"
 usc_title: 42
 usc_section: "280n"
 chapter: 6
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "42 U.S.C. § 280n"
-generated_at: "2026-11-23T20:48:15.642Z"
+generated_at: "2026-11-23T20:51:10.340Z"
 status: "active"
 ---
 

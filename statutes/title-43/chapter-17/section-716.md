@@ -3,9 +3,9 @@ title: "Section 716 - Repealed. Aug. 24, 1954, ch. 904, § 2 , 68 Stat. 792"
 usc_title: 43
 usc_section: "716"
 chapter: 17
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "43 U.S.C. § 716"
-generated_at: "2026-11-23T20:48:02.185Z"
+generated_at: "2026-11-23T20:50:54.496Z"
 status: "repealed"
 ---
 

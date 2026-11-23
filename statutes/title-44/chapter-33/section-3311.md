@@ -3,9 +3,9 @@ title: "Section 3311 - Destruction of records outside continental United States 
 usc_title: 44
 usc_section: "3311"
 chapter: 33
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "44 U.S.C. § 3311"
-generated_at: "2026-11-23T20:48:01.076Z"
+generated_at: "2026-11-23T20:50:53.474Z"
 status: "active"
 ---
 

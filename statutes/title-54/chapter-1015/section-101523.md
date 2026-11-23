@@ -3,9 +3,9 @@ title: "Section 101523 - Procedures applicable to transportation plans and proje
 usc_title: 54
 usc_section: "101523"
 chapter: 1015
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "54 U.S.C. § 101523"
-generated_at: "2026-11-23T20:48:30.670Z"
+generated_at: "2026-11-23T20:51:29.468Z"
 status: "active"
 ---
 

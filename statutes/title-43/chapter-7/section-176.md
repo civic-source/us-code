@@ -3,9 +3,9 @@ title: "Section 176 - Repealed. Pub. L. 94–579, title VII, § 705(a) , Oct. 21
 usc_title: 43
 usc_section: "176"
 chapter: 7
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "43 U.S.C. § 176"
-generated_at: "2026-11-23T20:48:02.115Z"
+generated_at: "2026-11-23T20:50:54.366Z"
 status: "repealed"
 ---
 

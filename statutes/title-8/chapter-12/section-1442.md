@@ -3,9 +3,9 @@ title: "Section 1442 - Alien enemies"
 usc_title: 8
 usc_section: "1442"
 chapter: 12
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "8 U.S.C. § 1442"
-generated_at: "2026-11-23T20:46:32.134Z"
+generated_at: "2026-11-23T20:49:28.697Z"
 status: "active"
 ---
 

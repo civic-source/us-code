@@ -3,9 +3,9 @@ title: "Section 7304 - Citizenship or noncitizen nationality notation on merchan
 usc_title: 46
 usc_section: "7304"
 chapter: 73
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "46 U.S.C. § 7304"
-generated_at: "2026-11-23T20:48:21.682Z"
+generated_at: "2026-11-23T20:51:19.224Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3403 - Issuance of orders"
 usc_title: 7
 usc_section: "3403"
 chapter: 65
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "7 U.S.C. § 3403"
-generated_at: "2026-11-23T20:46:36.510Z"
+generated_at: "2026-11-23T20:49:32.851Z"
 status: "active"
 ---
 

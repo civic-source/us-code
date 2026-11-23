@@ -3,9 +3,9 @@ title: "Section 19e - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 St
 usc_title: 16
 usc_section: "19e"
 chapter: 1
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "16 U.S.C. § 19e"
-generated_at: "2026-11-23T20:47:15.267Z"
+generated_at: "2026-11-23T20:50:08.709Z"
 status: "repealed"
 ---
 

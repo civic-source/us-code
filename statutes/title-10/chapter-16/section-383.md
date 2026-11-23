@@ -3,9 +3,9 @@ title: "Section 383 - Assessment, monitoring, and evaluation of programs and act
 usc_title: 10
 usc_section: "383"
 chapter: 16
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "10 U.S.C. § 383"
-generated_at: "2026-11-23T20:46:45.012Z"
+generated_at: "2026-11-23T20:49:41.193Z"
 status: "active"
 ---
 

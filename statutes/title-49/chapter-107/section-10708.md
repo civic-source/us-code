@@ -3,9 +3,9 @@ title: "Section 10708 - Rail cost adjustment factor"
 usc_title: 49
 usc_section: "10708"
 chapter: 107
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "49 U.S.C. § 10708"
-generated_at: "2026-11-23T20:48:28.174Z"
+generated_at: "2026-11-23T20:51:25.831Z"
 status: "active"
 ---
 

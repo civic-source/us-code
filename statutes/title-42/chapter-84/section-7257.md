@@ -3,9 +3,9 @@ title: "Section 7257 - Acquisition, construction, etc., of laboratories, researc
 usc_title: 42
 usc_section: "7257"
 chapter: 84
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "42 U.S.C. § 7257"
-generated_at: "2026-11-23T20:48:17.757Z"
+generated_at: "2026-11-23T20:51:12.990Z"
 status: "active"
 ---
 

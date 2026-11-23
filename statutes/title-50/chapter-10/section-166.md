@@ -3,9 +3,9 @@ title: "Section 166 - Omitted"
 usc_title: 50
 usc_section: "166"
 chapter: 10
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "50 U.S.C. § 166"
-generated_at: "2026-11-23T20:48:24.959Z"
+generated_at: "2026-11-23T20:51:21.512Z"
 status: "omitted"
 ---
 

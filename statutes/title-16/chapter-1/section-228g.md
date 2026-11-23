@@ -3,9 +3,9 @@ title: "Section 228g - Aircraft or helicopter regulation within enlarged boundar
 usc_title: 16
 usc_section: "228g"
 chapter: 1
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "16 U.S.C. § 228g"
-generated_at: "2026-11-23T20:47:15.332Z"
+generated_at: "2026-11-23T20:50:08.778Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1805 - Repealed. Pub. L. 104–106, div. A, title X, § 1061(a)(
 usc_title: 10
 usc_section: "1805"
 chapter: 89
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "10 U.S.C. § 1805"
-generated_at: "2026-11-23T20:46:45.594Z"
+generated_at: "2026-11-23T20:49:41.780Z"
 status: "repealed"
 ---
 

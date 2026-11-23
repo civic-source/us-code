@@ -3,9 +3,9 @@ title: "Section 2316 - Discharge within three months before expiration of enlist
 usc_title: 14
 usc_section: "2316"
 chapter: 23
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "14 U.S.C. § 2316"
-generated_at: "2026-11-23T20:46:49.266Z"
+generated_at: "2026-11-23T20:49:45.856Z"
 status: "active"
 ---
 

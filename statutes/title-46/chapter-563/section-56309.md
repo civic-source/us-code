@@ -3,9 +3,9 @@ title: "Section 56309 - Emergency foreign vessel acquisition; purchase or requis
 usc_title: 46
 usc_section: "56309"
 chapter: 563
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "46 U.S.C. § 56309"
-generated_at: "2026-11-23T20:48:21.864Z"
+generated_at: "2026-11-23T20:51:19.555Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 21505 - Charges for medical services"
 usc_title: 36
 usc_section: "21505"
 chapter: 215
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "36 U.S.C. § 21505"
-generated_at: "2026-11-23T20:47:56.266Z"
+generated_at: "2026-11-23T20:50:46.451Z"
 status: "active"
 ---
 

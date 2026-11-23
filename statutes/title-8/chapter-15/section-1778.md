@@ -3,9 +3,9 @@ title: "Section 1778 - Vulnerability and threat assessment"
 usc_title: 8
 usc_section: "1778"
 chapter: 15
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "8 U.S.C. § 1778"
-generated_at: "2026-11-23T20:46:32.180Z"
+generated_at: "2026-11-23T20:49:28.730Z"
 status: "active"
 ---
 

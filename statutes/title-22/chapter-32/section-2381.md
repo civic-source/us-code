@@ -3,9 +3,9 @@ title: "Section 2381 - Exercise of functions"
 usc_title: 22
 usc_section: "2381"
 chapter: 32
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "22 U.S.C. § 2381"
-generated_at: "2026-11-23T20:47:29.124Z"
+generated_at: "2026-11-23T20:50:20.441Z"
 status: "active"
 ---
 

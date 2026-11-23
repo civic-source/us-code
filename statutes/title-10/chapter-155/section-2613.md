@@ -3,9 +3,9 @@ title: "Section 2613 - Acceptance of frequent traveler miles, credits, points, a
 usc_title: 10
 usc_section: "2613"
 chapter: 155
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "10 U.S.C. § 2613"
-generated_at: "2026-11-23T20:46:45.771Z"
+generated_at: "2026-11-23T20:49:41.938Z"
 status: "active"
 ---
 

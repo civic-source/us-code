@@ -3,9 +3,9 @@ title: "Section 51302a - Nomination in event of death, resignation, or expulsion
 usc_title: 46
 usc_section: "51302a"
 chapter: 513
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "46 U.S.C. § 51302a"
-generated_at: "2026-11-23T20:48:21.791Z"
+generated_at: "2026-11-23T20:51:19.427Z"
 status: "active"
 ---
 

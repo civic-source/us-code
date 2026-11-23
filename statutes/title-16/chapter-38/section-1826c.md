@@ -3,9 +3,9 @@ title: "Section 1826c - Definitions"
 usc_title: 16
 usc_section: "1826c"
 chapter: 38
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "16 U.S.C. § 1826c"
-generated_at: "2026-11-23T20:47:16.709Z"
+generated_at: "2026-11-23T20:50:09.836Z"
 status: "active"
 ---
 

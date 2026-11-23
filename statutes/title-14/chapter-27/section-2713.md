@@ -3,9 +3,9 @@ title: "Section 2713 - Employment assistance"
 usc_title: 14
 usc_section: "2713"
 chapter: 27
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "14 U.S.C. § 2713"
-generated_at: "2026-11-23T20:46:49.291Z"
+generated_at: "2026-11-23T20:49:45.870Z"
 status: "active"
 ---
 

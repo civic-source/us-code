@@ -3,9 +3,9 @@ title: "Section 1361 - Government property or contracts"
 usc_title: 18
 usc_section: "1361"
 chapter: 65
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "18 U.S.C. § 1361"
-generated_at: "2026-11-23T20:47:03.844Z"
+generated_at: "2026-11-23T20:50:00.740Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4903 - Education of other minors who are Senate employees"
 usc_title: 2
 usc_section: "4903"
 chapter: 49
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "2 U.S.C. § 4903"
-generated_at: "2026-11-23T20:46:22.613Z"
+generated_at: "2026-11-23T20:49:21.648Z"
 status: "active"
 ---
 

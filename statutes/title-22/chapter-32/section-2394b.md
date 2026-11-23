@@ -3,9 +3,9 @@ title: "Section 2394b - HELP Commission"
 usc_title: 22
 usc_section: "2394b"
 chapter: 32
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "22 U.S.C. § 2394b"
-generated_at: "2026-11-23T20:47:29.132Z"
+generated_at: "2026-11-23T20:50:20.450Z"
 status: "active"
 ---
 

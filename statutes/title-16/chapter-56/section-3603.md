@@ -3,9 +3,9 @@ title: "Section 3603 - Receipt of Organization communications by Secretary of St
 usc_title: 16
 usc_section: "3603"
 chapter: 56
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "16 U.S.C. § 3603"
-generated_at: "2026-11-23T20:47:16.821Z"
+generated_at: "2026-11-23T20:50:09.972Z"
 status: "active"
 ---
 

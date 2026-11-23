@@ -3,9 +3,9 @@ title: "Section 2107 - Financial, technical, and related assistance to States"
 usc_title: 16
 usc_section: "2107"
 chapter: 41
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "16 U.S.C. § 2107"
-generated_at: "2026-11-23T20:47:16.757Z"
+generated_at: "2026-11-23T20:50:09.886Z"
 status: "active"
 ---
 

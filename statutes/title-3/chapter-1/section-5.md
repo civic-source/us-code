@@ -3,9 +3,9 @@ title: "Section 5 - Certificate of ascertainment of appointment of electors"
 usc_title: 3
 usc_section: "5"
 chapter: 1
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "3 U.S.C. § 5"
-generated_at: "2026-11-23T20:46:20.211Z"
+generated_at: "2026-11-23T20:49:20.083Z"
 status: "active"
 ---
 

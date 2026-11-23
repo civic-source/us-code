@@ -3,9 +3,9 @@ title: "Section 7505 - Sale of personal property acquired by the United States"
 usc_title: 26
 usc_section: "7505"
 chapter: 77
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "26 U.S.C. § 7505"
-generated_at: "2026-11-23T20:47:44.618Z"
+generated_at: "2026-11-23T20:50:35.245Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 20304 - Powers"
 usc_title: 36
 usc_section: "20304"
 chapter: 203
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "36 U.S.C. § 20304"
-generated_at: "2026-11-23T20:47:56.248Z"
+generated_at: "2026-11-23T20:50:46.433Z"
 status: "active"
 ---
 

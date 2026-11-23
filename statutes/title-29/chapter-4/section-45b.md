@@ -3,9 +3,9 @@ title: "Section 45b - Omitted"
 usc_title: 29
 usc_section: "45b"
 chapter: 4
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "29 U.S.C. § 45b"
-generated_at: "2026-11-23T20:47:34.914Z"
+generated_at: "2026-11-23T20:50:25.567Z"
 status: "omitted"
 ---
 

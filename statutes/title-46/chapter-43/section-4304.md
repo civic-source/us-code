@@ -3,9 +3,9 @@ title: "Section 4304 - Importation of nonconforming vessels and equipment"
 usc_title: 46
 usc_section: "4304"
 chapter: 43
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "46 U.S.C. § 4304"
-generated_at: "2026-11-23T20:48:21.661Z"
+generated_at: "2026-11-23T20:51:19.200Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 285s - Purpose of Institute"
 usc_title: 42
 usc_section: "285s"
 chapter: 6
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "42 U.S.C. § 285s"
-generated_at: "2026-11-23T20:48:15.687Z"
+generated_at: "2026-11-23T20:51:10.405Z"
 status: "active"
 ---
 

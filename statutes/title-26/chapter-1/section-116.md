@@ -3,9 +3,9 @@ title: "Section 116 - Repealed. Pub. L. 99–514, title VI, § 612(a) , Oct. 22,
 usc_title: 26
 usc_section: "116"
 chapter: 1
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "26 U.S.C. § 116"
-generated_at: "2026-11-23T20:47:43.208Z"
+generated_at: "2026-11-23T20:50:33.856Z"
 status: "repealed"
 ---
 

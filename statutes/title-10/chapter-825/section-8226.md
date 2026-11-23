@@ -3,9 +3,9 @@ title: "Section 8226 - Fatality reviews"
 usc_title: 10
 usc_section: "8226"
 chapter: 825
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "10 U.S.C. § 8226"
-generated_at: "2026-11-23T20:46:46.316Z"
+generated_at: "2026-11-23T20:49:42.490Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 423h - Delivery of water to excess lands upon death of spouse"
 usc_title: 43
 usc_section: "423h"
 chapter: 12
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "43 U.S.C. § 423h"
-generated_at: "2026-11-23T20:48:02.145Z"
+generated_at: "2026-11-23T20:50:54.422Z"
 status: "active"
 ---
 

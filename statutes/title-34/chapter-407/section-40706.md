@@ -3,9 +3,9 @@ title: "Section 40706 - Privacy protection standards"
 usc_title: 34
 usc_section: "40706"
 chapter: 407
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "34 U.S.C. § 40706"
-generated_at: "2026-11-23T20:47:48.264Z"
+generated_at: "2026-11-23T20:50:42.137Z"
 status: "active"
 ---
 

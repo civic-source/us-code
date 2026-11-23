@@ -3,9 +3,9 @@ title: "Section 601 - Declaration of conditions"
 usc_title: 7
 usc_section: "601"
 chapter: 26
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "7 U.S.C. § 601"
-generated_at: "2026-11-23T20:46:35.959Z"
+generated_at: "2026-11-23T20:49:32.333Z"
 status: "active"
 ---
 

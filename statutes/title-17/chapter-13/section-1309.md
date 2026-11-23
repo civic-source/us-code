@@ -3,9 +3,9 @@ title: "Section 1309 - Infringement"
 usc_title: 17
 usc_section: "1309"
 chapter: 13
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "17 U.S.C. § 1309"
-generated_at: "2026-11-23T20:47:01.800Z"
+generated_at: "2026-11-23T20:49:56.290Z"
 status: "active"
 ---
 

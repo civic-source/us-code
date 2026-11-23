@@ -3,9 +3,9 @@ title: "Section 8295 - Distinguished flying cross"
 usc_title: 10
 usc_section: "8295"
 chapter: 837
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "10 U.S.C. § 8295"
-generated_at: "2026-11-23T20:46:46.327Z"
+generated_at: "2026-11-23T20:49:42.501Z"
 status: "active"
 ---
 

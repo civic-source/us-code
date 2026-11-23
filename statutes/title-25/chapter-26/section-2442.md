@@ -3,9 +3,9 @@ title: "Section 2442 - Illegal narcotics traffic on Tohono O’odham and St. Reg
 usc_title: 25
 usc_section: "2442"
 chapter: 26
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "25 U.S.C. § 2442"
-generated_at: "2026-11-23T20:47:24.066Z"
+generated_at: "2026-11-23T20:50:13.706Z"
 status: "active"
 ---
 

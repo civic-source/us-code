@@ -3,9 +3,9 @@ title: "Section 2a - International nonproliferation export control training"
 usc_title: 22
 usc_section: "2a"
 chapter: 32
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "22 U.S.C. § 2a"
-generated_at: "2026-11-23T20:47:29.103Z"
+generated_at: "2026-11-23T20:50:20.415Z"
 status: "active"
 ---
 

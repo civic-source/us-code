@@ -3,9 +3,9 @@ title: "Section 8909a - Postal Service Retiree Health Benefits Fund"
 usc_title: 5
 usc_section: "8909a"
 chapter: 89
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "5 U.S.C. § 8909a"
-generated_at: "2026-11-23T20:46:27.833Z"
+generated_at: "2026-11-23T20:49:24.526Z"
 status: "active"
 ---
 

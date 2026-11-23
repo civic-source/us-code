@@ -3,9 +3,9 @@ title: "Section 142d - Disbursing officer of the Library of Congress; disburseme
 usc_title: 2
 usc_section: "142d"
 chapter: 5
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "2 U.S.C. § 142d"
-generated_at: "2026-11-23T20:46:22.288Z"
+generated_at: "2026-11-23T20:49:21.399Z"
 status: "active"
 ---
 

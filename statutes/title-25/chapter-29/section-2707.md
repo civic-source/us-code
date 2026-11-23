@@ -3,9 +3,9 @@ title: "Section 2707 - Commission staffing"
 usc_title: 25
 usc_section: "2707"
 chapter: 29
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "25 U.S.C. § 2707"
-generated_at: "2026-11-23T20:47:24.083Z"
+generated_at: "2026-11-23T20:50:13.716Z"
 status: "active"
 ---
 

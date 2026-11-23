@@ -3,9 +3,9 @@ title: "Section 2102 - Establishment"
 usc_title: 44
 usc_section: "2102"
 chapter: 21
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "44 U.S.C. § 2102"
-generated_at: "2026-11-23T20:48:01.055Z"
+generated_at: "2026-11-23T20:50:53.443Z"
 status: "active"
 ---
 

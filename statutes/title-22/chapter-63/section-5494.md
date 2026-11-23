@@ -3,9 +3,9 @@ title: "Section 5494 - Relation of provisions of this chapter to certain provisi
 usc_title: 22
 usc_section: "5494"
 chapter: 63
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "22 U.S.C. § 5494"
-generated_at: "2026-11-23T20:47:29.551Z"
+generated_at: "2026-11-23T20:50:20.768Z"
 status: "active"
 ---
 

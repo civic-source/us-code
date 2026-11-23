@@ -3,9 +3,9 @@ title: "Section 1973e - Repealed. Pub. L. 109–246, § 3(c) , July 27, 2006 , 1
 usc_title: 42
 usc_section: "1973e"
 chapter: 20
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "42 U.S.C. § 1973e"
-generated_at: "2026-11-23T20:48:16.999Z"
+generated_at: "2026-11-23T20:51:12.180Z"
 status: "repealed"
 ---
 

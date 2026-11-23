@@ -3,9 +3,9 @@ title: "Section 1511 - Commencement of case under section 301, 302, or 303"
 usc_title: 11
 usc_section: "1511"
 chapter: 15
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "11 U.S.C. § 1511"
-generated_at: "2026-11-23T20:46:50.106Z"
+generated_at: "2026-11-23T20:49:45.114Z"
 status: "active"
 ---
 

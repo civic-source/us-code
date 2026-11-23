@@ -3,9 +3,9 @@ title: "Section 9087 - Space Development Agency"
 usc_title: 10
 usc_section: "9087"
 chapter: 908
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "10 U.S.C. § 9087"
-generated_at: "2026-11-23T20:46:46.511Z"
+generated_at: "2026-11-23T20:49:42.649Z"
 status: "active"
 ---
 

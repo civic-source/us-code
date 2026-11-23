@@ -3,9 +3,9 @@ title: "Section 1464 - Refunds and credits with respect to withheld tax"
 usc_title: 26
 usc_section: "1464"
 chapter: 3
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "26 U.S.C. § 1464"
-generated_at: "2026-11-23T20:47:43.994Z"
+generated_at: "2026-11-23T20:50:34.616Z"
 status: "active"
 ---
 

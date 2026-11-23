@@ -3,9 +3,9 @@ title: "Section 1702 - Definitions"
 usc_title: 43
 usc_section: "1702"
 chapter: 35
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "43 U.S.C. § 1702"
-generated_at: "2026-11-23T20:48:02.265Z"
+generated_at: "2026-11-23T20:50:54.626Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 14503 - Assistance for proposed low- and middle-income housing p
 usc_title: 40
 usc_section: "14503"
 chapter: 145
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "40 U.S.C. § 14503"
-generated_at: "2026-11-23T20:47:54.762Z"
+generated_at: "2026-11-23T20:50:45.432Z"
 status: "active"
 ---
 

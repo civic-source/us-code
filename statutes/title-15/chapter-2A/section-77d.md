@@ -3,9 +3,9 @@ title: "Section 77d - Exempted transactions"
 usc_title: 15
 usc_section: "77d"
 chapter: 2
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "15 U.S.C. § 77d"
-generated_at: "2026-11-23T20:46:58.485Z"
+generated_at: "2026-11-23T20:49:53.213Z"
 status: "active"
 ---
 

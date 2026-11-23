@@ -3,9 +3,9 @@ title: "Section 5 - Definitions"
 usc_title: 12
 usc_section: "5"
 chapter: 13
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "12 U.S.C. § 5"
-generated_at: "2026-11-23T20:46:53.995Z"
+generated_at: "2026-11-23T20:49:48.979Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 278 - Repealed. Pub. L. 99–514, title VIII, § 803(b)(6) , Oct
 usc_title: 26
 usc_section: "278"
 chapter: 1
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "26 U.S.C. § 278"
-generated_at: "2026-11-23T20:47:43.401Z"
+generated_at: "2026-11-23T20:50:34.048Z"
 status: "repealed"
 ---
 

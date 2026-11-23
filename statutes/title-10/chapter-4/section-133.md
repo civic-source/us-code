@@ -3,9 +3,9 @@ title: "Section 133 - Repealed. Pub. L. 114–328, div. A, title IX, § 901(a)(1
 usc_title: 10
 usc_section: "133"
 chapter: 4
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "10 U.S.C. § 133"
-generated_at: "2026-11-23T20:46:44.909Z"
+generated_at: "2026-11-23T20:49:41.071Z"
 status: "repealed"
 ---
 

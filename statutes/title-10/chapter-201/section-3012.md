@@ -3,9 +3,9 @@ title: "Section 3012 - Competitive procedures"
 usc_title: 10
 usc_section: "3012"
 chapter: 201
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "10 U.S.C. § 3012"
-generated_at: "2026-11-23T20:46:45.926Z"
+generated_at: "2026-11-23T20:49:42.089Z"
 status: "active"
 ---
 

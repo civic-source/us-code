@@ -3,9 +3,9 @@ title: "Section 274 - Organ procurement and transplantation network"
 usc_title: 42
 usc_section: "274"
 chapter: 6
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "42 U.S.C. § 274"
-generated_at: "2026-11-23T20:48:15.598Z"
+generated_at: "2026-11-23T20:51:10.284Z"
 status: "active"
 ---
 

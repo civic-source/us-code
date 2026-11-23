@@ -3,9 +3,9 @@ title: "Section 20503 - National procedures for voter registration for elections
 usc_title: 52
 usc_section: "20503"
 chapter: 205
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "52 U.S.C. § 20503"
-generated_at: "2026-11-23T20:48:30.249Z"
+generated_at: "2026-11-23T20:51:28.283Z"
 status: "active"
 ---
 

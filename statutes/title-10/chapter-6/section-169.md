@@ -3,9 +3,9 @@ title: "Section 169 - Repealed. Pub. L. 116–92, div. A, title XVI, § 1601(a) 
 usc_title: 10
 usc_section: "169"
 chapter: 6
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "10 U.S.C. § 169"
-generated_at: "2026-11-23T20:46:44.937Z"
+generated_at: "2026-11-23T20:49:41.107Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8125 - Procurement of health-care items"
 usc_title: 38
 usc_section: "8125"
 chapter: 81
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "38 U.S.C. § 8125"
-generated_at: "2026-11-23T20:47:58.981Z"
+generated_at: "2026-11-23T20:50:49.846Z"
 status: "active"
 ---
 

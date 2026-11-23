@@ -3,9 +3,9 @@ title: "Section 7475 - Preconstruction requirements"
 usc_title: 42
 usc_section: "7475"
 chapter: 85
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "42 U.S.C. § 7475"
-generated_at: "2026-11-23T20:48:17.855Z"
+generated_at: "2026-11-23T20:51:13.072Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 14b - Disposition of funds received from public for goods and se
 usc_title: 25
 usc_section: "14b"
 chapter: 1
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "25 U.S.C. § 14b"
-generated_at: "2026-11-23T20:47:23.766Z"
+generated_at: "2026-11-23T20:50:13.484Z"
 status: "active"
 ---
 

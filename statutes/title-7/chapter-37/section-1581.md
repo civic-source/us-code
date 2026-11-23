@@ -3,9 +3,9 @@ title: "Section 1581 - Prohibitions relating to importations"
 usc_title: 7
 usc_section: "1581"
 chapter: 37
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "7 U.S.C. § 1581"
-generated_at: "2026-11-23T20:46:36.126Z"
+generated_at: "2026-11-23T20:49:32.512Z"
 status: "active"
 ---
 

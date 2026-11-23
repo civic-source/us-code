@@ -3,9 +3,9 @@ title: "Section 108 - Same; jurisdiction of United States over Federal areas una
 usc_title: 4
 usc_section: "108"
 chapter: 4
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "4 U.S.C. § 108"
-generated_at: "2026-11-23T20:46:20.416Z"
+generated_at: "2026-11-23T20:49:20.259Z"
 status: "active"
 ---
 

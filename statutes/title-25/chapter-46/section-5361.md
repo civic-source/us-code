@@ -3,9 +3,9 @@ title: "Section 5361 - Definitions"
 usc_title: 25
 usc_section: "5361"
 chapter: 46
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "25 U.S.C. § 5361"
-generated_at: "2026-11-23T20:47:24.208Z"
+generated_at: "2026-11-23T20:50:13.846Z"
 status: "active"
 ---
 

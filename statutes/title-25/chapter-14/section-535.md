@@ -3,9 +3,9 @@ title: "Section 535 - Repealed. Aug. 13, 1954, ch. 732, § 12 , 68 Stat. 721"
 usc_title: 25
 usc_section: "535"
 chapter: 14
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "25 U.S.C. § 535"
-generated_at: "2026-11-23T20:47:23.858Z"
+generated_at: "2026-11-23T20:50:13.552Z"
 status: "repealed"
 ---
 

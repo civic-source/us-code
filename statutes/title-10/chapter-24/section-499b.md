@@ -3,9 +3,9 @@ title: "Section 499b - Participation in United States Strategic Command strategi
 usc_title: 10
 usc_section: "499b"
 chapter: 24
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "10 U.S.C. § 499b"
-generated_at: "2026-11-23T20:46:45.058Z"
+generated_at: "2026-11-23T20:49:41.236Z"
 status: "active"
 ---
 

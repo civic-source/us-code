@@ -3,9 +3,9 @@ title: "Section 10681 - Repealed. Pub. L. 115–391, title V, § 502(c)(1) , Dec
 usc_title: 34
 usc_section: "10681"
 chapter: 101
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "34 U.S.C. § 10681"
-generated_at: "2026-11-23T20:47:48.077Z"
+generated_at: "2026-11-23T20:50:41.946Z"
 status: "repealed"
 ---
 

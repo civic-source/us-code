@@ -3,9 +3,9 @@ title: "Section 140506 - Restrictions"
 usc_title: 36
 usc_section: "140506"
 chapter: 1405
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "36 U.S.C. § 140506"
-generated_at: "2026-11-23T20:47:56.409Z"
+generated_at: "2026-11-23T20:50:46.585Z"
 status: "active"
 ---
 

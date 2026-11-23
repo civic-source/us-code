@@ -3,9 +3,9 @@ title: "Section 6471 - Coral reef conservation and restoration assistance"
 usc_title: 16
 usc_section: "6471"
 chapter: 83
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "16 U.S.C. § 6471"
-generated_at: "2026-11-23T20:47:16.954Z"
+generated_at: "2026-11-23T20:50:10.126Z"
 status: "active"
 ---
 

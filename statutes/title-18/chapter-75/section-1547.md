@@ -3,9 +3,9 @@ title: "Section 1547 - Alternative imprisonment maximum for certain offenses"
 usc_title: 18
 usc_section: "1547"
 chapter: 75
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "18 U.S.C. § 1547"
-generated_at: "2026-11-23T20:47:03.863Z"
+generated_at: "2026-11-23T20:50:00.758Z"
 status: "active"
 ---
 

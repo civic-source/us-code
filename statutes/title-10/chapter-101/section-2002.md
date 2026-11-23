@@ -3,9 +3,9 @@ title: "Section 2002 - Dependents of members of armed forces: language training"
 usc_title: 10
 usc_section: "2002"
 chapter: 101
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "10 U.S.C. § 2002"
-generated_at: "2026-11-23T20:46:45.594Z"
+generated_at: "2026-11-23T20:49:41.780Z"
 status: "active"
 ---
 

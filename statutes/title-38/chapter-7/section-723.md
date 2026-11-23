@@ -3,9 +3,9 @@ title: "Section 723 - Recoupment of relocation expenses paid on behalf of employ
 usc_title: 38
 usc_section: "723"
 chapter: 7
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "38 U.S.C. § 723"
-generated_at: "2026-11-23T20:47:58.608Z"
+generated_at: "2026-11-23T20:50:49.272Z"
 status: "active"
 ---
 

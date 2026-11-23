@@ -3,9 +3,9 @@ title: "Section 8585 - Computation of life annuity"
 usc_title: 10
 usc_section: "8585"
 chapter: 857
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "10 U.S.C. § 8585"
-generated_at: "2026-11-23T20:46:46.397Z"
+generated_at: "2026-11-23T20:49:42.555Z"
 status: "active"
 ---
 

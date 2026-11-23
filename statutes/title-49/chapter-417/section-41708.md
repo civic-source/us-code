@@ -3,9 +3,9 @@ title: "Section 41708 - Reports"
 usc_title: 49
 usc_section: "41708"
 chapter: 417
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "49 U.S.C. § 41708"
-generated_at: "2026-11-23T20:48:28.532Z"
+generated_at: "2026-11-23T20:51:26.222Z"
 status: "active"
 ---
 

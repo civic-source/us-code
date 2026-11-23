@@ -3,9 +3,9 @@ title: "Section 87h - Funding"
 usc_title: 7
 usc_section: "87h"
 chapter: 3
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "7 U.S.C. § 87h"
-generated_at: "2026-11-23T20:46:35.826Z"
+generated_at: "2026-11-23T20:49:32.195Z"
 status: "active"
 ---
 

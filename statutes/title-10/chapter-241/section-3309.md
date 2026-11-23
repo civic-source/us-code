@@ -3,9 +3,9 @@ title: "Section 3309 - Prohibition on release of contractor proposals"
 usc_title: 10
 usc_section: "3309"
 chapter: 241
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "10 U.S.C. § 3309"
-generated_at: "2026-11-23T20:46:45.952Z"
+generated_at: "2026-11-23T20:49:42.115Z"
 status: "active"
 ---
 

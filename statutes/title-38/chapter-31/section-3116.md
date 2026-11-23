@@ -3,9 +3,9 @@ title: "Section 3116 - Promotion of employment and training opportunities"
 usc_title: 38
 usc_section: "3116"
 chapter: 31
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "38 U.S.C. § 3116"
-generated_at: "2026-11-23T20:47:58.791Z"
+generated_at: "2026-11-23T20:50:49.552Z"
 status: "active"
 ---
 

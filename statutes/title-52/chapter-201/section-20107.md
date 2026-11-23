@@ -3,9 +3,9 @@ title: "Section 20107 - Definitions"
 usc_title: 52
 usc_section: "20107"
 chapter: 201
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "52 U.S.C. § 20107"
-generated_at: "2026-11-23T20:48:30.234Z"
+generated_at: "2026-11-23T20:51:28.272Z"
 status: "active"
 ---
 

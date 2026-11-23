@@ -3,9 +3,9 @@ title: "Section 2223 - Plan elements"
 usc_title: 43
 usc_section: "2223"
 chapter: 40
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "43 U.S.C. § 2223"
-generated_at: "2026-11-23T20:48:02.291Z"
+generated_at: "2026-11-23T20:50:54.665Z"
 status: "active"
 ---
 

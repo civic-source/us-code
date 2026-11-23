@@ -3,9 +3,9 @@ title: "Section 3602 - Director of the Agency and Director of Compliance"
 usc_title: 50
 usc_section: "3602"
 chapter: 47
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "50 U.S.C. § 3602"
-generated_at: "2026-11-23T20:48:25.254Z"
+generated_at: "2026-11-23T20:51:21.858Z"
 status: "active"
 ---
 

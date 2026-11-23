@@ -3,9 +3,9 @@ title: "Section 20212 - Composition of selection boards"
 usc_title: 10
 usc_section: "20212"
 chapter: 2005
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "10 U.S.C. § 20212"
-generated_at: "2026-11-23T20:46:46.719Z"
+generated_at: "2026-11-23T20:49:42.845Z"
 status: "active"
 ---
 

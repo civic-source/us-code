@@ -3,9 +3,9 @@ title: "Section 602 - Repealed. Pub. L. 102–533, § 7(c) , Oct. 27, 1992 , 106
 usc_title: 45
 usc_section: "602"
 chapter: 14
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "45 U.S.C. § 602"
-generated_at: "2026-11-23T20:48:01.357Z"
+generated_at: "2026-11-23T20:50:52.863Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7675 - Breach of agreement: liability"
 usc_title: 38
 usc_section: "7675"
 chapter: 76
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "38 U.S.C. § 7675"
-generated_at: "2026-11-23T20:47:58.968Z"
+generated_at: "2026-11-23T20:50:49.820Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 59a - Back Cove, Portland, Maine"
 usc_title: 33
 usc_section: "59a"
 chapter: 1
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "33 U.S.C. § 59a"
-generated_at: "2026-11-23T20:47:51.911Z"
+generated_at: "2026-11-23T20:50:40.561Z"
 status: "active"
 ---
 

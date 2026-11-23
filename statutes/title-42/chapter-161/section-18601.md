@@ -3,9 +3,9 @@ title: "Section 18601 - Definitions"
 usc_title: 42
 usc_section: "18601"
 chapter: 161
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "42 U.S.C. § 18601"
-generated_at: "2026-11-23T20:48:18.733Z"
+generated_at: "2026-11-23T20:51:14.007Z"
 status: "active"
 ---
 

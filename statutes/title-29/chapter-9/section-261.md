@@ -3,9 +3,9 @@ title: "Section 261 - Applicability of “area of production” regulations"
 usc_title: 29
 usc_section: "261"
 chapter: 9
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "29 U.S.C. § 261"
-generated_at: "2026-11-23T20:47:34.959Z"
+generated_at: "2026-11-23T20:50:25.611Z"
 status: "active"
 ---
 

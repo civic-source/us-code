@@ -3,9 +3,9 @@ title: "Section 2410d - Renumbered § 3903]"
 usc_title: 10
 usc_section: "2410d"
 chapter: 141
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "10 U.S.C. § 2410d"
-generated_at: "2026-11-23T20:46:45.726Z"
+generated_at: "2026-11-23T20:49:41.882Z"
 status: "renumbered"
 ---
 

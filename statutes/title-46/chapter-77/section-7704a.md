@@ -3,9 +3,9 @@ title: "Section 7704a - Sexual harassment or sexual assault as grounds for suspe
 usc_title: 46
 usc_section: "7704a"
 chapter: 77
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "46 U.S.C. § 7704a"
-generated_at: "2026-11-23T20:48:21.688Z"
+generated_at: "2026-11-23T20:51:19.235Z"
 status: "active"
 ---
 

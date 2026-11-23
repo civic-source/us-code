@@ -3,9 +3,9 @@ title: "Section 824 - Repealed. Pub. L. 95–281, § 1(b)(2) , May 15, 1978 , 92
 usc_title: 25
 usc_section: "824"
 chapter: 14
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "25 U.S.C. § 824"
-generated_at: "2026-11-23T20:47:23.881Z"
+generated_at: "2026-11-23T20:50:13.564Z"
 status: "repealed"
 ---
 

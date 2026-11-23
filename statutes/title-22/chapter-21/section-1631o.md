@@ -3,9 +3,9 @@ title: "Section 1631o - Eligibility for return of interest in property"
 usc_title: 22
 usc_section: "1631o"
 chapter: 21
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "22 U.S.C. § 1631o"
-generated_at: "2026-11-23T20:47:28.943Z"
+generated_at: "2026-11-23T20:50:20.266Z"
 status: "active"
 ---
 

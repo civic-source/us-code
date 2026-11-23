@@ -3,9 +3,9 @@ title: "Section 1183 - Over-the-road bus exercises"
 usc_title: 6
 usc_section: "1183"
 chapter: 4
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "6 U.S.C. § 1183"
-generated_at: "2026-11-23T20:46:30.702Z"
+generated_at: "2026-11-23T20:49:27.567Z"
 status: "active"
 ---
 

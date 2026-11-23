@@ -3,9 +3,9 @@ title: "Section 2311 - Identification of foreign opioid traffickers"
 usc_title: 21
 usc_section: "2311"
 chapter: 28
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "21 U.S.C. § 2311"
-generated_at: "2026-11-23T20:47:22.344Z"
+generated_at: "2026-11-23T20:50:16.733Z"
 status: "active"
 ---
 

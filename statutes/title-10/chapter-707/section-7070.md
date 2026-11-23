@@ -3,9 +3,9 @@ title: "Section 7070 - Army Medical Specialist Corps: organization; Chief"
 usc_title: 10
 usc_section: "7070"
 chapter: 707
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "10 U.S.C. § 7070"
-generated_at: "2026-11-23T20:46:46.191Z"
+generated_at: "2026-11-23T20:49:42.363Z"
 status: "active"
 ---
 

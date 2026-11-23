@@ -3,9 +3,9 @@ title: "Section 16 - Comprehensive plans for development, utilization, and conse
 usc_title: 42
 usc_section: "16"
 chapter: 19
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "42 U.S.C. § 16"
-generated_at: "2026-11-23T20:48:16.995Z"
+generated_at: "2026-11-23T20:51:12.177Z"
 status: "active"
 ---
 

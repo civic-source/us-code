@@ -3,9 +3,9 @@ title: "Section 2086 - Definition"
 usc_title: 2
 usc_section: "2086"
 chapter: 30
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "2 U.S.C. § 2086"
-generated_at: "2026-11-23T20:46:22.556Z"
+generated_at: "2026-11-23T20:49:21.607Z"
 status: "active"
 ---
 

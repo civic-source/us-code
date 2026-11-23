@@ -3,9 +3,9 @@ title: "Section 3501 - Definitions; application"
 usc_title: 5
 usc_section: "3501"
 chapter: 35
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "5 U.S.C. § 3501"
-generated_at: "2026-11-23T20:46:27.251Z"
+generated_at: "2026-11-23T20:49:24.051Z"
 status: "active"
 ---
 

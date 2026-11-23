@@ -3,9 +3,9 @@ title: "Section 8795 - Termination"
 usc_title: 22
 usc_section: "8795"
 chapter: 94
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "22 U.S.C. § 8795"
-generated_at: "2026-11-23T20:47:29.846Z"
+generated_at: "2026-11-23T20:50:20.917Z"
 status: "active"
 ---
 

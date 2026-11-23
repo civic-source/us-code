@@ -3,9 +3,9 @@ title: "Section 5313 - Limitation on payment of compensation and dependency and 
 usc_title: 38
 usc_section: "5313"
 chapter: 53
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "38 U.S.C. § 5313"
-generated_at: "2026-11-23T20:47:58.907Z"
+generated_at: "2026-11-23T20:50:49.719Z"
 status: "active"
 ---
 

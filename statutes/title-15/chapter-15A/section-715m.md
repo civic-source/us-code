@@ -3,9 +3,9 @@ title: "Section 715m - Cooperation between Secretary of the Interior and Federal
 usc_title: 15
 usc_section: "715m"
 chapter: 15
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "15 U.S.C. § 715m"
-generated_at: "2026-11-23T20:46:58.941Z"
+generated_at: "2026-11-23T20:49:53.659Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 616 - Development expenditures"
 usc_title: 26
 usc_section: "616"
 chapter: 1
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "26 U.S.C. § 616"
-generated_at: "2026-11-23T20:47:43.694Z"
+generated_at: "2026-11-23T20:50:34.329Z"
 status: "active"
 ---
 

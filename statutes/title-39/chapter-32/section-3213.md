@@ -3,9 +3,9 @@ title: "Section 3213 - Seeds and reports from Department of Agriculture"
 usc_title: 39
 usc_section: "3213"
 chapter: 32
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "39 U.S.C. § 3213"
-generated_at: "2026-11-23T20:47:54.009Z"
+generated_at: "2026-11-23T20:50:44.565Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2613 - Enforcement"
 usc_title: 19
 usc_section: "2613"
 chapter: 14
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "19 U.S.C. § 2613"
-generated_at: "2026-11-23T20:47:06.508Z"
+generated_at: "2026-11-23T20:49:58.707Z"
 status: "active"
 ---
 

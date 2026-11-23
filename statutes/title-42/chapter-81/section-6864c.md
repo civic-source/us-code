@@ -3,9 +3,9 @@ title: "Section 6864c - Contractor optimization"
 usc_title: 42
 usc_section: "6864c"
 chapter: 81
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "42 U.S.C. § 6864c"
-generated_at: "2026-11-23T20:48:17.683Z"
+generated_at: "2026-11-23T20:51:12.911Z"
 status: "active"
 ---
 

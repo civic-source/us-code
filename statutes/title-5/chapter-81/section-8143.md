@@ -3,9 +3,9 @@ title: "Section 8143 - Job Corps enrollees; volunteers in service to America"
 usc_title: 5
 usc_section: "8143"
 chapter: 81
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "5 U.S.C. § 8143"
-generated_at: "2026-11-23T20:46:27.525Z"
+generated_at: "2026-11-23T20:49:24.352Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 493 - Reports to Congress on the modification of the force struc
 usc_title: 10
 usc_section: "493"
 chapter: 24
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "10 U.S.C. § 493"
-generated_at: "2026-11-23T20:46:45.050Z"
+generated_at: "2026-11-23T20:49:41.231Z"
 status: "active"
 ---
 

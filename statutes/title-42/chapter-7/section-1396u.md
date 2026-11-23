@@ -3,9 +3,9 @@ title: "Section 1396u - Community supported living arrangements services"
 usc_title: 42
 usc_section: "1396u"
 chapter: 7
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "42 U.S.C. § 1396u"
-generated_at: "2026-11-23T20:48:16.725Z"
+generated_at: "2026-11-23T20:51:11.863Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3332 - National leadership activities"
 usc_title: 29
 usc_section: "3332"
 chapter: 32
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "29 U.S.C. § 3332"
-generated_at: "2026-11-23T20:47:35.290Z"
+generated_at: "2026-11-23T20:50:25.995Z"
 status: "active"
 ---
 

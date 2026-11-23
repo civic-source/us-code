@@ -3,9 +3,9 @@ title: "Section 1035 - Sale of mineral interests; consideration; transfer of uns
 usc_title: 7
 usc_section: "1035"
 chapter: 33
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "7 U.S.C. § 1035"
-generated_at: "2026-11-23T20:46:36.008Z"
+generated_at: "2026-11-23T20:49:32.391Z"
 status: "active"
 ---
 

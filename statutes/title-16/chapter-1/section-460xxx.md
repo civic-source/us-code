@@ -3,9 +3,9 @@ title: "Section 460xxx - Beaver Dam Wash National Conservation Area"
 usc_title: 16
 usc_section: "460xxx"
 chapter: 1
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "16 U.S.C. § 460xxx"
-generated_at: "2026-11-23T20:47:15.939Z"
+generated_at: "2026-11-23T20:50:09.224Z"
 status: "active"
 ---
 

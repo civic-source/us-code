@@ -3,9 +3,9 @@ title: "Section 6156 - Acceleration of replacement of cesium blood irradiation s
 usc_title: 10
 usc_section: "6156"
 chapter: 603
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "10 U.S.C. § 6156"
-generated_at: "2026-11-23T20:46:46.141Z"
+generated_at: "2026-11-23T20:49:42.309Z"
 status: "active"
 ---
 

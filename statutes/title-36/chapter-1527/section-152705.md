@@ -3,9 +3,9 @@ title: "Section 152705 - Governing body"
 usc_title: 36
 usc_section: "152705"
 chapter: 1527
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "36 U.S.C. § 152705"
-generated_at: "2026-11-23T20:47:56.462Z"
+generated_at: "2026-11-23T20:50:46.649Z"
 status: "active"
 ---
 

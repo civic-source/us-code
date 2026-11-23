@@ -3,9 +3,9 @@ title: "Section 8504 - Assignment of Federal service and wages"
 usc_title: 5
 usc_section: "8504"
 chapter: 85
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "5 U.S.C. § 8504"
-generated_at: "2026-11-23T20:46:27.647Z"
+generated_at: "2026-11-23T20:49:24.482Z"
 status: "active"
 ---
 

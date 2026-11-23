@@ -3,9 +3,9 @@ title: "Section 509 - Penalty"
 usc_title: 36
 usc_section: "509"
 chapter: 5
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "36 U.S.C. § 509"
-generated_at: "2026-11-23T20:47:56.220Z"
+generated_at: "2026-11-23T20:50:46.406Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 22 - Benefits and beneficiary protections"
 usc_title: 42
 usc_section: "22"
 chapter: 7
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "42 U.S.C. § 22"
-generated_at: "2026-11-23T20:48:16.477Z"
+generated_at: "2026-11-23T20:51:11.495Z"
 status: "active"
 ---
 

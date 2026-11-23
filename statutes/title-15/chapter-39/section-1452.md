@@ -3,9 +3,9 @@ title: "Section 1452 - Unfair and deceptive packaging and labeling; scope of pro
 usc_title: 15
 usc_section: "1452"
 chapter: 39
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "15 U.S.C. § 1452"
-generated_at: "2026-11-23T20:46:59.040Z"
+generated_at: "2026-11-23T20:49:53.761Z"
 status: "active"
 ---
 

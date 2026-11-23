@@ -3,9 +3,9 @@ title: "Section 1989 - United States magistrate judges; appointment of persons t
 usc_title: 42
 usc_section: "1989"
 chapter: 21
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "42 U.S.C. § 1989"
-generated_at: "2026-11-23T20:48:17.006Z"
+generated_at: "2026-11-23T20:51:12.186Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 119 - Advanced Research Projects Agency–Infrastructure"
 usc_title: 49
 usc_section: "119"
 chapter: 1
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "49 U.S.C. § 119"
-generated_at: "2026-11-23T20:48:27.983Z"
+generated_at: "2026-11-23T20:51:25.621Z"
 status: "active"
 ---
 

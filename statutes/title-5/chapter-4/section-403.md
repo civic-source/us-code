@@ -3,9 +3,9 @@ title: "Section 403 - Appointments"
 usc_title: 5
 usc_section: "403"
 chapter: 4
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "5 U.S.C. § 403"
-generated_at: "2026-11-23T20:46:27.049Z"
+generated_at: "2026-11-23T20:49:23.900Z"
 status: "active"
 ---
 

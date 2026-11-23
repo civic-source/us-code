@@ -3,9 +3,9 @@ title: "Section 1971 - Definitions"
 usc_title: 12
 usc_section: "1971"
 chapter: 22
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "12 U.S.C. § 1971"
-generated_at: "2026-11-23T20:46:54.188Z"
+generated_at: "2026-11-23T20:49:49.116Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1977 - Termination of authority"
 usc_title: 33
 usc_section: "1977"
 chapter: 33
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "33 U.S.C. § 1977"
-generated_at: "2026-11-23T20:47:52.278Z"
+generated_at: "2026-11-23T20:50:40.857Z"
 status: "active"
 ---
 

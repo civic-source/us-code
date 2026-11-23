@@ -3,9 +3,9 @@ title: "Section 6504 - Committee on Rules and Administration; designation of emp
 usc_title: 2
 usc_section: "6504"
 chapter: 65
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "2 U.S.C. § 6504"
-generated_at: "2026-11-23T20:46:22.646Z"
+generated_at: "2026-11-23T20:49:21.680Z"
 status: "active"
 ---
 

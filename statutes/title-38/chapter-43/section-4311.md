@@ -3,9 +3,9 @@ title: "Section 4311 - Discrimination against persons who serve in the uniformed
 usc_title: 38
 usc_section: "4311"
 chapter: 43
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "38 U.S.C. § 4311"
-generated_at: "2026-11-23T20:47:58.891Z"
+generated_at: "2026-11-23T20:50:49.689Z"
 status: "active"
 ---
 

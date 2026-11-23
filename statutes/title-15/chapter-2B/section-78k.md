@@ -3,9 +3,9 @@ title: "Section 78k - Trading by members of exchanges, brokers, and dealers"
 usc_title: 15
 usc_section: "78k"
 chapter: 2
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "15 U.S.C. § 78k"
-generated_at: "2026-11-23T20:46:58.553Z"
+generated_at: "2026-11-23T20:49:53.271Z"
 status: "active"
 ---
 

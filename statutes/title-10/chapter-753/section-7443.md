@@ -3,9 +3,9 @@ title: "Section 7443 - Cadets: appointment; to bring Corps to full strength"
 usc_title: 10
 usc_section: "7443"
 chapter: 753
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "10 U.S.C. § 7443"
-generated_at: "2026-11-23T20:46:46.231Z"
+generated_at: "2026-11-23T20:49:42.406Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2009j - Annual report"
 usc_title: 7
 usc_section: "2009j"
 chapter: 50
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "7 U.S.C. § 2009j"
-generated_at: "2026-11-23T20:46:36.283Z"
+generated_at: "2026-11-23T20:49:32.644Z"
 status: "active"
 ---
 

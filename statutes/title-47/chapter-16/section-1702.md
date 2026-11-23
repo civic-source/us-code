@@ -3,9 +3,9 @@ title: "Section 1702 - Grants for broadband deployment"
 usc_title: 47
 usc_section: "1702"
 chapter: 16
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "47 U.S.C. § 1702"
-generated_at: "2026-11-23T20:48:22.666Z"
+generated_at: "2026-11-23T20:51:17.714Z"
 status: "active"
 ---
 

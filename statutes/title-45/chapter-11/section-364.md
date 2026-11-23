@@ -3,9 +3,9 @@ title: "Section 364 - District of Columbia account, transfer of funds to railroa
 usc_title: 45
 usc_section: "364"
 chapter: 11
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "45 U.S.C. § 364"
-generated_at: "2026-11-23T20:48:01.354Z"
+generated_at: "2026-11-23T20:50:52.860Z"
 status: "active"
 ---
 

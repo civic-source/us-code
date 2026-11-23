@@ -3,9 +3,9 @@ title: "Section 57511 - Demise charters"
 usc_title: 46
 usc_section: "57511"
 chapter: 575
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "46 U.S.C. § 57511"
-generated_at: "2026-11-23T20:48:21.882Z"
+generated_at: "2026-11-23T20:51:19.567Z"
 status: "active"
 ---
 

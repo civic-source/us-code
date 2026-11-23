@@ -3,9 +3,9 @@ title: "Section 719e - Presidential decision and report"
 usc_title: 15
 usc_section: "719e"
 chapter: 15
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "15 U.S.C. § 719e"
-generated_at: "2026-11-23T20:46:58.952Z"
+generated_at: "2026-11-23T20:49:53.669Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9081 - The United States Space Force"
 usc_title: 10
 usc_section: "9081"
 chapter: 908
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "10 U.S.C. § 9081"
-generated_at: "2026-11-23T20:46:46.499Z"
+generated_at: "2026-11-23T20:49:42.647Z"
 status: "active"
 ---
 

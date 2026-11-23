@@ -3,9 +3,9 @@ title: "Section 1747i - Repealed. Pub. L. 89–117, title XI, § 1108(aa) , Aug.
 usc_title: 12
 usc_section: "1747i"
 chapter: 13
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "12 U.S.C. § 1747i"
-generated_at: "2026-11-23T20:46:53.985Z"
+generated_at: "2026-11-23T20:49:48.972Z"
 status: "repealed"
 ---
 

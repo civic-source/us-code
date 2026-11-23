@@ -3,9 +3,9 @@ title: "Section 9526 - Sanctions with respect to the development of pipelines in
 usc_title: 22
 usc_section: "9526"
 chapter: 102
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "22 U.S.C. § 9526"
-generated_at: "2026-11-23T20:47:29.895Z"
+generated_at: "2026-11-23T20:50:20.953Z"
 status: "active"
 ---
 

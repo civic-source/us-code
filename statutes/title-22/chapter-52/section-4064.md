@@ -3,9 +3,9 @@ title: "Section 4064 - Reemployment"
 usc_title: 22
 usc_section: "4064"
 chapter: 52
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "22 U.S.C. § 4064"
-generated_at: "2026-11-23T20:47:29.453Z"
+generated_at: "2026-11-23T20:50:20.710Z"
 status: "active"
 ---
 

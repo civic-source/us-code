@@ -3,9 +3,9 @@ title: "Section 1 - Omitted"
 usc_title: 2
 usc_section: "1"
 chapter: 5
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "2 U.S.C. § 1"
-generated_at: "2026-11-23T20:46:22.285Z"
+generated_at: "2026-11-23T20:49:21.396Z"
 status: "omitted"
 ---
 

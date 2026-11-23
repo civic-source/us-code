@@ -3,9 +3,9 @@ title: "Section 7630 - Grants for youth organizations"
 usc_title: 7
 usc_section: "7630"
 chapter: 103
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "7 U.S.C. § 7630"
-generated_at: "2026-11-23T20:46:36.748Z"
+generated_at: "2026-11-23T20:49:33.070Z"
 status: "active"
 ---
 

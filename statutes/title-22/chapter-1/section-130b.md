@@ -3,9 +3,9 @@ title: "Section 130b - Repealed Aug. 13, 1946, ch. 957 , title XI, §§ 1131(16)
 usc_title: 22
 usc_section: "130b"
 chapter: 1
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "22 U.S.C. § 130b"
-generated_at: "2026-11-23T20:47:28.641Z"
+generated_at: "2026-11-23T20:50:20.069Z"
 status: "repealed"
 ---
 

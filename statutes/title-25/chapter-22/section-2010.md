@@ -3,9 +3,9 @@ title: "Section 2010 - Uniform direct funding and support"
 usc_title: 25
 usc_section: "2010"
 chapter: 22
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "25 U.S.C. § 2010"
-generated_at: "2026-11-23T20:47:24.037Z"
+generated_at: "2026-11-23T20:50:13.676Z"
 status: "active"
 ---
 

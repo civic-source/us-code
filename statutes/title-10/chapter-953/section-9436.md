@@ -3,9 +3,9 @@ title: "Section 9436 - Permanent professors; director of admissions"
 usc_title: 10
 usc_section: "9436"
 chapter: 953
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "10 U.S.C. § 9436"
-generated_at: "2026-11-23T20:46:46.545Z"
+generated_at: "2026-11-23T20:49:42.679Z"
 status: "active"
 ---
 

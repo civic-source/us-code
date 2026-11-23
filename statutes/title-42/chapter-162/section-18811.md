@@ -3,9 +3,9 @@ title: "Section 18811 - Definitions"
 usc_title: 42
 usc_section: "18811"
 chapter: 162
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "42 U.S.C. § 18811"
-generated_at: "2026-11-23T20:48:18.768Z"
+generated_at: "2026-11-23T20:51:14.045Z"
 status: "active"
 ---
 

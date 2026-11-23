@@ -3,9 +3,9 @@ title: "Section 2740 - Property loss: reimbursement of members and civilian empl
 usc_title: 10
 usc_section: "2740"
 chapter: 163
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "10 U.S.C. § 2740"
-generated_at: "2026-11-23T20:46:45.842Z"
+generated_at: "2026-11-23T20:49:42.007Z"
 status: "active"
 ---
 

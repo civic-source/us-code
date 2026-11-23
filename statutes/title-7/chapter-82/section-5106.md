@@ -3,9 +3,9 @@ title: "Section 5106 - Authorization of appropriations"
 usc_title: 7
 usc_section: "5106"
 chapter: 82
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "7 U.S.C. § 5106"
-generated_at: "2026-11-23T20:46:36.570Z"
+generated_at: "2026-11-23T20:49:32.897Z"
 status: "active"
 ---
 

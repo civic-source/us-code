@@ -3,9 +3,9 @@ title: "Section 30 - Grand River, Missouri, above Brunswick"
 usc_title: 33
 usc_section: "30"
 chapter: 1
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "33 U.S.C. § 30"
-generated_at: "2026-11-23T20:47:51.903Z"
+generated_at: "2026-11-23T20:50:40.558Z"
 status: "active"
 ---
 

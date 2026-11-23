@@ -3,9 +3,9 @@ title: "Section 2778a - Exportation of uranium depleted in the isotope 235"
 usc_title: 22
 usc_section: "2778a"
 chapter: 39
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "22 U.S.C. § 2778a"
-generated_at: "2026-11-23T20:47:29.315Z"
+generated_at: "2026-11-23T20:50:20.609Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2308 - Annual report"
 usc_title: 36
 usc_section: "2308"
 chapter: 23
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "36 U.S.C. § 2308"
-generated_at: "2026-11-23T20:47:56.234Z"
+generated_at: "2026-11-23T20:50:46.419Z"
 status: "active"
 ---
 

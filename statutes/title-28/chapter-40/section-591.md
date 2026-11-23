@@ -3,9 +3,9 @@ title: "Section 591 - Applicability of provisions of this chapter"
 usc_title: 28
 usc_section: "591"
 chapter: 40
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "28 U.S.C. § 591"
-generated_at: "2026-11-23T20:47:33.519Z"
+generated_at: "2026-11-23T20:50:24.268Z"
 status: "active"
 ---
 

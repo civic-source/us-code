@@ -3,9 +3,9 @@ title: "Section 4560 - Employment of personnel; appointment policies; nucleus ex
 usc_title: 50
 usc_section: "4560"
 chapter: 55
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "50 U.S.C. § 4560"
-generated_at: "2026-11-23T20:48:25.334Z"
+generated_at: "2026-11-23T20:51:21.948Z"
 status: "active"
 ---
 

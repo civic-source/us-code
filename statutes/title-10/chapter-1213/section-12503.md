@@ -3,9 +3,9 @@ title: "Section 12503 - Ready Reserve: funeral honors duty"
 usc_title: 10
 usc_section: "12503"
 chapter: 1213
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "10 U.S.C. § 12503"
-generated_at: "2026-11-23T20:46:46.650Z"
+generated_at: "2026-11-23T20:49:42.775Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3807 - Use of methane-fueled vehicles by Federal agencies and de
 usc_title: 15
 usc_section: "3807"
 chapter: 64
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "15 U.S.C. § 3807"
-generated_at: "2026-11-23T20:46:59.643Z"
+generated_at: "2026-11-23T20:49:54.081Z"
 status: "active"
 ---
 

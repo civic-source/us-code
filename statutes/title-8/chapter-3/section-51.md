@@ -3,9 +3,9 @@ title: "Section 51 - Transferred"
 usc_title: 8
 usc_section: "51"
 chapter: 3
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "8 U.S.C. § 51"
-generated_at: "2026-11-23T20:46:31.935Z"
+generated_at: "2026-11-23T20:49:28.541Z"
 status: "transferred"
 ---
 

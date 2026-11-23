@@ -3,9 +3,9 @@ title: "Section 1983 - Authorization of appropriations"
 usc_title: 33
 usc_section: "1983"
 chapter: 33
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "33 U.S.C. § 1983"
-generated_at: "2026-11-23T20:47:52.278Z"
+generated_at: "2026-11-23T20:50:40.857Z"
 status: "active"
 ---
 

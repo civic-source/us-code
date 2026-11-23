@@ -3,9 +3,9 @@ title: "Section 4992 - Authority to establish and operate special volunteer and 
 usc_title: 42
 usc_section: "4992"
 chapter: 66
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "42 U.S.C. § 4992"
-generated_at: "2026-11-23T20:48:17.409Z"
+generated_at: "2026-11-23T20:51:12.632Z"
 status: "active"
 ---
 

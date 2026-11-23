@@ -3,9 +3,9 @@ title: "Section 350m - Requirements for critical food"
 usc_title: 21
 usc_section: "350m"
 chapter: 9
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "21 U.S.C. § 350m"
-generated_at: "2026-11-23T20:47:21.942Z"
+generated_at: "2026-11-23T20:50:16.353Z"
 status: "active"
 ---
 

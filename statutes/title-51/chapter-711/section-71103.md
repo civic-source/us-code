@@ -3,9 +3,9 @@ title: "Section 71103 - Developing policy and recommending responsible Federal a
 usc_title: 51
 usc_section: "71103"
 chapter: 711
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "51 U.S.C. § 71103"
-generated_at: "2026-11-23T20:48:31.210Z"
+generated_at: "2026-11-23T20:51:28.937Z"
 status: "active"
 ---
 

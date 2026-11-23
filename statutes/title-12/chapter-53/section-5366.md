@@ -3,9 +3,9 @@ title: "Section 5366 - Early remediation requirements"
 usc_title: 12
 usc_section: "5366"
 chapter: 53
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "12 U.S.C. § 5366"
-generated_at: "2026-11-23T20:46:54.477Z"
+generated_at: "2026-11-23T20:49:49.367Z"
 status: "active"
 ---
 

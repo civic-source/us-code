@@ -3,9 +3,9 @@ title: "Section 7461 - Publicity of proceedings"
 usc_title: 26
 usc_section: "7461"
 chapter: 76
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "26 U.S.C. § 7461"
-generated_at: "2026-11-23T20:47:44.609Z"
+generated_at: "2026-11-23T20:50:35.236Z"
 status: "active"
 ---
 

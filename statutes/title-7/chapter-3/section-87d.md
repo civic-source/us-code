@@ -3,9 +3,9 @@ title: "Section 87d - Responsibility for acts of others"
 usc_title: 7
 usc_section: "87d"
 chapter: 3
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "7 U.S.C. § 87d"
-generated_at: "2026-11-23T20:46:35.824Z"
+generated_at: "2026-11-23T20:49:32.194Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3127 - Exemption for employers and their employees where both ar
 usc_title: 26
 usc_section: "3127"
 chapter: 21
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "26 U.S.C. § 3127"
-generated_at: "2026-11-23T20:47:44.073Z"
+generated_at: "2026-11-23T20:50:34.699Z"
 status: "active"
 ---
 

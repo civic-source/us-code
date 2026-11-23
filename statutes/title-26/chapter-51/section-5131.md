@@ -3,9 +3,9 @@ title: "Section 5131 - Packaging distilled spirits for industrial uses"
 usc_title: 26
 usc_section: "5131"
 chapter: 51
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "26 U.S.C. § 5131"
-generated_at: "2026-11-23T20:47:44.272Z"
+generated_at: "2026-11-23T20:50:34.902Z"
 status: "active"
 ---
 

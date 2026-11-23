@@ -3,9 +3,9 @@ title: "Section 7138 - Regular Army: reenlistment after service as an officer"
 usc_title: 10
 usc_section: "7138"
 chapter: 713
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "10 U.S.C. § 7138"
-generated_at: "2026-11-23T20:46:46.195Z"
+generated_at: "2026-11-23T20:49:42.368Z"
 status: "active"
 ---
 

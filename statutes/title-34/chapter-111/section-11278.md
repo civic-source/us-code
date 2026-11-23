@@ -3,9 +3,9 @@ title: "Section 11278 - Performance standards"
 usc_title: 34
 usc_section: "11278"
 chapter: 111
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "34 U.S.C. § 11278"
-generated_at: "2026-11-23T20:47:48.106Z"
+generated_at: "2026-11-23T20:50:41.974Z"
 status: "active"
 ---
 

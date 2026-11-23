@@ -3,9 +3,9 @@ title: "Section 8183 - State Department: assignment of enlisted members as custo
 usc_title: 10
 usc_section: "8183"
 chapter: 823
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "10 U.S.C. § 8183"
-generated_at: "2026-11-23T20:46:46.311Z"
+generated_at: "2026-11-23T20:49:42.484Z"
 status: "active"
 ---
 

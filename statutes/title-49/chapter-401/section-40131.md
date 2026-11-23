@@ -3,9 +3,9 @@ title: "Section 40131 - National airspace system cyber threat management process
 usc_title: 49
 usc_section: "40131"
 chapter: 401
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "49 U.S.C. § 40131"
-generated_at: "2026-11-23T20:48:28.511Z"
+generated_at: "2026-11-23T20:51:26.192Z"
 status: "active"
 ---
 

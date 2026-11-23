@@ -3,9 +3,9 @@ title: "Section 9009b - Targeted EIDL advance for small business continuity, ada
 usc_title: 15
 usc_section: "9009b"
 chapter: 116
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "15 U.S.C. § 9009b"
-generated_at: "2026-11-23T20:46:59.857Z"
+generated_at: "2026-11-23T20:49:54.297Z"
 status: "active"
 ---
 

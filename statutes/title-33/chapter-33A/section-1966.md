@@ -3,9 +3,9 @@ title: "Section 1966 - Report requirements; petition of Attorney General for equ
 usc_title: 33
 usc_section: "1966"
 chapter: 33
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "33 U.S.C. § 1966"
-generated_at: "2026-11-23T20:47:52.275Z"
+generated_at: "2026-11-23T20:50:40.856Z"
 status: "active"
 ---
 

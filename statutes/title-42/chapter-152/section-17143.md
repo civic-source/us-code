@@ -3,9 +3,9 @@ title: "Section 17143 - Government efficiency status reports"
 usc_title: 42
 usc_section: "17143"
 chapter: 152
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "42 U.S.C. § 17143"
-generated_at: "2026-11-23T20:48:18.651Z"
+generated_at: "2026-11-23T20:51:13.917Z"
 status: "active"
 ---
 

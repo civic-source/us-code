@@ -3,9 +3,9 @@ title: "Section 1475d - Compensation for disability or death"
 usc_title: 22
 usc_section: "1475d"
 chapter: 18
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "22 U.S.C. § 1475d"
-generated_at: "2026-11-23T20:47:28.930Z"
+generated_at: "2026-11-23T20:50:20.254Z"
 status: "active"
 ---
 

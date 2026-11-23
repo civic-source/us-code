@@ -3,9 +3,9 @@ title: "Section 19235 - Person or entity of concern prohibition"
 usc_title: 42
 usc_section: "19235"
 chapter: 163
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "42 U.S.C. § 19235"
-generated_at: "2026-11-23T20:48:18.814Z"
+generated_at: "2026-11-23T20:51:14.096Z"
 status: "active"
 ---
 

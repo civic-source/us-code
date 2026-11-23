@@ -3,9 +3,9 @@ title: "Section 4308 - Penalties for submission of cost known to be unallowable"
 usc_title: 41
 usc_section: "4308"
 chapter: 43
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "41 U.S.C. § 4308"
-generated_at: "2026-11-23T20:48:00.627Z"
+generated_at: "2026-11-23T20:50:52.402Z"
 status: "active"
 ---
 

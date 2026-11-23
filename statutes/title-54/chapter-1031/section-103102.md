@@ -3,9 +3,9 @@ title: "Section 103102 - Appropriations authorized and available for certain pur
 usc_title: 54
 usc_section: "103102"
 chapter: 1031
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "54 U.S.C. § 103102"
-generated_at: "2026-11-23T20:48:30.689Z"
+generated_at: "2026-11-23T20:51:29.487Z"
 status: "active"
 ---
 

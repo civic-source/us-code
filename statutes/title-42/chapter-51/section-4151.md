@@ -3,9 +3,9 @@ title: "Section 4151 - “Building” defined"
 usc_title: 42
 usc_section: "4151"
 chapter: 51
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "42 U.S.C. § 4151"
-generated_at: "2026-11-23T20:48:17.340Z"
+generated_at: "2026-11-23T20:51:12.562Z"
 status: "active"
 ---
 

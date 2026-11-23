@@ -3,9 +3,9 @@ title: "Section 1e - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Sta
 usc_title: 16
 usc_section: "1e"
 chapter: 1
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "16 U.S.C. § 1e"
-generated_at: "2026-11-23T20:47:15.261Z"
+generated_at: "2026-11-23T20:50:08.699Z"
 status: "repealed"
 ---
 

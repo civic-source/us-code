@@ -3,9 +3,9 @@ title: "Section 7698 - Requirement for program"
 usc_title: 38
 usc_section: "7698"
 chapter: 76
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "38 U.S.C. § 7698"
-generated_at: "2026-11-23T20:47:58.969Z"
+generated_at: "2026-11-23T20:50:49.823Z"
 status: "active"
 ---
 

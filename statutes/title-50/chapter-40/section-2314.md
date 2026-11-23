@@ -3,9 +3,9 @@ title: "Section 2314 - Chemical, biological, radiological, nuclear, and high-yie
 usc_title: 50
 usc_section: "2314"
 chapter: 40
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "50 U.S.C. § 2314"
-generated_at: "2026-11-23T20:48:25.080Z"
+generated_at: "2026-11-23T20:51:21.666Z"
 status: "active"
 ---
 

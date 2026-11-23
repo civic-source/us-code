@@ -3,9 +3,9 @@ title: "Section 803 - Art. 3. Jurisdiction to try certain personnel"
 usc_title: 10
 usc_section: "803"
 chapter: 47
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "10 U.S.C. § 803"
-generated_at: "2026-11-23T20:46:45.178Z"
+generated_at: "2026-11-23T20:49:41.360Z"
 status: "active"
 ---
 

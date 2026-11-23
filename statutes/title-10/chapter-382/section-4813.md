@@ -3,9 +3,9 @@ title: "Section 4813 - National defense program for analysis of the technology a
 usc_title: 10
 usc_section: "4813"
 chapter: 382
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "10 U.S.C. § 4813"
-generated_at: "2026-11-23T20:46:46.086Z"
+generated_at: "2026-11-23T20:49:42.252Z"
 status: "active"
 ---
 

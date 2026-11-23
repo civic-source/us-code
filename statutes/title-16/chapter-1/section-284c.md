@@ -3,9 +3,9 @@ title: "Section 284c - Financial assistance for reconstruction of Center"
 usc_title: 16
 usc_section: "284c"
 chapter: 1
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "16 U.S.C. § 284c"
-generated_at: "2026-11-23T20:47:15.352Z"
+generated_at: "2026-11-23T20:50:08.810Z"
 status: "active"
 ---
 

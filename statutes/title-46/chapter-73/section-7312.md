@@ -3,9 +3,9 @@ title: "Section 7312 - Scale of employment"
 usc_title: 46
 usc_section: "7312"
 chapter: 73
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "46 U.S.C. § 7312"
-generated_at: "2026-11-23T20:48:21.683Z"
+generated_at: "2026-11-23T20:51:19.228Z"
 status: "active"
 ---
 

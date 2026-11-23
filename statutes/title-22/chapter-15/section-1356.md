@@ -3,9 +3,9 @@ title: "Section 1356 - Termination of payments into Philippine treasury"
 usc_title: 22
 usc_section: "1356"
 chapter: 15
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "22 U.S.C. § 1356"
-generated_at: "2026-11-23T20:47:28.913Z"
+generated_at: "2026-11-23T20:50:20.232Z"
 status: "active"
 ---
 

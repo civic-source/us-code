@@ -3,9 +3,9 @@ title: "Section 8424 - Lump-sum benefits; designation of beneficiary; order of p
 usc_title: 5
 usc_section: "8424"
 chapter: 84
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "5 U.S.C. § 8424"
-generated_at: "2026-11-23T20:46:27.615Z"
+generated_at: "2026-11-23T20:49:24.453Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5852 - Eligibility"
 usc_title: 22
 usc_section: "5852"
 chapter: 67
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "22 U.S.C. § 5852"
-generated_at: "2026-11-23T20:47:29.568Z"
+generated_at: "2026-11-23T20:50:20.779Z"
 status: "active"
 ---
 

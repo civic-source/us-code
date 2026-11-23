@@ -3,9 +3,9 @@ title: "Section 3501 - Establishment of program"
 usc_title: 33
 usc_section: "3501"
 chapter: 48
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "33 U.S.C. § 3501"
-generated_at: "2026-11-23T20:47:52.409Z"
+generated_at: "2026-11-23T20:50:40.964Z"
 status: "active"
 ---
 

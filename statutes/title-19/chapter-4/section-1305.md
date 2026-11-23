@@ -3,9 +3,9 @@ title: "Section 1305 - Immoral articles; importation prohibited"
 usc_title: 19
 usc_section: "1305"
 chapter: 4
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "19 U.S.C. § 1305"
-generated_at: "2026-11-23T20:47:06.225Z"
+generated_at: "2026-11-23T20:49:58.405Z"
 status: "active"
 ---
 

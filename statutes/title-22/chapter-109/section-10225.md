@@ -3,9 +3,9 @@ title: "Section 10225 - Sunset"
 usc_title: 22
 usc_section: "10225"
 chapter: 109
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "22 U.S.C. § 10225"
-generated_at: "2026-11-23T20:47:29.942Z"
+generated_at: "2026-11-23T20:50:20.977Z"
 status: "active"
 ---
 

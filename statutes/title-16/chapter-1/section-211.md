@@ -3,9 +3,9 @@ title: "Section 211 - Acceptance of title; terms and conditions; admission fees"
 usc_title: 16
 usc_section: "211"
 chapter: 1
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "16 U.S.C. § 211"
-generated_at: "2026-11-23T20:47:15.327Z"
+generated_at: "2026-11-23T20:50:08.773Z"
 status: "active"
 ---
 

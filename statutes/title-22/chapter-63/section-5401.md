@@ -3,9 +3,9 @@ title: "Section 5401 - Support for East European Democracy (SEED) Program"
 usc_title: 22
 usc_section: "5401"
 chapter: 63
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "22 U.S.C. § 5401"
-generated_at: "2026-11-23T20:47:29.539Z"
+generated_at: "2026-11-23T20:50:20.763Z"
 status: "active"
 ---
 

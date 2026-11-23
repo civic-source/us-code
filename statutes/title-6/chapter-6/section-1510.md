@@ -3,9 +3,9 @@ title: "Section 1510 - Effective period"
 usc_title: 6
 usc_section: "1510"
 chapter: 6
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "6 U.S.C. § 1510"
-generated_at: "2026-11-23T20:46:30.716Z"
+generated_at: "2026-11-23T20:49:27.578Z"
 status: "active"
 ---
 

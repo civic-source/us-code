@@ -3,9 +3,9 @@ title: "Section 3651 - Definitions"
 usc_title: 22
 usc_section: "3651"
 chapter: 51
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "22 U.S.C. § 3651"
-generated_at: "2026-11-23T20:47:29.377Z"
+generated_at: "2026-11-23T20:50:20.661Z"
 status: "active"
 ---
 

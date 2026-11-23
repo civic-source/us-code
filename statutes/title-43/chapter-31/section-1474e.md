@@ -3,9 +3,9 @@ title: "Section 1474e - Sums received by the Bureau of Land Management for the s
 usc_title: 43
 usc_section: "1474e"
 chapter: 31
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "43 U.S.C. § 1474e"
-generated_at: "2026-11-23T20:48:02.224Z"
+generated_at: "2026-11-23T20:50:54.564Z"
 status: "active"
 ---
 

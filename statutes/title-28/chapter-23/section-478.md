@@ -3,9 +3,9 @@ title: "Section 478 - Advisory groups"
 usc_title: 28
 usc_section: "478"
 chapter: 23
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "28 U.S.C. § 478"
-generated_at: "2026-11-23T20:47:33.484Z"
+generated_at: "2026-11-23T20:50:24.234Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3783 - Technical data: time for contractors to submit justificat
 usc_title: 10
 usc_section: "3783"
 chapter: 275
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "10 U.S.C. § 3783"
-generated_at: "2026-11-23T20:46:45.984Z"
+generated_at: "2026-11-23T20:49:42.158Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 19033 - Reporting to Congress"
 usc_title: 42
 usc_section: "19033"
 chapter: 163
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "42 U.S.C. § 19033"
-generated_at: "2026-11-23T20:48:18.788Z"
+generated_at: "2026-11-23T20:51:14.065Z"
 status: "active"
 ---
 

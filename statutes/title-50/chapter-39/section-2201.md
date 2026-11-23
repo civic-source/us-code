@@ -3,9 +3,9 @@ title: "Section 2201 - Transfers of spoils of war"
 usc_title: 50
 usc_section: "2201"
 chapter: 39
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "50 U.S.C. § 2201"
-generated_at: "2026-11-23T20:48:25.077Z"
+generated_at: "2026-11-23T20:51:21.664Z"
 status: "active"
 ---
 

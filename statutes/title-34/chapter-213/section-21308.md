@@ -3,9 +3,9 @@ title: "Section 21308 - Authorization of appropriations"
 usc_title: 34
 usc_section: "21308"
 chapter: 213
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "34 U.S.C. § 21308"
-generated_at: "2026-11-23T20:47:48.231Z"
+generated_at: "2026-11-23T20:50:42.099Z"
 status: "active"
 ---
 

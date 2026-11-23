@@ -3,9 +3,9 @@ title: "Section 15483 - Transferred"
 usc_title: 42
 usc_section: "15483"
 chapter: 146
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "42 U.S.C. § 15483"
-generated_at: "2026-11-23T20:48:18.495Z"
+generated_at: "2026-11-23T20:51:13.751Z"
 status: "transferred"
 ---
 

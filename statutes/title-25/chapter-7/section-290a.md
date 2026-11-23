@@ -3,9 +3,9 @@ title: "Section 290a - Bureau appropriations as not limiting transportation of s
 usc_title: 25
 usc_section: "290a"
 chapter: 7
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "25 U.S.C. § 290a"
-generated_at: "2026-11-23T20:47:23.793Z"
+generated_at: "2026-11-23T20:50:13.502Z"
 status: "active"
 ---
 

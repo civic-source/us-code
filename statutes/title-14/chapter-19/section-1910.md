@@ -3,9 +3,9 @@ title: "Section 1910 - Concurrent jurisdiction at Coast Guard Academy"
 usc_title: 14
 usc_section: "1910"
 chapter: 19
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "14 U.S.C. § 1910"
-generated_at: "2026-11-23T20:46:49.234Z"
+generated_at: "2026-11-23T20:49:45.819Z"
 status: "active"
 ---
 

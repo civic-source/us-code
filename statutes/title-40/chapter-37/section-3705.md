@@ -3,9 +3,9 @@ title: "Section 3705 - Safety programs"
 usc_title: 40
 usc_section: "3705"
 chapter: 37
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "40 U.S.C. § 3705"
-generated_at: "2026-11-23T20:47:54.688Z"
+generated_at: "2026-11-23T20:50:45.343Z"
 status: "active"
 ---
 

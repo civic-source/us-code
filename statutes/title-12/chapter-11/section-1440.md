@@ -3,9 +3,9 @@ title: "Section 1440 - Examinations and audits"
 usc_title: 12
 usc_section: "1440"
 chapter: 11
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "12 U.S.C. § 1440"
-generated_at: "2026-11-23T20:46:53.771Z"
+generated_at: "2026-11-23T20:49:48.803Z"
 status: "active"
 ---
 

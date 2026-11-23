@@ -3,9 +3,9 @@ title: "Section 541i - Withdrawal of lands from entry; expiration of claims"
 usc_title: 30
 usc_section: "541i"
 chapter: 12
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "30 U.S.C. § 541i"
-generated_at: "2026-11-23T20:47:32.230Z"
+generated_at: "2026-11-23T20:50:22.923Z"
 status: "active"
 ---
 

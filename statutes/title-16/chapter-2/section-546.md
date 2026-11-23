@@ -3,9 +3,9 @@ title: "Section 546 - Establishment of Saint Helena Island National Scenic Area,
 usc_title: 16
 usc_section: "546"
 chapter: 2
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "16 U.S.C. § 546"
-generated_at: "2026-11-23T20:47:16.042Z"
+generated_at: "2026-11-23T20:50:09.325Z"
 status: "active"
 ---
 

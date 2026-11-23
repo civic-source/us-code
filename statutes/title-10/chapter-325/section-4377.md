@@ -3,9 +3,9 @@ title: "Section 4377 - Breach of critical cost growth threshold: actions if prog
 usc_title: 10
 usc_section: "4377"
 chapter: 325
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "10 U.S.C. § 4377"
-generated_at: "2026-11-23T20:46:46.053Z"
+generated_at: "2026-11-23T20:49:42.227Z"
 status: "active"
 ---
 

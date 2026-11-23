@@ -3,9 +3,9 @@ title: "Section 1922A - Legacy supplemental service disabled veterans’ insuran
 usc_title: 38
 usc_section: "1922A"
 chapter: 19
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "38 U.S.C. § 1922A"
-generated_at: "2026-11-23T20:47:58.704Z"
+generated_at: "2026-11-23T20:50:49.461Z"
 status: "active"
 ---
 

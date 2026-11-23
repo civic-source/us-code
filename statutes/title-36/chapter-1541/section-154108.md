@@ -3,9 +3,9 @@ title: "Section 154108 - Principal office"
 usc_title: 36
 usc_section: "154108"
 chapter: 1541
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "36 U.S.C. § 154108"
-generated_at: "2026-11-23T20:47:56.480Z"
+generated_at: "2026-11-23T20:50:46.668Z"
 status: "active"
 ---
 

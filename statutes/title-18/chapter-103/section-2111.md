@@ -3,9 +3,9 @@ title: "Section 2111 - Special maritime and territorial jurisdiction"
 usc_title: 18
 usc_section: "2111"
 chapter: 103
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "18 U.S.C. § 2111"
-generated_at: "2026-11-23T20:47:03.909Z"
+generated_at: "2026-11-23T20:50:00.805Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2322a - Renumbered § 4576]"
 usc_title: 10
 usc_section: "2322a"
 chapter: 137
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "10 U.S.C. § 2322a"
-generated_at: "2026-11-23T20:46:45.703Z"
+generated_at: "2026-11-23T20:49:41.858Z"
 status: "renumbered"
 ---
 

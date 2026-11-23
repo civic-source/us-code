@@ -3,9 +3,9 @@ title: "Section 1865 - Bycatch reduction engineering program"
 usc_title: 16
 usc_section: "1865"
 chapter: 38
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "16 U.S.C. § 1865"
-generated_at: "2026-11-23T20:47:16.735Z"
+generated_at: "2026-11-23T20:50:09.866Z"
 status: "active"
 ---
 

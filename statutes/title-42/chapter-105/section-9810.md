@@ -3,9 +3,9 @@ title: "Section 9810 - Financial assistance to low-income families, local cooper
 usc_title: 42
 usc_section: "9810"
 chapter: 105
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "42 U.S.C. § 9810"
-generated_at: "2026-11-23T20:48:18.107Z"
+generated_at: "2026-11-23T20:51:13.334Z"
 status: "active"
 ---
 

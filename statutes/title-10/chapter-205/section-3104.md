@@ -3,9 +3,9 @@ title: "Section 3104 - Acquisition-related functions of service chiefs"
 usc_title: 10
 usc_section: "3104"
 chapter: 205
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "10 U.S.C. § 3104"
-generated_at: "2026-11-23T20:46:45.931Z"
+generated_at: "2026-11-23T20:49:42.095Z"
 status: "active"
 ---
 

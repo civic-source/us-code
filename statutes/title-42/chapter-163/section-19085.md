@@ -3,9 +3,9 @@ title: "Section 19085 - National secure data service"
 usc_title: 42
 usc_section: "19085"
 chapter: 163
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "42 U.S.C. § 19085"
-generated_at: "2026-11-23T20:48:18.794Z"
+generated_at: "2026-11-23T20:51:14.071Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 561 - Records and papers and furniture transferred to Department
 usc_title: 29
 usc_section: "561"
 chapter: 12
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "29 U.S.C. § 561"
-generated_at: "2026-11-23T20:47:34.968Z"
+generated_at: "2026-11-23T20:50:25.620Z"
 status: "active"
 ---
 

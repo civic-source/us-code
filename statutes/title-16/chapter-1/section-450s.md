@@ -3,9 +3,9 @@ title: "Section 450s - Omitted"
 usc_title: 16
 usc_section: "450s"
 chapter: 1
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "16 U.S.C. § 450s"
-generated_at: "2026-11-23T20:47:15.734Z"
+generated_at: "2026-11-23T20:50:09.025Z"
 status: "omitted"
 ---
 

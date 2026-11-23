@@ -3,9 +3,9 @@ title: "Section 238g - Wearing of uniforms"
 usc_title: 42
 usc_section: "238g"
 chapter: 6
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "42 U.S.C. § 238g"
-generated_at: "2026-11-23T20:48:15.480Z"
+generated_at: "2026-11-23T20:51:10.120Z"
 status: "active"
 ---
 

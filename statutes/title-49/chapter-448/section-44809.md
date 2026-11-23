@@ -3,9 +3,9 @@ title: "Section 44809 - Exception for limited recreational operations of unmanne
 usc_title: 49
 usc_section: "44809"
 chapter: 448
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "49 U.S.C. § 44809"
-generated_at: "2026-11-23T20:48:28.639Z"
+generated_at: "2026-11-23T20:51:26.353Z"
 status: "active"
 ---
 

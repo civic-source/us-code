@@ -3,9 +3,9 @@ title: "Section 1354 - Applicability to members of the Armed Forces"
 usc_title: 8
 usc_section: "1354"
 chapter: 12
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "8 U.S.C. § 1354"
-generated_at: "2026-11-23T20:46:32.102Z"
+generated_at: "2026-11-23T20:49:28.665Z"
 status: "active"
 ---
 

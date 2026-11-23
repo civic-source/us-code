@@ -3,9 +3,9 @@ title: "Section 455 - State taxation; lands of homestead entryman"
 usc_title: 43
 usc_section: "455"
 chapter: 12
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "43 U.S.C. § 455"
-generated_at: "2026-11-23T20:48:02.147Z"
+generated_at: "2026-11-23T20:50:54.429Z"
 status: "active"
 ---
 

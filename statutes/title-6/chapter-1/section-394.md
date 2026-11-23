@@ -3,9 +3,9 @@ title: "Section 394 - Unsolicited proposals"
 usc_title: 6
 usc_section: "394"
 chapter: 1
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "6 U.S.C. § 394"
-generated_at: "2026-11-23T20:46:30.551Z"
+generated_at: "2026-11-23T20:49:27.417Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 22710 - Service of process"
 usc_title: 36
 usc_section: "22710"
 chapter: 227
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "36 U.S.C. § 22710"
-generated_at: "2026-11-23T20:47:56.291Z"
+generated_at: "2026-11-23T20:50:46.467Z"
 status: "active"
 ---
 

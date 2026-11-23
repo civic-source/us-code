@@ -3,9 +3,9 @@ title: "Section 4218 - Definitions"
 usc_title: 50
 usc_section: "4218"
 chapter: 52
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "50 U.S.C. § 4218"
-generated_at: "2026-11-23T20:48:25.303Z"
+generated_at: "2026-11-23T20:51:21.910Z"
 status: "active"
 ---
 

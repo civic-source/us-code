@@ -3,9 +3,9 @@ title: "Section 6205 - Availability of information"
 usc_title: 31
 usc_section: "6205"
 chapter: 62
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "31 U.S.C. § 6205"
-generated_at: "2026-11-23T20:47:49.741Z"
+generated_at: "2026-11-23T20:50:39.093Z"
 status: "active"
 ---
 

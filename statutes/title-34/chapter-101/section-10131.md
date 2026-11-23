@@ -3,9 +3,9 @@ title: "Section 10131 - Statement of purpose"
 usc_title: 34
 usc_section: "10131"
 chapter: 101
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "34 U.S.C. § 10131"
-generated_at: "2026-11-23T20:47:47.976Z"
+generated_at: "2026-11-23T20:50:41.870Z"
 status: "active"
 ---
 

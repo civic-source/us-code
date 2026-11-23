@@ -3,9 +3,9 @@ title: "Section 2513 - Repealed. Pub. L. 104–106, div. A, title X, § 1081(f) 
 usc_title: 10
 usc_section: "2513"
 chapter: 148
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "10 U.S.C. § 2513"
-generated_at: "2026-11-23T20:46:45.751Z"
+generated_at: "2026-11-23T20:49:41.908Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8 - Construction"
 usc_title: 42
 usc_section: "8"
 chapter: 21
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "42 U.S.C. § 8"
-generated_at: "2026-11-23T20:48:17.043Z"
+generated_at: "2026-11-23T20:51:12.225Z"
 status: "active"
 ---
 

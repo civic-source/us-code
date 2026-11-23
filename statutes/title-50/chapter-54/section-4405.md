@@ -3,9 +3,9 @@ title: "Section 4405 - Transferred"
 usc_title: 50
 usc_section: "4405"
 chapter: 54
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "50 U.S.C. § 4405"
-generated_at: "2026-11-23T20:48:25.324Z"
+generated_at: "2026-11-23T20:51:21.936Z"
 status: "transferred"
 ---
 

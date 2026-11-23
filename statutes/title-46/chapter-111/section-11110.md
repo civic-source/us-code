@@ -3,9 +3,9 @@ title: "Section 11110 - Seamen’s clothing"
 usc_title: 46
 usc_section: "11110"
 chapter: 111
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "46 U.S.C. § 11110"
-generated_at: "2026-11-23T20:48:21.711Z"
+generated_at: "2026-11-23T20:51:19.289Z"
 status: "active"
 ---
 

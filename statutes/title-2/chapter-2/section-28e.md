@@ -3,9 +3,9 @@ title: "Section 28e - Distribution of Precedents by Joint Committee on Printing 
 usc_title: 2
 usc_section: "28e"
 chapter: 2
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "2 U.S.C. § 28e"
-generated_at: "2026-11-23T20:46:22.253Z"
+generated_at: "2026-11-23T20:49:21.357Z"
 status: "active"
 ---
 

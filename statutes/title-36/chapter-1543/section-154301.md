@@ -3,9 +3,9 @@ title: "Section 154301 - Organization"
 usc_title: 36
 usc_section: "154301"
 chapter: 1543
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "36 U.S.C. § 154301"
-generated_at: "2026-11-23T20:47:56.482Z"
+generated_at: "2026-11-23T20:50:46.669Z"
 status: "active"
 ---
 

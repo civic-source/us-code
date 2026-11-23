@@ -3,9 +3,9 @@ title: "Section 3150a - Repealed. Pub. L. 98–473, title II, § 203(a) , Oct. 1
 usc_title: 18
 usc_section: "3150a"
 chapter: 207
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "18 U.S.C. § 3150a"
-generated_at: "2026-11-23T20:47:04.025Z"
+generated_at: "2026-11-23T20:50:00.917Z"
 status: "repealed"
 ---
 

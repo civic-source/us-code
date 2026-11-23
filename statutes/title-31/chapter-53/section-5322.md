@@ -3,9 +3,9 @@ title: "Section 5322 - Criminal penalties"
 usc_title: 31
 usc_section: "5322"
 chapter: 53
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "31 U.S.C. § 5322"
-generated_at: "2026-11-23T20:47:49.719Z"
+generated_at: "2026-11-23T20:50:39.064Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1660f - Community Health Representatives"
 usc_title: 25
 usc_section: "1660f"
 chapter: 18
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "25 U.S.C. § 1660f"
-generated_at: "2026-11-23T20:47:23.985Z"
+generated_at: "2026-11-23T20:50:13.620Z"
 status: "active"
 ---
 

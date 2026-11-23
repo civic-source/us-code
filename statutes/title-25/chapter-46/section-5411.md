@@ -3,9 +3,9 @@ title: "Section 5411 - Definitions"
 usc_title: 25
 usc_section: "5411"
 chapter: 46
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "25 U.S.C. § 5411"
-generated_at: "2026-11-23T20:47:24.222Z"
+generated_at: "2026-11-23T20:50:13.862Z"
 status: "active"
 ---
 

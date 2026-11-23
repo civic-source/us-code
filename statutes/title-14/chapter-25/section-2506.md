@@ -3,9 +3,9 @@ title: "Section 2506 - Suspension of payment of retired pay of members who are a
 usc_title: 14
 usc_section: "2506"
 chapter: 25
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "14 U.S.C. § 2506"
-generated_at: "2026-11-23T20:46:49.269Z"
+generated_at: "2026-11-23T20:49:45.858Z"
 status: "active"
 ---
 

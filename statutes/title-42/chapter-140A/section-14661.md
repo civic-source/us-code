@@ -3,9 +3,9 @@ title: "Section 14661 - Transferred"
 usc_title: 42
 usc_section: "14661"
 chapter: 140
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "42 U.S.C. § 14661"
-generated_at: "2026-11-23T20:48:18.465Z"
+generated_at: "2026-11-23T20:51:13.723Z"
 status: "transferred"
 ---
 

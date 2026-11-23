@@ -3,9 +3,9 @@ title: "Section 2152j - Statement of policy"
 usc_title: 22
 usc_section: "2152j"
 chapter: 32
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "22 U.S.C. § 2152j"
-generated_at: "2026-11-23T20:47:29.031Z"
+generated_at: "2026-11-23T20:50:20.349Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3203 - Safety management system"
 usc_title: 46
 usc_section: "3203"
 chapter: 32
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "46 U.S.C. § 3203"
-generated_at: "2026-11-23T20:48:21.645Z"
+generated_at: "2026-11-23T20:51:19.162Z"
 status: "active"
 ---
 

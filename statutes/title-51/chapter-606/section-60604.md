@@ -3,9 +3,9 @@ title: "Section 60604 - Research activities"
 usc_title: 51
 usc_section: "60604"
 chapter: 606
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "51 U.S.C. § 60604"
-generated_at: "2026-11-23T20:48:31.195Z"
+generated_at: "2026-11-23T20:51:28.905Z"
 status: "active"
 ---
 

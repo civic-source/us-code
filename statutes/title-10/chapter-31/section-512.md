@@ -3,9 +3,9 @@ title: "Section 512 - Renumbered § 12104]"
 usc_title: 10
 usc_section: "512"
 chapter: 31
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "10 U.S.C. § 512"
-generated_at: "2026-11-23T20:46:45.067Z"
+generated_at: "2026-11-23T20:49:41.245Z"
 status: "renumbered"
 ---
 

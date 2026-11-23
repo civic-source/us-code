@@ -3,9 +3,9 @@ title: "Section 399h - National Centers of Excellence in Advanced and Continuous
 usc_title: 21
 usc_section: "399h"
 chapter: 9
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "21 U.S.C. § 399h"
-generated_at: "2026-11-23T20:47:22.191Z"
+generated_at: "2026-11-23T20:50:16.593Z"
 status: "active"
 ---
 

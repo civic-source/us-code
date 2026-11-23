@@ -3,9 +3,9 @@ title: "Section 483 - Uttering counterfeit foreign bank notes"
 usc_title: 18
 usc_section: "483"
 chapter: 25
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "18 U.S.C. § 483"
-generated_at: "2026-11-23T20:47:03.728Z"
+generated_at: "2026-11-23T20:50:00.631Z"
 status: "active"
 ---
 

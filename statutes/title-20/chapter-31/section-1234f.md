@@ -3,9 +3,9 @@ title: "Section 1234f - Compliance agreements"
 usc_title: 20
 usc_section: "1234f"
 chapter: 31
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "20 U.S.C. § 1234f"
-generated_at: "2026-11-23T20:47:10.417Z"
+generated_at: "2026-11-23T20:50:04.075Z"
 status: "active"
 ---
 

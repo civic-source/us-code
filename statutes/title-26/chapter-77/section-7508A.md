@@ -3,9 +3,9 @@ title: "Section 7508A - Authority to postpone certain deadlines by reason of Fed
 usc_title: 26
 usc_section: "7508A"
 chapter: 77
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "26 U.S.C. § 7508A"
-generated_at: "2026-11-23T20:47:44.620Z"
+generated_at: "2026-11-23T20:50:35.247Z"
 status: "active"
 ---
 

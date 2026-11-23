@@ -3,9 +3,9 @@ title: "Section 4246 - Repealed. Pub. L. 102–555, § 4 , Oct. 28, 1992 , 106 S
 usc_title: 15
 usc_section: "4246"
 chapter: 68
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "15 U.S.C. § 4246"
-generated_at: "2026-11-23T20:46:59.654Z"
+generated_at: "2026-11-23T20:49:54.092Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7473 - Personnel eligible for training"
 usc_title: 38
 usc_section: "7473"
 chapter: 74
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "38 U.S.C. § 7473"
-generated_at: "2026-11-23T20:47:58.963Z"
+generated_at: "2026-11-23T20:50:49.809Z"
 status: "active"
 ---
 

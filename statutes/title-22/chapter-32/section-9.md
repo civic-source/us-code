@@ -3,9 +3,9 @@ title: "Section 9 - Ban on importing goods and services from countries supportin
 usc_title: 22
 usc_section: "9"
 chapter: 32
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "22 U.S.C. § 9"
-generated_at: "2026-11-23T20:47:29.102Z"
+generated_at: "2026-11-23T20:50:20.414Z"
 status: "active"
 ---
 

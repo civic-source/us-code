@@ -3,9 +3,9 @@ title: "Section 3601 - Congressional findings and purpose"
 usc_title: 15
 usc_section: "3601"
 chapter: 62
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "15 U.S.C. § 3601"
-generated_at: "2026-11-23T20:46:59.380Z"
+generated_at: "2026-11-23T20:49:54.052Z"
 status: "active"
 ---
 

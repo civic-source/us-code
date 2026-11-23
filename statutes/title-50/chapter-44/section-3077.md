@@ -3,9 +3,9 @@ title: "Section 3077 - Effective date"
 usc_title: 50
 usc_section: "3077"
 chapter: 44
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "50 U.S.C. § 3077"
-generated_at: "2026-11-23T20:48:25.149Z"
+generated_at: "2026-11-23T20:51:21.744Z"
 status: "active"
 ---
 

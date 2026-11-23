@@ -3,9 +3,9 @@ title: "Section 3057 - Bankruptcy investigations"
 usc_title: 18
 usc_section: "3057"
 chapter: 203
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "18 U.S.C. § 3057"
-generated_at: "2026-11-23T20:47:04.005Z"
+generated_at: "2026-11-23T20:50:00.901Z"
 status: "active"
 ---
 

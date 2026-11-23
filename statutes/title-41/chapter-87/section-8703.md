@@ -3,9 +3,9 @@ title: "Section 8703 - Contractor responsibilities"
 usc_title: 41
 usc_section: "8703"
 chapter: 87
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "41 U.S.C. § 8703"
-generated_at: "2026-11-23T20:48:00.653Z"
+generated_at: "2026-11-23T20:50:52.449Z"
 status: "active"
 ---
 

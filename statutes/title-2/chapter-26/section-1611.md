@@ -3,9 +3,9 @@ title: "Section 1611 - Exempt organizations"
 usc_title: 2
 usc_section: "1611"
 chapter: 26
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "2 U.S.C. § 1611"
-generated_at: "2026-11-23T20:46:22.499Z"
+generated_at: "2026-11-23T20:49:21.551Z"
 status: "active"
 ---
 

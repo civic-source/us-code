@@ -3,9 +3,9 @@ title: "Section 2 - Council"
 usc_title: 20
 usc_section: "2"
 chapter: 3
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "20 U.S.C. § 2"
-generated_at: "2026-11-23T20:47:09.981Z"
+generated_at: "2026-11-23T20:50:03.677Z"
 status: "active"
 ---
 

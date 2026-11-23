@@ -3,9 +3,9 @@ title: "Section 5959 - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 S
 usc_title: 16
 usc_section: "5959"
 chapter: 79
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "16 U.S.C. § 5959"
-generated_at: "2026-11-23T20:47:16.938Z"
+generated_at: "2026-11-23T20:50:10.109Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 25a - Participation by national banks in lotteries and related a
 usc_title: 12
 usc_section: "25a"
 chapter: 2
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "12 U.S.C. § 25a"
-generated_at: "2026-11-23T20:46:53.623Z"
+generated_at: "2026-11-23T20:49:48.694Z"
 status: "active"
 ---
 

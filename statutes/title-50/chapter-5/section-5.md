@@ -3,9 +3,9 @@ title: "Section 5 - Biennial report on stockpile requirements"
 usc_title: 50
 usc_section: "5"
 chapter: 5
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "50 U.S.C. § 5"
-generated_at: "2026-11-23T20:48:24.957Z"
+generated_at: "2026-11-23T20:51:21.509Z"
 status: "active"
 ---
 

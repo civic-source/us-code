@@ -3,9 +3,9 @@ title: "Section 294e - Allied health and other disciplines"
 usc_title: 42
 usc_section: "294e"
 chapter: 6
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "42 U.S.C. § 294e"
-generated_at: "2026-11-23T20:48:15.768Z"
+generated_at: "2026-11-23T20:51:10.535Z"
 status: "active"
 ---
 

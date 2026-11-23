@@ -3,9 +3,9 @@ title: "Section 7191 - Non-regular officers: status"
 usc_title: 10
 usc_section: "7191"
 chapter: 721
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "10 U.S.C. § 7191"
-generated_at: "2026-11-23T20:46:46.197Z"
+generated_at: "2026-11-23T20:49:42.370Z"
 status: "active"
 ---
 

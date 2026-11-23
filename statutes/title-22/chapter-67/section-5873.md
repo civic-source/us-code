@@ -3,9 +3,9 @@ title: "Section 5873 - Report to Congress"
 usc_title: 22
 usc_section: "5873"
 chapter: 67
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "22 U.S.C. § 5873"
-generated_at: "2026-11-23T20:47:29.572Z"
+generated_at: "2026-11-23T20:50:20.782Z"
 status: "active"
 ---
 

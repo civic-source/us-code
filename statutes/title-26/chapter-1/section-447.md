@@ -3,9 +3,9 @@ title: "Section 447 - Method of accounting for corporations engaged in farming"
 usc_title: 26
 usc_section: "447"
 chapter: 1
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "26 U.S.C. § 447"
-generated_at: "2026-11-23T20:47:43.589Z"
+generated_at: "2026-11-23T20:50:34.229Z"
 status: "active"
 ---
 

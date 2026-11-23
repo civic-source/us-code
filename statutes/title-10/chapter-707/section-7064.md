@@ -3,9 +3,9 @@ title: "Section 7064 - Special branches"
 usc_title: 10
 usc_section: "7064"
 chapter: 707
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "10 U.S.C. § 7064"
-generated_at: "2026-11-23T20:46:46.188Z"
+generated_at: "2026-11-23T20:49:42.361Z"
 status: "active"
 ---
 

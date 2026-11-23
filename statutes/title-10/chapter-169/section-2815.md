@@ -3,9 +3,9 @@ title: "Section 2815 - Military installation resilience projects"
 usc_title: 10
 usc_section: "2815"
 chapter: 169
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "10 U.S.C. § 2815"
-generated_at: "2026-11-23T20:46:45.861Z"
+generated_at: "2026-11-23T20:49:42.032Z"
 status: "active"
 ---
 

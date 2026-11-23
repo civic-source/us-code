@@ -3,9 +3,9 @@ title: "Section 2309 - Recall to active duty with consent of member"
 usc_title: 14
 usc_section: "2309"
 chapter: 23
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "14 U.S.C. § 2309"
-generated_at: "2026-11-23T20:46:49.261Z"
+generated_at: "2026-11-23T20:49:45.853Z"
 status: "active"
 ---
 

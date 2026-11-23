@@ -3,9 +3,9 @@ title: "Section 41309 - Enforcement of reparation orders"
 usc_title: 46
 usc_section: "41309"
 chapter: 413
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "46 U.S.C. § 41309"
-generated_at: "2026-11-23T20:48:21.770Z"
+generated_at: "2026-11-23T20:51:19.390Z"
 status: "active"
 ---
 

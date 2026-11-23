@@ -3,9 +3,9 @@ title: "Section 5135 - Grants to entities for establishment of hazard mitigation
 usc_title: 42
 usc_section: "5135"
 chapter: 68
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "42 U.S.C. § 5135"
-generated_at: "2026-11-23T20:48:17.447Z"
+generated_at: "2026-11-23T20:51:12.669Z"
 status: "active"
 ---
 

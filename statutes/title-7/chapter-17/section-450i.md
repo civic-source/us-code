@@ -3,9 +3,9 @@ title: "Section 450i - Transferred"
 usc_title: 7
 usc_section: "450i"
 chapter: 17
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "7 U.S.C. § 450i"
-generated_at: "2026-11-23T20:46:35.939Z"
+generated_at: "2026-11-23T20:49:32.311Z"
 status: "transferred"
 ---
 

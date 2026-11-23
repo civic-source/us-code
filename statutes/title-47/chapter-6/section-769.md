@@ -3,9 +3,9 @@ title: "Section 769 - Definitions"
 usc_title: 47
 usc_section: "769"
 chapter: 6
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "47 U.S.C. § 769"
-generated_at: "2026-11-23T20:48:22.634Z"
+generated_at: "2026-11-23T20:51:17.666Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3424 - Nonreimbursed costs"
 usc_title: 22
 usc_section: "3424"
 chapter: 49
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "22 U.S.C. § 3424"
-generated_at: "2026-11-23T20:47:29.365Z"
+generated_at: "2026-11-23T20:50:20.655Z"
 status: "active"
 ---
 

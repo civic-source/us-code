@@ -3,9 +3,9 @@ title: "Section 807 - Art. 7. Apprehension"
 usc_title: 10
 usc_section: "807"
 chapter: 47
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "10 U.S.C. § 807"
-generated_at: "2026-11-23T20:46:45.181Z"
+generated_at: "2026-11-23T20:49:41.363Z"
 status: "active"
 ---
 

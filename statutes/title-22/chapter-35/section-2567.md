@@ -3,9 +3,9 @@ title: "Section 2567 - Presidential Special Representatives"
 usc_title: 22
 usc_section: "2567"
 chapter: 35
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "22 U.S.C. § 2567"
-generated_at: "2026-11-23T20:47:29.191Z"
+generated_at: "2026-11-23T20:50:20.501Z"
 status: "active"
 ---
 

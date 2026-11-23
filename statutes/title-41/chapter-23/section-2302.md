@@ -3,9 +3,9 @@ title: "Section 2302 - Rights in technical data"
 usc_title: 41
 usc_section: "2302"
 chapter: 23
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "41 U.S.C. § 2302"
-generated_at: "2026-11-23T20:48:00.609Z"
+generated_at: "2026-11-23T20:50:52.336Z"
 status: "active"
 ---
 

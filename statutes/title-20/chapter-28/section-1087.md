@@ -3,9 +3,9 @@ title: "Section 1087 - Repayment by Secretary of loans of bankrupt, deceased, or
 usc_title: 20
 usc_section: "1087"
 chapter: 28
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "20 U.S.C. § 1087"
-generated_at: "2026-11-23T20:47:10.219Z"
+generated_at: "2026-11-23T20:50:03.891Z"
 status: "active"
 ---
 

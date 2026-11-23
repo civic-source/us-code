@@ -3,9 +3,9 @@ title: "Section 2008j - Transferred"
 usc_title: 7
 usc_section: "2008j"
 chapter: 50
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "7 U.S.C. § 2008j"
-generated_at: "2026-11-23T20:46:36.275Z"
+generated_at: "2026-11-23T20:49:32.635Z"
 status: "transferred"
 ---
 

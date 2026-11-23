@@ -3,9 +3,9 @@ title: "Section 3122 - Definitions"
 usc_title: 42
 usc_section: "3122"
 chapter: 38
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "42 U.S.C. § 3122"
-generated_at: "2026-11-23T20:48:17.240Z"
+generated_at: "2026-11-23T20:51:12.451Z"
 status: "active"
 ---
 

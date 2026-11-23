@@ -3,9 +3,9 @@ title: "Section 2891b - Considerations of eligible entity housing history in con
 usc_title: 10
 usc_section: "2891b"
 chapter: 169
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "10 U.S.C. § 2891b"
-generated_at: "2026-11-23T20:46:45.901Z"
+generated_at: "2026-11-23T20:49:42.067Z"
 status: "active"
 ---
 

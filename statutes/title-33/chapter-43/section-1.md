@@ -3,9 +3,9 @@ title: "Section 1 - Repealed. Pub. L. 119–60, div. H, title LXXXIV, § 8408(a)
 usc_title: 33
 usc_section: "1"
 chapter: 43
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "33 U.S.C. § 1"
-generated_at: "2026-11-23T20:47:52.396Z"
+generated_at: "2026-11-23T20:50:40.952Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 47 - Employment of Indian labor and purchase of products of Indi
 usc_title: 25
 usc_section: "47"
 chapter: 2
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "25 U.S.C. § 47"
-generated_at: "2026-11-23T20:47:23.768Z"
+generated_at: "2026-11-23T20:50:13.486Z"
 status: "active"
 ---
 

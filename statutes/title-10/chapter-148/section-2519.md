@@ -3,9 +3,9 @@ title: "Section 2519 - Renumbered § 4833]"
 usc_title: 10
 usc_section: "2519"
 chapter: 148
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "10 U.S.C. § 2519"
-generated_at: "2026-11-23T20:46:45.751Z"
+generated_at: "2026-11-23T20:49:41.908Z"
 status: "renumbered"
 ---
 

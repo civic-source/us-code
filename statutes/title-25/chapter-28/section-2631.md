@@ -3,9 +3,9 @@ title: "Section 2631 - Repealed. Pub. L. 103–382, title III, § 367 , Oct. 20,
 usc_title: 25
 usc_section: "2631"
 chapter: 28
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "25 U.S.C. § 2631"
-generated_at: "2026-11-23T20:47:24.080Z"
+generated_at: "2026-11-23T20:50:13.714Z"
 status: "repealed"
 ---
 

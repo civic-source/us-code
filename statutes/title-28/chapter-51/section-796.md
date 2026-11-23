@@ -3,9 +3,9 @@ title: "Section 796 - Reporting of court proceedings"
 usc_title: 28
 usc_section: "796"
 chapter: 51
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "28 U.S.C. § 796"
-generated_at: "2026-11-23T20:47:33.547Z"
+generated_at: "2026-11-23T20:50:24.304Z"
 status: "active"
 ---
 

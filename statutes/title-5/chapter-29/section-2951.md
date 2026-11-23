@@ -3,9 +3,9 @@ title: "Section 2951 - Reports to the Office of Personnel Management"
 usc_title: 5
 usc_section: "2951"
 chapter: 29
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "5 U.S.C. § 2951"
-generated_at: "2026-11-23T20:46:27.204Z"
+generated_at: "2026-11-23T20:49:24.003Z"
 status: "active"
 ---
 

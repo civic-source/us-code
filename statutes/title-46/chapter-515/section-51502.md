@@ -3,9 +3,9 @@ title: "Section 51502 - Detailing of personnel"
 usc_title: 46
 usc_section: "51502"
 chapter: 515
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "46 U.S.C. § 51502"
-generated_at: "2026-11-23T20:48:21.798Z"
+generated_at: "2026-11-23T20:51:19.441Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 721 - Responses to safety recommendations"
 usc_title: 14
 usc_section: "721"
 chapter: 7
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "14 U.S.C. § 721"
-generated_at: "2026-11-23T20:46:49.198Z"
+generated_at: "2026-11-23T20:49:45.793Z"
 status: "active"
 ---
 

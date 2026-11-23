@@ -3,9 +3,9 @@ title: "Section 3367 - Dismissal—(Rule)"
 usc_title: 18
 usc_section: "3367"
 chapter: 217
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "18 U.S.C. § 3367"
-generated_at: "2026-11-23T20:47:04.056Z"
+generated_at: "2026-11-23T20:50:00.946Z"
 status: "active"
 ---
 

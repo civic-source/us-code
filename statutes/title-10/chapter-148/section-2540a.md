@@ -3,9 +3,9 @@ title: "Section 2540a - Renumbered § 4972]"
 usc_title: 10
 usc_section: "2540a"
 chapter: 148
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "10 U.S.C. § 2540a"
-generated_at: "2026-11-23T20:46:45.752Z"
+generated_at: "2026-11-23T20:49:41.909Z"
 status: "renumbered"
 ---
 

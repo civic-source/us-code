@@ -3,9 +3,9 @@ title: "Section 5106f - Reports"
 usc_title: 42
 usc_section: "5106f"
 chapter: 67
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "42 U.S.C. § 5106f"
-generated_at: "2026-11-23T20:48:17.434Z"
+generated_at: "2026-11-23T20:51:12.657Z"
 status: "active"
 ---
 

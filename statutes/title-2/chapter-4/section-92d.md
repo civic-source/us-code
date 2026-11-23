@@ -3,9 +3,9 @@ title: "Section 92d - Transferred"
 usc_title: 2
 usc_section: "92d"
 chapter: 4
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "2 U.S.C. § 92d"
-generated_at: "2026-11-23T20:46:22.276Z"
+generated_at: "2026-11-23T20:49:21.388Z"
 status: "transferred"
 ---
 

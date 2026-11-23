@@ -3,9 +3,9 @@ title: "Section 2024 - Authorization of appropriations"
 usc_title: 19
 usc_section: "2024"
 chapter: 8
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "19 U.S.C. § 2024"
-generated_at: "2026-11-23T20:47:06.393Z"
+generated_at: "2026-11-23T20:49:58.570Z"
 status: "active"
 ---
 

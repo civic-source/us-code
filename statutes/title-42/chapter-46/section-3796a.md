@@ -3,9 +3,9 @@ title: "Section 3796a - Transferred"
 usc_title: 42
 usc_section: "3796a"
 chapter: 46
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "42 U.S.C. § 3796a"
-generated_at: "2026-11-23T20:48:17.296Z"
+generated_at: "2026-11-23T20:51:12.515Z"
 status: "transferred"
 ---
 

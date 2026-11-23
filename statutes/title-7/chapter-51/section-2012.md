@@ -3,9 +3,9 @@ title: "Section 2012 - Definitions"
 usc_title: 7
 usc_section: "2012"
 chapter: 51
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "7 U.S.C. § 2012"
-generated_at: "2026-11-23T20:46:36.303Z"
+generated_at: "2026-11-23T20:49:32.662Z"
 status: "active"
 ---
 

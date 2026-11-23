@@ -3,9 +3,9 @@ title: "Section 1813 - Procedures for the retention of incidentally acquired com
 usc_title: 50
 usc_section: "1813"
 chapter: 36
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "50 U.S.C. § 1813"
-generated_at: "2026-11-23T20:48:25.029Z"
+generated_at: "2026-11-23T20:51:21.601Z"
 status: "active"
 ---
 

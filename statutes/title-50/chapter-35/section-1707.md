@@ -3,9 +3,9 @@ title: "Section 1707 - Multinational economic embargoes against governments in a
 usc_title: 50
 usc_section: "1707"
 chapter: 35
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "50 U.S.C. § 1707"
-generated_at: "2026-11-23T20:48:25.017Z"
+generated_at: "2026-11-23T20:51:21.588Z"
 status: "active"
 ---
 

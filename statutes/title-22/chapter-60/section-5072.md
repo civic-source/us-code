@@ -3,9 +3,9 @@ title: "Section 5072 - Repealed. Pub. L. 103–149, § 4(a)(1) , (b)(7), Nov. 23
 usc_title: 22
 usc_section: "5072"
 chapter: 60
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "22 U.S.C. § 5072"
-generated_at: "2026-11-23T20:47:29.533Z"
+generated_at: "2026-11-23T20:50:20.760Z"
 status: "repealed"
 ---
 

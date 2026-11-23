@@ -3,9 +3,9 @@ title: "Section 8214 - Limitations"
 usc_title: 38
 usc_section: "8214"
 chapter: 82
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "38 U.S.C. § 8214"
-generated_at: "2026-11-23T20:47:58.989Z"
+generated_at: "2026-11-23T20:50:49.863Z"
 status: "active"
 ---
 

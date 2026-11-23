@@ -3,9 +3,9 @@ title: "Section 1a - Cooperative program for development of tuna and other laten
 usc_title: 16
 usc_section: "1a"
 chapter: 9
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "16 U.S.C. § 1a"
-generated_at: "2026-11-23T20:47:16.326Z"
+generated_at: "2026-11-23T20:50:09.477Z"
 status: "active"
 ---
 

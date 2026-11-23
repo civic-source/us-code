@@ -3,9 +3,9 @@ title: "Section 20139 - Insurance for experimental aerospace vehicles"
 usc_title: 51
 usc_section: "20139"
 chapter: 201
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "51 U.S.C. § 20139"
-generated_at: "2026-11-23T20:48:31.114Z"
+generated_at: "2026-11-23T20:51:28.820Z"
 status: "active"
 ---
 

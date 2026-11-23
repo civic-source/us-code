@@ -3,9 +3,9 @@ title: "Section 3324 - Critical area service agreements"
 usc_title: 25
 usc_section: "3324"
 chapter: 35
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "25 U.S.C. § 3324"
-generated_at: "2026-11-23T20:47:24.118Z"
+generated_at: "2026-11-23T20:50:13.755Z"
 status: "active"
 ---
 

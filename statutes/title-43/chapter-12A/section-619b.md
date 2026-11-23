@@ -3,9 +3,9 @@ title: "Section 619b - Reimbursement of funds advanced by non-Federal purchasers
 usc_title: 43
 usc_section: "619b"
 chapter: 12
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "43 U.S.C. § 619b"
-generated_at: "2026-11-23T20:48:02.177Z"
+generated_at: "2026-11-23T20:50:54.485Z"
 status: "active"
 ---
 

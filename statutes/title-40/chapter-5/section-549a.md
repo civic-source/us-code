@@ -3,9 +3,9 @@ title: "Section 549a - Donation of personal property through nonprofit refurbish
 usc_title: 40
 usc_section: "549a"
 chapter: 5
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "40 U.S.C. § 549a"
-generated_at: "2026-11-23T20:47:54.609Z"
+generated_at: "2026-11-23T20:50:45.279Z"
 status: "active"
 ---
 

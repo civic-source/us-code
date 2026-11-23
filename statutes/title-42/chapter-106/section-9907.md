@@ -3,9 +3,9 @@ title: "Section 9907 - Uses of funds"
 usc_title: 42
 usc_section: "9907"
 chapter: 106
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "42 U.S.C. § 9907"
-generated_at: "2026-11-23T20:48:18.154Z"
+generated_at: "2026-11-23T20:51:13.383Z"
 status: "active"
 ---
 

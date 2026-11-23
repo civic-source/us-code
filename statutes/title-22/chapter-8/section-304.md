@@ -3,9 +3,9 @@ title: "Section 304 - Biannual report on overseas capital construction projects"
 usc_title: 22
 usc_section: "304"
 chapter: 8
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "22 U.S.C. § 304"
-generated_at: "2026-11-23T20:47:28.892Z"
+generated_at: "2026-11-23T20:50:20.211Z"
 status: "active"
 ---
 

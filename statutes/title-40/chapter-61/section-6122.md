@@ -3,9 +3,9 @@ title: "Section 6122 - Designation of members of the Supreme Court Police"
 usc_title: 40
 usc_section: "6122"
 chapter: 61
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "40 U.S.C. § 6122"
-generated_at: "2026-11-23T20:47:54.697Z"
+generated_at: "2026-11-23T20:50:45.352Z"
 status: "active"
 ---
 

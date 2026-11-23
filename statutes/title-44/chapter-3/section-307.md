@@ -3,9 +3,9 @@ title: "Section 307 - Director of the Government Publishing Office: night work"
 usc_title: 44
 usc_section: "307"
 chapter: 3
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "44 U.S.C. § 307"
-generated_at: "2026-11-23T20:48:01.030Z"
+generated_at: "2026-11-23T20:50:53.393Z"
 status: "active"
 ---
 

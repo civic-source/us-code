@@ -3,9 +3,9 @@ title: "Section 1516 - Presumptions concerning recognition"
 usc_title: 11
 usc_section: "1516"
 chapter: 15
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "11 U.S.C. § 1516"
-generated_at: "2026-11-23T20:46:50.110Z"
+generated_at: "2026-11-23T20:49:45.115Z"
 status: "active"
 ---
 

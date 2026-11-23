@@ -3,9 +3,9 @@ title: "Section 6351 - Transfers of real property at certain Department of Energ
 usc_title: 10
 usc_section: "6351"
 chapter: 608
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "10 U.S.C. § 6351"
-generated_at: "2026-11-23T20:46:46.166Z"
+generated_at: "2026-11-23T20:49:42.344Z"
 status: "active"
 ---
 

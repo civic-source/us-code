@@ -3,9 +3,9 @@ title: "Section 44910 - Agreements on aircraft sabotage, aircraft hijacking, and
 usc_title: 49
 usc_section: "44910"
 chapter: 449
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "49 U.S.C. § 44910"
-generated_at: "2026-11-23T20:48:28.659Z"
+generated_at: "2026-11-23T20:51:26.366Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4406 - Preemption"
 usc_title: 15
 usc_section: "4406"
 chapter: 70
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "15 U.S.C. § 4406"
-generated_at: "2026-11-23T20:46:59.659Z"
+generated_at: "2026-11-23T20:49:54.101Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 126 - No inference"
 usc_title: 4
 usc_section: "126"
 chapter: 4
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "4 U.S.C. § 126"
-generated_at: "2026-11-23T20:46:20.425Z"
+generated_at: "2026-11-23T20:49:20.263Z"
 status: "active"
 ---
 

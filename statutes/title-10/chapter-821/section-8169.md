@@ -3,9 +3,9 @@ title: "Section 8169 - Policy as to leave and liberty"
 usc_title: 10
 usc_section: "8169"
 chapter: 821
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "10 U.S.C. § 8169"
-generated_at: "2026-11-23T20:46:46.309Z"
+generated_at: "2026-11-23T20:49:42.484Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5338 - Regulations"
 usc_title: 5
 usc_section: "5338"
 chapter: 53
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "5 U.S.C. § 5338"
-generated_at: "2026-11-23T20:46:27.341Z"
+generated_at: "2026-11-23T20:49:24.147Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 142i - United States Capitol Preservation Commission; provision 
 usc_title: 2
 usc_section: "142i"
 chapter: 5
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "2 U.S.C. § 142i"
-generated_at: "2026-11-23T20:46:22.289Z"
+generated_at: "2026-11-23T20:49:21.400Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6227 - Protection of certain nuclear facilities and assets from 
 usc_title: 10
 usc_section: "6227"
 chapter: 605
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "10 U.S.C. § 6227"
-generated_at: "2026-11-23T20:46:46.150Z"
+generated_at: "2026-11-23T20:49:42.326Z"
 status: "active"
 ---
 

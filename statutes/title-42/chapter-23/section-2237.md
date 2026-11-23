@@ -3,9 +3,9 @@ title: "Section 2237 - Modification of license"
 usc_title: 42
 usc_section: "2237"
 chapter: 23
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "42 U.S.C. § 2237"
-generated_at: "2026-11-23T20:48:17.110Z"
+generated_at: "2026-11-23T20:51:12.307Z"
 status: "active"
 ---
 

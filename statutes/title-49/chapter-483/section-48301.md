@@ -3,9 +3,9 @@ title: "Section 48301 - Repealed. Pub. L. 115–254, div. K, title I, § 1991(i)
 usc_title: 49
 usc_section: "48301"
 chapter: 483
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "49 U.S.C. § 48301"
-generated_at: "2026-11-23T20:48:28.757Z"
+generated_at: "2026-11-23T20:51:26.486Z"
 status: "repealed"
 ---
 

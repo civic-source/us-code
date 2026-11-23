@@ -3,9 +3,9 @@ title: "Section 8373 - Navy Reserve and Marine Corps Reserve; officers: eliminat
 usc_title: 10
 usc_section: "8373"
 chapter: 843
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "10 U.S.C. § 8373"
-generated_at: "2026-11-23T20:46:46.347Z"
+generated_at: "2026-11-23T20:49:42.518Z"
 status: "active"
 ---
 

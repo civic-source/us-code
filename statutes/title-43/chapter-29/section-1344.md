@@ -3,9 +3,9 @@ title: "Section 1344 - Outer Continental Shelf leasing program"
 usc_title: 43
 usc_section: "1344"
 chapter: 29
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "43 U.S.C. § 1344"
-generated_at: "2026-11-23T20:48:02.211Z"
+generated_at: "2026-11-23T20:50:54.544Z"
 status: "active"
 ---
 

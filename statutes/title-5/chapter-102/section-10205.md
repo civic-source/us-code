@@ -3,9 +3,9 @@ title: "Section 10205 - Service step adjustments"
 usc_title: 5
 usc_section: "10205"
 chapter: 102
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "5 U.S.C. § 10205"
-generated_at: "2026-11-23T20:46:27.898Z"
+generated_at: "2026-11-23T20:49:24.555Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 12431 - Task force"
 usc_title: 34
 usc_section: "12431"
 chapter: 121
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "34 U.S.C. § 12431"
-generated_at: "2026-11-23T20:47:48.146Z"
+generated_at: "2026-11-23T20:50:42.018Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5406 - Agency plan"
 usc_title: 5
 usc_section: "5406"
 chapter: 54
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "5 U.S.C. § 5406"
-generated_at: "2026-11-23T20:46:27.357Z"
+generated_at: "2026-11-23T20:49:24.162Z"
 status: "active"
 ---
 

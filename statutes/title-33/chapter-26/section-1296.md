@@ -3,9 +3,9 @@ title: "Section 1296 - Determination of priority of projects"
 usc_title: 33
 usc_section: "1296"
 chapter: 26
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "33 U.S.C. § 1296"
-generated_at: "2026-11-23T20:47:52.176Z"
+generated_at: "2026-11-23T20:50:40.777Z"
 status: "active"
 ---
 

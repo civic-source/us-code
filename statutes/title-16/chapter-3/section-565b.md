@@ -3,9 +3,9 @@ title: "Section 565b - Transfer of fire lookout towers and other improvements fo
 usc_title: 16
 usc_section: "565b"
 chapter: 3
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "16 U.S.C. § 565b"
-generated_at: "2026-11-23T20:47:16.057Z"
+generated_at: "2026-11-23T20:50:09.337Z"
 status: "active"
 ---
 

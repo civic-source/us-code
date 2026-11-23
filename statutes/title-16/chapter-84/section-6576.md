@@ -3,9 +3,9 @@ title: "Section 6576 - Protections and measures"
 usc_title: 16
 usc_section: "6576"
 chapter: 84
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "16 U.S.C. § 6576"
-generated_at: "2026-11-23T20:47:16.965Z"
+generated_at: "2026-11-23T20:50:10.136Z"
 status: "active"
 ---
 

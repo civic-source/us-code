@@ -3,9 +3,9 @@ title: "Section 18753 - Civil nuclear credit program"
 usc_title: 42
 usc_section: "18753"
 chapter: 162
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "42 U.S.C. § 18753"
-generated_at: "2026-11-23T20:48:18.759Z"
+generated_at: "2026-11-23T20:51:14.035Z"
 status: "active"
 ---
 

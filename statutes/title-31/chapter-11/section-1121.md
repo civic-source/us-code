@@ -3,9 +3,9 @@ title: "Section 1121 - Progress reviews and use of performance information"
 usc_title: 31
 usc_section: "1121"
 chapter: 11
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "31 U.S.C. § 1121"
-generated_at: "2026-11-23T20:47:49.536Z"
+generated_at: "2026-11-23T20:50:38.882Z"
 status: "active"
 ---
 

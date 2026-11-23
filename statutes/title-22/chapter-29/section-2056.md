@@ -3,9 +3,9 @@ title: "Section 2056 - Administration"
 usc_title: 22
 usc_section: "2056"
 chapter: 29
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "22 U.S.C. § 2056"
-generated_at: "2026-11-23T20:47:28.986Z"
+generated_at: "2026-11-23T20:50:20.302Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9812 - Parity in mental health and substance use disorder benefi
 usc_title: 26
 usc_section: "9812"
 chapter: 100
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "26 U.S.C. § 9812"
-generated_at: "2026-11-23T20:47:44.727Z"
+generated_at: "2026-11-23T20:50:35.364Z"
 status: "active"
 ---
 

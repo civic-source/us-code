@@ -3,9 +3,9 @@ title: "Section 12e - Watsonville Area Water Recycling Project"
 usc_title: 43
 usc_section: "12e"
 chapter: 12
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "43 U.S.C. § 12e"
-generated_at: "2026-11-23T20:48:02.132Z"
+generated_at: "2026-11-23T20:50:54.399Z"
 status: "active"
 ---
 

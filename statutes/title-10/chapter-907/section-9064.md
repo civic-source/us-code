@@ -3,9 +3,9 @@ title: "Section 9064 - Air Force nurses: Chief; appointment"
 usc_title: 10
 usc_section: "9064"
 chapter: 907
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "10 U.S.C. § 9064"
-generated_at: "2026-11-23T20:46:46.497Z"
+generated_at: "2026-11-23T20:49:42.645Z"
 status: "active"
 ---
 

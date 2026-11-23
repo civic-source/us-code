@@ -3,9 +3,9 @@ title: "Section 842 - Repealed. Pub. L. 95–281, § 1(b)(3) , May 15, 1978 , 92
 usc_title: 25
 usc_section: "842"
 chapter: 14
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "25 U.S.C. § 842"
-generated_at: "2026-11-23T20:47:23.881Z"
+generated_at: "2026-11-23T20:50:13.564Z"
 status: "repealed"
 ---
 

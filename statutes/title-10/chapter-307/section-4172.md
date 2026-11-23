@@ -3,9 +3,9 @@ title: "Section 4172 - Major systems and munitions programs: survivability testi
 usc_title: 10
 usc_section: "4172"
 chapter: 307
-current_through: "PL 119-95"
+current_through: "PL 119-99"
 classification: "10 U.S.C. § 4172"
-generated_at: "2026-11-23T20:46:46.031Z"
+generated_at: "2026-11-23T20:49:42.200Z"
 status: "active"
 ---
 
