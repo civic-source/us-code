@@ -1,33 +1,65 @@
+targetSection: 18 U.S.C. § 175b
+lastSyncedET: '2026-03-31T03:35:47.188097+00:00'
+totalCases: 4
+refreshStatus:
+  source: courtlistener
+  scope: 18 U.S.C. § 175b
+  status: success-nonempty
+  observedAt: '2026-03-31T03:35:47.188097+00:00'
+  lastSuccessAt: '2026-03-31T03:35:47.188097+00:00'
+  retainedPriorSnapshot: false
+  isStale: false
 cases:
 - caseName: Poett v. United States of America
   citation: ''
   court: District
   date: '2009-09-29'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 175b"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/2667163/poett-v-united-states-of-america/
+  impact: unverified_mention
 - caseName: Poett v. United States
   citation: 657 F. Supp. 2d 230
   court: District
   date: '2009-09-29'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 175b"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/2265601/poett-v-united-states/
+  impact: unverified_mention
 - caseName: Crooker v. Transp. Sec. Admin.
   citation: 323 F. Supp. 3d 148
   court: District
   date: '2018-07-26'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 175b"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/7331327/crooker-v-transp-sec-admin/
+  impact: unverified_mention
 - caseName: Scope of the Definition of "Variola Virus" Under the Intelligence Reform
     and Terrorism Prevention Act of 2004
   citation: ''
   court: District
   date: '2008-07-24'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 175b"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/4342110/scope-of-the-definition-of-variola-virus-under-the-intelligence-reform/
-lastSyncedET: '2026-03-31T03:35:47.188097+00:00'
-targetSection: 18 U.S.C. § 175b
-totalCases: 4
+  impact: unverified_mention

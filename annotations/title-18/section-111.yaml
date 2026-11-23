@@ -1,0 +1,53 @@
+targetSection: 18 U.S.C. § 111
+lastSyncedET: '2026-11-22T06:30:00Z'
+totalCases: 2
+refreshStatus:
+  source: courtlistener
+  scope: 18 U.S.C. § 111
+  status: success-nonempty
+  observedAt: '2026-11-22T06:30:00Z'
+  lastSuccessAt: '2026-11-22T06:30:00Z'
+  retainedPriorSnapshot: false
+  isStale: false
+cases:
+- caseName: United States v. Feola
+  citation: 420 U.S. 671
+  court: SCOTUS
+  date: '1975-03-19'
+  holdingSummary: 18 U.S.C. § 111 does not require proof that the assailant knew the
+    victim was a federal officer; the federal-officer element is jurisdictional.
+  retrievalExcerpt: We hold, therefore, that in order to incur criminal liability
+    under § 111 an actor must entertain merely the criminal intent to do the acts
+    therein specified.
+  reviewedProposition: Conviction under 18 U.S.C. § 111 requires proof of intent to
+    assault, resist, or impede, but does not require that the defendant knew the victim
+    was a federal officer engaged in official duties.
+  supportingOpinionPassage: We conclude, from all this, that in order to effectuate
+    the congressional purpose of according maximum protection to federal officers
+    by making prosecution for assaults upon them cognizable in the federal courts,
+    § 111 cannot be construed as embodying an unexpressed requirement that an assailant
+    be aware that his victim is a federal officer. All the statute requires is an
+    intent to assault, not an intent to assault a federal officer.
+  retrievalQuery: '"18 U.S.C. § 111"'
+  retrievedAt: '2026-11-22T06:30:00Z'
+  extractionState: verified
+  editorialReview: accepted
+  versionAlignmentState: verified
+  sourceUrl: https://www.courtlistener.com/opinion/109220/united-states-v-feola/
+  impact: interpretation
+  statuteVersionRef: pl-119-73
+  statuteVersionNote: Interprets the core prohibition of 18 U.S.C. § 111(a)(1), whose
+    substantive assault offence elements remain intact through PL 119-73.
+- caseName: United States v. Ladner
+  citation: 149 F.2d 722
+  court: Appellate
+  date: '1945-06-12'
+  holdingSummary: Search snippet mentioning 18 U.S.C. § 111 assault on federal officer.
+  retrievalExcerpt: Search snippet mentioning 18 U.S.C. § 111 assault on federal officer.
+  retrievalQuery: '"18 U.S.C. § 111"'
+  retrievedAt: '2026-11-22T06:30:00Z'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
+  sourceUrl: https://www.courtlistener.com/opinion/1507801/ladner-v-united-states/
+  impact: unverified_mention

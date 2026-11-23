@@ -1,144 +1,272 @@
+targetSection: 18 U.S.C. § 3
+lastSyncedET: '2026-03-31T03:35:47.188097+00:00'
+totalCases: 341
+refreshStatus:
+  source: courtlistener
+  scope: 18 U.S.C. § 3
+  status: success-nonempty
+  observedAt: '2026-03-31T03:35:47.188097+00:00'
+  lastSuccessAt: '2026-03-31T03:35:47.188097+00:00'
+  retainedPriorSnapshot: false
+  isStale: false
 cases:
 - caseName: United States v. Michael White
   citation: 771 F.3d 225
   court: Appellate
   date: '2014-11-17'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 3"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/2752240/united-states-v-michael-white/
+  impact: unverified_mention
 - caseName: In re Pistotnik
   citation: 512 P.3d 729
   court: SCOTUS
   date: '2022-07-08'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 3"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/6622370/in-re-pistotnik/
+  impact: unverified_mention
 - caseName: Trung Thanh Hoang v. Holder
   citation: 641 F.3d 1157
   court: Appellate
   date: '2011-05-17'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 3"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/216850/trung-thanh-hoang-v-holder/
+  impact: unverified_mention
 - caseName: Judicial Council Order
   citation: ''
   court: Appellate
   date: '2020-04-02'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 3"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/4742109/judicial-council-order/
+  impact: unverified_mention
 - caseName: Judicial Council Order
   citation: ''
   court: Appellate
   date: '2020-04-02'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 3"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/4742452/judicial-council-order/
+  impact: unverified_mention
 - caseName: MENDEZ
   citation: 27 I. & N. Dec. 219
   court: Appellate
   date: '2018-07-01'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 3"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/6207396/mendez/
+  impact: unverified_mention
 - caseName: VALENZUELA GALLARDO
   citation: 25 I. & N. Dec. 838
   court: Appellate
   date: '2012-07-01'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 3"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/6207593/valenzuela-gallardo/
+  impact: unverified_mention
 - caseName: Agustin Valenzuela Gallardo v. William Barr
   citation: 968 F.3d 1053
   court: Appellate
   date: '2020-08-06'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 3"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/4773290/agustin-valenzuela-gallardo-v-william-barr/
+  impact: unverified_mention
 - caseName: Augustin Valenzuela Gallardo v. Loretta E. Lynch
   citation: 818 F.3d 808
   court: Appellate
   date: '2016-03-31'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 3"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/3190547/augustin-valenzuela-gallardo-v-loretta-e-lynch/
+  impact: unverified_mention
 - caseName: United States v. Calderon
   citation: 785 F.3d 847
   court: Appellate
   date: '2015-05-12'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 3"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/8442194/united-states-v-calderon/
+  impact: unverified_mention
 - caseName: United States v. Nelson Calderon
   citation: ''
   court: Appellate
   date: '2015-05-12'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 3"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/2800033/united-states-v-nelson-calderon/
+  impact: unverified_mention
 - caseName: United States v. Perez
   citation: ''
   court: District
   date: '2009-04-20'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 3"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/2668175/united-states-v-perez/
+  impact: unverified_mention
 - caseName: United States v. Gamboa-Garcia
   citation: 620 F.3d 546
   court: Appellate
   date: '2010-09-21'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 3"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/175621/united-states-v-gamboa-garcia/
+  impact: unverified_mention
 - caseName: United States v. Sheffield
   citation: ''
   court: District
   date: '2011-07-29'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 3"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/2663944/united-states-v-sheffield/
+  impact: unverified_mention
 - caseName: United States v. Vidal
   citation: 504 F.3d 1072
   court: Appellate
   date: '2007-10-10'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 3"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/1428153/united-states-v-vidal/
+  impact: unverified_mention
 - caseName: RIVENS
   citation: 25 I. & N. Dec. 623
   court: Appellate
   date: '2011-07-01'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 3"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/6207631/rivens/
+  impact: unverified_mention
 - caseName: STATE ex rel. OKLAHOMA BAR ASSOCIATION v. PISTONIK
   citation: 2020 OK 93
   court: SCOTUS
   date: '2020-11-24'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 3"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/4840565/state-ex-rel-oklahoma-bar-association-v-pistonik/
+  impact: unverified_mention
 - caseName: United States v. Gurley
   citation: ''
   court: District
   date: '2011-08-15'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 3"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/2663862/united-states-v-gurley/
+  impact: unverified_mention
 - caseName: United States v. Restrepo Martinez
   citation: ''
   court: District
   date: '2009-01-27'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 3"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/2668740/united-states-v-restrepo-martinez/
+  impact: unverified_mention
 - caseName: United States v. Runs Above
   citation: 333 F. App'x 313
   court: Appellate
   date: '2009-10-05'
   holdingSummary: ''
-  impact: interpretation
+  retrievalExcerpt: ''
+  retrievalQuery: '"18 U.S.C. § 3"'
+  retrievedAt: '2026-03-31T03:35:47.188097+00:00'
+  extractionState: candidate
+  editorialReview: unreviewed
+  versionAlignmentState: unknown
   sourceUrl: https://www.courtlistener.com/opinion/8495204/united-states-v-runs-above/
-lastSyncedET: '2026-03-31T03:35:47.188097+00:00'
-targetSection: 18 U.S.C. § 3
-totalCases: 341
+  impact: unverified_mention
