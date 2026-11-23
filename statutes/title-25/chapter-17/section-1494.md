@@ -3,9 +3,9 @@ title: "Section 1494 - Evidence of eligibility of loan for and amount of guarant
 usc_title: 25
 usc_section: "1494"
 chapter: 17
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "25 U.S.C. § 1494"
-generated_at: "2026-11-23T21:05:23.908Z"
+generated_at: "2026-11-23T21:07:24.105Z"
 status: "active"
 ---
 

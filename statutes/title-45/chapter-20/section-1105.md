@@ -3,9 +3,9 @@ title: "Section 1105 - Judicial review"
 usc_title: 45
 usc_section: "1105"
 chapter: 20
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "45 U.S.C. § 1105"
-generated_at: "2026-11-23T21:05:47.675Z"
+generated_at: "2026-11-23T21:07:49.239Z"
 status: "active"
 ---
 

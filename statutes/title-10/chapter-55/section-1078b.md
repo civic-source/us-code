@@ -3,9 +3,9 @@ title: "Section 1078b - Provision of food to certain members and dependents not 
 usc_title: 10
 usc_section: "1078b"
 chapter: 55
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "10 U.S.C. § 1078b"
-generated_at: "2026-11-23T21:05:01.967Z"
+generated_at: "2026-11-23T21:07:03.099Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1521 - Posthumous commissions"
 usc_title: 10
 usc_section: "1521"
 chapter: 77
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "10 U.S.C. § 1521"
-generated_at: "2026-11-23T21:05:02.044Z"
+generated_at: "2026-11-23T21:07:03.186Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6301 - Purpose; definitions"
 usc_title: 38
 usc_section: "6301"
 chapter: 63
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "38 U.S.C. § 6301"
-generated_at: "2026-11-23T21:05:45.871Z"
+generated_at: "2026-11-23T21:07:47.500Z"
 status: "active"
 ---
 

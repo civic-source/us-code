@@ -3,9 +3,9 @@ title: "Section 252 - Use of militia and armed forces to enforce Federal authori
 usc_title: 10
 usc_section: "252"
 chapter: 13
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "10 U.S.C. § 252"
-generated_at: "2026-11-23T21:05:01.793Z"
+generated_at: "2026-11-23T21:07:02.831Z"
 status: "active"
 ---
 

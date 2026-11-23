@@ -3,9 +3,9 @@ title: "Section 20169 - Speed limit action plans"
 usc_title: 49
 usc_section: "20169"
 chapter: 201
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "49 U.S.C. § 20169"
-generated_at: "2026-11-23T21:06:11.261Z"
+generated_at: "2026-11-23T21:08:10.594Z"
 status: "active"
 ---
 

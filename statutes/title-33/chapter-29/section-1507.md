@@ -3,9 +3,9 @@ title: "Section 1507 - Common carrier status"
 usc_title: 33
 usc_section: "1507"
 chapter: 29
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "33 U.S.C. § 1507"
-generated_at: "2026-11-23T21:05:39.449Z"
+generated_at: "2026-11-23T21:07:42.302Z"
 status: "active"
 ---
 

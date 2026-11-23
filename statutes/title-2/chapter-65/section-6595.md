@@ -3,9 +3,9 @@ title: "Section 6595 - Compensation of Administrative Assistant to Sergeant at A
 usc_title: 2
 usc_section: "6595"
 chapter: 65
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "2 U.S.C. § 6595"
-generated_at: "2026-11-23T21:04:49.162Z"
+generated_at: "2026-11-23T21:06:50.675Z"
 status: "active"
 ---
 

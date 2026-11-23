@@ -3,9 +3,9 @@ title: "Section 7842 - Optional consolidated State plans or applications"
 usc_title: 20
 usc_section: "7842"
 chapter: 70
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "20 U.S.C. § 7842"
-generated_at: "2026-11-23T21:05:16.526Z"
+generated_at: "2026-11-23T21:07:20.725Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1234i - Definitions"
 usc_title: 20
 usc_section: "1234i"
 chapter: 31
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "20 U.S.C. § 1234i"
-generated_at: "2026-11-23T21:05:16.299Z"
+generated_at: "2026-11-23T21:07:20.471Z"
 status: "active"
 ---
 

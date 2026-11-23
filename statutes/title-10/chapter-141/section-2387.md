@@ -3,9 +3,9 @@ title: "Section 2387 - Contract working dogs: requirement to transfer animals to
 usc_title: 10
 usc_section: "2387"
 chapter: 141
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "10 U.S.C. § 2387"
-generated_at: "2026-11-23T21:05:02.141Z"
+generated_at: "2026-11-23T21:07:03.299Z"
 status: "active"
 ---
 

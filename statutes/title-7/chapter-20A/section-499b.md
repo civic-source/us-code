@@ -3,9 +3,9 @@ title: "Section 499b - Unfair conduct"
 usc_title: 7
 usc_section: "499b"
 chapter: 20
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "7 U.S.C. § 499b"
-generated_at: "2026-11-23T21:04:57.113Z"
+generated_at: "2026-11-23T21:06:57.953Z"
 status: "active"
 ---
 

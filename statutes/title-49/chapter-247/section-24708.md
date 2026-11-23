@@ -3,9 +3,9 @@ title: "Section 24708 - Repealed. Pub. L. 105–134, title I, § 101(d) , (e), D
 usc_title: 49
 usc_section: "24708"
 chapter: 247
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "49 U.S.C. § 24708"
-generated_at: "2026-11-23T21:06:11.317Z"
+generated_at: "2026-11-23T21:08:10.640Z"
 status: "repealed"
 ---
 

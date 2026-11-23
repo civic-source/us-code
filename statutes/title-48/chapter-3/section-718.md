@@ -3,9 +3,9 @@ title: "Section 718 - Omitted"
 usc_title: 48
 usc_section: "718"
 chapter: 3
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "48 U.S.C. § 718"
-generated_at: "2026-11-23T21:06:06.542Z"
+generated_at: "2026-11-23T21:08:05.329Z"
 status: "omitted"
 ---
 

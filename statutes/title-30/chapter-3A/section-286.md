@@ -3,9 +3,9 @@ title: "Section 286 - Disposition of royalties and rents from potassium leases"
 usc_title: 30
 usc_section: "286"
 chapter: 3
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "30 U.S.C. § 286"
-generated_at: "2026-11-23T21:05:29.345Z"
+generated_at: "2026-11-23T21:07:29.511Z"
 status: "active"
 ---
 

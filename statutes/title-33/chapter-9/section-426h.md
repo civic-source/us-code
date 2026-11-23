@@ -3,9 +3,9 @@ title: "Section 426h - Repealed. Pub. L. 110–114, title II, § 2038(b) , Nov. 
 usc_title: 33
 usc_section: "426h"
 chapter: 9
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "33 U.S.C. § 426h"
-generated_at: "2026-11-23T21:05:39.230Z"
+generated_at: "2026-11-23T21:07:42.153Z"
 status: "repealed"
 ---
 

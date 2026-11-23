@@ -3,9 +3,9 @@ title: "Section 3113 - Accepting gifts"
 usc_title: 31
 usc_section: "3113"
 chapter: 31
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "31 U.S.C. § 3113"
-generated_at: "2026-11-23T21:05:37.321Z"
+generated_at: "2026-11-23T21:07:40.063Z"
 status: "active"
 ---
 

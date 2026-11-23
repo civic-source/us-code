@@ -3,9 +3,9 @@ title: "Section 2505 - Applications"
 usc_title: 29
 usc_section: "2505"
 chapter: 27
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "29 U.S.C. § 2505"
-generated_at: "2026-11-23T21:05:28.970Z"
+generated_at: "2026-11-23T21:07:31.781Z"
 status: "active"
 ---
 

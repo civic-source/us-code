@@ -3,9 +3,9 @@ title: "Section 272 - Establishment, functions, and activities"
 usc_title: 15
 usc_section: "272"
 chapter: 7
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "15 U.S.C. § 272"
-generated_at: "2026-11-23T21:05:09.693Z"
+generated_at: "2026-11-23T21:07:11.210Z"
 status: "active"
 ---
 

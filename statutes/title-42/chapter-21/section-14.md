@@ -3,9 +3,9 @@ title: "Section 14 - Equal Employment Opportunity Coordinating Council; establis
 usc_title: 42
 usc_section: "14"
 chapter: 21
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "42 U.S.C. § 14"
-generated_at: "2026-11-23T21:06:02.986Z"
+generated_at: "2026-11-23T21:08:01.919Z"
 status: "active"
 ---
 

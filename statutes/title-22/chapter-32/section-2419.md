@@ -3,9 +3,9 @@ title: "Section 2419 - Repealed. Pub. L. 97–113, title VII, § 734(a)(1) , Dec
 usc_title: 22
 usc_section: "2419"
 chapter: 32
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "22 U.S.C. § 2419"
-generated_at: "2026-11-23T21:05:26.398Z"
+generated_at: "2026-11-23T21:07:27.355Z"
 status: "repealed"
 ---
 

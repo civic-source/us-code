@@ -3,9 +3,9 @@ title: "Section 46104 - Delegation of authority"
 usc_title: 46
 usc_section: "46104"
 chapter: 461
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "46 U.S.C. § 46104"
-generated_at: "2026-11-23T21:06:07.791Z"
+generated_at: "2026-11-23T21:08:07.220Z"
 status: "active"
 ---
 

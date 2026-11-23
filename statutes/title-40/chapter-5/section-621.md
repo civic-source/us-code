@@ -3,9 +3,9 @@ title: "Section 621 - Definitions"
 usc_title: 40
 usc_section: "621"
 chapter: 5
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "40 U.S.C. § 621"
-generated_at: "2026-11-23T21:05:42.077Z"
+generated_at: "2026-11-23T21:07:44.828Z"
 status: "active"
 ---
 

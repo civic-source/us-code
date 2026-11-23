@@ -3,9 +3,9 @@ title: "Section 507A - Assistant Attorney General for National Security"
 usc_title: 28
 usc_section: "507A"
 chapter: 31
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "28 U.S.C. § 507A"
-generated_at: "2026-11-23T21:05:30.096Z"
+generated_at: "2026-11-23T21:07:30.543Z"
 status: "active"
 ---
 

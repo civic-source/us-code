@@ -3,9 +3,9 @@ title: "Section 284j - Definitions"
 usc_title: 16
 usc_section: "284j"
 chapter: 1
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "16 U.S.C. § 284j"
-generated_at: "2026-11-23T21:05:18.755Z"
+generated_at: "2026-11-23T21:07:16.586Z"
 status: "active"
 ---
 

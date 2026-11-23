@@ -3,9 +3,9 @@ title: "Section 1365 - Public committee; appointment; functions; report"
 usc_title: 15
 usc_section: "1365"
 chapter: 37
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "15 U.S.C. § 1365"
-generated_at: "2026-11-23T21:05:09.863Z"
+generated_at: "2026-11-23T21:07:11.356Z"
 status: "active"
 ---
 

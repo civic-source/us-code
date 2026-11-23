@@ -3,9 +3,9 @@ title: "Section 1302d - Grants for construction and refurbishing of individual h
 usc_title: 33
 usc_section: "1302d"
 chapter: 26
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "33 U.S.C. § 1302d"
-generated_at: "2026-11-23T21:05:39.376Z"
+generated_at: "2026-11-23T21:07:42.249Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 10109 - Biennial report on the spent nuclear fuel and high-level
 usc_title: 42
 usc_section: "10109"
 chapter: 108
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "42 U.S.C. § 10109"
-generated_at: "2026-11-23T21:06:03.779Z"
+generated_at: "2026-11-23T21:08:02.747Z"
 status: "active"
 ---
 

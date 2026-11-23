@@ -3,9 +3,9 @@ title: "Section 2302 - Functions of the Council; membership"
 usc_title: 36
 usc_section: "2302"
 chapter: 23
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "36 U.S.C. § 2302"
-generated_at: "2026-11-23T21:05:43.080Z"
+generated_at: "2026-11-23T21:07:45.554Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 862 - Income from sources without the United States"
 usc_title: 26
 usc_section: "862"
 chapter: 1
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "26 U.S.C. § 862"
-generated_at: "2026-11-23T21:05:34.609Z"
+generated_at: "2026-11-23T21:07:36.920Z"
 status: "active"
 ---
 

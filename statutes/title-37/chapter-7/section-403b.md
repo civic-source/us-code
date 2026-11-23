@@ -3,9 +3,9 @@ title: "Section 403b - Cost-of-living allowance in the continental United States
 usc_title: 37
 usc_section: "403b"
 chapter: 7
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "37 U.S.C. § 403b"
-generated_at: "2026-11-23T21:05:41.415Z"
+generated_at: "2026-11-23T21:07:44.375Z"
 status: "active"
 ---
 

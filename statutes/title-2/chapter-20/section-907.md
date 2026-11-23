@@ -3,9 +3,9 @@ title: "Section 907 - The baseline"
 usc_title: 2
 usc_section: "907"
 chapter: 20
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "2 U.S.C. § 907"
-generated_at: "2026-11-23T21:04:49.038Z"
+generated_at: "2026-11-23T21:06:50.583Z"
 status: "active"
 ---
 

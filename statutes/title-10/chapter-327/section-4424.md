@@ -3,9 +3,9 @@ title: "Section 4424 - Mechanisms to speed deployment of successful weapon syste
 usc_title: 10
 usc_section: "4424"
 chapter: 327
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "10 U.S.C. § 4424"
-generated_at: "2026-11-23T21:05:02.297Z"
+generated_at: "2026-11-23T21:07:03.485Z"
 status: "active"
 ---
 

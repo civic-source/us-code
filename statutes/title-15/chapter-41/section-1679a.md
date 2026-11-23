@@ -3,9 +3,9 @@ title: "Section 1679a - Definitions"
 usc_title: 15
 usc_section: "1679a"
 chapter: 41
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "15 U.S.C. § 1679a"
-generated_at: "2026-11-23T21:05:09.896Z"
+generated_at: "2026-11-23T21:07:11.385Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3678 - Notice of approval of courses"
 usc_title: 38
 usc_section: "3678"
 chapter: 36
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "38 U.S.C. § 3678"
-generated_at: "2026-11-23T21:05:45.756Z"
+generated_at: "2026-11-23T21:07:47.438Z"
 status: "active"
 ---
 

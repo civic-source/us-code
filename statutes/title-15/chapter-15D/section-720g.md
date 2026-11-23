@@ -3,9 +3,9 @@ title: "Section 720g - Study of alternative means of construction"
 usc_title: 15
 usc_section: "720g"
 chapter: 15
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "15 U.S.C. § 720g"
-generated_at: "2026-11-23T21:05:09.822Z"
+generated_at: "2026-11-23T21:07:11.320Z"
 status: "active"
 ---
 

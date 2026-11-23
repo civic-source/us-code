@@ -3,9 +3,9 @@ title: "Section 6372e - Grants for technical assistance"
 usc_title: 42
 usc_section: "6372e"
 chapter: 77
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "42 U.S.C. § 6372e"
-generated_at: "2026-11-23T21:06:03.350Z"
+generated_at: "2026-11-23T21:08:02.295Z"
 status: "active"
 ---
 

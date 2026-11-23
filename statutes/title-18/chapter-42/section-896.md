@@ -3,9 +3,9 @@ title: "Section 896 - Effect on State laws"
 usc_title: 18
 usc_section: "896"
 chapter: 42
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "18 U.S.C. § 896"
-generated_at: "2026-11-23T21:05:14.059Z"
+generated_at: "2026-11-23T21:07:14.469Z"
 status: "active"
 ---
 

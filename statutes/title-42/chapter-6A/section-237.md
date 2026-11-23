@@ -3,9 +3,9 @@ title: "Section 237 - Silvio O. Conte Senior Biomedical Research and Biomedical 
 usc_title: 42
 usc_section: "237"
 chapter: 6
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "42 U.S.C. § 237"
-generated_at: "2026-11-23T21:06:01.625Z"
+generated_at: "2026-11-23T21:08:00.565Z"
 status: "active"
 ---
 

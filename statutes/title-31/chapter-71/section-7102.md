@@ -3,9 +3,9 @@ title: "Section 7102 - Definitions"
 usc_title: 31
 usc_section: "7102"
 chapter: 71
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "31 U.S.C. § 7102"
-generated_at: "2026-11-23T21:05:37.418Z"
+generated_at: "2026-11-23T21:07:40.207Z"
 status: "active"
 ---
 

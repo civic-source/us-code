@@ -3,9 +3,9 @@ title: "Section 640 - Deferment of retirement or separation for medical reasons"
 usc_title: 10
 usc_section: "640"
 chapter: 36
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "10 U.S.C. § 640"
-generated_at: "2026-11-23T21:05:01.857Z"
+generated_at: "2026-11-23T21:07:02.930Z"
 status: "active"
 ---
 

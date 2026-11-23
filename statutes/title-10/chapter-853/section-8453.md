@@ -3,9 +3,9 @@ title: "Section 8453 - Midshipmen: appointment"
 usc_title: 10
 usc_section: "8453"
 chapter: 853
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "10 U.S.C. § 8453"
-generated_at: "2026-11-23T21:05:02.433Z"
+generated_at: "2026-11-23T21:07:03.687Z"
 status: "active"
 ---
 

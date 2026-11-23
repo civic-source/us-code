@@ -3,9 +3,9 @@ title: "Section 6435 - Authorization of appropriations"
 usc_title: 22
 usc_section: "6435"
 chapter: 73
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "22 U.S.C. § 6435"
-generated_at: "2026-11-23T21:05:26.615Z"
+generated_at: "2026-11-23T21:07:27.659Z"
 status: "active"
 ---
 

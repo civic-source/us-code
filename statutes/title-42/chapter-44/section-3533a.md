@@ -3,9 +3,9 @@ title: "Section 3533a - Transferred"
 usc_title: 42
 usc_section: "3533a"
 chapter: 44
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "42 U.S.C. § 3533a"
-generated_at: "2026-11-23T21:06:03.138Z"
+generated_at: "2026-11-23T21:08:02.084Z"
 status: "transferred"
 ---
 

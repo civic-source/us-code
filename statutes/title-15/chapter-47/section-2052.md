@@ -3,9 +3,9 @@ title: "Section 2052 - Definitions"
 usc_title: 15
 usc_section: "2052"
 chapter: 47
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "15 U.S.C. § 2052"
-generated_at: "2026-11-23T21:05:09.931Z"
+generated_at: "2026-11-23T21:07:11.416Z"
 status: "active"
 ---
 

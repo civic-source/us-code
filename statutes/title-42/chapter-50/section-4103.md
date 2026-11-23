@@ -3,9 +3,9 @@ title: "Section 4103 - Repealed. Pub. L. 103–325, title V, § 551(a) , Sept. 2
 usc_title: 42
 usc_section: "4103"
 chapter: 50
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "42 U.S.C. § 4103"
-generated_at: "2026-11-23T21:06:03.170Z"
+generated_at: "2026-11-23T21:08:02.123Z"
 status: "repealed"
 ---
 

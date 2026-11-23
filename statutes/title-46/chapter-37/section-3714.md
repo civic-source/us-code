@@ -3,9 +3,9 @@ title: "Section 3714 - Inspection and examination"
 usc_title: 46
 usc_section: "3714"
 chapter: 37
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "46 U.S.C. § 3714"
-generated_at: "2026-11-23T21:06:07.679Z"
+generated_at: "2026-11-23T21:08:07.104Z"
 status: "active"
 ---
 

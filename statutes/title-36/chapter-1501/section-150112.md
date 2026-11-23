@@ -3,9 +3,9 @@ title: "Section 150112 - Liability for acts of officers and agents"
 usc_title: 36
 usc_section: "150112"
 chapter: 1501
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "36 U.S.C. § 150112"
-generated_at: "2026-11-23T21:05:43.181Z"
+generated_at: "2026-11-23T21:07:45.633Z"
 status: "active"
 ---
 

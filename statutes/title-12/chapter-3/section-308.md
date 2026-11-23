@@ -3,9 +3,9 @@ title: "Section 308 - Terms of directors; vacancies"
 usc_title: 12
 usc_section: "308"
 chapter: 3
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "12 U.S.C. § 308"
-generated_at: "2026-11-23T21:05:06.829Z"
+generated_at: "2026-11-23T21:07:08.106Z"
 status: "active"
 ---
 

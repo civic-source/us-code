@@ -3,9 +3,9 @@ title: "Section 649c - Eligibility for consideration for promotion"
 usc_title: 10
 usc_section: "649c"
 chapter: 36
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "10 U.S.C. § 649c"
-generated_at: "2026-11-23T21:05:01.858Z"
+generated_at: "2026-11-23T21:07:02.932Z"
 status: "active"
 ---
 

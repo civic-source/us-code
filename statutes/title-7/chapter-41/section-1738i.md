@@ -3,9 +3,9 @@ title: "Section 1738i - Enterprise for the Americas Board"
 usc_title: 7
 usc_section: "1738i"
 chapter: 41
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "7 U.S.C. § 1738i"
-generated_at: "2026-11-23T21:04:57.257Z"
+generated_at: "2026-11-23T21:06:58.087Z"
 status: "active"
 ---
 

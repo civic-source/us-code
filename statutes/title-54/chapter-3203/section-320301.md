@@ -3,9 +3,9 @@ title: "Section 320301 - National monuments"
 usc_title: 54
 usc_section: "320301"
 chapter: 3203
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "54 U.S.C. § 320301"
-generated_at: "2026-11-23T21:06:13.400Z"
+generated_at: "2026-11-23T21:08:13.400Z"
 status: "active"
 ---
 
@@ -30,13 +30,13 @@ status: "active"
 | Andrew Johnson National Monument, Tennessee [Monument redesignated Andrew Johnson National Historical Site, see section 450 o of Title 16, Conservation].—Proc. No. 2554, Apr. 27, 1942 , 56 Stat. 1955 . |
 | Aniakchak National Monument, Alaska [Monument established as unit of National Park System, see section 410hh(1) of Title 16 , Conservation].—Proc. No. 4612, Dec. 1, 1978 , 93 Stat. 1448 . |
 | Arches National Monument, Utah [Monument abolished and funds made available to Arches National Park, see section 272 of Title 16 , Conservation].—Proc. No. 1875, Apr. 12, 1929 , 46 Stat. 2988 ; Proc. No. 2312, Nov. 25, 1938 , 53 Stat. 2504 ; Proc. No. 3360, July 22, 1960 , 74 Stat. c 79; Proc. No. 3887, Jan. 20, 1969 , 83 Stat. 920 . |
-| Avi Kwa Ame National Monument, Nevada.—Proc. No. 10533, Mar. 21, 2023 , 88 F.R. 17987; Ex. Ord. No. 14109, § 1(ii), Sept. 29, 2023 , 88 F.R. 68448. |
+| Avi Kwa Ame National Monument, Nevada.—Proc. No. 10533, Mar. 21, 2023 , 88 F.R. 17987; Ex. Ord. No. 14109, § 1(ii), Sept. 29, 2023 , 88 F.R. 68448; Ex. Ord. No. 14354, § 1(n), Sept. 29, 2025 , 90 F.R. 48145. |
 | Aztec Ruins National Monument, New Mexico.—Proc. No. 1650, Jan. 24, 1923 , 42 Stat. 2295 ; Proc. No. 1840, July 2, 1928 , 45 Stat. 2954 ; Proc. No. 1928, Dec. 19, 1930 , 46 Stat. 3040 ; Proc. No. 2787, May 27, 1948 , 62 Stat. 1513 ; Pub. L. 100–559, title VI , §§ 601–604, Oct. 28, 1988 , 102 Stat. 2800 . |
-| Baaj Nwaavjo I’tah Kukveni—Ancestral Footprints of the Grand Canyon National Monument, Arizona.—Proc. No. 10606, Aug. 8, 2023 , 88 F.R. 55331; Ex. Ord. No. 14109, § 1(jj), Sept. 29, 2023 , 88 F.R. 68448. |
+| Baaj Nwaavjo I’tah Kukveni—Ancestral Footprints of the Grand Canyon National Monument, Arizona.—Proc. No. 10606, Aug. 8, 2023 , 88 F.R. 55331; Ex. Ord. No. 14109, § 1(jj), Sept. 29, 2023 , 88 F.R. 68448; Ex. Ord. No. 14354, § 1(o), Sept. 29, 2025 , 90 F.R. 48145. |
 | Badlands National Monument, South Dakota [Monument redesignated Badlands National Park, see section 441e–1 of Title 16 , Conservation].—Proc. No. 2320, Jan. 25, 1939 , 53 Stat. 2521 . |
 | Bandelier National Monument, New Mexico.—Proc. No. 1322, Feb. 11, 1916 , 39 Stat. 1764 ; Proc. No. 1991, Feb. 25, 1932 , 47 Stat. 2503 ; Proc. No. 3388, Jan. 9, 1961 , 75 Stat. 1014 ; Proc. No. 3539, May 27, 1963 , 77 Stat. 1006 ; Pub. L. 94–578, title III, § 309 , Oct. 21, 1976 , 90 Stat. 2736 ; Pub. L. 105–85, div. C, title XXXI, § 3164 , Nov. 18, 1997 , 111 Stat. 2050 ; Pub. L. 105–376 , Nov. 12, 1998 , 112 Stat. 3388 . |
 | Basin and Range National Monument, Nevada.—Proc. No. 9297, July 10, 2015 , 80 F.R. 41969. |
-| Bears Ears National Monument, Utah.—Proc. No. 9558, Dec. 28, 2016 , 82 F.R. 1139; Ex. Ord. No. 13811, § 1(dd), Sept. 29, 2017 , 82 F.R. 46364; Proc. No. 9681, Dec. 4, 2017 , 82 F.R. 58081; Ex. Ord. No. 13889, § 1(aa), Sept. 27, 2019 , 84 F.R. 52744; Ex. Ord. No. 14048, § 1(aa), Sept. 30, 2021 , 86 F.R. 55466; Proc. No. 10285, Oct. 8, 2021 , 86 F.R. 57321; Ex. Ord. No. 14109, § 1(gg), Sept. 29, 2023 , 88 F.R. 68448. |
+| Bears Ears National Monument, Utah.—Proc. No. 9558, Dec. 28, 2016 , 82 F.R. 1139; Ex. Ord. No. 13811, § 1(dd), Sept. 29, 2017 , 82 F.R. 46364; Proc. No. 9681, Dec. 4, 2017 , 82 F.R. 58081; Ex. Ord. No. 13889, § 1(aa), Sept. 27, 2019 , 84 F.R. 52744; Ex. Ord. No. 14048, § 1(aa), Sept. 30, 2021 , 86 F.R. 55466; Proc. No. 10285, Oct. 8, 2021 , 86 F.R. 57321; Ex. Ord. No. 14109, § 1(gg), Sept. 29, 2023 , 88 F.R. 68448; Ex. Ord. No. 14354, § 1(l), Sept. 29, 2025 , 90 F.R. 48145. |
 | Becharof National Monument, Alaska.—Proc. No. 4613, Dec. 1, 1978 , 93 Stat. 1450 . |
 | Belmont-Paul Women’s Equality National Monument, District of Columbia.—Proc. No. 9423, Apr. 12, 2016 , 81 F.R. 22505. |
 | Bering Land Bridge National Monument, Alaska.—Proc. No. 4614, Dec. 1, 1978 , 93 Stat. 1451 . |
@@ -74,7 +74,7 @@ status: "active"
 | Chesapeake and Ohio Canal National Monument, Maryland.—Proc. No. 3391, Jan. 18, 1961 , 75 Stat. 1023 . |
 | Chimney Rock National Monument, Colorado.—Proc. No. 8868, Sept. 21, 2012 , 77 F.R. 59275. |
 | Chiricahua National Monument, Arizona.—Proc. No. 1692, Apr. 18, 1924 , 43 Stat. 1946 ; Proc. No. 2288, June 10, 1938 , 52 Stat. 1551 . |
-| Chuckwalla National Monument, California.—Proc. No. 10881, Jan. 14, 2025 , 90 F.R. 6715. |
+| Chuckwalla National Monument, California.—Proc. No. 10881, Jan. 14, 2025 , 90 F.R. 6715; Ex. Ord. No. 14354, § 1(q), Sept. 29, 2025 , 90 F.R. 48145. |
 | Cinder Cone National Monument, California.—Proc. No. 753, May 6, 1907 , 35 Stat. 2131 . |
 | Colonial National Monument, Virginia [Monument redesignated Colonial National Historical Park, see section 81 of Title 16 , Conservation].—Proc. No. 1929, Dec. 30, 1930 , 46 Stat. 3041 ; Proc. No. 2055, Aug. 22, 1933 , 48 Stat. 1706 . |
 | Colorado National Monument, Colorado.—Proc. No. 1126, May 24, 1911 , 37 Stat. 1681 ; Proc. No. 2037, Mar. 3, 1933 , 47 Stat. 2563 ; Proc. No. 3307, Aug. 7, 1959 , 73 Stat. c 69; Pub. L. 94–578, title III, § 302(a) , Oct. 21, 1976 , 90 Stat. 2734 . |
@@ -105,12 +105,12 @@ status: "active"
 | Giant Sequoia National Monument, California.—Proc. No. 7295, Apr. 15, 2000 , 65 F.R. 24095. |
 | Gila Cliff-Dwellings National Monument, New Mexico.—Proc. No. 781, Nov. 16, 1907 , 35 Stat. 2162 ; Proc. No. 3467, Apr. 17, 1962 , 76 Stat. 1465 . |
 | Glacier Bay National Monument, Alaska [Monument redesignated Glacier Bay National Park, see section 410hh–1(1) of Title 16 , Conservation].—Proc. No. 1733, Feb. 26, 1925 , 43 Stat. 1988 ; Proc. No. 2330, Apr. 18, 1939 , 53 Stat. 2534 ; Proc. No. 3089, Mar. 31, 1955 , 69 Stat. c 27; Proc. No. 4618, Dec. 1, 1978 , 93 Stat. 1458 . |
-| Gold Butte National Monument, Nevada.—Proc. No. 9559, Dec. 28, 2016 , 82 F.R. 1149; Ex. Ord. No. 13811, § 1(ee), Sept. 29, 2017 , 82 F.R. 46364; Ex. Ord. No. 13889, § 1(bb), Sept. 27, 2019 , 84 F.R. 52744; Ex. Ord. No. 14048, § 1(bb), Sept. 30, 2021 , 86 F.R. 55466; Ex. Ord. No. 14109, § 1(hh), Sept. 29, 2023 , 88 F.R. 68448. |
+| Gold Butte National Monument, Nevada.—Proc. No. 9559, Dec. 28, 2016 , 82 F.R. 1149; Ex. Ord. No. 13811, § 1(ee), Sept. 29, 2017 , 82 F.R. 46364; Ex. Ord. No. 13889, § 1(bb), Sept. 27, 2019 , 84 F.R. 52744; Ex. Ord. No. 14048, § 1(bb), Sept. 30, 2021 , 86 F.R. 55466; Ex. Ord. No. 14109, § 1(hh), Sept. 29, 2023 , 88 F.R. 68448; Ex. Ord. No. 14354, § 1(m), Sept. 29, 2025 , 90 F.R. 48145. |
 | Governors Island National Monument, New York.—Proc. No. 7402, Jan. 19, 2001 , 66 F.R. 7855; Proc. No. 7647, Feb. 7, 2003 , 68 F.R. 7053. |
 | Gran Quivira National Monument, New Mexico [Monument abolished and funds made available to Salinas National Monument by Pub. L. 96–550, title VI, § 601(b) , Dec. 19, 1980 , 94 Stat. 3231 . Salinas National Monument redesignated Salinas Pueblo Missions National Monument by Pub. L. 100–559, title I, § 101 , Oct. 28, 1988 , 102 Stat. 2797 ].—Proc. No. 882, Mar. 20, 1909 , 36 Stat. 2503 ; Proc. No. 1545, Nov. 25, 1919 , 41 Stat. 1778 . |
 | Grand Canyon National Monument, Arizona.—Proc. No. 794, Jan. 11, 1908 , 35 Stat. 2175 ; Proc. No. 2022, Dec. 22, 1932 , 47 Stat. 2547 ; Proc. No. 2393, Apr. 4, 1940 , 54 Stat. 2692 . |
 | Grand Canyon-Parashant National Monument, Arizona.—Proc. No. 7265, Jan. 11, 2000 , 65 F.R. 2825. |
-| Grand Staircase-Escalante National Monument, Utah.—Proc. No. 6920, Sept. 18, 1996 , 110 Stat. 4561 ; Pub. L. 105–335 , Oct. 31, 1998 , 112 Stat. 3139 ; Pub. L. 105–355, title II, § 201 , Nov. 6, 1998 , 112 Stat. 3252 ; Pub. L. 106–176, title III, § 307 , Mar. 10, 2000 , 114 Stat. 33 ; Proc. No. 9682, Dec. 4, 2017 , 82 F.R. 58089; Ex. Ord. No. 13889, § 1(cc), Sept. 27, 2019 , 84 F.R. 52744; Ex. Ord. No. 14048, § 1(y), Sept. 30, 2021 , 86 F.R. 55466; Proc. No. 10286, Oct. 8, 2021 , 86 F.R. 57335; Ex. Ord. No. 14109, § 1(ee), Sept. 29, 2023 , 88 F.R. 68448. |
+| Grand Staircase-Escalante National Monument, Utah.—Proc. No. 6920, Sept. 18, 1996 , 110 Stat. 4561 ; Pub. L. 105–335 , Oct. 31, 1998 , 112 Stat. 3139 ; Pub. L. 105–355, title II, § 201 , Nov. 6, 1998 , 112 Stat. 3252 ; Pub. L. 106–176, title III, § 307 , Mar. 10, 2000 , 114 Stat. 33 ; Proc. No. 9682, Dec. 4, 2017 , 82 F.R. 58089; Ex. Ord. No. 13889, § 1(cc), Sept. 27, 2019 , 84 F.R. 52744; Ex. Ord. No. 14048, § 1(y), Sept. 30, 2021 , 86 F.R. 55466; Proc. No. 10286, Oct. 8, 2021 , 86 F.R. 57335; Ex. Ord. No. 14109, § 1(ee), Sept. 29, 2023 , 88 F.R. 68448; Ex. Ord. No. 14354, § 1(v), Sept. 29, 2025 , 90 F.R. 48146. |
 | Great Sand Dunes National Monument, Colorado [Monument abolished and incorporated in Great Sand Dunes National Park, see section 410hhh–2 of Title 16 , Conservation].—Proc. No. 1994, Mar. 17, 1932 , 47 Stat. 2506 ; Proc. No. 2681, Mar. 12, 1946 , 60 Stat. 1339 ; Proc. No. 3138, June 7, 1956 , 70 Stat. c 31. |
 | Hanford Reach National Monument, Washington.—Proc. No. 7319, June 9, 2000 , 65 F.R. 37253. |
 | Harriet Tubman—Underground Railroad National Monument, Maryland.—Proc. No. 8943, Mar. 25, 2013 , 78 F.R. 18763. |
@@ -145,7 +145,7 @@ status: "active"
 | Natural Bridges National Monument, Utah.—Proc. No. 804, Apr. 16, 1908 , 35 Stat. 2183 ; Proc. No. 881, Sept. 25, 1909 , 36 Stat. 2502 ; Proc. No. 1323, Feb. 11, 1916 , 39 Stat. 1764 ; Proc. No. 3486, Aug. 14, 1962 , 76 Stat. 1495 . |
 | Navajo National Monument, Arizona.—Proc. No. 873, Mar. 20, 1909 , 36 Stat. 2491 ; Proc. No. 1186, Mar. 14, 1912 , 37 Stat. 1733 . |
 | Noatak National Monument, Alaska.—Proc. No. 4624, Dec. 1, 1978 , 93 Stat. 1468 . |
-| Northeast Canyons and Seamounts Marine National Monument, Atlantic Ocean.—Proc. No. 9496, Sept. 15, 2016 , 81 F.R. 65161; Proc. No. 10049, June 5, 2020 , 85 F.R. 35793; Proc. No. 10287, Oct. 8, 2021 , 86 F.R. 57349. |
+| Northeast Canyons and Seamounts Marine National Monument, Atlantic Ocean.—Proc. No. 9496, Sept. 15, 2016 , 81 F.R. 65161; Proc. No. 10049, June 5, 2020 , 85 F.R. 35793; Proc. No. 10287, Oct. 8, 2021 , 86 F.R. 57349, revoked by Proc. No. 11009, Feb. 6, 2026 , 91 F.R. 5739. |
 | Northwestern Hawaiian Islands Marine National Monument, Hawaii [Monument redesignated Papaha̅naumokua̅kea Marine National Monument by Proc. No. 8112, Feb. 28, 2007 , 72 F.R. 10031].—Proc. No. 8031, June 15, 2006 , 71 F.R. 36443. |
 | Ocmulgee National Monument, Georgia [Monument redesignated Ocmulgee Mounds National Historical Park, see section 410yyy–3(b)(1) of Title 16 , Conservation].—Proc. No. 2212, Dec. 23, 1936 , 50 Stat. 1798 ; Proc. No. 2493, June 13, 1941 , 55 Stat. 1654 ; Pub. L. 102–67 , July 9, 1991 , 105 Stat. 325 . |
 | Old Kasaan National Monument, Alaska [Monument abolished and incorporated in Tongass National Forest by act July 26, 1955, ch. 387 , 69 Stat. 380 ].—Proc. No. 1351, Oct. 25, 1916 , 39 Stat. 1812 . |
@@ -175,7 +175,7 @@ status: "active"
 | San Juan Islands National Monument, Washington.—Proc. No. 8947, Mar. 25, 2013 , 78 F.R. 18789; Ex. Ord. No. 13708, § 1(nn), Sept. 30, 2015 , 80 F.R. 60272; Ex. Ord. No. 13811, § 1(cc), Sept. 29, 2017 , 82 F.R. 46364; Ex. Ord. No. 13889, § 1(z), Sept. 27, 2019 , 84 F.R. 52744; Ex. Ord. No. 14048, § 1(z), Sept. 30, 2021 , 86 F.R. 55466; Ex. Ord. No. 14109, § 1(ff), Sept. 29, 2023 , 88 F.R. 68448. |
 | Sand to Snow National Monument, California.—Proc. No. 9396, Feb. 12, 2016 , 81 F.R. 8379. |
 | Santa Rosa Island National Monument, Florida.—Proc. No. 2337, May 17, 1939 , 53 Stat. 2542 ; Proc. No. 2659, Aug. 13, 1945 , 59 Stat. 877 . |
-| Sáttítla Highlands National Monument, California.—Proc. No. 10882, Jan. 14, 2025 , 90 F.R. 6727. |
+| Sáttítla Highlands National Monument, California.—Proc. No. 10882, Jan. 14, 2025 , 90 F.R. 6727; Ex. Ord. No. 14354, § 1(r), Sept. 29, 2025 , 90 F.R. 48146. |
 | Scotts Bluff National Monument, Nebraska.—Proc. No. 1547, Dec. 12, 1919 , 41 Stat. 1779 ; Proc. No. 1999, June 1, 1932 , 47 Stat. 2512 ; Proc. No. 2391, Mar. 29, 1940 , 54 Stat. 2690 . |
 | Shoshone Cavern National Monument, Wyoming [Monument abolished by act May 17, 1954, ch. 203 , 68 Stat. 98 ].—Proc. No. 880, Sept. 21, 1909 , 36 Stat. 2501 . |
 | Sieur de Monts National Monument, Maine.—Proc. No. 1339, July 8, 1916 , 39 Stat. 1785 . |
@@ -388,6 +388,8 @@ Mar. 21, 2023
 
 Sept. 29, 2023
 
+Sept. 29, 2025
+
 Jan. 24, 1923
 
 42 Stat. 2295
@@ -413,6 +415,8 @@ Oct. 28, 1988
 Aug. 8, 2023
 
 Sept. 29, 2023
+
+Sept. 29, 2025
 
 section 441e–1 of Title 16
 
@@ -469,6 +473,8 @@ Sept. 30, 2021
 Oct. 8, 2021
 
 Sept. 29, 2023
+
+Sept. 29, 2025
 
 Dec. 1, 1978
 
@@ -729,6 +735,8 @@ June 10, 1938
 52 Stat. 1551
 
 Jan. 14, 2025
+
+Sept. 29, 2025
 
 May 6, 1907
 
@@ -1020,6 +1028,8 @@ Sept. 30, 2021
 
 Sept. 29, 2023
 
+Sept. 29, 2025
+
 Jan. 19, 2001
 
 Feb. 7, 2003
@@ -1089,6 +1099,8 @@ Sept. 30, 2021
 Oct. 8, 2021
 
 Sept. 29, 2023
+
+Sept. 29, 2025
 
 section 410hhh–2 of Title 16
 
@@ -1390,6 +1402,8 @@ June 5, 2020
 
 Oct. 8, 2021
 
+Feb. 6, 2026
+
 Feb. 28, 2007
 
 June 15, 2006
@@ -1599,6 +1613,8 @@ Aug. 13, 1945
 59 Stat. 877
 
 Jan. 14, 2025
+
+Sept. 29, 2025
 
 Dec. 12, 1919
 

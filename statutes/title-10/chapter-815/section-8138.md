@@ -3,9 +3,9 @@ title: "Section 8138 - Regular Marine Corps: judge advocates"
 usc_title: 10
 usc_section: "8138"
 chapter: 815
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "10 U.S.C. § 8138"
-generated_at: "2026-11-23T21:05:02.407Z"
+generated_at: "2026-11-23T21:07:03.657Z"
 status: "active"
 ---
 

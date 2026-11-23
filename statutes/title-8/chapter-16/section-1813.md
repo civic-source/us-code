@@ -3,9 +3,9 @@ title: "Section 1813 - Electronic Visa Update System fee"
 usc_title: 8
 usc_section: "1813"
 chapter: 16
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "8 U.S.C. § 1813"
-generated_at: "2026-11-23T21:04:54.496Z"
+generated_at: "2026-11-23T21:06:55.266Z"
 status: "active"
 ---
 

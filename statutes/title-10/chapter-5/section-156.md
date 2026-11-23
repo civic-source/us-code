@@ -3,9 +3,9 @@ title: "Section 156 - Legal Counsel to the Chairman of the Joint Chiefs of Staff
 usc_title: 10
 usc_section: "156"
 chapter: 5
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "10 U.S.C. § 156"
-generated_at: "2026-11-23T21:05:01.771Z"
+generated_at: "2026-11-23T21:07:02.799Z"
 status: "active"
 ---
 

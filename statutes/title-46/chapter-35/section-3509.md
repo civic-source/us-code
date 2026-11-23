@@ -3,9 +3,9 @@ title: "Section 3509 - Medical standards"
 usc_title: 46
 usc_section: "3509"
 chapter: 35
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "46 U.S.C. § 3509"
-generated_at: "2026-11-23T21:06:07.677Z"
+generated_at: "2026-11-23T21:08:07.099Z"
 status: "active"
 ---
 

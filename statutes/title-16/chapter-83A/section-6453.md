@@ -3,9 +3,9 @@ title: "Section 6453 - Membership"
 usc_title: 16
 usc_section: "6453"
 chapter: 83
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "16 U.S.C. § 6453"
-generated_at: "2026-11-23T21:05:19.510Z"
+generated_at: "2026-11-23T21:07:17.218Z"
 status: "active"
 ---
 

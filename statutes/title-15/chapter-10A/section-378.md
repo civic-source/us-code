@@ -3,9 +3,9 @@ title: "Section 378 - Enforcement"
 usc_title: 15
 usc_section: "378"
 chapter: 10
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "15 U.S.C. § 378"
-generated_at: "2026-11-23T21:05:09.711Z"
+generated_at: "2026-11-23T21:07:11.225Z"
 status: "active"
 ---
 

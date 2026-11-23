@@ -3,9 +3,9 @@ title: "Section 4501 - Repurchase of corporate stock"
 usc_title: 26
 usc_section: "4501"
 chapter: 37
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "26 U.S.C. § 4501"
-generated_at: "2026-11-23T21:05:34.825Z"
+generated_at: "2026-11-23T21:07:37.205Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 13971 - Transferred"
 usc_title: 42
 usc_section: "13971"
 chapter: 136
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "42 U.S.C. § 13971"
-generated_at: "2026-11-23T21:06:03.996Z"
+generated_at: "2026-11-23T21:08:03.016Z"
 status: "transferred"
 ---
 

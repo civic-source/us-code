@@ -3,9 +3,9 @@ title: "Section 3301 - Rate of tax"
 usc_title: 26
 usc_section: "3301"
 chapter: 23
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "26 U.S.C. § 3301"
-generated_at: "2026-11-23T21:05:34.774Z"
+generated_at: "2026-11-23T21:07:37.145Z"
 status: "active"
 ---
 

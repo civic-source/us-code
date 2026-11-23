@@ -3,9 +3,9 @@ title: "Section 6305 - Suspension of regulations"
 usc_title: 40
 usc_section: "6305"
 chapter: 63
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "40 U.S.C. § 6305"
-generated_at: "2026-11-23T21:05:42.166Z"
+generated_at: "2026-11-23T21:07:44.876Z"
 status: "active"
 ---
 

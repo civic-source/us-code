@@ -3,9 +3,9 @@ title: "Section 12651i - VISTA Advance Payments Revolving Fund"
 usc_title: 42
 usc_section: "12651i"
 chapter: 129
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "42 U.S.C. § 12651i"
-generated_at: "2026-11-23T21:06:03.928Z"
+generated_at: "2026-11-23T21:08:02.925Z"
 status: "active"
 ---
 

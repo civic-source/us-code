@@ -3,9 +3,9 @@ title: "Section 335 - Payment of personnel expenses necessary for participation 
 usc_title: 10
 usc_section: "335"
 chapter: 16
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "10 U.S.C. § 335"
-generated_at: "2026-11-23T21:05:01.802Z"
+generated_at: "2026-11-23T21:07:02.840Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 20103 - Crime victim assistance"
 usc_title: 34
 usc_section: "20103"
 chapter: 201
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "34 U.S.C. § 20103"
-generated_at: "2026-11-23T21:05:38.210Z"
+generated_at: "2026-11-23T21:07:41.048Z"
 status: "active"
 ---
 

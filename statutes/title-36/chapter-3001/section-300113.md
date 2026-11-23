@@ -3,9 +3,9 @@ title: "Section 300113 - Reservation of right to amend or repeal"
 usc_title: 36
 usc_section: "300113"
 chapter: 3001
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "36 U.S.C. § 300113"
-generated_at: "2026-11-23T21:05:43.325Z"
+generated_at: "2026-11-23T21:07:45.742Z"
 status: "active"
 ---
 

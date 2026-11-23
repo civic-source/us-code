@@ -3,9 +3,9 @@ title: "Section 490 - Repealed. Pub. L. 117–81, div. A, title VI, § 604(a) , 
 usc_title: 37
 usc_section: "490"
 chapter: 8
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "37 U.S.C. § 490"
-generated_at: "2026-11-23T21:05:41.424Z"
+generated_at: "2026-11-23T21:07:44.391Z"
 status: "repealed"
 ---
 

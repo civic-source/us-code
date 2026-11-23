@@ -3,9 +3,9 @@ title: "Section 221 - Closing ports of entry; forfeiture of vessels seeking to e
 usc_title: 50
 usc_section: "221"
 chapter: 13
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "50 U.S.C. § 221"
-generated_at: "2026-11-23T21:06:08.904Z"
+generated_at: "2026-11-23T21:08:08.222Z"
 status: "active"
 ---
 

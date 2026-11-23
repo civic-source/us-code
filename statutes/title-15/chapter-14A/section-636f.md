@@ -3,9 +3,9 @@ title: "Section 636f - Coordination of efforts between the Administrator and the
 usc_title: 15
 usc_section: "636f"
 chapter: 14
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "15 U.S.C. § 636f"
-generated_at: "2026-11-23T21:05:09.747Z"
+generated_at: "2026-11-23T21:07:11.250Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 18814 - State manufacturing leadership"
 usc_title: 42
 usc_section: "18814"
 chapter: 162
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "42 U.S.C. § 18814"
-generated_at: "2026-11-23T21:06:04.184Z"
+generated_at: "2026-11-23T21:08:03.300Z"
 status: "active"
 ---
 

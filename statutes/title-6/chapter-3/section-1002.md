@@ -3,9 +3,9 @@ title: "Section 1002 - Homeland Security Science and Technology Advisory Committ
 usc_title: 6
 usc_section: "1002"
 chapter: 3
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "6 U.S.C. § 1002"
-generated_at: "2026-11-23T21:04:53.575Z"
+generated_at: "2026-11-23T21:06:55.979Z"
 status: "active"
 ---
 

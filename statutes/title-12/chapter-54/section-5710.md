@@ -3,9 +3,9 @@ title: "Section 5710 - Oversight and audits"
 usc_title: 12
 usc_section: "5710"
 chapter: 54
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "12 U.S.C. § 5710"
-generated_at: "2026-11-23T21:05:07.240Z"
+generated_at: "2026-11-23T21:07:08.845Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9702 - Establishment of Financial Literacy and Education Commiss
 usc_title: 20
 usc_section: "9702"
 chapter: 77
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "20 U.S.C. § 9702"
-generated_at: "2026-11-23T21:05:16.556Z"
+generated_at: "2026-11-23T21:07:20.776Z"
 status: "active"
 ---
 

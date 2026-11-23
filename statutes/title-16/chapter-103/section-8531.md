@@ -3,9 +3,9 @@ title: "Section 8531 - Definitions"
 usc_title: 16
 usc_section: "8531"
 chapter: 103
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "16 U.S.C. § 8531"
-generated_at: "2026-11-23T21:05:19.565Z"
+generated_at: "2026-11-23T21:07:17.262Z"
 status: "active"
 ---
 

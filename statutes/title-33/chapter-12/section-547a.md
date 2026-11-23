@@ -3,9 +3,9 @@ title: "Section 547a - Inclusion of regional economic development benefits in ec
 usc_title: 33
 usc_section: "547a"
 chapter: 12
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "33 U.S.C. § 547a"
-generated_at: "2026-11-23T21:05:39.250Z"
+generated_at: "2026-11-23T21:07:42.165Z"
 status: "active"
 ---
 

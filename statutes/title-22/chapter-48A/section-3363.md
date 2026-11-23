@@ -3,9 +3,9 @@ title: "Section 3363 - China censorship monitor and action group"
 usc_title: 22
 usc_section: "3363"
 chapter: 48
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "22 U.S.C. § 3363"
-generated_at: "2026-11-23T21:05:26.496Z"
+generated_at: "2026-11-23T21:07:27.497Z"
 status: "active"
 ---
 

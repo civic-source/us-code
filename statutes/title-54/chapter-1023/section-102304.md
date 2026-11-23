@@ -3,9 +3,9 @@ title: "Section 102304 - National Park Service Advisory Council"
 usc_title: 54
 usc_section: "102304"
 chapter: 1023
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "54 U.S.C. § 102304"
-generated_at: "2026-11-23T21:06:13.373Z"
+generated_at: "2026-11-23T21:08:13.365Z"
 status: "active"
 ---
 

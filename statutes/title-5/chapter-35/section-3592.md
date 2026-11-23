@@ -3,9 +3,9 @@ title: "Section 3592 - Removal from the Senior Executive Service"
 usc_title: 5
 usc_section: "3592"
 chapter: 35
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "5 U.S.C. § 3592"
-generated_at: "2026-11-23T21:04:51.076Z"
+generated_at: "2026-11-23T21:06:52.678Z"
 status: "active"
 ---
 

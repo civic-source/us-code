@@ -3,9 +3,9 @@ title: "Section 225f - Property transfer"
 usc_title: 24
 usc_section: "225f"
 chapter: 4
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "24 U.S.C. § 225f"
-generated_at: "2026-11-23T21:05:21.059Z"
+generated_at: "2026-11-23T21:07:22.521Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 526 - Authorized strength: general officers and flag officers on
 usc_title: 10
 usc_section: "526"
 chapter: 32
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "10 U.S.C. § 526"
-generated_at: "2026-11-23T21:05:01.836Z"
+generated_at: "2026-11-23T21:07:02.890Z"
 status: "active"
 ---
 

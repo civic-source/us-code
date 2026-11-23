@@ -3,9 +3,9 @@ title: "Section 7688 - Armor-piercing ammunition and components: condition on di
 usc_title: 10
 usc_section: "7688"
 chapter: 773
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "10 U.S.C. § 7688"
-generated_at: "2026-11-23T21:05:02.388Z"
+generated_at: "2026-11-23T21:07:03.626Z"
 status: "active"
 ---
 

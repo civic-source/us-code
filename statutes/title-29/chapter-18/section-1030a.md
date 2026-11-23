@@ -3,9 +3,9 @@ title: "Section 1030a - Eliminating unnecessary plan requirements related to une
 usc_title: 29
 usc_section: "1030a"
 chapter: 18
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "29 U.S.C. § 1030a"
-generated_at: "2026-11-23T21:05:28.874Z"
+generated_at: "2026-11-23T21:07:31.689Z"
 status: "active"
 ---
 

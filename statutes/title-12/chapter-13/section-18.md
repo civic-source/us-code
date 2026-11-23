@@ -3,9 +3,9 @@ title: "Section 18 - Information regarding early defaults and foreclosures on in
 usc_title: 12
 usc_section: "18"
 chapter: 13
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "12 U.S.C. § 18"
-generated_at: "2026-11-23T21:05:06.959Z"
+generated_at: "2026-11-23T21:07:08.346Z"
 status: "active"
 ---
 

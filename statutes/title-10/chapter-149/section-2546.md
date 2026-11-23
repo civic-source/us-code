@@ -3,9 +3,9 @@ title: "Section 2546 - Renumbered § 3103]"
 usc_title: 10
 usc_section: "2546"
 chapter: 149
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "10 U.S.C. § 2546"
-generated_at: "2026-11-23T21:05:02.156Z"
+generated_at: "2026-11-23T21:07:03.316Z"
 status: "renumbered"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 30111 - Administrative provisions"
 usc_title: 52
 usc_section: "30111"
 chapter: 301
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "52 U.S.C. § 30111"
-generated_at: "2026-11-23T21:06:13.840Z"
+generated_at: "2026-11-23T21:08:13.009Z"
 status: "active"
 ---
 

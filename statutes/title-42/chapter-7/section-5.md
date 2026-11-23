@@ -3,9 +3,9 @@ title: "Section 5 - Federal Interagency Council on Social Impact Partnerships"
 usc_title: 42
 usc_section: "5"
 chapter: 7
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "42 U.S.C. § 5"
-generated_at: "2026-11-23T21:06:02.777Z"
+generated_at: "2026-11-23T21:08:01.730Z"
 status: "active"
 ---
 

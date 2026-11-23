@@ -3,9 +3,9 @@ title: "Section 2476 - Minimum capital investment for certain depots"
 usc_title: 10
 usc_section: "2476"
 chapter: 146
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "10 U.S.C. § 2476"
-generated_at: "2026-11-23T21:05:02.150Z"
+generated_at: "2026-11-23T21:07:03.310Z"
 status: "active"
 ---
 

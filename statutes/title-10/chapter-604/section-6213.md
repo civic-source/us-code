@@ -3,9 +3,9 @@ title: "Section 6213 - Continuation of processing, treatment, and disposal of le
 usc_title: 10
 usc_section: "6213"
 chapter: 604
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "10 U.S.C. § 6213"
-generated_at: "2026-11-23T21:05:02.337Z"
+generated_at: "2026-11-23T21:07:03.534Z"
 status: "active"
 ---
 

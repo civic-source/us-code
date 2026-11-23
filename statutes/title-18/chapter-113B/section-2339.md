@@ -3,9 +3,9 @@ title: "Section 2339 - Harboring or concealing terrorists"
 usc_title: 18
 usc_section: "2339"
 chapter: 113
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "18 U.S.C. § 2339"
-generated_at: "2026-11-23T21:05:14.184Z"
+generated_at: "2026-11-23T21:07:14.569Z"
 status: "active"
 ---
 

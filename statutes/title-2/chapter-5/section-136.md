@@ -3,9 +3,9 @@ title: "Section 136 - Librarian of Congress; rules and regulations"
 usc_title: 2
 usc_section: "136"
 chapter: 5
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "2 U.S.C. § 136"
-generated_at: "2026-11-23T21:04:48.961Z"
+generated_at: "2026-11-23T21:06:50.532Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1407 - Persons living in and born in Guam"
 usc_title: 8
 usc_section: "1407"
 chapter: 12
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "8 U.S.C. § 1407"
-generated_at: "2026-11-23T21:04:54.438Z"
+generated_at: "2026-11-23T21:06:55.229Z"
 status: "active"
 ---
 

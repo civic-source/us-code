@@ -3,9 +3,9 @@ title: "Section 78kk - Authorization of appropriations"
 usc_title: 15
 usc_section: "78kk"
 chapter: 2
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "15 U.S.C. § 78kk"
-generated_at: "2026-11-23T21:05:09.650Z"
+generated_at: "2026-11-23T21:07:11.170Z"
 status: "active"
 ---
 

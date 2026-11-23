@@ -3,9 +3,9 @@ title: "Section 4204 - Ineligibility to file valid declarations"
 usc_title: 12
 usc_section: "4204"
 chapter: 43
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "12 U.S.C. § 4204"
-generated_at: "2026-11-23T21:05:07.128Z"
+generated_at: "2026-11-23T21:07:08.680Z"
 status: "active"
 ---
 

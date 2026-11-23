@@ -3,9 +3,9 @@ title: "Section 4626 - Repealed. Pub. L. 100–297, title I, § 1003(e) , Apr. 2
 usc_title: 20
 usc_section: "4626"
 chapter: 58
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "20 U.S.C. § 4626"
-generated_at: "2026-11-23T21:05:16.430Z"
+generated_at: "2026-11-23T21:07:20.590Z"
 status: "repealed"
 ---
 

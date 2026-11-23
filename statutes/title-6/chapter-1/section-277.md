@@ -3,9 +3,9 @@ title: "Section 277 - Report on responding to fluctuating needs"
 usc_title: 6
 usc_section: "277"
 chapter: 1
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "6 U.S.C. § 277"
-generated_at: "2026-11-23T21:04:53.462Z"
+generated_at: "2026-11-23T21:06:55.902Z"
 status: "active"
 ---
 

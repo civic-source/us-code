@@ -3,9 +3,9 @@ title: "Section 5174a - Flexibility"
 usc_title: 42
 usc_section: "5174a"
 chapter: 68
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "42 U.S.C. § 5174a"
-generated_at: "2026-11-23T21:06:03.252Z"
+generated_at: "2026-11-23T21:08:02.197Z"
 status: "active"
 ---
 

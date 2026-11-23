@@ -3,9 +3,9 @@ title: "Section 82 - Aid in acquisition of collections"
 usc_title: 20
 usc_section: "82"
 chapter: 4
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "20 U.S.C. § 82"
-generated_at: "2026-11-23T21:05:16.077Z"
+generated_at: "2026-11-23T21:07:20.181Z"
 status: "active"
 ---
 

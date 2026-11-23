@@ -3,9 +3,9 @@ title: "Section 1490q - Disaster assistance"
 usc_title: 42
 usc_section: "1490q"
 chapter: 8
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "42 U.S.C. § 1490q"
-generated_at: "2026-11-23T21:06:02.875Z"
+generated_at: "2026-11-23T21:08:01.817Z"
 status: "active"
 ---
 

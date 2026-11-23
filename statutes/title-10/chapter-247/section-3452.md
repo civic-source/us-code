@@ -3,9 +3,9 @@ title: "Section 3452 - Relationship of other provisions of law to procurement of
 usc_title: 10
 usc_section: "3452"
 chapter: 247
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "10 U.S.C. § 3452"
-generated_at: "2026-11-23T21:05:02.252Z"
+generated_at: "2026-11-23T21:07:03.430Z"
 status: "active"
 ---
 

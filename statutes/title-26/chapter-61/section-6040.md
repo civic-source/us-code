@@ -3,9 +3,9 @@ title: "Section 6040 - Cross references"
 usc_title: 26
 usc_section: "6040"
 chapter: 61
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "26 U.S.C. § 6040"
-generated_at: "2026-11-23T21:05:34.908Z"
+generated_at: "2026-11-23T21:07:37.309Z"
 status: "active"
 ---
 

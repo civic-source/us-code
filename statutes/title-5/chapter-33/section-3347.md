@@ -3,9 +3,9 @@ title: "Section 3347 - Exclusivity"
 usc_title: 5
 usc_section: "3347"
 chapter: 33
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "5 U.S.C. § 3347"
-generated_at: "2026-11-23T21:04:51.061Z"
+generated_at: "2026-11-23T21:06:52.663Z"
 status: "active"
 ---
 

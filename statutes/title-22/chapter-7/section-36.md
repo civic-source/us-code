@@ -3,9 +3,9 @@ title: "Section 36 - Sale of excess land"
 usc_title: 22
 usc_section: "36"
 chapter: 7
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "22 U.S.C. § 36"
-generated_at: "2026-11-23T21:05:26.197Z"
+generated_at: "2026-11-23T21:07:27.095Z"
 status: "active"
 ---
 

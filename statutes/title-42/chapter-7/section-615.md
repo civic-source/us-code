@@ -3,9 +3,9 @@ title: "Section 615 - Waivers"
 usc_title: 42
 usc_section: "615"
 chapter: 7
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "42 U.S.C. § 615"
-generated_at: "2026-11-23T21:06:02.238Z"
+generated_at: "2026-11-23T21:08:01.106Z"
 status: "active"
 ---
 

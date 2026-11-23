@@ -3,9 +3,9 @@ title: "Section 6041 - Withholding of foreign assistance from countries supporti
 usc_title: 22
 usc_section: "6041"
 chapter: 69
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "22 U.S.C. § 6041"
-generated_at: "2026-11-23T21:05:26.598Z"
+generated_at: "2026-11-23T21:07:27.635Z"
 status: "active"
 ---
 

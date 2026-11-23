@@ -3,9 +3,9 @@ title: "Section 1668 - Reporting duties of Governor and transfer of functions fr
 usc_title: 48
 usc_section: "1668"
 chapter: 13
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "48 U.S.C. § 1668"
-generated_at: "2026-11-23T21:06:06.575Z"
+generated_at: "2026-11-23T21:08:05.358Z"
 status: "active"
 ---
 

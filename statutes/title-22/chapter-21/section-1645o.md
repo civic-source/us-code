@@ -3,9 +3,9 @@ title: "Section 1645o - Separability"
 usc_title: 22
 usc_section: "1645o"
 chapter: 21
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "22 U.S.C. § 1645o"
-generated_at: "2026-11-23T21:05:26.293Z"
+generated_at: "2026-11-23T21:07:27.215Z"
 status: "active"
 ---
 

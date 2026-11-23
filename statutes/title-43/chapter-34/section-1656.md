@@ -3,9 +3,9 @@ title: "Section 1656 - Civil penalties"
 usc_title: 43
 usc_section: "1656"
 chapter: 34
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "43 U.S.C. § 1656"
-generated_at: "2026-11-23T21:05:49.631Z"
+generated_at: "2026-11-23T21:07:50.237Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6822 - Administrative enforcement"
 usc_title: 15
 usc_section: "6822"
 chapter: 94
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "15 U.S.C. § 6822"
-generated_at: "2026-11-23T21:05:10.081Z"
+generated_at: "2026-11-23T21:07:11.562Z"
 status: "active"
 ---
 

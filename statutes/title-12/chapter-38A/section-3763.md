@@ -3,9 +3,9 @@ title: "Section 3763 - Transfer of title and possession"
 usc_title: 12
 usc_section: "3763"
 chapter: 38
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "12 U.S.C. § 3763"
-generated_at: "2026-11-23T21:05:07.115Z"
+generated_at: "2026-11-23T21:07:08.654Z"
 status: "active"
 ---
 

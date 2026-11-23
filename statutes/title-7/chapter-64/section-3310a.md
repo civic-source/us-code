@@ -3,9 +3,9 @@ title: "Section 3310a - Research equipment grants"
 usc_title: 7
 usc_section: "3310a"
 chapter: 64
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "7 U.S.C. § 3310a"
-generated_at: "2026-11-23T21:04:57.424Z"
+generated_at: "2026-11-23T21:06:58.232Z"
 status: "active"
 ---
 

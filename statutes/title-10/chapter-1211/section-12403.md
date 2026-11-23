@@ -3,9 +3,9 @@ title: "Section 12403 - Army and Air National Guard of the United States: member
 usc_title: 10
 usc_section: "12403"
 chapter: 1211
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "10 U.S.C. § 12403"
-generated_at: "2026-11-23T21:05:02.548Z"
+generated_at: "2026-11-23T21:07:03.893Z"
 status: "active"
 ---
 

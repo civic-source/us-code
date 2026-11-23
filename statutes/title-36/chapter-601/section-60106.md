@@ -3,9 +3,9 @@ title: "Section 60106 - Powers"
 usc_title: 36
 usc_section: "60106"
 chapter: 601
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "36 U.S.C. § 60106"
-generated_at: "2026-11-23T21:05:43.145Z"
+generated_at: "2026-11-23T21:07:45.603Z"
 status: "active"
 ---
 

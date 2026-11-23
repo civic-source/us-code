@@ -3,9 +3,9 @@ title: "Section 2211d - Additional authorities"
 usc_title: 22
 usc_section: "2211d"
 chapter: 32
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "22 U.S.C. § 2211d"
-generated_at: "2026-11-23T21:05:26.338Z"
+generated_at: "2026-11-23T21:07:27.280Z"
 status: "active"
 ---
 

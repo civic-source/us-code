@@ -3,9 +3,9 @@ title: "Section 8303 - Replacement"
 usc_title: 10
 usc_section: "8303"
 chapter: 837
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "10 U.S.C. § 8303"
-generated_at: "2026-11-23T21:05:02.420Z"
+generated_at: "2026-11-23T21:07:03.671Z"
 status: "active"
 ---
 

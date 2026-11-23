@@ -3,9 +3,9 @@ title: "Section 6873 - Data consolidation and publication"
 usc_title: 16
 usc_section: "6873"
 chapter: 87
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "16 U.S.C. § 6873"
-generated_at: "2026-11-23T21:05:19.528Z"
+generated_at: "2026-11-23T21:07:17.234Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1342 - Institution of termination proceedings by the corporation
 usc_title: 29
 usc_section: "1342"
 chapter: 18
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "29 U.S.C. § 1342"
-generated_at: "2026-11-23T21:05:28.941Z"
+generated_at: "2026-11-23T21:07:31.753Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1681c - Requirements relating to information contained in consum
 usc_title: 15
 usc_section: "1681c"
 chapter: 41
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "15 U.S.C. § 1681c"
-generated_at: "2026-11-23T21:05:09.900Z"
+generated_at: "2026-11-23T21:07:11.389Z"
 status: "active"
 ---
 

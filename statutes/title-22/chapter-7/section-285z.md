@@ -3,9 +3,9 @@ title: "Section 285z - Additional contribution to special funds; authorization o
 usc_title: 22
 usc_section: "285z"
 chapter: 7
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "22 U.S.C. § 285z"
-generated_at: "2026-11-23T21:05:26.219Z"
+generated_at: "2026-11-23T21:07:27.115Z"
 status: "active"
 ---
 

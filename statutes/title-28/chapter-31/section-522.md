@@ -3,9 +3,9 @@ title: "Section 522 - Report of business and statistics"
 usc_title: 28
 usc_section: "522"
 chapter: 31
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "28 U.S.C. § 522"
-generated_at: "2026-11-23T21:05:30.100Z"
+generated_at: "2026-11-23T21:07:30.548Z"
 status: "active"
 ---
 

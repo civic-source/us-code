@@ -3,9 +3,9 @@ title: "Section 690i - Omitted"
 usc_title: 16
 usc_section: "690i"
 chapter: 6
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "16 U.S.C. § 690i"
-generated_at: "2026-11-23T21:05:19.134Z"
+generated_at: "2026-11-23T21:07:16.881Z"
 status: "omitted"
 ---
 

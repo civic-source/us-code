@@ -3,9 +3,9 @@ title: "Section 409 - Special provisions concerning the Agency for International
 usc_title: 5
 usc_section: "409"
 chapter: 4
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "5 U.S.C. § 409"
-generated_at: "2026-11-23T21:04:50.940Z"
+generated_at: "2026-11-23T21:06:52.528Z"
 status: "active"
 ---
 

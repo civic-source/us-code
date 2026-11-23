@@ -3,9 +3,9 @@ title: "Section 132a - Appropriations for increase of general library"
 usc_title: 2
 usc_section: "132a"
 chapter: 5
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "2 U.S.C. § 132a"
-generated_at: "2026-11-23T21:04:48.959Z"
+generated_at: "2026-11-23T21:06:50.531Z"
 status: "active"
 ---
 

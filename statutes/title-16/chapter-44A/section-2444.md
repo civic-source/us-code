@@ -3,9 +3,9 @@ title: "Section 2444 - Severability"
 usc_title: 16
 usc_section: "2444"
 chapter: 44
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "16 U.S.C. § 2444"
-generated_at: "2026-11-23T21:05:19.398Z"
+generated_at: "2026-11-23T21:07:17.116Z"
 status: "active"
 ---
 

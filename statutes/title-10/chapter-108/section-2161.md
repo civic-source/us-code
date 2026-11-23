@@ -3,9 +3,9 @@ title: "Section 2161 - Repealed. Pub. L. 116–92, div. E, title LIII, § 5324(e
 usc_title: 10
 usc_section: "2161"
 chapter: 108
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "10 U.S.C. § 2161"
-generated_at: "2026-11-23T21:05:02.098Z"
+generated_at: "2026-11-23T21:07:03.246Z"
 status: "repealed"
 ---
 

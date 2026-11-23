@@ -3,9 +3,9 @@ title: "Section 2749 - Repealed. Pub. L. 93–203, title VI, § 614 , Dec. 28, 1
 usc_title: 42
 usc_section: "2749"
 chapter: 34
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "42 U.S.C. § 2749"
-generated_at: "2026-11-23T21:06:03.068Z"
+generated_at: "2026-11-23T21:08:01.988Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 491 - Tokens or paper used as money"
 usc_title: 18
 usc_section: "491"
 chapter: 25
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "18 U.S.C. § 491"
-generated_at: "2026-11-23T21:05:14.033Z"
+generated_at: "2026-11-23T21:07:14.442Z"
 status: "active"
 ---
 

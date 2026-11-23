@@ -3,9 +3,9 @@ title: "Section 1106 - Duties of trustee and examiner"
 usc_title: 11
 usc_section: "1106"
 chapter: 11
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "11 U.S.C. § 1106"
-generated_at: "2026-11-23T21:05:04.727Z"
+generated_at: "2026-11-23T21:07:05.631Z"
 status: "active"
 ---
 

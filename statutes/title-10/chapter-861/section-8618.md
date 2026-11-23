@@ -3,9 +3,9 @@ title: "Section 8618 - Marine Corps Heritage Center and National Museum of the M
 usc_title: 10
 usc_section: "8618"
 chapter: 861
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "10 U.S.C. § 8618"
-generated_at: "2026-11-23T21:05:02.446Z"
+generated_at: "2026-11-23T21:07:03.712Z"
 status: "active"
 ---
 

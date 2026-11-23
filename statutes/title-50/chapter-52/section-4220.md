@@ -3,9 +3,9 @@ title: "Section 4220 - Entitlements to eligible individuals"
 usc_title: 50
 usc_section: "4220"
 chapter: 52
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "50 U.S.C. § 4220"
-generated_at: "2026-11-23T21:06:09.086Z"
+generated_at: "2026-11-23T21:08:08.479Z"
 status: "active"
 ---
 

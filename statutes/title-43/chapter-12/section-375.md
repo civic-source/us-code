@@ -3,9 +3,9 @@ title: "Section 375 - Sale of land improved at expense of reclamation fund"
 usc_title: 43
 usc_section: "375"
 chapter: 12
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "43 U.S.C. § 375"
-generated_at: "2026-11-23T21:05:49.443Z"
+generated_at: "2026-11-23T21:07:50.129Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7451 - Transferred"
 usc_title: 15
 usc_section: "7451"
 chapter: 100
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "15 U.S.C. § 7451"
-generated_at: "2026-11-23T21:05:10.102Z"
+generated_at: "2026-11-23T21:07:11.578Z"
 status: "transferred"
 ---
 

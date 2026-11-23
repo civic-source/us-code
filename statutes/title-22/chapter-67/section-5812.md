@@ -3,9 +3,9 @@ title: "Section 5812 - Program coordination, implementation, and oversight"
 usc_title: 22
 usc_section: "5812"
 chapter: 67
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "22 U.S.C. § 5812"
-generated_at: "2026-11-23T21:05:26.587Z"
+generated_at: "2026-11-23T21:07:27.622Z"
 status: "active"
 ---
 

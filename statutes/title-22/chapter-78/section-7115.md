@@ -3,9 +3,9 @@ title: "Section 7115 - Ensuring protection and confidentiality for survivors of 
 usc_title: 22
 usc_section: "7115"
 chapter: 78
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "22 U.S.C. § 7115"
-generated_at: "2026-11-23T21:05:26.643Z"
+generated_at: "2026-11-23T21:07:27.700Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 53502 - Regulations"
 usc_title: 46
 usc_section: "53502"
 chapter: 535
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "46 U.S.C. § 53502"
-generated_at: "2026-11-23T21:06:07.830Z"
+generated_at: "2026-11-23T21:08:07.253Z"
 status: "active"
 ---
 

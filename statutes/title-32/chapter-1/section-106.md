@@ -3,9 +3,9 @@ title: "Section 106 - Annual appropriations"
 usc_title: 32
 usc_section: "106"
 chapter: 1
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "32 U.S.C. § 106"
-generated_at: "2026-11-23T21:05:36.637Z"
+generated_at: "2026-11-23T21:07:38.761Z"
 status: "active"
 ---
 

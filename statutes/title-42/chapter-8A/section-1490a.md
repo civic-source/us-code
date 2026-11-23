@@ -3,9 +3,9 @@ title: "Section 1490a - Loans to provide occupant owned, rental, and cooperative
 usc_title: 42
 usc_section: "1490a"
 chapter: 8
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "42 U.S.C. § 1490a"
-generated_at: "2026-11-23T21:06:02.869Z"
+generated_at: "2026-11-23T21:08:01.812Z"
 status: "active"
 ---
 

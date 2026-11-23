@@ -3,9 +3,9 @@ title: "Section 13126 - Reports to Congress"
 usc_title: 5
 usc_section: "13126"
 chapter: 131
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "5 U.S.C. § 13126"
-generated_at: "2026-11-23T21:04:51.508Z"
+generated_at: "2026-11-23T21:06:53.102Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2927 - Child care subsidy program"
 usc_title: 14
 usc_section: "2927"
 chapter: 29
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "14 U.S.C. § 2927"
-generated_at: "2026-11-23T21:05:04.286Z"
+generated_at: "2026-11-23T21:07:06.169Z"
 status: "active"
 ---
 

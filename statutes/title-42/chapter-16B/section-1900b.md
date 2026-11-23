@@ -3,9 +3,9 @@ title: "Section 1900b - Amendment, modification, or repeal of authorizations for
 usc_title: 42
 usc_section: "1900b"
 chapter: 16
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "42 U.S.C. § 1900b"
-generated_at: "2026-11-23T21:06:02.961Z"
+generated_at: "2026-11-23T21:08:01.894Z"
 status: "active"
 ---
 

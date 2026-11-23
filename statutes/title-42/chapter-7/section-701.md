@@ -3,9 +3,9 @@ title: "Section 701 - Authorization of appropriations; purposes; definitions"
 usc_title: 42
 usc_section: "701"
 chapter: 7
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "42 U.S.C. § 701"
-generated_at: "2026-11-23T21:06:02.292Z"
+generated_at: "2026-11-23T21:08:01.147Z"
 status: "active"
 ---
 

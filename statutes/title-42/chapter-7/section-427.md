@@ -3,9 +3,9 @@ title: "Section 427 - Transitional insured status for purposes of old-age and su
 usc_title: 42
 usc_section: "427"
 chapter: 7
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "42 U.S.C. § 427"
-generated_at: "2026-11-23T21:06:02.212Z"
+generated_at: "2026-11-23T21:08:01.085Z"
 status: "active"
 ---
 

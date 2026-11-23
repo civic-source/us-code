@@ -3,9 +3,9 @@ title: "Section 4818 - Data collection authority of President"
 usc_title: 10
 usc_section: "4818"
 chapter: 382
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "10 U.S.C. § 4818"
-generated_at: "2026-11-23T21:05:02.308Z"
+generated_at: "2026-11-23T21:07:03.500Z"
 status: "active"
 ---
 

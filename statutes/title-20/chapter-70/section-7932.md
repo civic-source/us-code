@@ -3,9 +3,9 @@ title: "Section 7932 - Technical assistance"
 usc_title: 20
 usc_section: "7932"
 chapter: 70
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "20 U.S.C. § 7932"
-generated_at: "2026-11-23T21:05:16.533Z"
+generated_at: "2026-11-23T21:07:20.737Z"
 status: "active"
 ---
 

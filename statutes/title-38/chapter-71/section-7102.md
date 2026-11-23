@@ -3,9 +3,9 @@ title: "Section 7102 - Assignment of members of Board"
 usc_title: 38
 usc_section: "7102"
 chapter: 71
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "38 U.S.C. § 7102"
-generated_at: "2026-11-23T21:05:45.876Z"
+generated_at: "2026-11-23T21:07:47.502Z"
 status: "active"
 ---
 

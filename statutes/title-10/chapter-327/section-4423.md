@@ -3,9 +3,9 @@ title: "Section 4423 - Repealed. Pub. L. 119–60, div. A, title VIII, § 811(a)
 usc_title: 10
 usc_section: "4423"
 chapter: 327
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "10 U.S.C. § 4423"
-generated_at: "2026-11-23T21:05:02.297Z"
+generated_at: "2026-11-23T21:07:03.485Z"
 status: "repealed"
 ---
 

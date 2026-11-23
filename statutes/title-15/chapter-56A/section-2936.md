@@ -3,9 +3,9 @@ title: "Section 2936 - Scientific assessment"
 usc_title: 15
 usc_section: "2936"
 chapter: 56
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "15 U.S.C. § 2936"
-generated_at: "2026-11-23T21:05:10.004Z"
+generated_at: "2026-11-23T21:07:11.480Z"
 status: "active"
 ---
 

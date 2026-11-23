@@ -3,9 +3,9 @@ title: "Section 10 - GAO report"
 usc_title: 42
 usc_section: "10"
 chapter: 55
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "42 U.S.C. § 10"
-generated_at: "2026-11-23T21:06:03.192Z"
+generated_at: "2026-11-23T21:08:02.142Z"
 status: "active"
 ---
 

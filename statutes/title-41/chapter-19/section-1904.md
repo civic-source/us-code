@@ -3,9 +3,9 @@ title: "Section 1904 - Certain transactions for defense against attack"
 usc_title: 41
 usc_section: "1904"
 chapter: 19
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "41 U.S.C. § 1904"
-generated_at: "2026-11-23T21:05:48.198Z"
+generated_at: "2026-11-23T21:07:49.454Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 119a - Programs managed under alternative compensatory control m
 usc_title: 10
 usc_section: "119a"
 chapter: 2
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "10 U.S.C. § 119a"
-generated_at: "2026-11-23T21:05:01.752Z"
+generated_at: "2026-11-23T21:07:02.766Z"
 status: "active"
 ---
 

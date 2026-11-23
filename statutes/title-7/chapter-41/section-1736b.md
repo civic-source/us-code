@@ -3,9 +3,9 @@ title: "Section 1736b - Expiration date"
 usc_title: 7
 usc_section: "1736b"
 chapter: 41
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "7 U.S.C. § 1736b"
-generated_at: "2026-11-23T21:04:57.250Z"
+generated_at: "2026-11-23T21:06:58.080Z"
 status: "active"
 ---
 

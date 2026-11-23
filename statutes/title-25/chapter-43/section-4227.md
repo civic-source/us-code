@@ -3,9 +3,9 @@ title: "Section 4227 - Regulations"
 usc_title: 25
 usc_section: "4227"
 chapter: 43
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "25 U.S.C. § 4227"
-generated_at: "2026-11-23T21:05:24.029Z"
+generated_at: "2026-11-23T21:07:24.263Z"
 status: "active"
 ---
 

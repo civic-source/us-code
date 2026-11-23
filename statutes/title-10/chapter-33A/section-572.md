@@ -3,9 +3,9 @@ title: "Section 572 - Warrant officers: original appointment; service credit"
 usc_title: 10
 usc_section: "572"
 chapter: 33
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "10 U.S.C. § 572"
-generated_at: "2026-11-23T21:05:01.838Z"
+generated_at: "2026-11-23T21:07:02.895Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 509a - Project beneficiaries"
 usc_title: 43
 usc_section: "509a"
 chapter: 12
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "43 U.S.C. § 509a"
-generated_at: "2026-11-23T21:05:49.480Z"
+generated_at: "2026-11-23T21:07:50.163Z"
 status: "active"
 ---
 

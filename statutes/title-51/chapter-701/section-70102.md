@@ -3,9 +3,9 @@ title: "Section 70102 - Space launch system use policy"
 usc_title: 51
 usc_section: "70102"
 chapter: 701
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "51 U.S.C. § 70102"
-generated_at: "2026-11-23T21:06:13.701Z"
+generated_at: "2026-11-23T21:08:12.789Z"
 status: "active"
 ---
 

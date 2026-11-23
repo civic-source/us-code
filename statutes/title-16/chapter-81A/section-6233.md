@@ -3,9 +3,9 @@ title: "Section 6233 - Implementation"
 usc_title: 16
 usc_section: "6233"
 chapter: 81
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "16 U.S.C. § 6233"
-generated_at: "2026-11-23T21:05:19.503Z"
+generated_at: "2026-11-23T21:07:17.212Z"
 status: "active"
 ---
 

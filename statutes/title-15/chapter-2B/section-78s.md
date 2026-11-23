@@ -3,9 +3,9 @@ title: "Section 78s - Registration, responsibilities, and oversight of self-regu
 usc_title: 15
 usc_section: "78s"
 chapter: 2
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "15 U.S.C. § 78s"
-generated_at: "2026-11-23T21:05:09.633Z"
+generated_at: "2026-11-23T21:07:11.158Z"
 status: "active"
 ---
 

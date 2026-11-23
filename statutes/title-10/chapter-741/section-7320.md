@@ -3,9 +3,9 @@ title: "Section 7320 - More than thirty years: permanent professors and the Dire
 usc_title: 10
 usc_section: "7320"
 chapter: 741
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "10 U.S.C. § 7320"
-generated_at: "2026-11-23T21:05:02.362Z"
+generated_at: "2026-11-23T21:07:03.581Z"
 status: "active"
 ---
 

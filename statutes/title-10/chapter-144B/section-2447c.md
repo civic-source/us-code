@@ -3,9 +3,9 @@ title: "Section 2447c - Renumbered § 4423]"
 usc_title: 10
 usc_section: "2447c"
 chapter: 144
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "10 U.S.C. § 2447c"
-generated_at: "2026-11-23T21:05:02.145Z"
+generated_at: "2026-11-23T21:07:03.304Z"
 status: "renumbered"
 ---
 

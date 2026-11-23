@@ -3,9 +3,9 @@ title: "Section 1274 - Component rivers and adjacent lands"
 usc_title: 16
 usc_section: "1274"
 chapter: 28
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "16 U.S.C. § 1274"
-generated_at: "2026-11-23T21:05:19.276Z"
+generated_at: "2026-11-23T21:07:17.007Z"
 status: "active"
 ---
 

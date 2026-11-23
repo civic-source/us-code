@@ -3,9 +3,9 @@ title: "Section 2414a - Annual report to Congress on voting practices at United 
 usc_title: 22
 usc_section: "2414a"
 chapter: 32
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "22 U.S.C. § 2414a"
-generated_at: "2026-11-23T21:05:26.394Z"
+generated_at: "2026-11-23T21:07:27.354Z"
 status: "active"
 ---
 

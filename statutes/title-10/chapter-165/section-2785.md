@@ -3,9 +3,9 @@ title: "Section 2785 - Remittance addresses: regulation of alterations"
 usc_title: 10
 usc_section: "2785"
 chapter: 165
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "10 U.S.C. § 2785"
-generated_at: "2026-11-23T21:05:02.201Z"
+generated_at: "2026-11-23T21:07:03.372Z"
 status: "active"
 ---
 

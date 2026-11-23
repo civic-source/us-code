@@ -3,9 +3,9 @@ title: "Section 1856 - Transfer of bartered materials to supplemental stockpile;
 usc_title: 7
 usc_section: "1856"
 chapter: 46
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "7 U.S.C. § 1856"
-generated_at: "2026-11-23T21:04:57.264Z"
+generated_at: "2026-11-23T21:06:58.092Z"
 status: "active"
 ---
 

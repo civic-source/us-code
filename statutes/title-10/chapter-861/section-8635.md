@@ -3,9 +3,9 @@ title: "Section 8635 - Establishment of the Southern Sea Otter Military Readines
 usc_title: 10
 usc_section: "8635"
 chapter: 861
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "10 U.S.C. § 8635"
-generated_at: "2026-11-23T21:05:02.449Z"
+generated_at: "2026-11-23T21:07:03.716Z"
 status: "active"
 ---
 

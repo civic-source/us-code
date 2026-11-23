@@ -3,9 +3,9 @@ title: "Section 44105 - Suspension and revocation of aircraft certificates"
 usc_title: 49
 usc_section: "44105"
 chapter: 441
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "49 U.S.C. § 44105"
-generated_at: "2026-11-23T21:06:11.547Z"
+generated_at: "2026-11-23T21:08:10.884Z"
 status: "active"
 ---
 

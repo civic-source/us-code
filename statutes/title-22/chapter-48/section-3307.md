@@ -3,9 +3,9 @@ title: "Section 3307 - Exemption from taxation"
 usc_title: 22
 usc_section: "3307"
 chapter: 48
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "22 U.S.C. § 3307"
-generated_at: "2026-11-23T21:05:26.493Z"
+generated_at: "2026-11-23T21:07:27.489Z"
 status: "active"
 ---
 

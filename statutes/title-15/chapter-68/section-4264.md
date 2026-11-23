@@ -3,9 +3,9 @@ title: "Section 4264 - Repealed. Pub. L. 102–555, § 4 , Oct. 28, 1992 , 106 S
 usc_title: 15
 usc_section: "4264"
 chapter: 68
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "15 U.S.C. § 4264"
-generated_at: "2026-11-23T21:05:10.035Z"
+generated_at: "2026-11-23T21:07:11.513Z"
 status: "repealed"
 ---
 

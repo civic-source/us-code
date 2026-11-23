@@ -3,9 +3,9 @@ title: "Section 102 - Attendance of witnesses"
 usc_title: 43
 usc_section: "102"
 chapter: 4
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "43 U.S.C. § 102"
-generated_at: "2026-11-23T21:05:49.428Z"
+generated_at: "2026-11-23T21:07:50.116Z"
 status: "active"
 ---
 

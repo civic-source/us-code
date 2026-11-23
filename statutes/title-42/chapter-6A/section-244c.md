@@ -3,9 +3,9 @@ title: "Section 244c - Cardiomyopathy research"
 usc_title: 42
 usc_section: "244c"
 chapter: 6
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "42 U.S.C. § 244c"
-generated_at: "2026-11-23T21:06:01.644Z"
+generated_at: "2026-11-23T21:08:00.586Z"
 status: "active"
 ---
 

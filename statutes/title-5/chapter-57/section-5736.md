@@ -3,9 +3,9 @@ title: "Section 5736 - Travel, transportation, and relocation expenses of certai
 usc_title: 5
 usc_section: "5736"
 chapter: 57
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "5 U.S.C. § 5736"
-generated_at: "2026-11-23T21:04:51.229Z"
+generated_at: "2026-11-23T21:06:52.827Z"
 status: "active"
 ---
 

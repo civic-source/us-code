@@ -3,9 +3,9 @@ title: "Section 7212 - Attempts to interfere with administration of internal rev
 usc_title: 26
 usc_section: "7212"
 chapter: 75
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "26 U.S.C. § 7212"
-generated_at: "2026-11-23T21:05:35.010Z"
+generated_at: "2026-11-23T21:07:37.422Z"
 status: "active"
 ---
 

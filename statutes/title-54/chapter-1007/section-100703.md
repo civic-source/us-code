@@ -3,9 +3,9 @@ title: "Section 100703 - Cooperative study units"
 usc_title: 54
 usc_section: "100703"
 chapter: 1007
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "54 U.S.C. § 100703"
-generated_at: "2026-11-23T21:06:13.352Z"
+generated_at: "2026-11-23T21:08:13.335Z"
 status: "active"
 ---
 

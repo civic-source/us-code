@@ -3,9 +3,9 @@ title: "Section 1f - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Sta
 usc_title: 16
 usc_section: "1f"
 chapter: 1
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "16 U.S.C. § 1f"
-generated_at: "2026-11-23T21:05:18.675Z"
+generated_at: "2026-11-23T21:07:16.529Z"
 status: "repealed"
 ---
 

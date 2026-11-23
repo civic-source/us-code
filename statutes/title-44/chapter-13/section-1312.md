@@ -3,9 +3,9 @@ title: "Section 1312 - Director of Public Health of District of Columbia: report
 usc_title: 44
 usc_section: "1312"
 chapter: 13
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "44 U.S.C. § 1312"
-generated_at: "2026-11-23T21:05:48.665Z"
+generated_at: "2026-11-23T21:07:48.954Z"
 status: "active"
 ---
 

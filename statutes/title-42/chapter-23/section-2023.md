@@ -3,9 +3,9 @@ title: "Section 2023 - State authority to regulate radiation below level of regu
 usc_title: 42
 usc_section: "2023"
 chapter: 23
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "42 U.S.C. § 2023"
-generated_at: "2026-11-23T21:06:03.005Z"
+generated_at: "2026-11-23T21:08:01.937Z"
 status: "active"
 ---
 

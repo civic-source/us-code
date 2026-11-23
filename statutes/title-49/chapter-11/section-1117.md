@@ -3,9 +3,9 @@ title: "Section 1117 - Methodology"
 usc_title: 49
 usc_section: "1117"
 chapter: 11
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "49 U.S.C. § 1117"
-generated_at: "2026-11-23T21:06:11.062Z"
+generated_at: "2026-11-23T21:08:10.450Z"
 status: "active"
 ---
 

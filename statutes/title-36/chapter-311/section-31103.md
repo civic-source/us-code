@@ -3,9 +3,9 @@ title: "Section 31103 - Membership"
 usc_title: 36
 usc_section: "31103"
 chapter: 311
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "36 U.S.C. § 31103"
-generated_at: "2026-11-23T21:05:43.124Z"
+generated_at: "2026-11-23T21:07:45.592Z"
 status: "active"
 ---
 

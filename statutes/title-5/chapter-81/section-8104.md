@@ -3,9 +3,9 @@ title: "Section 8104 - Vocational rehabilitation"
 usc_title: 5
 usc_section: "8104"
 chapter: 81
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "5 U.S.C. § 8104"
-generated_at: "2026-11-23T21:04:51.310Z"
+generated_at: "2026-11-23T21:06:52.903Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 70051 - Regulation of anchorage and movement of vessels during n
 usc_title: 46
 usc_section: "70051"
 chapter: 700
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "46 U.S.C. § 70051"
-generated_at: "2026-11-23T21:06:07.930Z"
+generated_at: "2026-11-23T21:08:07.309Z"
 status: "active"
 ---
 

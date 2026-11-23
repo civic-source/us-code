@@ -3,9 +3,9 @@ title: "Section 312 - Definition"
 usc_title: 6
 usc_section: "312"
 chapter: 1
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "6 U.S.C. § 312"
-generated_at: "2026-11-23T21:04:53.468Z"
+generated_at: "2026-11-23T21:06:55.906Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2409 - Enforcement"
 usc_title: 16
 usc_section: "2409"
 chapter: 44
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "16 U.S.C. § 2409"
-generated_at: "2026-11-23T21:05:19.396Z"
+generated_at: "2026-11-23T21:07:17.114Z"
 status: "active"
 ---
 

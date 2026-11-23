@@ -3,9 +3,9 @@ title: "Section 16105 - General criminal penalty when specific penalty not provi
 usc_title: 49
 usc_section: "16105"
 chapter: 161
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "49 U.S.C. § 16105"
-generated_at: "2026-11-23T21:06:11.234Z"
+generated_at: "2026-11-23T21:08:10.580Z"
 status: "active"
 ---
 

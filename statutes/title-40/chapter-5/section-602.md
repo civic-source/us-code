@@ -3,9 +3,9 @@ title: "Section 602 - Authority to establish motor vehicle pools and transportat
 usc_title: 40
 usc_section: "602"
 chapter: 5
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "40 U.S.C. § 602"
-generated_at: "2026-11-23T21:05:42.071Z"
+generated_at: "2026-11-23T21:07:44.825Z"
 status: "active"
 ---
 

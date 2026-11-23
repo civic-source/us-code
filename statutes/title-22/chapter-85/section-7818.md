@@ -3,9 +3,9 @@ title: "Section 7818 - National registry of Korean American divided families"
 usc_title: 22
 usc_section: "7818"
 chapter: 85
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "22 U.S.C. § 7818"
-generated_at: "2026-11-23T21:05:26.663Z"
+generated_at: "2026-11-23T21:07:27.732Z"
 status: "active"
 ---
 

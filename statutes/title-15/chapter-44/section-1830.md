@@ -3,9 +3,9 @@ title: "Section 1830 - Omitted"
 usc_title: 15
 usc_section: "1830"
 chapter: 44
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "15 U.S.C. § 1830"
-generated_at: "2026-11-23T21:05:09.929Z"
+generated_at: "2026-11-23T21:07:11.412Z"
 status: "omitted"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1748h - Omitted"
 usc_title: 12
 usc_section: "1748h"
 chapter: 13
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "12 U.S.C. § 1748h"
-generated_at: "2026-11-23T21:05:06.964Z"
+generated_at: "2026-11-23T21:07:08.357Z"
 status: "omitted"
 ---
 

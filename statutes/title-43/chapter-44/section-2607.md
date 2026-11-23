@@ -3,9 +3,9 @@ title: "Section 2607 - Protection of Oregon and California Railroad grant lands"
 usc_title: 43
 usc_section: "2607"
 chapter: 44
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "43 U.S.C. § 2607"
-generated_at: "2026-11-23T21:05:49.680Z"
+generated_at: "2026-11-23T21:07:50.271Z"
 status: "active"
 ---
 

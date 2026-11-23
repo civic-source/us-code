@@ -3,9 +3,9 @@ title: "Section 951 - Right of way for water transportation, domestic purposes, 
 usc_title: 43
 usc_section: "951"
 chapter: 22
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "43 U.S.C. § 951"
-generated_at: "2026-11-23T21:05:49.532Z"
+generated_at: "2026-11-23T21:07:50.189Z"
 status: "active"
 ---
 

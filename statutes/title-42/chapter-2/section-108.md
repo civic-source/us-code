@@ -3,9 +3,9 @@ title: "Section 108 - Repealed. July 1, 1944, ch. 373 , title XIII, § 1313, 58 
 usc_title: 42
 usc_section: "108"
 chapter: 2
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "42 U.S.C. § 108"
-generated_at: "2026-11-23T21:06:01.589Z"
+generated_at: "2026-11-23T21:08:00.539Z"
 status: "repealed"
 ---
 

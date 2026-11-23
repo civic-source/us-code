@@ -3,9 +3,9 @@ title: "Section 1491 - Claims against United States generally; actions involving
 usc_title: 28
 usc_section: "1491"
 chapter: 91
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "28 U.S.C. § 1491"
-generated_at: "2026-11-23T21:05:30.159Z"
+generated_at: "2026-11-23T21:07:30.592Z"
 status: "active"
 ---
 

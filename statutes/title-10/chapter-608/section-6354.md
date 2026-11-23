@@ -3,9 +3,9 @@ title: "Section 6354 - Pilot program relating to use of proceeds of disposal or 
 usc_title: 10
 usc_section: "6354"
 chapter: 608
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "10 U.S.C. § 6354"
-generated_at: "2026-11-23T21:05:02.345Z"
+generated_at: "2026-11-23T21:07:03.549Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2912 - Preservation of electronic messages and other records"
 usc_title: 44
 usc_section: "2912"
 chapter: 29
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "44 U.S.C. § 2912"
-generated_at: "2026-11-23T21:05:48.707Z"
+generated_at: "2026-11-23T21:07:48.984Z"
 status: "active"
 ---
 

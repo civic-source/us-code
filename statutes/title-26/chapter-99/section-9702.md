@@ -3,9 +3,9 @@ title: "Section 9702 - Establishment of the United Mine Workers of America Combi
 usc_title: 26
 usc_section: "9702"
 chapter: 99
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "26 U.S.C. § 9702"
-generated_at: "2026-11-23T21:05:35.078Z"
+generated_at: "2026-11-23T21:07:37.485Z"
 status: "active"
 ---
 

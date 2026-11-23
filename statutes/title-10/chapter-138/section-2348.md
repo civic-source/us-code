@@ -3,9 +3,9 @@ title: "Section 2348 - Inventories of supplies not to be increased"
 usc_title: 10
 usc_section: "2348"
 chapter: 138
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "10 U.S.C. § 2348"
-generated_at: "2026-11-23T21:05:02.135Z"
+generated_at: "2026-11-23T21:07:03.291Z"
 status: "active"
 ---
 

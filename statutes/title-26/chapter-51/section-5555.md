@@ -3,9 +3,9 @@ title: "Section 5555 - Records, statements, and returns"
 usc_title: 26
 usc_section: "5555"
 chapter: 51
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "26 U.S.C. § 5555"
-generated_at: "2026-11-23T21:05:34.886Z"
+generated_at: "2026-11-23T21:07:37.286Z"
 status: "active"
 ---
 

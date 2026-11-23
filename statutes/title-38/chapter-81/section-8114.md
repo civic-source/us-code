@@ -3,9 +3,9 @@ title: "Section 8114 - Use of federally owned facilities; use of personnel"
 usc_title: 38
 usc_section: "8114"
 chapter: 81
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "38 U.S.C. § 8114"
-generated_at: "2026-11-23T21:05:45.962Z"
+generated_at: "2026-11-23T21:07:47.551Z"
 status: "active"
 ---
 

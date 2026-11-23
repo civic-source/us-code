@@ -3,9 +3,9 @@ title: "Section 6247b - Purchase of oil from marginal wells"
 usc_title: 42
 usc_section: "6247b"
 chapter: 77
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "42 U.S.C. § 6247b"
-generated_at: "2026-11-23T21:06:03.306Z"
+generated_at: "2026-11-23T21:08:02.250Z"
 status: "active"
 ---
 

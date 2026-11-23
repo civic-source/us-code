@@ -3,9 +3,9 @@ title: "Section 399g - Food and Drug Administration Intercenter Institutes"
 usc_title: 21
 usc_section: "399g"
 chapter: 9
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "21 U.S.C. § 399g"
-generated_at: "2026-11-23T21:05:22.730Z"
+generated_at: "2026-11-23T21:07:25.142Z"
 status: "active"
 ---
 

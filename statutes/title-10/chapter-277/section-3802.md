@@ -3,9 +3,9 @@ title: "Section 3802 - Payment"
 usc_title: 10
 usc_section: "3802"
 chapter: 277
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "10 U.S.C. § 3802"
-generated_at: "2026-11-23T21:05:02.264Z"
+generated_at: "2026-11-23T21:07:03.446Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1018 - Judicial review"
 usc_title: 45
 usc_section: "1018"
 chapter: 19
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "45 U.S.C. § 1018"
-generated_at: "2026-11-23T21:05:47.674Z"
+generated_at: "2026-11-23T21:07:49.238Z"
 status: "active"
 ---
 

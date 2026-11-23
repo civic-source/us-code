@@ -3,9 +3,9 @@ title: "Section 10601 - Transferred"
 usc_title: 42
 usc_section: "10601"
 chapter: 112
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "42 U.S.C. § 10601"
-generated_at: "2026-11-23T21:06:03.820Z"
+generated_at: "2026-11-23T21:08:02.790Z"
 status: "transferred"
 ---
 

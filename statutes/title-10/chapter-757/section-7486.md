@@ -3,9 +3,9 @@ title: "Section 7486 - Academy of Health Sciences: admission of civilians in phy
 usc_title: 10
 usc_section: "7486"
 chapter: 757
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "10 U.S.C. § 7486"
-generated_at: "2026-11-23T21:05:02.380Z"
+generated_at: "2026-11-23T21:07:03.611Z"
 status: "active"
 ---
 

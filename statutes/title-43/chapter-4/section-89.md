@@ -3,9 +3,9 @@ title: "Section 89 - Monthly returns of district land offices"
 usc_title: 43
 usc_section: "89"
 chapter: 4
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "43 U.S.C. § 89"
-generated_at: "2026-11-23T21:05:49.427Z"
+generated_at: "2026-11-23T21:07:50.115Z"
 status: "active"
 ---
 

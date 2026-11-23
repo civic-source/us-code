@@ -3,9 +3,9 @@ title: "Section 2461 - Authority to extend preferences"
 usc_title: 19
 usc_section: "2461"
 chapter: 12
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "19 U.S.C. § 2461"
-generated_at: "2026-11-23T21:05:13.091Z"
+generated_at: "2026-11-23T21:07:18.301Z"
 status: "active"
 ---
 

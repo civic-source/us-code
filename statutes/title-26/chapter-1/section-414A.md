@@ -3,9 +3,9 @@ title: "Section 414A - Requirements related to automatic enrollment"
 usc_title: 26
 usc_section: "414A"
 chapter: 1
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "26 U.S.C. § 414A"
-generated_at: "2026-11-23T21:05:34.474Z"
+generated_at: "2026-11-23T21:07:36.743Z"
 status: "active"
 ---
 

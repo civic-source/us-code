@@ -3,9 +3,9 @@ title: "Section 1059f - Native American-serving, nontribal institutions"
 usc_title: 20
 usc_section: "1059f"
 chapter: 28
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "20 U.S.C. § 1059f"
-generated_at: "2026-11-23T21:05:16.138Z"
+generated_at: "2026-11-23T21:07:20.257Z"
 status: "active"
 ---
 

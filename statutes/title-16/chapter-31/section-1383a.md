@@ -3,9 +3,9 @@ title: "Section 1383a - Interim exemption for commercial fisheries"
 usc_title: 16
 usc_section: "1383a"
 chapter: 31
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "16 U.S.C. § 1383a"
-generated_at: "2026-11-23T21:05:19.305Z"
+generated_at: "2026-11-23T21:07:17.034Z"
 status: "active"
 ---
 

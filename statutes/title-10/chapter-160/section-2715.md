@@ -3,9 +3,9 @@ title: "Section 2715 - Testing for perfluoroalkyl substances and polyfluoroalkyl
 usc_title: 10
 usc_section: "2715"
 chapter: 160
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "10 U.S.C. § 2715"
-generated_at: "2026-11-23T21:05:02.194Z"
+generated_at: "2026-11-23T21:07:03.364Z"
 status: "active"
 ---
 

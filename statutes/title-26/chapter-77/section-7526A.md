@@ -3,9 +3,9 @@ title: "Section 7526A - Return preparation programs for applicable taxpayers"
 usc_title: 26
 usc_section: "7526A"
 chapter: 77
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "26 U.S.C. § 7526A"
-generated_at: "2026-11-23T21:05:35.036Z"
+generated_at: "2026-11-23T21:07:37.446Z"
 status: "active"
 ---
 

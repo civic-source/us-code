@@ -3,9 +3,9 @@ title: "Section 18041 - State flexibility in operation and enforcement of Exchan
 usc_title: 42
 usc_section: "18041"
 chapter: 157
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "42 U.S.C. § 18041"
-generated_at: "2026-11-23T21:06:04.148Z"
+generated_at: "2026-11-23T21:08:03.239Z"
 status: "active"
 ---
 

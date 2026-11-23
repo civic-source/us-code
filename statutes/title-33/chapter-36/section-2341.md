@@ -3,9 +3,9 @@ title: "Section 2341 - Expedited actions for emergency flood damage reduction"
 usc_title: 33
 usc_section: "2341"
 chapter: 36
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "33 U.S.C. § 2341"
-generated_at: "2026-11-23T21:05:39.533Z"
+generated_at: "2026-11-23T21:07:42.350Z"
 status: "active"
 ---
 

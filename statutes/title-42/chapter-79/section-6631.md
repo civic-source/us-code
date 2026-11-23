@@ -3,9 +3,9 @@ title: "Section 6631 - Establishment of Committee"
 usc_title: 42
 usc_section: "6631"
 chapter: 79
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "42 U.S.C. § 6631"
-generated_at: "2026-11-23T21:06:03.365Z"
+generated_at: "2026-11-23T21:08:02.313Z"
 status: "active"
 ---
 

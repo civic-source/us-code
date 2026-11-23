@@ -3,9 +3,9 @@ title: "Section 20501 - Organization"
 usc_title: 36
 usc_section: "20501"
 chapter: 205
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "36 U.S.C. § 20501"
-generated_at: "2026-11-23T21:05:43.091Z"
+generated_at: "2026-11-23T21:07:45.561Z"
 status: "active"
 ---
 

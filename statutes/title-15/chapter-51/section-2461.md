@@ -3,9 +3,9 @@ title: "Section 2461 - Audit, review, and evaluation"
 usc_title: 15
 usc_section: "2461"
 chapter: 51
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "15 U.S.C. § 2461"
-generated_at: "2026-11-23T21:05:09.966Z"
+generated_at: "2026-11-23T21:07:11.450Z"
 status: "active"
 ---
 

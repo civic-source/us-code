@@ -3,9 +3,9 @@ title: "Section 6338 - University-based research collaboration program"
 usc_title: 10
 usc_section: "6338"
 chapter: 608
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "10 U.S.C. § 6338"
-generated_at: "2026-11-23T21:05:02.345Z"
+generated_at: "2026-11-23T21:07:03.547Z"
 status: "active"
 ---
 

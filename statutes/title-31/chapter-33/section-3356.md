@@ -3,9 +3,9 @@ title: "Section 3356 - Improving the use of data by executive agencies for curbi
 usc_title: 31
 usc_section: "3356"
 chapter: 33
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "31 U.S.C. § 3356"
-generated_at: "2026-11-23T21:05:37.333Z"
+generated_at: "2026-11-23T21:07:40.082Z"
 status: "active"
 ---
 

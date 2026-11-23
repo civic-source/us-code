@@ -3,9 +3,9 @@ title: "Section 6946 - Procedure for development and implementation of State pla
 usc_title: 42
 usc_section: "6946"
 chapter: 82
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "42 U.S.C. § 6946"
-generated_at: "2026-11-23T21:06:03.390Z"
+generated_at: "2026-11-23T21:08:02.355Z"
 status: "active"
 ---
 

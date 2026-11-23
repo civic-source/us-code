@@ -3,9 +3,9 @@ title: "Section 59q - Erie Basin, Buffalo Harbor, New York"
 usc_title: 33
 usc_section: "59q"
 chapter: 1
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "33 U.S.C. § 59q"
-generated_at: "2026-11-23T21:05:39.204Z"
+generated_at: "2026-11-23T21:07:42.132Z"
 status: "active"
 ---
 

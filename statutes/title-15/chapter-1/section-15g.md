@@ -3,9 +3,9 @@ title: "Section 15g - Definitions"
 usc_title: 15
 usc_section: "15g"
 chapter: 1
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "15 U.S.C. § 15g"
-generated_at: "2026-11-23T21:05:09.554Z"
+generated_at: "2026-11-23T21:07:11.073Z"
 status: "active"
 ---
 

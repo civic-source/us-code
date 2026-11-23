@@ -3,9 +3,9 @@ title: "Section 10809 - Prohibition on purchase of sovereign debt of the Russian
 usc_title: 22
 usc_section: "10809"
 chapter: 115
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "22 U.S.C. § 10809"
-generated_at: "2026-11-23T21:05:26.750Z"
+generated_at: "2026-11-23T21:07:27.857Z"
 status: "active"
 ---
 

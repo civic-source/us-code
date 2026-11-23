@@ -3,9 +3,9 @@ title: "Section 30111 - Standards"
 usc_title: 49
 usc_section: "30111"
 chapter: 301
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "49 U.S.C. § 30111"
-generated_at: "2026-11-23T21:06:11.336Z"
+generated_at: "2026-11-23T21:08:10.661Z"
 status: "active"
 ---
 

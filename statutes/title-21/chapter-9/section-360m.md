@@ -3,9 +3,9 @@ title: "Section 360m - Accredited persons"
 usc_title: 21
 usc_section: "360m"
 chapter: 9
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "21 U.S.C. § 360m"
-generated_at: "2026-11-23T21:05:22.658Z"
+generated_at: "2026-11-23T21:07:25.079Z"
 status: "active"
 ---
 

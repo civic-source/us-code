@@ -3,9 +3,9 @@ title: "Section 4506 - Repealed. Pub. L. 112–74, div. I, title VII, § 7034(n)
 usc_title: 22
 usc_section: "4506"
 chapter: 55
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "22 U.S.C. § 4506"
-generated_at: "2026-11-23T21:05:26.557Z"
+generated_at: "2026-11-23T21:07:27.584Z"
 status: "repealed"
 ---
 

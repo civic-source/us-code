@@ -3,9 +3,9 @@ title: "Section 427 - Family separation allowance"
 usc_title: 37
 usc_section: "427"
 chapter: 7
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "37 U.S.C. § 427"
-generated_at: "2026-11-23T21:05:41.419Z"
+generated_at: "2026-11-23T21:07:44.383Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 652a - Sector Risk Management Agencies"
 usc_title: 6
 usc_section: "652a"
 chapter: 1
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "6 U.S.C. § 652a"
-generated_at: "2026-11-23T21:04:53.536Z"
+generated_at: "2026-11-23T21:06:55.953Z"
 status: "active"
 ---
 

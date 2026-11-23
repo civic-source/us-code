@@ -3,9 +3,9 @@ title: "Section 64b - Transferred"
 usc_title: 2
 usc_section: "64b"
 chapter: 4
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "2 U.S.C. § 64b"
-generated_at: "2026-11-23T21:04:48.950Z"
+generated_at: "2026-11-23T21:06:50.526Z"
 status: "transferred"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3032j - Repealed. Pub. L. 114–144, § 5(d) , Apr. 19, 2016 , 1
 usc_title: 42
 usc_section: "3032j"
 chapter: 35
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "42 U.S.C. § 3032j"
-generated_at: "2026-11-23T21:06:03.104Z"
+generated_at: "2026-11-23T21:08:02.035Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3524 - Support for the Associate Director of the Central Intelli
 usc_title: 50
 usc_section: "3524"
 chapter: 46
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "50 U.S.C. § 3524"
-generated_at: "2026-11-23T21:06:09.058Z"
+generated_at: "2026-11-23T21:08:08.428Z"
 status: "active"
 ---
 

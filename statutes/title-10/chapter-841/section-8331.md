@@ -3,9 +3,9 @@ title: "Section 8331 - Members of the Fleet Reserve and Fleet Marine Corps Reser
 usc_title: 10
 usc_section: "8331"
 chapter: 841
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "10 U.S.C. § 8331"
-generated_at: "2026-11-23T21:05:02.424Z"
+generated_at: "2026-11-23T21:07:03.676Z"
 status: "active"
 ---
 

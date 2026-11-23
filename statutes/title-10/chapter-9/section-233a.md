@@ -3,9 +3,9 @@ title: "Section 233a - Annual report on force structure changes exhibit for the 
 usc_title: 10
 usc_section: "233a"
 chapter: 9
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "10 U.S.C. § 233a"
-generated_at: "2026-11-23T21:05:01.790Z"
+generated_at: "2026-11-23T21:07:02.827Z"
 status: "active"
 ---
 

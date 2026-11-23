@@ -3,9 +3,9 @@ title: "Section 8352 - Permanent exemptions"
 usc_title: 42
 usc_section: "8352"
 chapter: 92
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "42 U.S.C. § 8352"
-generated_at: "2026-11-23T21:06:03.639Z"
+generated_at: "2026-11-23T21:08:02.608Z"
 status: "active"
 ---
 

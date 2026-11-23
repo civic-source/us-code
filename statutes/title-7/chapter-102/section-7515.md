@@ -3,9 +3,9 @@ title: "Section 7515 - Allotment and delivery of commodities"
 usc_title: 7
 usc_section: "7515"
 chapter: 102
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "7 U.S.C. § 7515"
-generated_at: "2026-11-23T21:04:57.537Z"
+generated_at: "2026-11-23T21:06:58.348Z"
 status: "active"
 ---
 

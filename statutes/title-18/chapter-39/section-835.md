@@ -3,9 +3,9 @@ title: "Section 835 - Repealed. Pub. L. 96–129, title II, § 216(b) , Nov. 30,
 usc_title: 18
 usc_section: "835"
 chapter: 39
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "18 U.S.C. § 835"
-generated_at: "2026-11-23T21:05:14.050Z"
+generated_at: "2026-11-23T21:07:14.462Z"
 status: "repealed"
 ---
 

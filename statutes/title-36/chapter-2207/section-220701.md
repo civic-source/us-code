@@ -3,9 +3,9 @@ title: "Section 220701 - Definition"
 usc_title: 36
 usc_section: "220701"
 chapter: 2207
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "36 U.S.C. § 220701"
-generated_at: "2026-11-23T21:05:43.300Z"
+generated_at: "2026-11-23T21:07:45.732Z"
 status: "active"
 ---
 

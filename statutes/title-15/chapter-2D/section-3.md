@@ -3,9 +3,9 @@ title: "Section 3 - Registration of investment advisers"
 usc_title: 15
 usc_section: "3"
 chapter: 2
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "15 U.S.C. § 3"
-generated_at: "2026-11-23T21:05:09.675Z"
+generated_at: "2026-11-23T21:07:11.192Z"
 status: "active"
 ---
 

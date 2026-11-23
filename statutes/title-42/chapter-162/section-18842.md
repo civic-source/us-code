@@ -3,9 +3,9 @@ title: "Section 18842 - Model guidance for combined heat and power systems and w
 usc_title: 42
 usc_section: "18842"
 chapter: 162
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "42 U.S.C. § 18842"
-generated_at: "2026-11-23T21:06:04.185Z"
+generated_at: "2026-11-23T21:08:03.302Z"
 status: "active"
 ---
 

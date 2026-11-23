@@ -3,9 +3,9 @@ title: "Section 3537b - Designation of environmental review procedure"
 usc_title: 42
 usc_section: "3537b"
 chapter: 44
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "42 U.S.C. § 3537b"
-generated_at: "2026-11-23T21:06:03.140Z"
+generated_at: "2026-11-23T21:08:02.086Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6706 - Implementing rules, regulations, and procedures; criteria
 usc_title: 42
 usc_section: "6706"
 chapter: 80
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "42 U.S.C. § 6706"
-generated_at: "2026-11-23T21:06:03.366Z"
+generated_at: "2026-11-23T21:08:02.316Z"
 status: "active"
 ---
 

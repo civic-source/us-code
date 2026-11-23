@@ -3,9 +3,9 @@ title: "Section 3603 - Continuation of educational assistance benefits for certa
 usc_title: 38
 usc_section: "3603"
 chapter: 36
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "38 U.S.C. § 3603"
-generated_at: "2026-11-23T21:05:45.748Z"
+generated_at: "2026-11-23T21:07:47.434Z"
 status: "active"
 ---
 

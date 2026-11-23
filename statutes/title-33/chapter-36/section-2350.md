@@ -3,9 +3,9 @@ title: "Section 2350 - Corrosion prevention"
 usc_title: 33
 usc_section: "2350"
 chapter: 36
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "33 U.S.C. § 2350"
-generated_at: "2026-11-23T21:05:39.541Z"
+generated_at: "2026-11-23T21:07:42.355Z"
 status: "active"
 ---
 

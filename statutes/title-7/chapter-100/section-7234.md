@@ -3,9 +3,9 @@ title: "Section 7234 - Repayment of loans"
 usc_title: 7
 usc_section: "7234"
 chapter: 100
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "7 U.S.C. § 7234"
-generated_at: "2026-11-23T21:04:57.519Z"
+generated_at: "2026-11-23T21:06:58.329Z"
 status: "active"
 ---
 

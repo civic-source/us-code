@@ -3,9 +3,9 @@ title: "Section 605 - Operation of snag boats on Upper Mississippi River"
 usc_title: 33
 usc_section: "605"
 chapter: 12
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "33 U.S.C. § 605"
-generated_at: "2026-11-23T21:05:39.265Z"
+generated_at: "2026-11-23T21:07:42.173Z"
 status: "active"
 ---
 

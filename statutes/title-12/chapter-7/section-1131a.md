@@ -3,9 +3,9 @@ title: "Section 1131a - Repealed. Pub. L. 92–181, title V, § 5 .26(a), Dec. 1
 usc_title: 12
 usc_section: "1131a"
 chapter: 7
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "12 U.S.C. § 1131a"
-generated_at: "2026-11-23T21:05:06.860Z"
+generated_at: "2026-11-23T21:07:08.164Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4501 - Restitutionary amounts covered"
 usc_title: 15
 usc_section: "4501"
 chapter: 71
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "15 U.S.C. § 4501"
-generated_at: "2026-11-23T21:05:10.038Z"
+generated_at: "2026-11-23T21:07:11.516Z"
 status: "active"
 ---
 

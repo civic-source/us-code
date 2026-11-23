@@ -3,9 +3,9 @@ title: "Section 794 - Official reports"
 usc_title: 48
 usc_section: "794"
 chapter: 4
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "48 U.S.C. § 794"
-generated_at: "2026-11-23T21:06:06.545Z"
+generated_at: "2026-11-23T21:08:05.331Z"
 status: "active"
 ---
 

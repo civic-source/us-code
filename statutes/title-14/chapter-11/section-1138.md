@@ -3,9 +3,9 @@ title: "Section 1138 - Service life extension programs"
 usc_title: 14
 usc_section: "1138"
 chapter: 11
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "14 U.S.C. § 1138"
-generated_at: "2026-11-23T21:05:04.242Z"
+generated_at: "2026-11-23T21:07:06.115Z"
 status: "active"
 ---
 

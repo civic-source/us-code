@@ -3,9 +3,9 @@ title: "Section 10801 - Definitions"
 usc_title: 22
 usc_section: "10801"
 chapter: 115
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "22 U.S.C. § 10801"
-generated_at: "2026-11-23T21:05:26.748Z"
+generated_at: "2026-11-23T21:07:27.854Z"
 status: "active"
 ---
 

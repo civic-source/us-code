@@ -3,9 +3,9 @@ title: "Section 30909 - Security"
 usc_title: 46
 usc_section: "30909"
 chapter: 309
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "46 U.S.C. § 30909"
-generated_at: "2026-11-23T21:06:07.770Z"
+generated_at: "2026-11-23T21:08:07.190Z"
 status: "active"
 ---
 

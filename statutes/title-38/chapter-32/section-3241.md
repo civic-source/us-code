@@ -3,9 +3,9 @@ title: "Section 3241 - Requirements"
 usc_title: 38
 usc_section: "3241"
 chapter: 32
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "38 U.S.C. § 3241"
-generated_at: "2026-11-23T21:05:45.713Z"
+generated_at: "2026-11-23T21:07:47.414Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 913 - Conveyance by land grant railroads of portions of rights o
 usc_title: 43
 usc_section: "913"
 chapter: 21
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "43 U.S.C. § 913"
-generated_at: "2026-11-23T21:05:49.527Z"
+generated_at: "2026-11-23T21:07:50.187Z"
 status: "active"
 ---
 

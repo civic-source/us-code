@@ -3,9 +3,9 @@ title: "Section 6308 - Outreach for eligible dependents"
 usc_title: 38
 usc_section: "6308"
 chapter: 63
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "38 U.S.C. § 6308"
-generated_at: "2026-11-23T21:05:45.874Z"
+generated_at: "2026-11-23T21:07:47.501Z"
 status: "active"
 ---
 

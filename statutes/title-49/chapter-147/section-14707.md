@@ -3,9 +3,9 @@ title: "Section 14707 - Private enforcement of registration requirement"
 usc_title: 49
 usc_section: "14707"
 chapter: 147
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "49 U.S.C. § 14707"
-generated_at: "2026-11-23T21:06:11.225Z"
+generated_at: "2026-11-23T21:08:10.571Z"
 status: "active"
 ---
 

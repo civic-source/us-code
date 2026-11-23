@@ -3,9 +3,9 @@ title: "Section 1950 - Payment to estates"
 usc_title: 38
 usc_section: "1950"
 chapter: 19
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "38 U.S.C. § 1950"
-generated_at: "2026-11-23T21:05:45.635Z"
+generated_at: "2026-11-23T21:07:47.370Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5312 - Definitions and application"
 usc_title: 31
 usc_section: "5312"
 chapter: 53
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "31 U.S.C. § 5312"
-generated_at: "2026-11-23T21:05:37.384Z"
+generated_at: "2026-11-23T21:07:40.155Z"
 status: "active"
 ---
 

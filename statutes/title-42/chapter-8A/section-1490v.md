@@ -3,9 +3,9 @@ title: "Section 1490v - Annual report"
 usc_title: 42
 usc_section: "1490v"
 chapter: 8
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "42 U.S.C. § 1490v"
-generated_at: "2026-11-23T21:06:02.876Z"
+generated_at: "2026-11-23T21:08:01.818Z"
 status: "active"
 ---
 

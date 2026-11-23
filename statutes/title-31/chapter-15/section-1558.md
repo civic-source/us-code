@@ -3,9 +3,9 @@ title: "Section 1558 - Availability of funds following resolution of a formal pr
 usc_title: 31
 usc_section: "1558"
 chapter: 15
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "31 U.S.C. § 1558"
-generated_at: "2026-11-23T21:05:37.315Z"
+generated_at: "2026-11-23T21:07:40.054Z"
 status: "active"
 ---
 

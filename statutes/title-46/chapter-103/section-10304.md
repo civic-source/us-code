@@ -3,9 +3,9 @@ title: "Section 10304 - Form of agreement"
 usc_title: 46
 usc_section: "10304"
 chapter: 103
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "46 U.S.C. § 10304"
-generated_at: "2026-11-23T21:06:07.712Z"
+generated_at: "2026-11-23T21:08:07.152Z"
 status: "active"
 ---
 

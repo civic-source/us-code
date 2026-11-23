@@ -3,9 +3,9 @@ title: "Section 322 - Magnetic levitation transportation technology deployment p
 usc_title: 23
 usc_section: "322"
 chapter: 3
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "23 U.S.C. § 322"
-generated_at: "2026-11-23T21:05:21.804Z"
+generated_at: "2026-11-23T21:07:23.129Z"
 status: "active"
 ---
 

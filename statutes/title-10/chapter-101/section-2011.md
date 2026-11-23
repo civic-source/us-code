@@ -3,9 +3,9 @@ title: "Section 2011 - Renumbered § 322]"
 usc_title: 10
 usc_section: "2011"
 chapter: 101
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "10 U.S.C. § 2011"
-generated_at: "2026-11-23T21:05:02.083Z"
+generated_at: "2026-11-23T21:07:03.232Z"
 status: "renumbered"
 ---
 

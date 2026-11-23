@@ -3,9 +3,9 @@ title: "Section 8854 - Department of Energy Quantum User Expansion for Science a
 usc_title: 15
 usc_section: "8854"
 chapter: 114
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "15 U.S.C. § 8854"
-generated_at: "2026-11-23T21:05:10.127Z"
+generated_at: "2026-11-23T21:07:11.608Z"
 status: "active"
 ---
 

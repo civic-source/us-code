@@ -3,9 +3,9 @@ title: "Section 649a - Omitted"
 usc_title: 15
 usc_section: "649a"
 chapter: 14
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "15 U.S.C. § 649a"
-generated_at: "2026-11-23T21:05:09.777Z"
+generated_at: "2026-11-23T21:07:11.275Z"
 status: "omitted"
 ---
 

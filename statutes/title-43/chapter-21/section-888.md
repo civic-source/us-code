@@ -3,9 +3,9 @@ title: "Section 888 - Selection by railroads of lands in lieu of lands entered s
 usc_title: 43
 usc_section: "888"
 chapter: 21
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "43 U.S.C. § 888"
-generated_at: "2026-11-23T21:05:49.524Z"
+generated_at: "2026-11-23T21:07:50.185Z"
 status: "active"
 ---
 

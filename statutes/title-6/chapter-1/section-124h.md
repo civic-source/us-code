@@ -3,9 +3,9 @@ title: "Section 124h - Department of Homeland Security State, Local, and Regiona
 usc_title: 6
 usc_section: "124h"
 chapter: 1
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "6 U.S.C. § 124h"
-generated_at: "2026-11-23T21:04:53.417Z"
+generated_at: "2026-11-23T21:06:55.874Z"
 status: "active"
 ---
 

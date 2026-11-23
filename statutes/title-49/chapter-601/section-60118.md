@@ -3,9 +3,9 @@ title: "Section 60118 - Compliance and waivers"
 usc_title: 49
 usc_section: "60118"
 chapter: 601
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "49 U.S.C. § 60118"
-generated_at: "2026-11-23T21:06:11.805Z"
+generated_at: "2026-11-23T21:08:11.127Z"
 status: "active"
 ---
 

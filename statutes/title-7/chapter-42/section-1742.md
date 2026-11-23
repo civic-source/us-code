@@ -3,9 +3,9 @@ title: "Section 1742 - Determination of commodity value for set-aside"
 usc_title: 7
 usc_section: "1742"
 chapter: 42
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "7 U.S.C. § 1742"
-generated_at: "2026-11-23T21:04:57.258Z"
+generated_at: "2026-11-23T21:06:58.088Z"
 status: "active"
 ---
 

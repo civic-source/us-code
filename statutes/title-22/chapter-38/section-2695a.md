@@ -3,9 +3,9 @@ title: "Section 2695a - Foreign language services"
 usc_title: 22
 usc_section: "2695a"
 chapter: 38
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "22 U.S.C. § 2695a"
-generated_at: "2026-11-23T21:05:26.446Z"
+generated_at: "2026-11-23T21:07:27.422Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6009 - Enforcement"
 usc_title: 22
 usc_section: "6009"
 chapter: 69
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "22 U.S.C. § 6009"
-generated_at: "2026-11-23T21:05:26.595Z"
+generated_at: "2026-11-23T21:07:27.632Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6171 - Defense environmental cleanup account 1 1 So in original.
 usc_title: 10
 usc_section: "6171"
 chapter: 604
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "10 U.S.C. § 6171"
-generated_at: "2026-11-23T21:05:02.335Z"
+generated_at: "2026-11-23T21:07:03.530Z"
 status: "active"
 ---
 

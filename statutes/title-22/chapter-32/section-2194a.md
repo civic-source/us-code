@@ -3,9 +3,9 @@ title: "Section 2194a - Omitted"
 usc_title: 22
 usc_section: "2194a"
 chapter: 32
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "22 U.S.C. § 2194a"
-generated_at: "2026-11-23T21:05:26.336Z"
+generated_at: "2026-11-23T21:07:27.278Z"
 status: "omitted"
 ---
 

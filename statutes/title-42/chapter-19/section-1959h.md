@@ -3,9 +3,9 @@ title: "Section 1959h - Repealed. Pub. L. 95–467, title IV, § 410(a) , Oct. 1
 usc_title: 42
 usc_section: "1959h"
 chapter: 19
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "42 U.S.C. § 1959h"
-generated_at: "2026-11-23T21:06:02.962Z"
+generated_at: "2026-11-23T21:08:01.895Z"
 status: "repealed"
 ---
 

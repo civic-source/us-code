@@ -3,9 +3,9 @@ title: "Section 1074j - Sub-acute care program"
 usc_title: 10
 usc_section: "1074j"
 chapter: 55
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "10 U.S.C. § 1074j"
-generated_at: "2026-11-23T21:05:01.959Z"
+generated_at: "2026-11-23T21:07:03.091Z"
 status: "active"
 ---
 

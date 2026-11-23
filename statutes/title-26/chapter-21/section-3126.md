@@ -3,9 +3,9 @@ title: "Section 3126 - Return and payment by governmental em­ployer"
 usc_title: 26
 usc_section: "3126"
 chapter: 21
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "26 U.S.C. § 3126"
-generated_at: "2026-11-23T21:05:34.768Z"
+generated_at: "2026-11-23T21:07:37.139Z"
 status: "active"
 ---
 

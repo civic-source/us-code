@@ -3,9 +3,9 @@ title: "Section 41106 - Reviews of criminal records of applicants for private se
 usc_title: 34
 usc_section: "41106"
 chapter: 411
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "34 U.S.C. § 41106"
-generated_at: "2026-11-23T21:05:38.283Z"
+generated_at: "2026-11-23T21:07:41.102Z"
 status: "active"
 ---
 

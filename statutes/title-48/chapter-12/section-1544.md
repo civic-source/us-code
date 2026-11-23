@@ -3,9 +3,9 @@ title: "Section 1544 - Reports by Governor; jurisdiction of Secretary of the Int
 usc_title: 48
 usc_section: "1544"
 chapter: 12
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "48 U.S.C. § 1544"
-generated_at: "2026-11-23T21:06:06.569Z"
+generated_at: "2026-11-23T21:08:05.352Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2719 - Gaming on lands acquired after October 17, 1988"
 usc_title: 25
 usc_section: "2719"
 chapter: 29
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "25 U.S.C. § 2719"
-generated_at: "2026-11-23T21:05:23.987Z"
+generated_at: "2026-11-23T21:07:24.200Z"
 status: "active"
 ---
 

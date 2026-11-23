@@ -3,9 +3,9 @@ title: "Section 3176 - Administrator of General Services to furnish services in 
 usc_title: 40
 usc_section: "3176"
 chapter: 31
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "40 U.S.C. § 3176"
-generated_at: "2026-11-23T21:05:42.130Z"
+generated_at: "2026-11-23T21:07:44.851Z"
 status: "active"
 ---
 

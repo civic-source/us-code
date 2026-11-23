@@ -1,0 +1,28 @@
+---
+title: "Section 823h - Annual licensing status report"
+usc_title: 16
+usc_section: "823h"
+chapter: 12
+current_through: "PL 119-117"
+classification: "16 U.S.C. § 823h"
+generated_at: "2026-11-23T21:07:16.920Z"
+status: "active"
+---
+
+# § 823h. Annual licensing status report
+
+- **(a)** Not later than 180 days after September 25, 2026 , and annually thereafter, the Commission shall submit to Congress a report on the status of—
+  - **(1)** the licensing process for each new license, and for each subsequent license for which sections 807 and 808 of this title have been waived, for which the existing licensee has notified the Commission under section 808(b)(1) of this title at least 3 years prior to submission of the report that such existing licensee intends to file an application for such new license or subsequent license, but such new license or subsequent license has not yet been issued under section 808 of this title ; and
+  - **(2)** the licensing process for each original license under section 797(e) of this title for which a citizen, association, corporation, State, Indian Tribe, or municipality has notified the Commission, pursuant to applicable regulations, at least 3 years prior to submission of the report that such citizen, association, corporation, State, Indian Tribe, or municipality intends to file an application for such original license, but such original license has not yet been issued under section 797(e) of this title .
+- **(b)** Each report submitted under subsection (a) shall include, with respect to the licensing process for each new license and subsequent license described in such subsection and the licensing process for each original license described in such subsection—
+  - **(1)** the date the notice of intent described in such subsection was provided to the Commission;
+  - **(2)** any docket number assigned with respect to such licensing process;
+  - **(3)** whether any application for such new license, such subsequent license, or such original license has been filed;
+  - **(4)** information regarding the status of any such application, including the date the Commission anticipates it will issue such original license, such subsequent license, or such new license;
+  - **(5)** the date of any upcoming proceeding or other meeting related to such original license, such subsequent license, or such new license; and
+  - **(6)** a description of any ongoing or completed actions required of the existing licensee, citizen, association, corporation, State, Indian Tribe, municipality, the Commission, the fish and wildlife agencies referred to in section 808(b) of this title , and any other agencies.
+- **(c)** The information included in each report submitted under subsection (a) shall be disaggregated by whether the information relates to a new license, or a subsequent license, issued under section 808 of this title or an original license issued under section 797(e) of this title .
+
+## Source Credit
+
+*(June 10, 1920, ch. 285, pt. I, § 37, as added [Pub. L. 119–112, § 2](https://www.govinfo.gov/link/plaw/119/public/112), Sept. 25, 2026, [140 Stat. 1050](https://www.govinfo.gov/link/statute/140/1050).)*

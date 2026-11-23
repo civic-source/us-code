@@ -3,9 +3,9 @@ title: "Section 1459 - Expenditures of department"
 usc_title: 43
 usc_section: "1459"
 chapter: 31
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "43 U.S.C. § 1459"
-generated_at: "2026-11-23T21:05:49.569Z"
+generated_at: "2026-11-23T21:07:50.206Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1502 - Regulations"
 usc_title: 26
 usc_section: "1502"
 chapter: 6
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "26 U.S.C. § 1502"
-generated_at: "2026-11-23T21:05:34.718Z"
+generated_at: "2026-11-23T21:07:37.084Z"
 status: "active"
 ---
 

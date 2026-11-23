@@ -3,9 +3,9 @@ title: "Section 230105 - Exclusive right to name, seal, emblems, and badges"
 usc_title: 36
 usc_section: "230105"
 chapter: 2301
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "36 U.S.C. § 230105"
-generated_at: "2026-11-23T21:05:43.304Z"
+generated_at: "2026-11-23T21:07:45.734Z"
 status: "active"
 ---
 

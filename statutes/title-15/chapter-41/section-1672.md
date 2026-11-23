@@ -3,9 +3,9 @@ title: "Section 1672 - Definitions"
 usc_title: 15
 usc_section: "1672"
 chapter: 41
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "15 U.S.C. § 1672"
-generated_at: "2026-11-23T21:05:09.895Z"
+generated_at: "2026-11-23T21:07:11.385Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 46 - Transferred"
 usc_title: 45
 usc_section: "46"
 chapter: 1
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "45 U.S.C. § 46"
-generated_at: "2026-11-23T21:05:47.592Z"
+generated_at: "2026-11-23T21:07:49.167Z"
 status: "transferred"
 ---
 

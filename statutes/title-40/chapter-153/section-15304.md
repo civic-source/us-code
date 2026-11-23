@@ -3,9 +3,9 @@ title: "Section 15304 - Administrative powers and expenses"
 usc_title: 40
 usc_section: "15304"
 chapter: 153
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "40 U.S.C. § 15304"
-generated_at: "2026-11-23T21:05:42.245Z"
+generated_at: "2026-11-23T21:07:44.950Z"
 status: "active"
 ---
 

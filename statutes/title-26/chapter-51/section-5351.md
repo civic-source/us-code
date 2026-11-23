@@ -3,9 +3,9 @@ title: "Section 5351 - Bonded wine cellar"
 usc_title: 26
 usc_section: "5351"
 chapter: 51
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "26 U.S.C. § 5351"
-generated_at: "2026-11-23T21:05:34.877Z"
+generated_at: "2026-11-23T21:07:37.278Z"
 status: "active"
 ---
 

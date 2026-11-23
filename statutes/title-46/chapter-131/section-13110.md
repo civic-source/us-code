@@ -3,9 +3,9 @@ title: "Section 13110 - Repealed. Pub. L. 115–282, title VI, § 601(c)(4)(A) ,
 usc_title: 46
 usc_section: "13110"
 chapter: 131
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "46 U.S.C. § 13110"
-generated_at: "2026-11-23T21:06:07.748Z"
+generated_at: "2026-11-23T21:08:07.178Z"
 status: "repealed"
 ---
 

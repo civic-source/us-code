@@ -3,9 +3,9 @@ title: "Section 15025 - State Councils on Developmental Disabilities and designa
 usc_title: 42
 usc_section: "15025"
 chapter: 144
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "42 U.S.C. § 15025"
-generated_at: "2026-11-23T21:06:04.015Z"
+generated_at: "2026-11-23T21:08:03.042Z"
 status: "active"
 ---
 

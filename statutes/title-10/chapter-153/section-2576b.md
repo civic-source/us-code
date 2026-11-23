@@ -3,9 +3,9 @@ title: "Section 2576b - Excess personal property: sale or donation to assist fir
 usc_title: 10
 usc_section: "2576b"
 chapter: 153
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "10 U.S.C. § 2576b"
-generated_at: "2026-11-23T21:05:02.164Z"
+generated_at: "2026-11-23T21:07:03.326Z"
 status: "active"
 ---
 

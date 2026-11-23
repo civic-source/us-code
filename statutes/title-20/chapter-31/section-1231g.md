@@ -3,9 +3,9 @@ title: "Section 1231g - Applications"
 usc_title: 20
 usc_section: "1231g"
 chapter: 31
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "20 U.S.C. § 1231g"
-generated_at: "2026-11-23T21:05:16.290Z"
+generated_at: "2026-11-23T21:07:20.463Z"
 status: "active"
 ---
 

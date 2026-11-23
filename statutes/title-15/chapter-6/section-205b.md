@@ -3,9 +3,9 @@ title: "Section 205b - Declaration of policy"
 usc_title: 15
 usc_section: "205b"
 chapter: 6
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "15 U.S.C. § 205b"
-generated_at: "2026-11-23T21:05:09.688Z"
+generated_at: "2026-11-23T21:07:11.204Z"
 status: "active"
 ---
 

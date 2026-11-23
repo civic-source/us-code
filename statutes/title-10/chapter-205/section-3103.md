@@ -3,9 +3,9 @@ title: "Section 3103 - Civilian management of the defense acquisition system"
 usc_title: 10
 usc_section: "3103"
 chapter: 205
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "10 U.S.C. § 3103"
-generated_at: "2026-11-23T21:05:02.237Z"
+generated_at: "2026-11-23T21:07:03.411Z"
 status: "active"
 ---
 

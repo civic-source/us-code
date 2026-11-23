@@ -3,9 +3,9 @@ title: "Section 1567 - Duration of military protective orders"
 usc_title: 10
 usc_section: "1567"
 chapter: 80
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "10 U.S.C. § 1567"
-generated_at: "2026-11-23T21:05:02.054Z"
+generated_at: "2026-11-23T21:07:03.201Z"
 status: "active"
 ---
 

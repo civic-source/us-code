@@ -3,9 +3,9 @@ title: "Section 7202 - Definitions"
 usc_title: 7
 usc_section: "7202"
 chapter: 100
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "7 U.S.C. § 7202"
-generated_at: "2026-11-23T21:04:57.517Z"
+generated_at: "2026-11-23T21:06:58.327Z"
 status: "active"
 ---
 

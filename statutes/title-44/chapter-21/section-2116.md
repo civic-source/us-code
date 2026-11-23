@@ -3,9 +3,9 @@ title: "Section 2116 - Legal status of reproductions; official seal; fees for co
 usc_title: 44
 usc_section: "2116"
 chapter: 21
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "44 U.S.C. § 2116"
-generated_at: "2026-11-23T21:05:48.687Z"
+generated_at: "2026-11-23T21:07:48.972Z"
 status: "active"
 ---
 

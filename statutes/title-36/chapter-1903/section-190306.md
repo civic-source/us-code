@@ -3,9 +3,9 @@ title: "Section 190306 - Powers"
 usc_title: 36
 usc_section: "190306"
 chapter: 1903
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "36 U.S.C. § 190306"
-generated_at: "2026-11-23T21:05:43.265Z"
+generated_at: "2026-11-23T21:07:45.704Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1427a - Reserve inventories for alleviation of distress of natur
 usc_title: 7
 usc_section: "1427a"
 chapter: 35
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "7 U.S.C. § 1427a"
-generated_at: "2026-11-23T21:04:57.181Z"
+generated_at: "2026-11-23T21:06:58.016Z"
 status: "active"
 ---
 

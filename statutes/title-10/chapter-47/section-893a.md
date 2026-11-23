@@ -3,9 +3,9 @@ title: "Section 893a - Art. 93a. Prohibited activities with military recruit or 
 usc_title: 10
 usc_section: "893a"
 chapter: 47
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "10 U.S.C. § 893a"
-generated_at: "2026-11-23T21:05:01.905Z"
+generated_at: "2026-11-23T21:07:03.010Z"
 status: "active"
 ---
 

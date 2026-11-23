@@ -3,9 +3,9 @@ title: "Section 3002 - Definitions"
 usc_title: 15
 usc_section: "3002"
 chapter: 57
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "15 U.S.C. § 3002"
-generated_at: "2026-11-23T21:05:10.004Z"
+generated_at: "2026-11-23T21:07:11.481Z"
 status: "active"
 ---
 

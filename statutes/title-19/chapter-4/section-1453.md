@@ -3,9 +3,9 @@ title: "Section 1453 - Lading and unlading of merchandise or baggage; penalties"
 usc_title: 19
 usc_section: "1453"
 chapter: 4
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "19 U.S.C. § 1453"
-generated_at: "2026-11-23T21:05:12.990Z"
+generated_at: "2026-11-23T21:07:18.195Z"
 status: "active"
 ---
 

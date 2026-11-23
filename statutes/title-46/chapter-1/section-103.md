@@ -3,9 +3,9 @@ title: "Section 103 - Boundary Line"
 usc_title: 46
 usc_section: "103"
 chapter: 1
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "46 U.S.C. § 103"
-generated_at: "2026-11-23T21:06:07.659Z"
+generated_at: "2026-11-23T21:08:07.072Z"
 status: "active"
 ---
 

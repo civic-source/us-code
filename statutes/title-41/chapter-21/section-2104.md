@@ -3,9 +3,9 @@ title: "Section 2104 - Prohibition on former official’s acceptance of compensa
 usc_title: 41
 usc_section: "2104"
 chapter: 21
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "41 U.S.C. § 2104"
-generated_at: "2026-11-23T21:05:48.203Z"
+generated_at: "2026-11-23T21:07:49.456Z"
 status: "active"
 ---
 

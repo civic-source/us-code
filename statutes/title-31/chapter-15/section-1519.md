@@ -3,9 +3,9 @@ title: "Section 1519 - Criminal penalty"
 usc_title: 31
 usc_section: "1519"
 chapter: 15
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "31 U.S.C. § 1519"
-generated_at: "2026-11-23T21:05:37.311Z"
+generated_at: "2026-11-23T21:07:40.049Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 300d - Establishment"
 usc_title: 42
 usc_section: "300d"
 chapter: 6
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "42 U.S.C. § 300d"
-generated_at: "2026-11-23T21:06:01.972Z"
+generated_at: "2026-11-23T21:08:00.876Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1462 - Attestation of copies by official seal"
 usc_title: 43
 usc_section: "1462"
 chapter: 31
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "43 U.S.C. § 1462"
-generated_at: "2026-11-23T21:05:49.569Z"
+generated_at: "2026-11-23T21:07:50.209Z"
 status: "active"
 ---
 

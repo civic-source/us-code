@@ -3,9 +3,9 @@ title: "Section 5231 - Special Inspector General for the Troubled Asset Relief P
 usc_title: 12
 usc_section: "5231"
 chapter: 52
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "12 U.S.C. § 5231"
-generated_at: "2026-11-23T21:05:07.186Z"
+generated_at: "2026-11-23T21:07:08.763Z"
 status: "active"
 ---
 

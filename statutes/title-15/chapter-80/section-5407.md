@@ -3,9 +3,9 @@ title: "Section 5407 - Manufacturers’ insignias"
 usc_title: 15
 usc_section: "5407"
 chapter: 80
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "15 U.S.C. § 5407"
-generated_at: "2026-11-23T21:05:10.056Z"
+generated_at: "2026-11-23T21:07:11.536Z"
 status: "active"
 ---
 

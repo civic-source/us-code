@@ -3,9 +3,9 @@ title: "Section 7593 - Quarters: heat and light"
 usc_title: 10
 usc_section: "7593"
 chapter: 767
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "10 U.S.C. § 7593"
-generated_at: "2026-11-23T21:05:02.384Z"
+generated_at: "2026-11-23T21:07:03.618Z"
 status: "active"
 ---
 

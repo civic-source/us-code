@@ -3,9 +3,9 @@ title: "Section 1981 - Equal rights under the law"
 usc_title: 42
 usc_section: "1981"
 chapter: 21
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "42 U.S.C. § 1981"
-generated_at: "2026-11-23T21:06:02.977Z"
+generated_at: "2026-11-23T21:08:01.908Z"
 status: "active"
 ---
 

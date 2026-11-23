@@ -3,9 +3,9 @@ title: "Section 2305 - Injunctions"
 usc_title: 46
 usc_section: "2305"
 chapter: 23
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "46 U.S.C. § 2305"
-generated_at: "2026-11-23T21:06:07.667Z"
+generated_at: "2026-11-23T21:08:07.084Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5543 - Repealed. Pub. L. 114–329, title I, § 105(u) , Jan. 6,
 usc_title: 15
 usc_section: "5543"
 chapter: 81
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "15 U.S.C. § 5543"
-generated_at: "2026-11-23T21:05:10.059Z"
+generated_at: "2026-11-23T21:07:11.539Z"
 status: "repealed"
 ---
 

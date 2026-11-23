@@ -3,9 +3,9 @@ title: "Section 117d - Transferred"
 usc_title: 2
 usc_section: "117d"
 chapter: 4
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "2 U.S.C. § 117d"
-generated_at: "2026-11-23T21:04:48.956Z"
+generated_at: "2026-11-23T21:06:50.530Z"
 status: "transferred"
 ---
 

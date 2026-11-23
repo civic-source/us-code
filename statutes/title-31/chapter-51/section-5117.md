@@ -3,9 +3,9 @@ title: "Section 5117 - Transferring gold and gold certificates"
 usc_title: 31
 usc_section: "5117"
 chapter: 51
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "31 U.S.C. § 5117"
-generated_at: "2026-11-23T21:05:37.375Z"
+generated_at: "2026-11-23T21:07:40.141Z"
 status: "active"
 ---
 

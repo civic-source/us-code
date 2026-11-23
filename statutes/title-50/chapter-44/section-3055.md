@@ -3,9 +3,9 @@ title: "Section 3055 - Annual report on financial intelligence on terrorist asse
 usc_title: 50
 usc_section: "3055"
 chapter: 44
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "50 U.S.C. § 3055"
-generated_at: "2026-11-23T21:06:09.001Z"
+generated_at: "2026-11-23T21:08:08.343Z"
 status: "active"
 ---
 

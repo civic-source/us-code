@@ -3,9 +3,9 @@ title: "Section 9411 - National Artificial Intelligence Initiative"
 usc_title: 15
 usc_section: "9411"
 chapter: 119
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "15 U.S.C. § 9411"
-generated_at: "2026-11-23T21:05:10.156Z"
+generated_at: "2026-11-23T21:07:11.638Z"
 status: "active"
 ---
 

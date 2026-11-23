@@ -3,9 +3,9 @@ title: "Section 1151 - Retention of assistive technology and services provided b
 usc_title: 10
 usc_section: "1151"
 chapter: 58
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "10 U.S.C. § 1151"
-generated_at: "2026-11-23T21:05:01.995Z"
+generated_at: "2026-11-23T21:07:03.127Z"
 status: "active"
 ---
 

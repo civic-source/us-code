@@ -3,9 +3,9 @@ title: "Section 1465g - Repealed. Pub. L. 103–236, title I, § 139(9) , Apr. 3
 usc_title: 22
 usc_section: "1465g"
 chapter: 18
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "22 U.S.C. § 1465g"
-generated_at: "2026-11-23T21:05:26.276Z"
+generated_at: "2026-11-23T21:07:27.189Z"
 status: "repealed"
 ---
 

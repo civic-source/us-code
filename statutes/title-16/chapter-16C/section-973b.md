@@ -3,9 +3,9 @@ title: "Section 973b - Regulations"
 usc_title: 16
 usc_section: "973b"
 chapter: 16
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "16 U.S.C. § 973b"
-generated_at: "2026-11-23T21:05:19.230Z"
+generated_at: "2026-11-23T21:07:16.961Z"
 status: "active"
 ---
 

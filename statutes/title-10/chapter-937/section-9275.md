@@ -3,9 +3,9 @@ title: "Section 9275 - Medal of honor; Air Force cross; distinguished-service me
 usc_title: 10
 usc_section: "9275"
 chapter: 937
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "10 U.S.C. § 9275"
-generated_at: "2026-11-23T21:05:02.494Z"
+generated_at: "2026-11-23T21:07:03.790Z"
 status: "active"
 ---
 

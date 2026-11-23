@@ -3,9 +3,9 @@ title: "Section 1232c - Transferred"
 usc_title: 33
 usc_section: "1232c"
 chapter: 25
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "33 U.S.C. § 1232c"
-generated_at: "2026-11-23T21:05:39.334Z"
+generated_at: "2026-11-23T21:07:42.227Z"
 status: "transferred"
 ---
 

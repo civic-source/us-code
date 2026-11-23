@@ -3,9 +3,9 @@ title: "Section 2907 - Operation of branch facilities by minorities and women"
 usc_title: 12
 usc_section: "2907"
 chapter: 30
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "12 U.S.C. § 2907"
-generated_at: "2026-11-23T21:05:07.094Z"
+generated_at: "2026-11-23T21:07:08.612Z"
 status: "active"
 ---
 

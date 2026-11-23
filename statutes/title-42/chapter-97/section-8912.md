@@ -3,9 +3,9 @@ title: "Section 8912 - Authorization of appropriations"
 usc_title: 42
 usc_section: "8912"
 chapter: 97
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "42 U.S.C. § 8912"
-generated_at: "2026-11-23T21:06:03.669Z"
+generated_at: "2026-11-23T21:08:02.632Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2348a - Authorization of appropriations"
 usc_title: 22
 usc_section: "2348a"
 chapter: 32
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "22 U.S.C. § 2348a"
-generated_at: "2026-11-23T21:05:26.370Z"
+generated_at: "2026-11-23T21:07:27.319Z"
 status: "active"
 ---
 

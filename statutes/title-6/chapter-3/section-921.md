@@ -3,9 +3,9 @@ title: "Section 921 - Domestic radiation detection and imaging"
 usc_title: 6
 usc_section: "921"
 chapter: 3
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "6 U.S.C. § 921"
-generated_at: "2026-11-23T21:04:53.568Z"
+generated_at: "2026-11-23T21:06:55.975Z"
 status: "active"
 ---
 

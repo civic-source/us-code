@@ -3,9 +3,9 @@ title: "Section 5212 - Transfer of distilled spirits between bonded premises"
 usc_title: 26
 usc_section: "5212"
 chapter: 51
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "26 U.S.C. § 5212"
-generated_at: "2026-11-23T21:05:34.873Z"
+generated_at: "2026-11-23T21:07:37.271Z"
 status: "active"
 ---
 

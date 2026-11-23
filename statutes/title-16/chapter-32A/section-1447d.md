@@ -3,9 +3,9 @@ title: "Section 1447d - Research grant program"
 usc_title: 16
 usc_section: "1447d"
 chapter: 32
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "16 U.S.C. § 1447d"
-generated_at: "2026-11-23T21:05:19.324Z"
+generated_at: "2026-11-23T21:07:17.052Z"
 status: "active"
 ---
 

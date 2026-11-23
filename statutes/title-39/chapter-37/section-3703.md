@@ -3,9 +3,9 @@ title: "Section 3703 - Postal Service program for State governments"
 usc_title: 39
 usc_section: "3703"
 chapter: 37
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "39 U.S.C. § 3703"
-generated_at: "2026-11-23T21:05:41.080Z"
+generated_at: "2026-11-23T21:07:43.847Z"
 status: "active"
 ---
 

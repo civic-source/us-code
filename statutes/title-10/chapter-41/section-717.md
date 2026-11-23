@@ -3,9 +3,9 @@ title: "Section 717 - Members of the armed forces: participation in internationa
 usc_title: 10
 usc_section: "717"
 chapter: 41
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "10 U.S.C. § 717"
-generated_at: "2026-11-23T21:05:01.869Z"
+generated_at: "2026-11-23T21:07:02.952Z"
 status: "active"
 ---
 

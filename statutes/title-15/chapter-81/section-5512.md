@@ -3,9 +3,9 @@ title: "Section 5512 - Grand Challenges in areas of national importance"
 usc_title: 15
 usc_section: "5512"
 chapter: 81
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "15 U.S.C. § 5512"
-generated_at: "2026-11-23T21:05:10.058Z"
+generated_at: "2026-11-23T21:07:11.538Z"
 status: "active"
 ---
 

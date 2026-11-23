@@ -3,9 +3,9 @@ title: "Section 556 - Disposal of dredge vessels"
 usc_title: 40
 usc_section: "556"
 chapter: 5
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "40 U.S.C. § 556"
-generated_at: "2026-11-23T21:05:42.033Z"
+generated_at: "2026-11-23T21:07:44.808Z"
 status: "active"
 ---
 

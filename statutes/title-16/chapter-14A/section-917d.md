@@ -3,9 +3,9 @@ title: "Section 917d - Authorization of appropriations"
 usc_title: 16
 usc_section: "917d"
 chapter: 14
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "16 U.S.C. § 917d"
-generated_at: "2026-11-23T21:05:19.220Z"
+generated_at: "2026-11-23T21:07:16.954Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 600e - Authorization of appropriations for public recreation fac
 usc_title: 43
 usc_section: "600e"
 chapter: 12
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "43 U.S.C. § 600e"
-generated_at: "2026-11-23T21:05:49.489Z"
+generated_at: "2026-11-23T21:07:50.167Z"
 status: "active"
 ---
 

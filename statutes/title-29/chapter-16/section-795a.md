@@ -3,9 +3,9 @@ title: "Section 795a - Repealed. Pub. L. 113–128, title IV, § 461(1) , July 2
 usc_title: 29
 usc_section: "795a"
 chapter: 16
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "29 U.S.C. § 795a"
-generated_at: "2026-11-23T21:05:28.857Z"
+generated_at: "2026-11-23T21:07:31.669Z"
 status: "repealed"
 ---
 

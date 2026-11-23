@@ -3,9 +3,9 @@ title: "Section 1438a - Nonadministrative expenses; expenses of studies and inve
 usc_title: 12
 usc_section: "1438a"
 chapter: 11
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "12 U.S.C. § 1438a"
-generated_at: "2026-11-23T21:05:06.867Z"
+generated_at: "2026-11-23T21:07:08.179Z"
 status: "active"
 ---
 

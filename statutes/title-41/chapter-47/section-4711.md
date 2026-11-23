@@ -3,9 +3,9 @@ title: "Section 4711 - Linking of award and incentive fees to acquisition outcom
 usc_title: 41
 usc_section: "4711"
 chapter: 47
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "41 U.S.C. § 4711"
-generated_at: "2026-11-23T21:05:48.249Z"
+generated_at: "2026-11-23T21:07:49.483Z"
 status: "active"
 ---
 

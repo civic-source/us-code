@@ -3,9 +3,9 @@ title: "Section 443 - Permit for dumping; penalty for taking or towing boat or s
 usc_title: 33
 usc_section: "443"
 chapter: 9
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "33 U.S.C. § 443"
-generated_at: "2026-11-23T21:05:39.233Z"
+generated_at: "2026-11-23T21:07:42.155Z"
 status: "active"
 ---
 

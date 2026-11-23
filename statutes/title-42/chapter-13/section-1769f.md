@@ -3,9 +3,9 @@ title: "Section 1769f - Duties of Secretary relating to nonprocurement debarment
 usc_title: 42
 usc_section: "1769f"
 chapter: 13
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "42 U.S.C. § 1769f"
-generated_at: "2026-11-23T21:06:02.921Z"
+generated_at: "2026-11-23T21:08:01.858Z"
 status: "active"
 ---
 

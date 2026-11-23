@@ -3,9 +3,9 @@ title: "Section 1513 - Officials controlling apportionments"
 usc_title: 31
 usc_section: "1513"
 chapter: 15
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "31 U.S.C. § 1513"
-generated_at: "2026-11-23T21:05:37.310Z"
+generated_at: "2026-11-23T21:07:40.047Z"
 status: "active"
 ---
 

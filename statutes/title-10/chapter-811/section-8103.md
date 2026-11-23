@@ -3,9 +3,9 @@ title: "Section 8103 - Suspension: preceding sections"
 usc_title: 10
 usc_section: "8103"
 chapter: 811
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "10 U.S.C. § 8103"
-generated_at: "2026-11-23T21:05:02.405Z"
+generated_at: "2026-11-23T21:07:03.654Z"
 status: "active"
 ---
 

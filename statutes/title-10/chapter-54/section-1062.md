@@ -3,9 +3,9 @@ title: "Section 1062 - Certain former spouses and surviving spouses"
 usc_title: 10
 usc_section: "1062"
 chapter: 54
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "10 U.S.C. § 1062"
-generated_at: "2026-11-23T21:05:01.945Z"
+generated_at: "2026-11-23T21:07:03.072Z"
 status: "active"
 ---
 

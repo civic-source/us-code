@@ -3,9 +3,9 @@ title: "Section 690e - Enforcement of laws and regulations; warrants and process
 usc_title: 16
 usc_section: "690e"
 chapter: 6
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "16 U.S.C. § 690e"
-generated_at: "2026-11-23T21:05:19.134Z"
+generated_at: "2026-11-23T21:07:16.881Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1801a - Appointment and term of service of Architect of the Capi
 usc_title: 2
 usc_section: "1801a"
 chapter: 28
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "2 U.S.C. § 1801a"
-generated_at: "2026-11-23T21:04:49.070Z"
+generated_at: "2026-11-23T21:06:50.608Z"
 status: "active"
 ---
 

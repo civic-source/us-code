@@ -3,9 +3,9 @@ title: "Section 78eee - Protection of customers"
 usc_title: 15
 usc_section: "78eee"
 chapter: 1
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "15 U.S.C. § 78eee"
-generated_at: "2026-11-23T21:05:09.652Z"
+generated_at: "2026-11-23T21:07:11.172Z"
 status: "active"
 ---
 

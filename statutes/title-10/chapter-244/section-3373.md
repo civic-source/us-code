@@ -3,9 +3,9 @@ title: "Section 3373 - Repealed. Pub. L. 119–60, div. A, title VIII, § 811(a)
 usc_title: 10
 usc_section: "3373"
 chapter: 244
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "10 U.S.C. § 3373"
-generated_at: "2026-11-23T21:05:02.250Z"
+generated_at: "2026-11-23T21:07:03.428Z"
 status: "repealed"
 ---
 

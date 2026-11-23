@@ -3,9 +3,9 @@ title: "Section 13215 - Omitted"
 usc_title: 42
 usc_section: "13215"
 chapter: 134
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "42 U.S.C. § 13215"
-generated_at: "2026-11-23T21:06:03.966Z"
+generated_at: "2026-11-23T21:08:02.976Z"
 status: "omitted"
 ---
 

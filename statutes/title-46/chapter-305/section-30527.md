@@ -3,9 +3,9 @@ title: "Section 30527 - Provisions limiting liability for personal injury or dea
 usc_title: 46
 usc_section: "30527"
 chapter: 305
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "46 U.S.C. § 30527"
-generated_at: "2026-11-23T21:06:07.760Z"
+generated_at: "2026-11-23T21:08:07.186Z"
 status: "active"
 ---
 

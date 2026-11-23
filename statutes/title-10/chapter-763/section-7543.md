@@ -3,9 +3,9 @@ title: "Section 7543 - Army industrial facilities: sales of manufactured article
 usc_title: 10
 usc_section: "7543"
 chapter: 763
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "10 U.S.C. § 7543"
-generated_at: "2026-11-23T21:05:02.381Z"
+generated_at: "2026-11-23T21:07:03.613Z"
 status: "active"
 ---
 

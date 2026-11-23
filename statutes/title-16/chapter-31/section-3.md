@@ -3,9 +3,9 @@ title: "Section 3 - Reports to Congress"
 usc_title: 16
 usc_section: "3"
 chapter: 31
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "16 U.S.C. § 3"
-generated_at: "2026-11-23T21:05:19.316Z"
+generated_at: "2026-11-23T21:07:17.044Z"
 status: "active"
 ---
 

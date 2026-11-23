@@ -3,9 +3,9 @@ title: "Section 3104 - Certificates of indebtedness and Treasury bills"
 usc_title: 31
 usc_section: "3104"
 chapter: 31
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "31 U.S.C. § 3104"
-generated_at: "2026-11-23T21:05:37.318Z"
+generated_at: "2026-11-23T21:07:40.059Z"
 status: "active"
 ---
 

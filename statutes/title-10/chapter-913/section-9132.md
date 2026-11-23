@@ -3,9 +3,9 @@ title: "Section 9132 - Regular Air Force and Space Force: gender-free basis for 
 usc_title: 10
 usc_section: "9132"
 chapter: 913
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "10 U.S.C. § 9132"
-generated_at: "2026-11-23T21:05:02.490Z"
+generated_at: "2026-11-23T21:07:03.783Z"
 status: "active"
 ---
 

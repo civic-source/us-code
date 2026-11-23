@@ -3,9 +3,9 @@ title: "Section 4509 - Fellowship conditions"
 usc_title: 20
 usc_section: "4509"
 chapter: 57
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "20 U.S.C. § 4509"
-generated_at: "2026-11-23T21:05:16.428Z"
+generated_at: "2026-11-23T21:07:20.588Z"
 status: "active"
 ---
 

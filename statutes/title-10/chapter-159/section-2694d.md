@@ -3,9 +3,9 @@ title: "Section 2694d - Participation in pollutant banks and water quality tradi
 usc_title: 10
 usc_section: "2694d"
 chapter: 159
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "10 U.S.C. § 2694d"
-generated_at: "2026-11-23T21:05:02.188Z"
+generated_at: "2026-11-23T21:07:03.358Z"
 status: "active"
 ---
 

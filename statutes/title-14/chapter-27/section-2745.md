@@ -3,9 +3,9 @@ title: "Section 2745 - Replacement of medals"
 usc_title: 14
 usc_section: "2745"
 chapter: 27
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "14 U.S.C. § 2745"
-generated_at: "2026-11-23T21:05:04.280Z"
+generated_at: "2026-11-23T21:07:06.161Z"
 status: "active"
 ---
 

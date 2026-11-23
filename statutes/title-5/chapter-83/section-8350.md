@@ -3,9 +3,9 @@ title: "Section 8350 - Retirement counseling"
 usc_title: 5
 usc_section: "8350"
 chapter: 83
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "5 U.S.C. § 8350"
-generated_at: "2026-11-23T21:04:51.392Z"
+generated_at: "2026-11-23T21:06:52.982Z"
 status: "active"
 ---
 

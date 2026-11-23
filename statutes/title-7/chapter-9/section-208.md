@@ -3,9 +3,9 @@ title: "Section 208 - Unreasonable or discriminatory practices generally; rights
 usc_title: 7
 usc_section: "208"
 chapter: 9
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "7 U.S.C. § 208"
-generated_at: "2026-11-23T21:04:57.094Z"
+generated_at: "2026-11-23T21:06:57.935Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3371 - Repealed. Pub. L. 105–332, § 6(b)(1) , Oct. 31, 1998 ,
 usc_title: 25
 usc_section: "3371"
 chapter: 35
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "25 U.S.C. § 3371"
-generated_at: "2026-11-23T21:05:24.002Z"
+generated_at: "2026-11-23T21:07:24.227Z"
 status: "repealed"
 ---
 

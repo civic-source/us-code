@@ -3,9 +3,9 @@ title: "Section 10112 - Senior Policy Advisor on Culturally Specific Communities
 usc_title: 34
 usc_section: "10112"
 chapter: 101
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "34 U.S.C. § 10112"
-generated_at: "2026-11-23T21:05:38.058Z"
+generated_at: "2026-11-23T21:07:40.924Z"
 status: "active"
 ---
 

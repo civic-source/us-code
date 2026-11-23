@@ -3,9 +3,9 @@ title: "Section 2421 - Repealed. Pub. L. 90–448, title XIII, § 1303(c) , Aug.
 usc_title: 42
 usc_section: "2421"
 chapter: 25
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "42 U.S.C. § 2421"
-generated_at: "2026-11-23T21:06:03.064Z"
+generated_at: "2026-11-23T21:08:01.984Z"
 status: "repealed"
 ---
 

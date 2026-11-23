@@ -3,9 +3,9 @@ title: "Section 878 - Threats and extortion against foreign officials, official 
 usc_title: 18
 usc_section: "878"
 chapter: 41
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "18 U.S.C. § 878"
-generated_at: "2026-11-23T21:05:14.058Z"
+generated_at: "2026-11-23T21:07:14.467Z"
 status: "active"
 ---
 

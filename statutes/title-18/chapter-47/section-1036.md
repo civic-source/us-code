@@ -3,9 +3,9 @@ title: "Section 1036 - Entry by false pretenses to any real property, vessel, or
 usc_title: 18
 usc_section: "1036"
 chapter: 47
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "18 U.S.C. § 1036"
-generated_at: "2026-11-23T21:05:14.082Z"
+generated_at: "2026-11-23T21:07:14.495Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7982 - National dairy market loss payments"
 usc_title: 7
 usc_section: "7982"
 chapter: 106
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "7 U.S.C. § 7982"
-generated_at: "2026-11-23T21:04:57.562Z"
+generated_at: "2026-11-23T21:06:58.370Z"
 status: "active"
 ---
 

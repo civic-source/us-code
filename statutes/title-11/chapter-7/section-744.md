@@ -3,9 +3,9 @@ title: "Section 744 - Executory contracts"
 usc_title: 11
 usc_section: "744"
 chapter: 7
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "11 U.S.C. § 744"
-generated_at: "2026-11-23T21:05:04.722Z"
+generated_at: "2026-11-23T21:07:05.622Z"
 status: "active"
 ---
 

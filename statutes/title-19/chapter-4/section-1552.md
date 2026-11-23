@@ -3,9 +3,9 @@ title: "Section 1552 - Entry for immediate transportation"
 usc_title: 19
 usc_section: "1552"
 chapter: 4
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "19 U.S.C. § 1552"
-generated_at: "2026-11-23T21:05:13.009Z"
+generated_at: "2026-11-23T21:07:18.211Z"
 status: "active"
 ---
 

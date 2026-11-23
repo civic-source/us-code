@@ -3,9 +3,9 @@ title: "Section 41763 - Federal credit instruments"
 usc_title: 49
 usc_section: "41763"
 chapter: 417
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "49 U.S.C. § 41763"
-generated_at: "2026-11-23T21:06:11.535Z"
+generated_at: "2026-11-23T21:08:10.868Z"
 status: "active"
 ---
 

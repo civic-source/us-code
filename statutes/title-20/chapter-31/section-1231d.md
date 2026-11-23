@@ -3,9 +3,9 @@ title: "Section 1231d - Parental involvement and dissemination"
 usc_title: 20
 usc_section: "1231d"
 chapter: 31
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "20 U.S.C. § 1231d"
-generated_at: "2026-11-23T21:05:16.289Z"
+generated_at: "2026-11-23T21:07:20.463Z"
 status: "active"
 ---
 

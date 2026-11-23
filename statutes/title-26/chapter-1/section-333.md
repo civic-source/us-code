@@ -3,9 +3,9 @@ title: "Section 333 - Repealed. Pub. L. 99–514, title VI, § 631(e)(3) , Oct. 
 usc_title: 26
 usc_section: "333"
 chapter: 1
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "26 U.S.C. § 333"
-generated_at: "2026-11-23T21:05:34.419Z"
+generated_at: "2026-11-23T21:07:36.682Z"
 status: "repealed"
 ---
 

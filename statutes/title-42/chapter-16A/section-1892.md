@@ -3,9 +3,9 @@ title: "Section 1892 - Repealed. Pub. L. 95–224, § 10(a) , Feb. 3, 1978 , 92 
 usc_title: 42
 usc_section: "1892"
 chapter: 16
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "42 U.S.C. § 1892"
-generated_at: "2026-11-23T21:06:02.961Z"
+generated_at: "2026-11-23T21:08:01.894Z"
 status: "repealed"
 ---
 

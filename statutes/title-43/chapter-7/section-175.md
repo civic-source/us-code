@@ -3,9 +3,9 @@ title: "Section 175 - Repealed. Pub. L. 94–579, title VII, § 702 , Oct. 21, 1
 usc_title: 43
 usc_section: "175"
 chapter: 7
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "43 U.S.C. § 175"
-generated_at: "2026-11-23T21:05:49.431Z"
+generated_at: "2026-11-23T21:07:50.118Z"
 status: "repealed"
 ---
 

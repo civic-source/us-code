@@ -3,9 +3,9 @@ title: "Section 2275b - Requirements for appropriate classification guidance"
 usc_title: 10
 usc_section: "2275b"
 chapter: 135
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "10 U.S.C. § 2275b"
-generated_at: "2026-11-23T21:05:02.129Z"
+generated_at: "2026-11-23T21:07:03.284Z"
 status: "active"
 ---
 

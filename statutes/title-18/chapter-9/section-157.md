@@ -3,9 +3,9 @@ title: "Section 157 - Bankruptcy fraud"
 usc_title: 18
 usc_section: "157"
 chapter: 9
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "18 U.S.C. § 157"
-generated_at: "2026-11-23T21:05:14.017Z"
+generated_at: "2026-11-23T21:07:14.427Z"
 status: "active"
 ---
 

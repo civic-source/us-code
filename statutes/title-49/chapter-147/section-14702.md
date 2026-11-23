@@ -3,9 +3,9 @@ title: "Section 14702 - Enforcement by the regulatory authority"
 usc_title: 49
 usc_section: "14702"
 chapter: 147
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "49 U.S.C. § 14702"
-generated_at: "2026-11-23T21:06:11.223Z"
+generated_at: "2026-11-23T21:08:10.569Z"
 status: "active"
 ---
 

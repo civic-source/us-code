@@ -3,9 +3,9 @@ title: "Section 7204 - Fraudulent statement or failure to make statement to empl
 usc_title: 26
 usc_section: "7204"
 chapter: 75
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "26 U.S.C. § 7204"
-generated_at: "2026-11-23T21:05:35.009Z"
+generated_at: "2026-11-23T21:07:37.421Z"
 status: "active"
 ---
 

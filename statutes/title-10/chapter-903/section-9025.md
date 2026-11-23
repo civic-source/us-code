@@ -3,9 +3,9 @@ title: "Section 9025 - Office of Expanded Competition"
 usc_title: 10
 usc_section: "9025"
 chapter: 903
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "10 U.S.C. § 9025"
-generated_at: "2026-11-23T21:05:02.483Z"
+generated_at: "2026-11-23T21:07:03.773Z"
 status: "active"
 ---
 

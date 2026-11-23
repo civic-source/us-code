@@ -3,9 +3,9 @@ title: "Section 1117 - Recovery for violation of rights"
 usc_title: 15
 usc_section: "1117"
 chapter: 22
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "15 U.S.C. § 1117"
-generated_at: "2026-11-23T21:05:09.843Z"
+generated_at: "2026-11-23T21:07:11.339Z"
 status: "active"
 ---
 

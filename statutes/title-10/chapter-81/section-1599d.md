@@ -3,9 +3,9 @@ title: "Section 1599d - Financial management positions: authority to prescribe p
 usc_title: 10
 usc_section: "1599d"
 chapter: 81
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "10 U.S.C. § 1599d"
-generated_at: "2026-11-23T21:05:02.060Z"
+generated_at: "2026-11-23T21:07:03.206Z"
 status: "active"
 ---
 

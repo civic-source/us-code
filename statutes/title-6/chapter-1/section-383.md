@@ -3,9 +3,9 @@ title: "Section 383 - National Computer Forensics Institute"
 usc_title: 6
 usc_section: "383"
 chapter: 1
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "6 U.S.C. § 383"
-generated_at: "2026-11-23T21:04:53.487Z"
+generated_at: "2026-11-23T21:06:55.920Z"
 status: "active"
 ---
 

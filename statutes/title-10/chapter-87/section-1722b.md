@@ -3,9 +3,9 @@ title: "Section 1722b - Special requirements for civilian employees in the acqui
 usc_title: 10
 usc_section: "1722b"
 chapter: 87
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "10 U.S.C. § 1722b"
-generated_at: "2026-11-23T21:05:02.069Z"
+generated_at: "2026-11-23T21:07:03.215Z"
 status: "active"
 ---
 

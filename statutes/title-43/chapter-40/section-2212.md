@@ -3,9 +3,9 @@ title: "Section 2212 - Availability of water on temporary basis"
 usc_title: 43
 usc_section: "2212"
 chapter: 40
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "43 U.S.C. § 2212"
-generated_at: "2026-11-23T21:05:49.667Z"
+generated_at: "2026-11-23T21:07:50.264Z"
 status: "active"
 ---
 

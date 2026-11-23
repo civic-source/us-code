@@ -3,9 +3,9 @@ title: "Section 806b - Art. 6b. Rights of the victim of an offense under this ch
 usc_title: 10
 usc_section: "806b"
 chapter: 47
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "10 U.S.C. § 806b"
-generated_at: "2026-11-23T21:05:01.882Z"
+generated_at: "2026-11-23T21:07:02.970Z"
 status: "active"
 ---
 

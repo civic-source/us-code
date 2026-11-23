@@ -3,9 +3,9 @@ title: "Section 4231 - Major systems: determination of quantity for low-rate ini
 usc_title: 10
 usc_section: "4231"
 chapter: 322
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "10 U.S.C. § 4231"
-generated_at: "2026-11-23T21:05:02.286Z"
+generated_at: "2026-11-23T21:07:03.472Z"
 status: "active"
 ---
 

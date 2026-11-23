@@ -3,9 +3,9 @@ title: "Section 1588 - Sale of vacant land to local housing authorities; sale of
 usc_title: 42
 usc_section: "1588"
 chapter: 9
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "42 U.S.C. § 1588"
-generated_at: "2026-11-23T21:06:02.885Z"
+generated_at: "2026-11-23T21:08:01.824Z"
 status: "active"
 ---
 

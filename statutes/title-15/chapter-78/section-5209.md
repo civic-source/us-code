@@ -3,9 +3,9 @@ title: "Section 5209 - Technology transfer"
 usc_title: 15
 usc_section: "5209"
 chapter: 78
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "15 U.S.C. § 5209"
-generated_at: "2026-11-23T21:05:10.054Z"
+generated_at: "2026-11-23T21:07:11.534Z"
 status: "active"
 ---
 

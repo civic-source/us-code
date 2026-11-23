@@ -3,9 +3,9 @@ title: "Section 147 - Repealed. Pub. L. 119–60, div. A, title IX, § 901(b) , 
 usc_title: 10
 usc_section: "147"
 chapter: 4
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "10 U.S.C. § 147"
-generated_at: "2026-11-23T21:05:01.767Z"
+generated_at: "2026-11-23T21:07:02.793Z"
 status: "repealed"
 ---
 

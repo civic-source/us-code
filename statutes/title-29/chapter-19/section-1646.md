@@ -3,9 +3,9 @@ title: "Section 1646 - Repealed. Pub. L. 105–220, title I, § 199(b)(2) , Aug.
 usc_title: 29
 usc_section: "1646"
 chapter: 19
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "29 U.S.C. § 1646"
-generated_at: "2026-11-23T21:05:28.963Z"
+generated_at: "2026-11-23T21:07:31.772Z"
 status: "repealed"
 ---
 

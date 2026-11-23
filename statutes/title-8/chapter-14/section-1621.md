@@ -3,9 +3,9 @@ title: "Section 1621 - Aliens who are not qualified aliens or nonimmigrants inel
 usc_title: 8
 usc_section: "1621"
 chapter: 14
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "8 U.S.C. § 1621"
-generated_at: "2026-11-23T21:04:54.475Z"
+generated_at: "2026-11-23T21:06:55.256Z"
 status: "active"
 ---
 

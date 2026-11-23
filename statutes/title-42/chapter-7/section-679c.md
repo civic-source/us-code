@@ -3,9 +3,9 @@ title: "Section 679c - Programs operated by Indian tribal organizations"
 usc_title: 42
 usc_section: "679c"
 chapter: 7
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "42 U.S.C. § 679c"
-generated_at: "2026-11-23T21:06:02.291Z"
+generated_at: "2026-11-23T21:08:01.146Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5110 - Review of classification of positions"
 usc_title: 5
 usc_section: "5110"
 chapter: 51
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "5 U.S.C. § 5110"
-generated_at: "2026-11-23T21:04:51.104Z"
+generated_at: "2026-11-23T21:06:52.707Z"
 status: "active"
 ---
 

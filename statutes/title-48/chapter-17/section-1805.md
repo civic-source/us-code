@@ -3,9 +3,9 @@ title: "Section 1805 - Failure to meet performance standards; resolution of issu
 usc_title: 48
 usc_section: "1805"
 chapter: 17
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "48 U.S.C. § 1805"
-generated_at: "2026-11-23T21:06:06.581Z"
+generated_at: "2026-11-23T21:08:05.362Z"
 status: "active"
 ---
 

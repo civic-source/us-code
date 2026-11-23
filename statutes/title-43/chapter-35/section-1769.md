@@ -3,9 +3,9 @@ title: "Section 1769 - Existing right-of-way or right-of-use unaffected; excepti
 usc_title: 43
 usc_section: "1769"
 chapter: 35
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "43 U.S.C. § 1769"
-generated_at: "2026-11-23T21:05:49.651Z"
+generated_at: "2026-11-23T21:07:50.250Z"
 status: "active"
 ---
 

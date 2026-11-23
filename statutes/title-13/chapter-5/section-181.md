@@ -3,9 +3,9 @@ title: "Section 181 - Population"
 usc_title: 13
 usc_section: "181"
 chapter: 5
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "13 U.S.C. § 181"
-generated_at: "2026-11-23T21:05:03.796Z"
+generated_at: "2026-11-23T21:07:05.279Z"
 status: "active"
 ---
 

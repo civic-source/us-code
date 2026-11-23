@@ -3,9 +3,9 @@ title: "Section 1110 - Basic entitlement"
 usc_title: 38
 usc_section: "1110"
 chapter: 11
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "38 U.S.C. § 1110"
-generated_at: "2026-11-23T21:05:45.499Z"
+generated_at: "2026-11-23T21:07:47.298Z"
 status: "active"
 ---
 

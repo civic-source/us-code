@@ -3,9 +3,9 @@ title: "Section 3981 - Statement of purpose"
 usc_title: 20
 usc_section: "3981"
 chapter: 52
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "20 U.S.C. § 3981"
-generated_at: "2026-11-23T21:05:16.408Z"
+generated_at: "2026-11-23T21:07:20.564Z"
 status: "active"
 ---
 

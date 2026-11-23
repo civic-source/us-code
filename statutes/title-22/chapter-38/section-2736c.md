@@ -3,9 +3,9 @@ title: "Section 2736c - Professional development opportunities and tools"
 usc_title: 22
 usc_section: "2736c"
 chapter: 38
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "22 U.S.C. § 2736c"
-generated_at: "2026-11-23T21:05:26.463Z"
+generated_at: "2026-11-23T21:07:27.442Z"
 status: "active"
 ---
 

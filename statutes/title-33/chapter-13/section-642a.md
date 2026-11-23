@@ -3,9 +3,9 @@ title: "Section 642a - Rank, pay, and allowances of Corps of Engineers officers 
 usc_title: 33
 usc_section: "642a"
 chapter: 13
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "33 U.S.C. § 642a"
-generated_at: "2026-11-23T21:05:39.270Z"
+generated_at: "2026-11-23T21:07:42.176Z"
 status: "active"
 ---
 

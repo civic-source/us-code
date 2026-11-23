@@ -3,9 +3,9 @@ title: "Section 356f - Hospital repackaging of drugs in shortage"
 usc_title: 21
 usc_section: "356f"
 chapter: 9
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "21 U.S.C. § 356f"
-generated_at: "2026-11-23T21:05:22.641Z"
+generated_at: "2026-11-23T21:07:25.061Z"
 status: "active"
 ---
 

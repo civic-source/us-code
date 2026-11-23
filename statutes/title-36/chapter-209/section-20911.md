@@ -3,9 +3,9 @@ title: "Section 20911 - Service of process"
 usc_title: 36
 usc_section: "20911"
 chapter: 209
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "36 U.S.C. § 20911"
-generated_at: "2026-11-23T21:05:43.095Z"
+generated_at: "2026-11-23T21:07:45.564Z"
 status: "active"
 ---
 

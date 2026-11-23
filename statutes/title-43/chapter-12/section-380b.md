@@ -3,9 +3,9 @@ title: "Section 380b - Omitted"
 usc_title: 43
 usc_section: "380b"
 chapter: 12
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "43 U.S.C. § 380b"
-generated_at: "2026-11-23T21:05:49.444Z"
+generated_at: "2026-11-23T21:07:50.131Z"
 status: "omitted"
 ---
 

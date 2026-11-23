@@ -3,9 +3,9 @@ title: "Section 40a - Repealed. June 25, 1948, ch. 645, § 21 , 62 Stat. 862"
 usc_title: 27
 usc_section: "40a"
 chapter: 2
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "27 U.S.C. § 40a"
-generated_at: "2026-11-23T21:05:28.014Z"
+generated_at: "2026-11-23T21:07:29.110Z"
 status: "repealed"
 ---
 

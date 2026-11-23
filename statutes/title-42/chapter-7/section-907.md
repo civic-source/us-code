@@ -3,9 +3,9 @@ title: "Section 907 - Repealed. Pub. L. 103–296, title I, § 108(a)(2) , Aug. 
 usc_title: 42
 usc_section: "907"
 chapter: 7
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "42 U.S.C. § 907"
-generated_at: "2026-11-23T21:06:02.308Z"
+generated_at: "2026-11-23T21:08:01.162Z"
 status: "repealed"
 ---
 

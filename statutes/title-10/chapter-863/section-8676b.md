@@ -3,9 +3,9 @@ title: "Section 8676b - Vessels stricken from Naval Vessel Register: transfer by
 usc_title: 10
 usc_section: "8676b"
 chapter: 863
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "10 U.S.C. § 8676b"
-generated_at: "2026-11-23T21:05:02.452Z"
+generated_at: "2026-11-23T21:07:03.723Z"
 status: "active"
 ---
 

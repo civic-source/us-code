@@ -3,9 +3,9 @@ title: "Section 5156 - Standards and reviews"
 usc_title: 42
 usc_section: "5156"
 chapter: 68
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "42 U.S.C. § 5156"
-generated_at: "2026-11-23T21:06:03.245Z"
+generated_at: "2026-11-23T21:08:02.189Z"
 status: "active"
 ---
 

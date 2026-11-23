@@ -3,9 +3,9 @@ title: "Section 5855 - Funding"
 usc_title: 7
 usc_section: "5855"
 chapter: 88
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "7 U.S.C. § 5855"
-generated_at: "2026-11-23T21:04:57.467Z"
+generated_at: "2026-11-23T21:06:58.279Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 107 - Federal Transit Administration"
 usc_title: 49
 usc_section: "107"
 chapter: 1
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "49 U.S.C. § 107"
-generated_at: "2026-11-23T21:06:11.032Z"
+generated_at: "2026-11-23T21:08:10.421Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 12337 - State coordination of services"
 usc_title: 42
 usc_section: "12337"
 chapter: 127
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "42 U.S.C. § 12337"
-generated_at: "2026-11-23T21:06:03.888Z"
+generated_at: "2026-11-23T21:08:02.880Z"
 status: "active"
 ---
 

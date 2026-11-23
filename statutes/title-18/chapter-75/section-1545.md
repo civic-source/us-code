@@ -3,9 +3,9 @@ title: "Section 1545 - Safe conduct violation"
 usc_title: 18
 usc_section: "1545"
 chapter: 75
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "18 U.S.C. § 1545"
-generated_at: "2026-11-23T21:05:14.112Z"
+generated_at: "2026-11-23T21:07:14.525Z"
 status: "active"
 ---
 

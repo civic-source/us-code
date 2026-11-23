@@ -3,9 +3,9 @@ title: "Section 2801 - Imposition of tax"
 usc_title: 26
 usc_section: "2801"
 chapter: 15
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "26 U.S.C. § 2801"
-generated_at: "2026-11-23T21:05:34.759Z"
+generated_at: "2026-11-23T21:07:37.128Z"
 status: "active"
 ---
 

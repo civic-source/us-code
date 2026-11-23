@@ -3,9 +3,9 @@ title: "Section 121 - Oversight of entities that provide pharmacy benefit manage
 usc_title: 42
 usc_section: "121"
 chapter: 6
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "42 U.S.C. § 121"
-generated_at: "2026-11-23T21:06:02.117Z"
+generated_at: "2026-11-23T21:08:01.004Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 307 - Federal recognition of officers: examination; certificate 
 usc_title: 32
 usc_section: "307"
 chapter: 3
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "32 U.S.C. § 307"
-generated_at: "2026-11-23T21:05:36.641Z"
+generated_at: "2026-11-23T21:07:38.766Z"
 status: "active"
 ---
 

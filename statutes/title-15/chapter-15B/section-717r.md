@@ -3,9 +3,9 @@ title: "Section 717r - Rehearing and review"
 usc_title: 15
 usc_section: "717r"
 chapter: 15
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "15 U.S.C. § 717r"
-generated_at: "2026-11-23T21:05:09.816Z"
+generated_at: "2026-11-23T21:07:11.314Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1675 - Authorization of appropriations; criteria for eligibility
 usc_title: 16
 usc_section: "1675"
 chapter: 36
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "16 U.S.C. § 1675"
-generated_at: "2026-11-23T21:05:19.351Z"
+generated_at: "2026-11-23T21:07:17.074Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 726 - Annual report on performance awards and bonuses awarded to
 usc_title: 38
 usc_section: "726"
 chapter: 7
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "38 U.S.C. § 726"
-generated_at: "2026-11-23T21:05:45.488Z"
+generated_at: "2026-11-23T21:07:47.296Z"
 status: "active"
 ---
 

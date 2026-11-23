@@ -3,9 +3,9 @@ title: "Section 44747 - Aviation safety oversight measures carried out by foreig
 usc_title: 49
 usc_section: "44747"
 chapter: 447
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "49 U.S.C. § 44747"
-generated_at: "2026-11-23T21:06:11.614Z"
+generated_at: "2026-11-23T21:08:10.945Z"
 status: "active"
 ---
 

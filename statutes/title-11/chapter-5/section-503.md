@@ -3,9 +3,9 @@ title: "Section 503 - Allowance of administrative expenses"
 usc_title: 11
 usc_section: "503"
 chapter: 5
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "11 U.S.C. § 503"
-generated_at: "2026-11-23T21:05:04.706Z"
+generated_at: "2026-11-23T21:07:05.600Z"
 status: "active"
 ---
 

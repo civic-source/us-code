@@ -3,9 +3,9 @@ title: "Section 27 - Evaluation and report"
 usc_title: 20
 usc_section: "27"
 chapter: 28
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "20 U.S.C. § 27"
-generated_at: "2026-11-23T21:05:16.156Z"
+generated_at: "2026-11-23T21:07:20.285Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3571 - Sentence of fine"
 usc_title: 18
 usc_section: "3571"
 chapter: 227
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "18 U.S.C. § 3571"
-generated_at: "2026-11-23T21:05:14.272Z"
+generated_at: "2026-11-23T21:07:14.625Z"
 status: "active"
 ---
 

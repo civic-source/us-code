@@ -3,9 +3,9 @@ title: "Section 2142 - Educational assistance program: eligibility"
 usc_title: 10
 usc_section: "2142"
 chapter: 106
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "10 U.S.C. § 2142"
-generated_at: "2026-11-23T21:05:02.096Z"
+generated_at: "2026-11-23T21:07:03.245Z"
 status: "active"
 ---
 

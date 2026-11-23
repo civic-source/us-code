@@ -3,9 +3,9 @@ title: "Section 9528 - Sanctions with respect to the transfer of arms and relate
 usc_title: 22
 usc_section: "9528"
 chapter: 102
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "22 U.S.C. § 9528"
-generated_at: "2026-11-23T21:05:26.719Z"
+generated_at: "2026-11-23T21:07:27.811Z"
 status: "active"
 ---
 

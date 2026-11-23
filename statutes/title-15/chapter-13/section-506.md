@@ -3,9 +3,9 @@ title: "Section 506 - Amendment and repeal of chapter"
 usc_title: 15
 usc_section: "506"
 chapter: 13
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "15 U.S.C. § 506"
-generated_at: "2026-11-23T21:05:09.712Z"
+generated_at: "2026-11-23T21:07:11.226Z"
 status: "active"
 ---
 

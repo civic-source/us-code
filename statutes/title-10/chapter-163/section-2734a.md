@@ -3,9 +3,9 @@ title: "Section 2734a - Property loss; personal injury or death: incident to non
 usc_title: 10
 usc_section: "2734a"
 chapter: 163
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "10 U.S.C. § 2734a"
-generated_at: "2026-11-23T21:05:02.197Z"
+generated_at: "2026-11-23T21:07:03.367Z"
 status: "active"
 ---
 

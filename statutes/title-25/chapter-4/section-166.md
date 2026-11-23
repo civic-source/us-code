@@ -3,9 +3,9 @@ title: "Section 166 - Applicability of chapter 10 of title 5"
 usc_title: 25
 usc_section: "166"
 chapter: 4
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "25 U.S.C. § 166"
-generated_at: "2026-11-23T21:05:23.854Z"
+generated_at: "2026-11-23T21:07:24.053Z"
 status: "active"
 ---
 

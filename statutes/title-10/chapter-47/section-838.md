@@ -3,9 +3,9 @@ title: "Section 838 - Art. 38. Duties of trial counsel and defense counsel"
 usc_title: 10
 usc_section: "838"
 chapter: 47
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "10 U.S.C. § 838"
-generated_at: "2026-11-23T21:05:01.890Z"
+generated_at: "2026-11-23T21:07:02.984Z"
 status: "active"
 ---
 

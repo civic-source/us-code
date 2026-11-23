@@ -3,9 +3,9 @@ title: "Section 3794 - Release of technical data under Freedom of Information Ac
 usc_title: 10
 usc_section: "3794"
 chapter: 275
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "10 U.S.C. § 3794"
-generated_at: "2026-11-23T21:05:02.264Z"
+generated_at: "2026-11-23T21:07:03.445Z"
 status: "active"
 ---
 

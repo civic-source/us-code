@@ -3,9 +3,9 @@ title: "Section 3706 - Audits, report requirements, and petition of Attorney Gen
 usc_title: 16
 usc_section: "3706"
 chapter: 57
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "16 U.S.C. § 3706"
-generated_at: "2026-11-23T21:05:19.435Z"
+generated_at: "2026-11-23T21:07:17.151Z"
 status: "active"
 ---
 

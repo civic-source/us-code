@@ -3,9 +3,9 @@ title: "Section 4211 - Definitions"
 usc_title: 38
 usc_section: "4211"
 chapter: 42
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "38 U.S.C. § 4211"
-generated_at: "2026-11-23T21:05:45.820Z"
+generated_at: "2026-11-23T21:07:47.473Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 384f - Strengthening FDA and CBP coordination and capacity"
 usc_title: 21
 usc_section: "384f"
 chapter: 9
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "21 U.S.C. § 384f"
-generated_at: "2026-11-23T21:05:22.719Z"
+generated_at: "2026-11-23T21:07:25.132Z"
 status: "active"
 ---
 

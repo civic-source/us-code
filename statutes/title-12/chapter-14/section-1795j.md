@@ -3,9 +3,9 @@ title: "Section 1795j - Agent of Federal Reserve System"
 usc_title: 12
 usc_section: "1795j"
 chapter: 14
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "12 U.S.C. § 1795j"
-generated_at: "2026-11-23T21:05:06.989Z"
+generated_at: "2026-11-23T21:07:08.408Z"
 status: "active"
 ---
 

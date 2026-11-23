@@ -3,9 +3,9 @@ title: "Section 3910 - Kimberley Process Implementation Coordinating Committee"
 usc_title: 19
 usc_section: "3910"
 chapter: 25
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "19 U.S.C. § 3910"
-generated_at: "2026-11-23T21:05:13.168Z"
+generated_at: "2026-11-23T21:07:18.373Z"
 status: "active"
 ---
 

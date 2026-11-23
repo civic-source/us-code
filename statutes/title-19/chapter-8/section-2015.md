@@ -3,9 +3,9 @@ title: "Section 2015 - Special reports to Congress"
 usc_title: 19
 usc_section: "2015"
 chapter: 8
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "19 U.S.C. § 2015"
-generated_at: "2026-11-23T21:05:13.051Z"
+generated_at: "2026-11-23T21:07:18.259Z"
 status: "active"
 ---
 

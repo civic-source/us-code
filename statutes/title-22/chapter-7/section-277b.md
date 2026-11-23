@@ -3,9 +3,9 @@ title: "Section 277b - Works or projects under treaty"
 usc_title: 22
 usc_section: "277b"
 chapter: 7
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "22 U.S.C. § 277b"
-generated_at: "2026-11-23T21:05:26.191Z"
+generated_at: "2026-11-23T21:07:27.090Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1120 - Presumption of service connection for certain diseases as
 usc_title: 38
 usc_section: "1120"
 chapter: 11
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "38 U.S.C. § 1120"
-generated_at: "2026-11-23T21:05:45.511Z"
+generated_at: "2026-11-23T21:07:47.304Z"
 status: "active"
 ---
 

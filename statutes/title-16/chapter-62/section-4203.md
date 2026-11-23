@@ -3,9 +3,9 @@ title: "Section 4203 - Statement of policy"
 usc_title: 16
 usc_section: "4203"
 chapter: 62
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "16 U.S.C. § 4203"
-generated_at: "2026-11-23T21:05:19.471Z"
+generated_at: "2026-11-23T21:07:17.185Z"
 status: "active"
 ---
 

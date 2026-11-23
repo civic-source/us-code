@@ -3,9 +3,9 @@ title: "Section 170a - Omitted"
 usc_title: 48
 usc_section: "170a"
 chapter: 2
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "48 U.S.C. § 170a"
-generated_at: "2026-11-23T21:06:06.538Z"
+generated_at: "2026-11-23T21:08:05.325Z"
 status: "omitted"
 ---
 

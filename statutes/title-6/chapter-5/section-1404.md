@@ -3,9 +3,9 @@ title: "Section 1404 - Repealed. Pub. L. 114–4, title V, § 566 , Mar. 4, 2015
 usc_title: 6
 usc_section: "1404"
 chapter: 5
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "6 U.S.C. § 1404"
-generated_at: "2026-11-23T21:04:53.592Z"
+generated_at: "2026-11-23T21:06:55.994Z"
 status: "repealed"
 ---
 

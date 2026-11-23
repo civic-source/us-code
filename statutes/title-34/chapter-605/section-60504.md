@@ -3,9 +3,9 @@ title: "Section 60504 - Rule of construction"
 usc_title: 34
 usc_section: "60504"
 chapter: 605
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "34 U.S.C. § 60504"
-generated_at: "2026-11-23T21:05:38.294Z"
+generated_at: "2026-11-23T21:07:41.113Z"
 status: "active"
 ---
 

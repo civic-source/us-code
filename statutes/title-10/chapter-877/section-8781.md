@@ -3,9 +3,9 @@ title: "Section 8781 - Marine Corps post laundries: disposition of receipts"
 usc_title: 10
 usc_section: "8781"
 chapter: 877
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "10 U.S.C. § 8781"
-generated_at: "2026-11-23T21:05:02.467Z"
+generated_at: "2026-11-23T21:07:03.751Z"
 status: "active"
 ---
 

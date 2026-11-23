@@ -3,9 +3,9 @@ title: "Section 1437k - Consortia, joint ventures, affiliates, and subsidiaries 
 usc_title: 42
 usc_section: "1437k"
 chapter: 8
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "42 U.S.C. § 1437k"
-generated_at: "2026-11-23T21:06:02.833Z"
+generated_at: "2026-11-23T21:08:01.782Z"
 status: "active"
 ---
 

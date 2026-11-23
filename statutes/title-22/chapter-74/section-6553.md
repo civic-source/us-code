@@ -3,9 +3,9 @@ title: "Section 6553 - Continuation of United States Advisory Commission on Publ
 usc_title: 22
 usc_section: "6553"
 chapter: 74
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "22 U.S.C. § 6553"
-generated_at: "2026-11-23T21:05:26.621Z"
+generated_at: "2026-11-23T21:07:27.668Z"
 status: "active"
 ---
 

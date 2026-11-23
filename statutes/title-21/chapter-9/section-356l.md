@@ -3,9 +3,9 @@ title: "Section 356l - Advanced manufacturing technologies designation program"
 usc_title: 21
 usc_section: "356l"
 chapter: 9
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "21 U.S.C. § 356l"
-generated_at: "2026-11-23T21:05:22.643Z"
+generated_at: "2026-11-23T21:07:25.062Z"
 status: "active"
 ---
 

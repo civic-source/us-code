@@ -3,9 +3,9 @@ title: "Section 1178 - Nonapplicability of chapter to certain machines and devic
 usc_title: 15
 usc_section: "1178"
 chapter: 24
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "15 U.S.C. § 1178"
-generated_at: "2026-11-23T21:05:09.849Z"
+generated_at: "2026-11-23T21:07:11.344Z"
 status: "active"
 ---
 

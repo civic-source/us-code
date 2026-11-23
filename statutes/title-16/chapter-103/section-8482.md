@@ -3,9 +3,9 @@ title: "Section 8482 - Trail inventory"
 usc_title: 16
 usc_section: "8482"
 chapter: 103
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "16 U.S.C. § 8482"
-generated_at: "2026-11-23T21:05:19.564Z"
+generated_at: "2026-11-23T21:07:17.261Z"
 status: "active"
 ---
 

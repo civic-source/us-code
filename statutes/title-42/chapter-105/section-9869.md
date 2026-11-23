@@ -3,9 +3,9 @@ title: "Section 9869 - Repealed. Pub. L. 103–382, title III, § 391(w) , Oct. 
 usc_title: 42
 usc_section: "9869"
 chapter: 105
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "42 U.S.C. § 9869"
-generated_at: "2026-11-23T21:06:03.765Z"
+generated_at: "2026-11-23T21:08:02.733Z"
 status: "repealed"
 ---
 

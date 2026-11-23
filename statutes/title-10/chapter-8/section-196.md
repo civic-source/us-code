@@ -3,9 +3,9 @@ title: "Section 196 - Renumbered § 4173]"
 usc_title: 10
 usc_section: "196"
 chapter: 8
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "10 U.S.C. § 196"
-generated_at: "2026-11-23T21:05:01.781Z"
+generated_at: "2026-11-23T21:07:02.814Z"
 status: "renumbered"
 ---
 

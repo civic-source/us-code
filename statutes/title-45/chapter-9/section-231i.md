@@ -3,9 +3,9 @@ title: "Section 231i - Erroneous payments"
 usc_title: 45
 usc_section: "231i"
 chapter: 9
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "45 U.S.C. § 231i"
-generated_at: "2026-11-23T21:05:47.624Z"
+generated_at: "2026-11-23T21:07:49.190Z"
 status: "active"
 ---
 

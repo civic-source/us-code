@@ -3,9 +3,9 @@ title: "Section 11505 - Rule of construction"
 usc_title: 40
 usc_section: "11505"
 chapter: 115
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "40 U.S.C. § 11505"
-generated_at: "2026-11-23T21:05:42.223Z"
+generated_at: "2026-11-23T21:07:44.930Z"
 status: "active"
 ---
 

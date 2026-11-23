@@ -3,9 +3,9 @@ title: "Section 15204 - Definitions"
 usc_title: 42
 usc_section: "15204"
 chapter: 145
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "42 U.S.C. § 15204"
-generated_at: "2026-11-23T21:06:04.025Z"
+generated_at: "2026-11-23T21:08:03.052Z"
 status: "active"
 ---
 

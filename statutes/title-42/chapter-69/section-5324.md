@@ -3,9 +3,9 @@ title: "Section 5324 - Community development block grant disaster recovery progr
 usc_title: 42
 usc_section: "5324"
 chapter: 69
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "42 U.S.C. § 5324"
-generated_at: "2026-11-23T21:06:03.275Z"
+generated_at: "2026-11-23T21:08:02.218Z"
 status: "active"
 ---
 

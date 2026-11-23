@@ -3,9 +3,9 @@ title: "Section 8734 - Sale of land by Mayor"
 usc_title: 40
 usc_section: "8734"
 chapter: 87
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "40 U.S.C. § 8734"
-generated_at: "2026-11-23T21:05:42.192Z"
+generated_at: "2026-11-23T21:07:44.909Z"
 status: "active"
 ---
 

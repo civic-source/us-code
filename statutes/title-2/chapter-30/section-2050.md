@@ -3,9 +3,9 @@ title: "Section 2050 - Transfer of appropriations for management personnel and m
 usc_title: 2
 usc_section: "2050"
 chapter: 30
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "2 U.S.C. § 2050"
-generated_at: "2026-11-23T21:04:49.093Z"
+generated_at: "2026-11-23T21:06:50.625Z"
 status: "active"
 ---
 

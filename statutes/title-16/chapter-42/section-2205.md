@@ -3,9 +3,9 @@ title: "Section 2205 - Regulations for implementation of provisions"
 usc_title: 16
 usc_section: "2205"
 chapter: 42
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "16 U.S.C. § 2205"
-generated_at: "2026-11-23T21:05:19.393Z"
+generated_at: "2026-11-23T21:07:17.112Z"
 status: "active"
 ---
 

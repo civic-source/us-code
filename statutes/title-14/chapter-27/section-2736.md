@@ -3,9 +3,9 @@ title: "Section 2736 - Distinguished service medal"
 usc_title: 14
 usc_section: "2736"
 chapter: 27
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "14 U.S.C. § 2736"
-generated_at: "2026-11-23T21:05:04.278Z"
+generated_at: "2026-11-23T21:07:06.160Z"
 status: "active"
 ---
 

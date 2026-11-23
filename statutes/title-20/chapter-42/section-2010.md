@@ -3,9 +3,9 @@ title: "Section 2010 - Expenditures and audit of Trust Fund"
 usc_title: 20
 usc_section: "2010"
 chapter: 42
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "20 U.S.C. § 2010"
-generated_at: "2026-11-23T21:05:16.349Z"
+generated_at: "2026-11-23T21:07:20.516Z"
 status: "active"
 ---
 

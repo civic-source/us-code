@@ -3,9 +3,9 @@ title: "Section 285o - Expropriation of United States property; loan restriction
 usc_title: 22
 usc_section: "285o"
 chapter: 7
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "22 U.S.C. § 285o"
-generated_at: "2026-11-23T21:05:26.217Z"
+generated_at: "2026-11-23T21:07:27.114Z"
 status: "active"
 ---
 

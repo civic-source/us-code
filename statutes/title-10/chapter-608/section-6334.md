@@ -3,9 +3,9 @@ title: "Section 6334 - Charges to individual program, project, or activity"
 usc_title: 10
 usc_section: "6334"
 chapter: 608
-current_through: "PL 119-111"
+current_through: "PL 119-117"
 classification: "10 U.S.C. § 6334"
-generated_at: "2026-11-23T21:05:02.344Z"
+generated_at: "2026-11-23T21:07:03.547Z"
 status: "active"
 ---
 
