@@ -3,9 +3,9 @@ title: "Section 5550 - Border patrol rate of pay"
 usc_title: 5
 usc_section: "5550"
 chapter: 55
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "5 U.S.C. § 5550"
-generated_at: "2026-11-23T20:41:54.319Z"
+generated_at: "2026-11-23T20:46:27.384Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 211 - Creation of Indian reservations"
 usc_title: 25
 usc_section: "211"
 chapter: 6
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "25 U.S.C. § 211"
-generated_at: "2026-11-23T20:42:50.797Z"
+generated_at: "2026-11-23T20:47:23.789Z"
 status: "active"
 ---
 

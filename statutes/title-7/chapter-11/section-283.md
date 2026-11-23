@@ -3,9 +3,9 @@ title: "Section 283 - Propagation of stock and release of germ plasm"
 usc_title: 7
 usc_section: "283"
 chapter: 11
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "7 U.S.C. § 283"
-generated_at: "2026-11-23T20:42:15.591Z"
+generated_at: "2026-11-23T20:46:35.917Z"
 status: "active"
 ---
 

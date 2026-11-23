@@ -3,9 +3,9 @@ title: "Section 75a - Repealed. Pub. L. 103–354, title II, § 293(a)(2) , Oct.
 usc_title: 7
 usc_section: "75a"
 chapter: 3
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "7 U.S.C. § 75a"
-generated_at: "2026-11-23T20:42:15.484Z"
+generated_at: "2026-11-23T20:46:35.815Z"
 status: "repealed"
 ---
 

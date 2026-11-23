@@ -3,9 +3,9 @@ title: "Section 17093 - Federal green building performance"
 usc_title: 42
 usc_section: "17093"
 chapter: 152
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "42 U.S.C. § 17093"
-generated_at: "2026-11-23T20:44:06.248Z"
+generated_at: "2026-11-23T20:48:18.641Z"
 status: "active"
 ---
 

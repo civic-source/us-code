@@ -3,9 +3,9 @@ title: "Section 2 - Repealed. Aug. 10, 1956, ch. 1041, § 53 , 70A Stat. 641"
 usc_title: 48
 usc_section: "2"
 chapter: 1
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "48 U.S.C. § 2"
-generated_at: "2026-11-23T20:44:08.837Z"
+generated_at: "2026-11-23T20:48:23.109Z"
 status: "repealed"
 ---
 

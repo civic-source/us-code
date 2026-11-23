@@ -3,9 +3,9 @@ title: "Section 42 - Importation or shipment of injurious mammals, birds, fish (
 usc_title: 18
 usc_section: "42"
 chapter: 3
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "18 U.S.C. § 42"
-generated_at: "2026-11-23T20:42:33.710Z"
+generated_at: "2026-11-23T20:47:03.677Z"
 status: "active"
 ---
 

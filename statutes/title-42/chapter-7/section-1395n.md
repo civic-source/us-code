@@ -3,9 +3,9 @@ title: "Section 1395n - Procedure for payment of claims of providers of services
 usc_title: 42
 usc_section: "1395n"
 chapter: 7
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "42 U.S.C. § 1395n"
-generated_at: "2026-11-23T20:44:02.843Z"
+generated_at: "2026-11-23T20:48:16.433Z"
 status: "active"
 ---
 

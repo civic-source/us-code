@@ -3,9 +3,9 @@ title: "Section 4009 - Establishment of seafood marketing councils"
 usc_title: 16
 usc_section: "4009"
 chapter: 60
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "16 U.S.C. § 4009"
-generated_at: "2026-11-23T20:42:45.812Z"
+generated_at: "2026-11-23T20:47:16.885Z"
 status: "active"
 ---
 

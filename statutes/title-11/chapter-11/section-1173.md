@@ -3,9 +3,9 @@ title: "Section 1173 - Confirmation of plan"
 usc_title: 11
 usc_section: "1173"
 chapter: 11
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "11 U.S.C. § 1173"
-generated_at: "2026-11-23T20:42:19.876Z"
+generated_at: "2026-11-23T20:46:50.074Z"
 status: "active"
 ---
 

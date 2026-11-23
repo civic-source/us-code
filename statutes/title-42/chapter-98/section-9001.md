@@ -3,9 +3,9 @@ title: "Section 9001 - Congressional findings and declaration of purpose"
 usc_title: 42
 usc_section: "9001"
 chapter: 98
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "42 U.S.C. § 9001"
-generated_at: "2026-11-23T20:44:05.276Z"
+generated_at: "2026-11-23T20:48:18.042Z"
 status: "active"
 ---
 

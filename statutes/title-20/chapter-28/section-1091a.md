@@ -3,9 +3,9 @@ title: "Section 1091a - Statute of limitations, and State court judgments"
 usc_title: 20
 usc_section: "1091a"
 chapter: 28
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "20 U.S.C. § 1091a"
-generated_at: "2026-11-23T20:42:39.580Z"
+generated_at: "2026-11-23T20:47:10.295Z"
 status: "active"
 ---
 

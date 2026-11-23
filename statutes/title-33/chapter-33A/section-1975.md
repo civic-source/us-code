@@ -3,9 +3,9 @@ title: "Section 1975 - Report to Congress"
 usc_title: 33
 usc_section: "1975"
 chapter: 33
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "33 U.S.C. § 1975"
-generated_at: "2026-11-23T20:43:23.728Z"
+generated_at: "2026-11-23T20:47:52.277Z"
 status: "active"
 ---
 

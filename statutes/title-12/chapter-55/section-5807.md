@@ -3,9 +3,9 @@ title: "Section 5807 - Rulemaking"
 usc_title: 12
 usc_section: "5807"
 chapter: 55
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "12 U.S.C. § 5807"
-generated_at: "2026-11-23T20:42:24.241Z"
+generated_at: "2026-11-23T20:46:54.557Z"
 status: "active"
 ---
 

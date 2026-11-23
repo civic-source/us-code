@@ -3,9 +3,9 @@ title: "Section 10146 - Ready Reserve: transfer from"
 usc_title: 10
 usc_section: "10146"
 chapter: 1005
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 10146"
-generated_at: "2026-11-23T20:42:11.842Z"
+generated_at: "2026-11-23T20:46:46.590Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 16651 - Repealed. Pub. L. 111–314, § 6 , Dec. 18, 2010 , 124 
 usc_title: 42
 usc_section: "16651"
 chapter: 150
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "42 U.S.C. § 16651"
-generated_at: "2026-11-23T20:44:06.223Z"
+generated_at: "2026-11-23T20:48:18.623Z"
 status: "repealed"
 ---
 

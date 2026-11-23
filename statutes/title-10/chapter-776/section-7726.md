@@ -3,9 +3,9 @@ title: "Section 7726 - Oversight and inspections"
 usc_title: 10
 usc_section: "7726"
 chapter: 776
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 7726"
-generated_at: "2026-11-23T20:42:11.499Z"
+generated_at: "2026-11-23T20:46:46.263Z"
 status: "active"
 ---
 

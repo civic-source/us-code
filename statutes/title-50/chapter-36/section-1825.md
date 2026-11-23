@@ -3,9 +3,9 @@ title: "Section 1825 - Use of information"
 usc_title: 50
 usc_section: "1825"
 chapter: 36
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "50 U.S.C. § 1825"
-generated_at: "2026-11-23T20:44:14.133Z"
+generated_at: "2026-11-23T20:48:25.032Z"
 status: "active"
 ---
 

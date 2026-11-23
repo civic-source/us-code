@@ -3,9 +3,9 @@ title: "Section 901 - Establishment of agency Chief Financial Officers"
 usc_title: 31
 usc_section: "901"
 chapter: 9
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "31 U.S.C. § 901"
-generated_at: "2026-11-23T20:43:19.618Z"
+generated_at: "2026-11-23T20:47:49.519Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 139 - Director of Operational Test and Evaluation"
 usc_title: 10
 usc_section: "139"
 chapter: 4
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 139"
-generated_at: "2026-11-23T20:42:09.908Z"
+generated_at: "2026-11-23T20:46:44.916Z"
 status: "active"
 ---
 

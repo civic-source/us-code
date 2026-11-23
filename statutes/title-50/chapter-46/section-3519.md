@@ -3,9 +3,9 @@ title: "Section 3519 - Special rules for disability retirement and death-in-serv
 usc_title: 50
 usc_section: "3519"
 chapter: 46
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "50 U.S.C. § 3519"
-generated_at: "2026-11-23T20:44:14.342Z"
+generated_at: "2026-11-23T20:48:25.244Z"
 status: "active"
 ---
 

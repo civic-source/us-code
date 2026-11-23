@@ -3,9 +3,9 @@ title: "Section 355f - Extension of exclusivity period for new qualified infecti
 usc_title: 21
 usc_section: "355f"
 chapter: 9
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "21 U.S.C. § 355f"
-generated_at: "2026-11-23T20:42:53.206Z"
+generated_at: "2026-11-23T20:47:21.992Z"
 status: "active"
 ---
 

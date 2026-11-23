@@ -3,9 +3,9 @@ title: "Section 113a - Establishment of research laboratories for foot-and-mouth
 usc_title: 21
 usc_section: "113a"
 chapter: 4
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "21 U.S.C. § 113a"
-generated_at: "2026-11-23T20:42:53.097Z"
+generated_at: "2026-11-23T20:47:21.883Z"
 status: "active"
 ---
 

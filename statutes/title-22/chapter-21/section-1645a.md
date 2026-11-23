@@ -3,9 +3,9 @@ title: "Section 1645a - Definitions"
 usc_title: 22
 usc_section: "1645a"
 chapter: 21
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "22 U.S.C. § 1645a"
-generated_at: "2026-11-23T20:42:57.302Z"
+generated_at: "2026-11-23T20:47:28.954Z"
 status: "active"
 ---
 

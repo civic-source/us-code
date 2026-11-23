@@ -3,9 +3,9 @@ title: "Section 2430f - Enterprise for the Americas Funds"
 usc_title: 22
 usc_section: "2430f"
 chapter: 32
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "22 U.S.C. § 2430f"
-generated_at: "2026-11-23T20:42:57.481Z"
+generated_at: "2026-11-23T20:47:29.151Z"
 status: "active"
 ---
 

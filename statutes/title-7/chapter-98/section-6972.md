@@ -3,9 +3,9 @@ title: "Section 6972 - Repealed. Pub. L. 115–334, title XII, § 12414(a)(6) , 
 usc_title: 7
 usc_section: "6972"
 chapter: 98
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "7 U.S.C. § 6972"
-generated_at: "2026-11-23T20:42:16.367Z"
+generated_at: "2026-11-23T20:46:36.681Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1239 - Filling voids and sealing tunnels"
 usc_title: 30
 usc_section: "1239"
 chapter: 25
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "30 U.S.C. § 1239"
-generated_at: "2026-11-23T20:43:00.656Z"
+generated_at: "2026-11-23T20:47:32.301Z"
 status: "active"
 ---
 

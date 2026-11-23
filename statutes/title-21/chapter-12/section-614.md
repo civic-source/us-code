@@ -3,9 +3,9 @@ title: "Section 614 - Repealed. Pub. L. 107–171, title X, § 10418(a)(19) , Ma
 usc_title: 21
 usc_section: "614"
 chapter: 12
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "21 U.S.C. § 614"
-generated_at: "2026-11-23T20:42:53.425Z"
+generated_at: "2026-11-23T20:47:22.208Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6274 - General plant projects"
 usc_title: 10
 usc_section: "6274"
 chapter: 607
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 6274"
-generated_at: "2026-11-23T20:42:11.366Z"
+generated_at: "2026-11-23T20:46:46.157Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 286d - National Information Center"
 usc_title: 42
 usc_section: "286d"
 chapter: 6
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "42 U.S.C. § 286d"
-generated_at: "2026-11-23T20:44:00.995Z"
+generated_at: "2026-11-23T20:48:15.691Z"
 status: "active"
 ---
 

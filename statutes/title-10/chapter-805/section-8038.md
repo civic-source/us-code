@@ -3,9 +3,9 @@ title: "Section 8038 - Director for Expeditionary Warfare"
 usc_title: 10
 usc_section: "8038"
 chapter: 805
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 8038"
-generated_at: "2026-11-23T20:42:11.523Z"
+generated_at: "2026-11-23T20:46:46.288Z"
 status: "active"
 ---
 

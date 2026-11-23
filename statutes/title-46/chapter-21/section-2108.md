@@ -3,9 +3,9 @@ title: "Section 2108 - Repealed. Pub. L. 109–304, § 15(5) , Oct. 6, 2006 , 12
 usc_title: 46
 usc_section: "2108"
 chapter: 21
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "46 U.S.C. § 2108"
-generated_at: "2026-11-23T20:44:11.924Z"
+generated_at: "2026-11-23T20:48:21.639Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2604 - Delivery of stolen money to owner"
 usc_title: 39
 usc_section: "2604"
 chapter: 26
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "39 U.S.C. § 2604"
-generated_at: "2026-11-23T20:43:27.070Z"
+generated_at: "2026-11-23T20:47:53.999Z"
 status: "active"
 ---
 

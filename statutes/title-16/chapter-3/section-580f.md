@@ -3,9 +3,9 @@ title: "Section 580f - Telephones for official use in private residences"
 usc_title: 16
 usc_section: "580f"
 chapter: 3
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "16 U.S.C. § 580f"
-generated_at: "2026-11-23T20:42:44.851Z"
+generated_at: "2026-11-23T20:47:16.069Z"
 status: "active"
 ---
 

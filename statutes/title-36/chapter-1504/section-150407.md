@@ -3,9 +3,9 @@ title: "Section 150407 - Powers"
 usc_title: 36
 usc_section: "150407"
 chapter: 1504
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "36 U.S.C. § 150407"
-generated_at: "2026-11-23T20:43:28.179Z"
+generated_at: "2026-11-23T20:47:56.420Z"
 status: "active"
 ---
 

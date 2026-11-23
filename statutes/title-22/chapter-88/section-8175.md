@@ -3,9 +3,9 @@ title: "Section 8175 - Notice of IAEA notifications"
 usc_title: 22
 usc_section: "8175"
 chapter: 88
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "22 U.S.C. § 8175"
-generated_at: "2026-11-23T20:42:57.989Z"
+generated_at: "2026-11-23T20:47:29.804Z"
 status: "active"
 ---
 

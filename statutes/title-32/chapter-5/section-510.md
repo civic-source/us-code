@@ -3,9 +3,9 @@ title: "Section 510 - Authorization for FireGuard Program"
 usc_title: 32
 usc_section: "510"
 chapter: 5
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "32 U.S.C. § 510"
-generated_at: "2026-11-23T20:43:16.778Z"
+generated_at: "2026-11-23T20:47:46.637Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1139 - Consideration of life-cycle cost estimates for acquisitio
 usc_title: 14
 usc_section: "1139"
 chapter: 11
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "14 U.S.C. § 1139"
-generated_at: "2026-11-23T20:42:18.983Z"
+generated_at: "2026-11-23T20:46:49.224Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 674 - Librarian"
 usc_title: 28
 usc_section: "674"
 chapter: 45
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "28 U.S.C. § 674"
-generated_at: "2026-11-23T20:43:02.577Z"
+generated_at: "2026-11-23T20:47:33.542Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1032 - Program authorized"
 usc_title: 20
 usc_section: "1032"
 chapter: 28
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "20 U.S.C. § 1032"
-generated_at: "2026-11-23T20:42:39.414Z"
+generated_at: "2026-11-23T20:47:10.073Z"
 status: "active"
 ---
 

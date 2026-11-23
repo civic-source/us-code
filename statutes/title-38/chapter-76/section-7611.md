@@ -3,9 +3,9 @@ title: "Section 7611 - Authority for program"
 usc_title: 38
 usc_section: "7611"
 chapter: 76
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "38 U.S.C. § 7611"
-generated_at: "2026-11-23T20:43:31.171Z"
+generated_at: "2026-11-23T20:47:58.964Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 224 - Qualified tips"
 usc_title: 26
 usc_section: "224"
 chapter: 1
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "26 U.S.C. § 224"
-generated_at: "2026-11-23T20:43:12.976Z"
+generated_at: "2026-11-23T20:47:43.374Z"
 status: "active"
 ---
 

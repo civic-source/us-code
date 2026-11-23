@@ -3,9 +3,9 @@ title: "Section 1079c - Repealed. Pub. L. 96–465, title II, § 2205(13) , Oct.
 usc_title: 22
 usc_section: "1079c"
 chapter: 14
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "22 U.S.C. § 1079c"
-generated_at: "2026-11-23T20:42:57.253Z"
+generated_at: "2026-11-23T20:47:28.910Z"
 status: "repealed"
 ---
 

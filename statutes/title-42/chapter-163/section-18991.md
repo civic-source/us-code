@@ -3,9 +3,9 @@ title: "Section 18991 - PreK–12 STEM education"
 usc_title: 42
 usc_section: "18991"
 chapter: 163
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "42 U.S.C. § 18991"
-generated_at: "2026-11-23T20:44:06.464Z"
+generated_at: "2026-11-23T20:48:18.780Z"
 status: "active"
 ---
 

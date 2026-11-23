@@ -3,9 +3,9 @@ title: "Section 53 - Prohibition of health discrimination on the basis of geneti
 usc_title: 42
 usc_section: "53"
 chapter: 6
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "42 U.S.C. § 53"
-generated_at: "2026-11-23T20:44:01.821Z"
+generated_at: "2026-11-23T20:48:15.988Z"
 status: "active"
 ---
 

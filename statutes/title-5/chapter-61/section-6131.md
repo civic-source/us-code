@@ -3,9 +3,9 @@ title: "Section 6131 - Criteria and review"
 usc_title: 5
 usc_section: "6131"
 chapter: 61
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "5 U.S.C. § 6131"
-generated_at: "2026-11-23T20:41:54.495Z"
+generated_at: "2026-11-23T20:46:27.447Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7g - National Biodefense Science Board and working groups"
 usc_title: 42
 usc_section: "7g"
 chapter: 6
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "42 U.S.C. § 7g"
-generated_at: "2026-11-23T20:44:00.558Z"
+generated_at: "2026-11-23T20:48:15.530Z"
 status: "active"
 ---
 

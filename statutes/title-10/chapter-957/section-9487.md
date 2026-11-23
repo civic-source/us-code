@@ -3,9 +3,9 @@ title: "Section 9487 - Air War College: acceptance of grants for faculty researc
 usc_title: 10
 usc_section: "9487"
 chapter: 957
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 9487"
-generated_at: "2026-11-23T20:42:11.802Z"
+generated_at: "2026-11-23T20:46:46.559Z"
 status: "active"
 ---
 

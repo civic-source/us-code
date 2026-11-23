@@ -3,9 +3,9 @@ title: "Section 588d - Repealed. June 25, 1948, ch. 645, § 21 , 62 Stat. 862 , 
 usc_title: 12
 usc_section: "588d"
 chapter: 5
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "12 U.S.C. § 588d"
-generated_at: "2026-11-23T20:42:23.421Z"
+generated_at: "2026-11-23T20:46:53.702Z"
 status: "repealed"
 ---
 

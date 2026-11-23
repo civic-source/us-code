@@ -3,9 +3,9 @@ title: "Section 16451 - Definitions"
 usc_title: 42
 usc_section: "16451"
 chapter: 149
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "42 U.S.C. § 16451"
-generated_at: "2026-11-23T20:44:06.201Z"
+generated_at: "2026-11-23T20:48:18.604Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 50920 - User fees"
 usc_title: 51
 usc_section: "50920"
 chapter: 509
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "51 U.S.C. § 50920"
-generated_at: "2026-11-23T20:44:22.165Z"
+generated_at: "2026-11-23T20:48:31.169Z"
 status: "active"
 ---
 

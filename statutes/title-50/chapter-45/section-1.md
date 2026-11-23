@@ -3,9 +3,9 @@ title: "Section 1 - Ensuring intelligence community procurement of domestic Unit
 usc_title: 50
 usc_section: "1"
 chapter: 45
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "50 U.S.C. § 1"
-generated_at: "2026-11-23T20:44:14.299Z"
+generated_at: "2026-11-23T20:48:25.197Z"
 status: "active"
 ---
 

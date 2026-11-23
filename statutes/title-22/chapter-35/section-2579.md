@@ -3,9 +3,9 @@ title: "Section 2579 - Omitted"
 usc_title: 22
 usc_section: "2579"
 chapter: 35
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "22 U.S.C. § 2579"
-generated_at: "2026-11-23T20:42:57.511Z"
+generated_at: "2026-11-23T20:47:29.194Z"
 status: "omitted"
 ---
 

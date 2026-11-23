@@ -3,9 +3,9 @@ title: "Section 5757 - Extended assignment incentive"
 usc_title: 5
 usc_section: "5757"
 chapter: 57
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "5 U.S.C. § 5757"
-generated_at: "2026-11-23T20:41:54.438Z"
+generated_at: "2026-11-23T20:46:27.426Z"
 status: "active"
 ---
 

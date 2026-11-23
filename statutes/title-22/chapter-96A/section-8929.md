@@ -3,9 +3,9 @@ title: "Section 8929 - Report on non-compliance by the Russian Federation of its
 usc_title: 22
 usc_section: "8929"
 chapter: 96
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "22 U.S.C. § 8929"
-generated_at: "2026-11-23T20:42:58.045Z"
+generated_at: "2026-11-23T20:47:29.860Z"
 status: "active"
 ---
 

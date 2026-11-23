@@ -3,9 +3,9 @@ title: "Section 5708 - Implementation and administration"
 usc_title: 12
 usc_section: "5708"
 chapter: 54
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "12 U.S.C. § 5708"
-generated_at: "2026-11-23T20:42:24.238Z"
+generated_at: "2026-11-23T20:46:54.554Z"
 status: "active"
 ---
 

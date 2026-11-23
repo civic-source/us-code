@@ -3,9 +3,9 @@ title: "Section 2337 - Renumbered § 4324]"
 usc_title: 10
 usc_section: "2337"
 chapter: 137
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 2337"
-generated_at: "2026-11-23T20:42:10.813Z"
+generated_at: "2026-11-23T20:46:45.704Z"
 status: "renumbered"
 ---
 

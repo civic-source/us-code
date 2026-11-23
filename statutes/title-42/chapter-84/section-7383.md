@@ -3,9 +3,9 @@ title: "Section 7383 - Commission on Safeguards, Security, and Counterintelligen
 usc_title: 42
 usc_section: "7383"
 chapter: 84
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "42 U.S.C. § 7383"
-generated_at: "2026-11-23T20:44:05.009Z"
+generated_at: "2026-11-23T20:48:17.791Z"
 status: "active"
 ---
 

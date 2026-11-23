@@ -3,9 +3,9 @@ title: "Section 3074 - Voluntary return of tangible cultural heritage"
 usc_title: 25
 usc_section: "3074"
 chapter: 32
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "25 U.S.C. § 3074"
-generated_at: "2026-11-23T20:42:51.096Z"
+generated_at: "2026-11-23T20:47:24.103Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 140411 - Annual report"
 usc_title: 36
 usc_section: "140411"
 chapter: 1404
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "36 U.S.C. § 140411"
-generated_at: "2026-11-23T20:43:28.169Z"
+generated_at: "2026-11-23T20:47:56.407Z"
 status: "active"
 ---
 

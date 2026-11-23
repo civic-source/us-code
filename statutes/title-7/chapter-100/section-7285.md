@@ -3,9 +3,9 @@ title: "Section 7285 - Commodity Credit Corporation sales price restrictions"
 usc_title: 7
 usc_section: "7285"
 chapter: 100
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "7 U.S.C. § 7285"
-generated_at: "2026-11-23T20:42:16.398Z"
+generated_at: "2026-11-23T20:46:36.705Z"
 status: "active"
 ---
 

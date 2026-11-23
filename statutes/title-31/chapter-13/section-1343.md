@@ -3,9 +3,9 @@ title: "Section 1343 - Buying and leasing passenger motor vehicles and aircraft"
 usc_title: 31
 usc_section: "1343"
 chapter: 13
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "31 U.S.C. § 1343"
-generated_at: "2026-11-23T20:43:19.715Z"
+generated_at: "2026-11-23T20:47:49.549Z"
 status: "active"
 ---
 

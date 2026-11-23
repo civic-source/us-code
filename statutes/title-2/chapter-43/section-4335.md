@@ -3,9 +3,9 @@ title: "Section 4335 - Employment of civilian employees of executive branch of G
 usc_title: 2
 usc_section: "4335"
 chapter: 43
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "2 U.S.C. § 4335"
-generated_at: "2026-11-23T20:41:49.411Z"
+generated_at: "2026-11-23T20:46:22.583Z"
 status: "active"
 ---
 

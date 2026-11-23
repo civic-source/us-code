@@ -3,9 +3,9 @@ title: "Section 1902 - Congressional declaration of policy"
 usc_title: 25
 usc_section: "1902"
 chapter: 21
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "25 U.S.C. § 1902"
-generated_at: "2026-11-23T20:42:51.006Z"
+generated_at: "2026-11-23T20:47:24.024Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2408 - Renumbered § 4656]"
 usc_title: 10
 usc_section: "2408"
 chapter: 141
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 2408"
-generated_at: "2026-11-23T20:42:10.835Z"
+generated_at: "2026-11-23T20:46:45.725Z"
 status: "renumbered"
 ---
 

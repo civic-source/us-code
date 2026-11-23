@@ -3,9 +3,9 @@ title: "Section 913 - Impersonator making arrest or search"
 usc_title: 18
 usc_section: "913"
 chapter: 43
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "18 U.S.C. § 913"
-generated_at: "2026-11-23T20:42:33.873Z"
+generated_at: "2026-11-23T20:47:03.772Z"
 status: "active"
 ---
 

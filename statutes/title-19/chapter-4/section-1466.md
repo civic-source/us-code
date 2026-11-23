@@ -3,9 +3,9 @@ title: "Section 1466 - Equipment and repairs of vessels"
 usc_title: 19
 usc_section: "1466"
 chapter: 4
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "19 U.S.C. § 1466"
-generated_at: "2026-11-23T20:42:36.149Z"
+generated_at: "2026-11-23T20:47:06.267Z"
 status: "active"
 ---
 

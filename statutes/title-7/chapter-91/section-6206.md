@@ -3,9 +3,9 @@ title: "Section 6206 - Petition and review"
 usc_title: 7
 usc_section: "6206"
 chapter: 91
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "7 U.S.C. § 6206"
-generated_at: "2026-11-23T20:42:16.306Z"
+generated_at: "2026-11-23T20:46:36.625Z"
 status: "active"
 ---
 

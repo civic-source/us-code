@@ -3,9 +3,9 @@ title: "Section 4902 - Interagency Trade Data Advisory Committee"
 usc_title: 15
 usc_section: "4902"
 chapter: 75
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "15 U.S.C. § 4902"
-generated_at: "2026-11-23T20:42:29.184Z"
+generated_at: "2026-11-23T20:46:59.684Z"
 status: "active"
 ---
 

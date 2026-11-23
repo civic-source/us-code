@@ -3,9 +3,9 @@ title: "Section 7293 - Ready to learn programming"
 usc_title: 20
 usc_section: "7293"
 chapter: 70
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "20 U.S.C. § 7293"
-generated_at: "2026-11-23T20:42:39.933Z"
+generated_at: "2026-11-23T20:47:10.707Z"
 status: "active"
 ---
 

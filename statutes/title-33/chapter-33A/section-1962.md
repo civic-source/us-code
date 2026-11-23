@@ -3,9 +3,9 @@ title: "Section 1962 - Board of Directors of the Foundation"
 usc_title: 33
 usc_section: "1962"
 chapter: 33
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "33 U.S.C. § 1962"
-generated_at: "2026-11-23T20:43:23.725Z"
+generated_at: "2026-11-23T20:47:52.274Z"
 status: "active"
 ---
 

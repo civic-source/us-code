@@ -3,9 +3,9 @@ title: "Section 360aa - Recommendations for investigations of drugs for rare dis
 usc_title: 21
 usc_section: "360aa"
 chapter: 9
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "21 U.S.C. § 360aa"
-generated_at: "2026-11-23T20:42:53.264Z"
+generated_at: "2026-11-23T20:47:22.043Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6 - Non-sunscreen time and extent applications"
 usc_title: 21
 usc_section: "6"
 chapter: 9
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "21 U.S.C. § 6"
-generated_at: "2026-11-23T20:42:53.303Z"
+generated_at: "2026-11-23T20:47:22.090Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 111 - Executive department"
 usc_title: 10
 usc_section: "111"
 chapter: 2
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 111"
-generated_at: "2026-11-23T20:42:09.732Z"
+generated_at: "2026-11-23T20:46:44.785Z"
 status: "active"
 ---
 

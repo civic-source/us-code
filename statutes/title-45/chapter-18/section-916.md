@@ -3,9 +3,9 @@ title: "Section 916 - Repealed. Pub. L. 104–88, title III, § 328 , Dec. 29, 1
 usc_title: 45
 usc_section: "916"
 chapter: 18
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "45 U.S.C. § 916"
-generated_at: "2026-11-23T20:43:35.251Z"
+generated_at: "2026-11-23T20:48:01.385Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 831p - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 
 usc_title: 16
 usc_section: "831p"
 chapter: 12
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "16 U.S.C. § 831p"
-generated_at: "2026-11-23T20:42:45.189Z"
+generated_at: "2026-11-23T20:47:16.399Z"
 status: "repealed"
 ---
 

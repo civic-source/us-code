@@ -3,9 +3,9 @@ title: "Section 2303 - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 S
 usc_title: 16
 usc_section: "2303"
 chapter: 43
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "16 U.S.C. § 2303"
-generated_at: "2026-11-23T20:42:45.648Z"
+generated_at: "2026-11-23T20:47:16.763Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 154 - Vacation of withdrawals under reclamation law; lands valua
 usc_title: 43
 usc_section: "154"
 chapter: 6
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "43 U.S.C. § 154"
-generated_at: "2026-11-23T20:43:36.488Z"
+generated_at: "2026-11-23T20:48:02.114Z"
 status: "active"
 ---
 

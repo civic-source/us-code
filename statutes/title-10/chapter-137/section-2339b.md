@@ -3,9 +3,9 @@ title: "Section 2339b - Renumbered § 8751]"
 usc_title: 10
 usc_section: "2339b"
 chapter: 137
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 2339b"
-generated_at: "2026-11-23T20:42:10.813Z"
+generated_at: "2026-11-23T20:46:45.704Z"
 status: "renumbered"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1625 - Authorization for verification of eligibility for State a
 usc_title: 8
 usc_section: "1625"
 chapter: 14
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "8 U.S.C. § 1625"
-generated_at: "2026-11-23T20:41:59.928Z"
+generated_at: "2026-11-23T20:46:32.167Z"
 status: "active"
 ---
 

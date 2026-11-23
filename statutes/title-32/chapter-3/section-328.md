@@ -3,9 +3,9 @@ title: "Section 328 - Active Guard and Reserve duty: Governor’s authority"
 usc_title: 32
 usc_section: "328"
 chapter: 3
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "32 U.S.C. § 328"
-generated_at: "2026-11-23T20:43:16.759Z"
+generated_at: "2026-11-23T20:47:46.631Z"
 status: "active"
 ---
 

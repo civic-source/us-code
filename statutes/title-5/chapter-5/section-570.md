@@ -3,9 +3,9 @@ title: "Section 570 - Judicial review"
 usc_title: 5
 usc_section: "570"
 chapter: 5
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "5 U.S.C. § 570"
-generated_at: "2026-11-23T20:41:53.829Z"
+generated_at: "2026-11-23T20:46:27.138Z"
 status: "active"
 ---
 

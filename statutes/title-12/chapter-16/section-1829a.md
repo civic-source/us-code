@@ -3,9 +3,9 @@ title: "Section 1829a - Participation by State nonmember insured banks in lotter
 usc_title: 12
 usc_section: "1829a"
 chapter: 16
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "12 U.S.C. § 1829a"
-generated_at: "2026-11-23T20:42:23.811Z"
+generated_at: "2026-11-23T20:46:54.119Z"
 status: "active"
 ---
 

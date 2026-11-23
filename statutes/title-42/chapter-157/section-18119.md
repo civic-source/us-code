@@ -3,9 +3,9 @@ title: "Section 18119 - Small business procurement"
 usc_title: 42
 usc_section: "18119"
 chapter: 157
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "42 U.S.C. § 18119"
-generated_at: "2026-11-23T20:44:06.394Z"
+generated_at: "2026-11-23T20:48:18.722Z"
 status: "active"
 ---
 

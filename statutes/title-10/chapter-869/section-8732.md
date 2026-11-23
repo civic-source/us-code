@@ -3,9 +3,9 @@ title: "Section 8732 - Authorizations of appropriations"
 usc_title: 10
 usc_section: "8732"
 chapter: 869
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 8732"
-generated_at: "2026-11-23T20:42:11.671Z"
+generated_at: "2026-11-23T20:46:46.444Z"
 status: "active"
 ---
 

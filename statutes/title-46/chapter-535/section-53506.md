@@ -3,9 +3,9 @@ title: "Section 53506 - Investment and fiduciary requirements"
 usc_title: 46
 usc_section: "53506"
 chapter: 535
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "46 U.S.C. § 53506"
-generated_at: "2026-11-23T20:44:12.246Z"
+generated_at: "2026-11-23T20:48:21.819Z"
 status: "active"
 ---
 

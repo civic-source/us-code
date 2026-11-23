@@ -3,9 +3,9 @@ title: "Section 8048 - Medical Officer of the Marine Corps"
 usc_title: 10
 usc_section: "8048"
 chapter: 806
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 8048"
-generated_at: "2026-11-23T20:42:11.527Z"
+generated_at: "2026-11-23T20:46:46.291Z"
 status: "active"
 ---
 

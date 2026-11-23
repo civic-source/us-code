@@ -3,9 +3,9 @@ title: "Section 5101 - Purpose"
 usc_title: 49
 usc_section: "5101"
 chapter: 51
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "49 U.S.C. § 5101"
-generated_at: "2026-11-23T20:44:18.849Z"
+generated_at: "2026-11-23T20:48:28.051Z"
 status: "active"
 ---
 

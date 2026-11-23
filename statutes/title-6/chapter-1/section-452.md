@@ -3,9 +3,9 @@ title: "Section 452 - Reorganization"
 usc_title: 6
 usc_section: "452"
 chapter: 1
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "6 U.S.C. § 452"
-generated_at: "2026-11-23T20:41:58.272Z"
+generated_at: "2026-11-23T20:46:30.558Z"
 status: "active"
 ---
 

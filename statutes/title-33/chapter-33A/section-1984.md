@@ -3,9 +3,9 @@ title: "Section 1984 - Prioritization of marine debris in existing innovation an
 usc_title: 33
 usc_section: "1984"
 chapter: 33
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "33 U.S.C. § 1984"
-generated_at: "2026-11-23T20:43:23.729Z"
+generated_at: "2026-11-23T20:47:52.279Z"
 status: "active"
 ---
 

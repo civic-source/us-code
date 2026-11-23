@@ -3,9 +3,9 @@ title: "Section 9203 - NIST support for research and standards on generative adv
 usc_title: 15
 usc_section: "9203"
 chapter: 117
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "15 U.S.C. § 9203"
-generated_at: "2026-11-23T20:42:29.382Z"
+generated_at: "2026-11-23T20:46:59.897Z"
 status: "active"
 ---
 

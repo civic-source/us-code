@@ -3,9 +3,9 @@ title: "Section 3332 - Powers and duties"
 usc_title: 18
 usc_section: "3332"
 chapter: 216
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "18 U.S.C. § 3332"
-generated_at: "2026-11-23T20:42:34.136Z"
+generated_at: "2026-11-23T20:47:04.054Z"
 status: "active"
 ---
 

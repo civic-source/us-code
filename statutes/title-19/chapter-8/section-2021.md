@@ -3,9 +3,9 @@ title: "Section 2021 - General authority"
 usc_title: 19
 usc_section: "2021"
 chapter: 8
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "19 U.S.C. § 2021"
-generated_at: "2026-11-23T20:42:36.283Z"
+generated_at: "2026-11-23T20:47:06.393Z"
 status: "active"
 ---
 

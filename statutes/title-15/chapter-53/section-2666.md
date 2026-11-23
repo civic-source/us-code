@@ -3,9 +3,9 @@ title: "Section 2666 - Grant assistance to States for radon programs"
 usc_title: 15
 usc_section: "2666"
 chapter: 53
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "15 U.S.C. § 2666"
-generated_at: "2026-11-23T20:42:29.067Z"
+generated_at: "2026-11-23T20:46:59.275Z"
 status: "active"
 ---
 

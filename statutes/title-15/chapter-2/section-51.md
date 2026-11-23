@@ -3,9 +3,9 @@ title: "Section 51 - Effect on other statutory provisions"
 usc_title: 15
 usc_section: "51"
 chapter: 2
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "15 U.S.C. § 51"
-generated_at: "2026-11-23T20:42:27.948Z"
+generated_at: "2026-11-23T20:46:58.461Z"
 status: "active"
 ---
 

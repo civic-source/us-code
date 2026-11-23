@@ -3,9 +3,9 @@ title: "Section 3345 - Acting officer"
 usc_title: 5
 usc_section: "3345"
 chapter: 33
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "5 U.S.C. § 3345"
-generated_at: "2026-11-23T20:41:53.948Z"
+generated_at: "2026-11-23T20:46:27.240Z"
 status: "active"
 ---
 

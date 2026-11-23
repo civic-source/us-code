@@ -3,9 +3,9 @@ title: "Section 9531 - Commercial Augmentation Space Reserve"
 usc_title: 10
 usc_section: "9531"
 chapter: 963
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 9531"
-generated_at: "2026-11-23T20:42:11.811Z"
+generated_at: "2026-11-23T20:46:46.565Z"
 status: "active"
 ---
 

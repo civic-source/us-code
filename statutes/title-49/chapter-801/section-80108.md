@@ -3,9 +3,9 @@ title: "Section 80108 - Alterations and additions"
 usc_title: 49
 usc_section: "80108"
 chapter: 801
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "49 U.S.C. § 80108"
-generated_at: "2026-11-23T20:44:19.938Z"
+generated_at: "2026-11-23T20:48:28.812Z"
 status: "active"
 ---
 

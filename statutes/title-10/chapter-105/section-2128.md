@@ -3,9 +3,9 @@ title: "Section 2128 - Accession bonus for members of the program"
 usc_title: 10
 usc_section: "2128"
 chapter: 105
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 2128"
-generated_at: "2026-11-23T20:42:10.735Z"
+generated_at: "2026-11-23T20:46:45.628Z"
 status: "active"
 ---
 

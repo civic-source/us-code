@@ -3,9 +3,9 @@ title: "Section 660 - Civil action to enforce child support obligations; jurisdi
 usc_title: 42
 usc_section: "660"
 chapter: 7
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "42 U.S.C. § 660"
-generated_at: "2026-11-23T20:44:02.296Z"
+generated_at: "2026-11-23T20:48:16.206Z"
 status: "active"
 ---
 

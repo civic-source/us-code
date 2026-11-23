@@ -3,9 +3,9 @@ title: "Section 6906 - Prohibited acts"
 usc_title: 16
 usc_section: "6906"
 chapter: 88
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "16 U.S.C. § 6906"
-generated_at: "2026-11-23T20:42:45.926Z"
+generated_at: "2026-11-23T20:47:16.991Z"
 status: "active"
 ---
 

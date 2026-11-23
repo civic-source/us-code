@@ -3,9 +3,9 @@ title: "Section 1167 - Members under confinement by sentence of court-martial: s
 usc_title: 10
 usc_section: "1167"
 chapter: 59
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 1167"
-generated_at: "2026-11-23T20:42:10.503Z"
+generated_at: "2026-11-23T20:46:45.425Z"
 status: "active"
 ---
 

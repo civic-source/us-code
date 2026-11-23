@@ -3,9 +3,9 @@ title: "Section 9502 - Repealed. Pub. L. 97–35, title IX, § 902(e)(1) , Aug. 
 usc_title: 42
 usc_section: "9502"
 chapter: 102
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "42 U.S.C. § 9502"
-generated_at: "2026-11-23T20:44:05.303Z"
+generated_at: "2026-11-23T20:48:18.058Z"
 status: "repealed"
 ---
 

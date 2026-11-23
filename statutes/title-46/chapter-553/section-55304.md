@@ -3,9 +3,9 @@ title: "Section 55304 - Exports financed by the United States Government"
 usc_title: 46
 usc_section: "55304"
 chapter: 553
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "46 U.S.C. § 55304"
-generated_at: "2026-11-23T20:44:12.301Z"
+generated_at: "2026-11-23T20:48:21.852Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9007 - Jurisdiction of courts"
 usc_title: 5
 usc_section: "9007"
 chapter: 90
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "5 U.S.C. § 9007"
-generated_at: "2026-11-23T20:41:55.094Z"
+generated_at: "2026-11-23T20:46:27.861Z"
 status: "active"
 ---
 

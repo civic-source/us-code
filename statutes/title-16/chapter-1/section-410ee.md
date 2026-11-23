@@ -3,9 +3,9 @@ title: "Section 410ee - San Antonio Missions National Historical Park"
 usc_title: 16
 usc_section: "410ee"
 chapter: 1
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "16 U.S.C. § 410ee"
-generated_at: "2026-11-23T20:42:44.437Z"
+generated_at: "2026-11-23T20:47:15.481Z"
 status: "active"
 ---
 

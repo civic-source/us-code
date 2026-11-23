@@ -3,9 +3,9 @@ title: "Section 6063 - Study of Goals 2000 and students with disabilities"
 usc_title: 20
 usc_section: "6063"
 chapter: 68
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "20 U.S.C. § 6063"
-generated_at: "2026-11-23T20:42:39.848Z"
+generated_at: "2026-11-23T20:47:10.608Z"
 status: "active"
 ---
 

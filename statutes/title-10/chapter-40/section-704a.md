@@ -3,9 +3,9 @@ title: "Section 704a - Administration of leave: prohibition on authorizing, gran
 usc_title: 10
 usc_section: "704a"
 chapter: 40
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 704a"
-generated_at: "2026-11-23T20:42:10.210Z"
+generated_at: "2026-11-23T20:46:45.156Z"
 status: "active"
 ---
 

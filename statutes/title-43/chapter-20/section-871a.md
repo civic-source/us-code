@@ -3,9 +3,9 @@ title: "Section 871a - Repealed. Pub. L. 94–579, title VII, § 705(a) , Oct. 2
 usc_title: 43
 usc_section: "871a"
 chapter: 20
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "43 U.S.C. § 871a"
-generated_at: "2026-11-23T20:43:36.653Z"
+generated_at: "2026-11-23T20:48:02.191Z"
 status: "repealed"
 ---
 

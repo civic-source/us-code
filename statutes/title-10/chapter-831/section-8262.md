@@ -3,9 +3,9 @@ title: "Section 8262 - Higher retired grade and pay for members who serve satisf
 usc_title: 10
 usc_section: "8262"
 chapter: 831
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 8262"
-generated_at: "2026-11-23T20:42:11.565Z"
+generated_at: "2026-11-23T20:46:46.320Z"
 status: "active"
 ---
 

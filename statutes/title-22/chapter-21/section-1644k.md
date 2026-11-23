@@ -3,9 +3,9 @@ title: "Section 1644k - Authorization of appropriations"
 usc_title: 22
 usc_section: "1644k"
 chapter: 21
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "22 U.S.C. § 1644k"
-generated_at: "2026-11-23T20:42:57.302Z"
+generated_at: "2026-11-23T20:47:28.953Z"
 status: "active"
 ---
 

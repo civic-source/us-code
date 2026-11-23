@@ -3,9 +3,9 @@ title: "Section 14103 - Delegation of authority"
 usc_title: 46
 usc_section: "14103"
 chapter: 141
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "46 U.S.C. § 14103"
-generated_at: "2026-11-23T20:44:12.093Z"
+generated_at: "2026-11-23T20:48:21.727Z"
 status: "active"
 ---
 

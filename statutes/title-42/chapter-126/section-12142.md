@@ -3,9 +3,9 @@ title: "Section 12142 - Public entities operating fixed route systems"
 usc_title: 42
 usc_section: "12142"
 chapter: 126
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "42 U.S.C. § 12142"
-generated_at: "2026-11-23T20:44:05.645Z"
+generated_at: "2026-11-23T20:48:18.287Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1747 - Authorization of appropriations; determination of value o
 usc_title: 7
 usc_section: "1747"
 chapter: 42
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "7 U.S.C. § 1747"
-generated_at: "2026-11-23T20:42:15.896Z"
+generated_at: "2026-11-23T20:46:36.209Z"
 status: "active"
 ---
 

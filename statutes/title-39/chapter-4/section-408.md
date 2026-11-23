@@ -3,9 +3,9 @@ title: "Section 408 - International money-order exchanges"
 usc_title: 39
 usc_section: "408"
 chapter: 4
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "39 U.S.C. § 408"
-generated_at: "2026-11-23T20:43:27.053Z"
+generated_at: "2026-11-23T20:47:53.989Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3071 - Purposes"
 usc_title: 25
 usc_section: "3071"
 chapter: 32
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "25 U.S.C. § 3071"
-generated_at: "2026-11-23T20:42:51.093Z"
+generated_at: "2026-11-23T20:47:24.101Z"
 status: "active"
 ---
 

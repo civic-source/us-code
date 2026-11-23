@@ -3,9 +3,9 @@ title: "Section 283w - Increase in authorized capital stock of Bank and increase
 usc_title: 22
 usc_section: "283w"
 chapter: 7
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "22 U.S.C. § 283w"
-generated_at: "2026-11-23T20:42:57.170Z"
+generated_at: "2026-11-23T20:47:28.805Z"
 status: "active"
 ---
 

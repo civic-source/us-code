@@ -3,9 +3,9 @@ title: "Section 8383 - Retired members: grade"
 usc_title: 10
 usc_section: "8383"
 chapter: 845
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 8383"
-generated_at: "2026-11-23T20:42:11.602Z"
+generated_at: "2026-11-23T20:46:46.349Z"
 status: "active"
 ---
 

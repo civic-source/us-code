@@ -3,9 +3,9 @@ title: "Section 1604 - National Forest System land and resource management plans
 usc_title: 16
 usc_section: "1604"
 chapter: 36
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "16 U.S.C. § 1604"
-generated_at: "2026-11-23T20:42:45.562Z"
+generated_at: "2026-11-23T20:47:16.682Z"
 status: "active"
 ---
 

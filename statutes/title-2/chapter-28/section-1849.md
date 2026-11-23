@@ -3,9 +3,9 @@ title: "Section 1849 - Compensation of certain positions under jurisdiction of A
 usc_title: 2
 usc_section: "1849"
 chapter: 28
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "2 U.S.C. § 1849"
-generated_at: "2026-11-23T20:41:49.313Z"
+generated_at: "2026-11-23T20:46:22.517Z"
 status: "active"
 ---
 

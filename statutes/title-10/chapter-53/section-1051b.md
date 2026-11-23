@@ -3,9 +3,9 @@ title: "Section 1051b - Renumbered § 313]"
 usc_title: 10
 usc_section: "1051b"
 chapter: 53
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 1051b"
-generated_at: "2026-11-23T20:42:10.364Z"
+generated_at: "2026-11-23T20:46:45.305Z"
 status: "renumbered"
 ---
 

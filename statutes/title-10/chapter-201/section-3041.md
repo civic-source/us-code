@@ -3,9 +3,9 @@ title: "Section 3041 - Major system"
 usc_title: 10
 usc_section: "3041"
 chapter: 201
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 3041"
-generated_at: "2026-11-23T20:42:11.066Z"
+generated_at: "2026-11-23T20:46:45.927Z"
 status: "active"
 ---
 

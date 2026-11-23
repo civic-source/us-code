@@ -3,9 +3,9 @@ title: "Section 6703 - National culvert removal, replacement, and restoration gr
 usc_title: 49
 usc_section: "6703"
 chapter: 67
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "49 U.S.C. § 6703"
-generated_at: "2026-11-23T20:44:19.015Z"
+generated_at: "2026-11-23T20:48:28.169Z"
 status: "active"
 ---
 

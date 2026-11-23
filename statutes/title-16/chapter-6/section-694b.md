@@ -3,9 +3,9 @@ title: "Section 694b - Rules and regulations for administration of sanctuaries i
 usc_title: 16
 usc_section: "694b"
 chapter: 6
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "16 U.S.C. § 694b"
-generated_at: "2026-11-23T20:42:44.942Z"
+generated_at: "2026-11-23T20:47:16.275Z"
 status: "active"
 ---
 

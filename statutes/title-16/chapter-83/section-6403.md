@@ -3,9 +3,9 @@ title: "Section 6403 - National coral reef resilience strategy"
 usc_title: 16
 usc_section: "6403"
 chapter: 83
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "16 U.S.C. § 6403"
-generated_at: "2026-11-23T20:42:45.870Z"
+generated_at: "2026-11-23T20:47:16.947Z"
 status: "active"
 ---
 

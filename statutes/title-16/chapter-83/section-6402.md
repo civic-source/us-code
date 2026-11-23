@@ -3,9 +3,9 @@ title: "Section 6402 - Federal coral reef management and restoration activities"
 usc_title: 16
 usc_section: "6402"
 chapter: 83
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "16 U.S.C. § 6402"
-generated_at: "2026-11-23T20:42:45.870Z"
+generated_at: "2026-11-23T20:47:16.947Z"
 status: "active"
 ---
 

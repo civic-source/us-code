@@ -3,9 +3,9 @@ title: "Section 2008s - Rural microentrepreneur assistance program"
 usc_title: 7
 usc_section: "2008s"
 chapter: 50
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "7 U.S.C. § 2008s"
-generated_at: "2026-11-23T20:42:15.964Z"
+generated_at: "2026-11-23T20:46:36.277Z"
 status: "active"
 ---
 

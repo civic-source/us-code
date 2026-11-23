@@ -3,9 +3,9 @@ title: "Section 471 - Statistics and estimates of grades and staple length of co
 usc_title: 7
 usc_section: "471"
 chapter: 19
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "7 U.S.C. § 471"
-generated_at: "2026-11-23T20:42:15.615Z"
+generated_at: "2026-11-23T20:46:35.940Z"
 status: "active"
 ---
 

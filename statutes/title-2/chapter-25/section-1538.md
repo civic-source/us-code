@@ -3,9 +3,9 @@ title: "Section 1538 - Annual statements to Congress on agency compliance"
 usc_title: 2
 usc_section: "1538"
 chapter: 25
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "2 U.S.C. § 1538"
-generated_at: "2026-11-23T20:41:49.280Z"
+generated_at: "2026-11-23T20:46:22.483Z"
 status: "active"
 ---
 

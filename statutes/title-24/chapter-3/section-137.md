@@ -3,9 +3,9 @@ title: "Section 137 - Repealed. July 3, 1930, ch. 863, § 7 , 46 Stat. 1018"
 usc_title: 24
 usc_section: "137"
 chapter: 3
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "24 U.S.C. § 137"
-generated_at: "2026-11-23T20:42:47.678Z"
+generated_at: "2026-11-23T20:47:18.533Z"
 status: "repealed"
 ---
 

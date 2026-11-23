@@ -3,9 +3,9 @@ title: "Section 127 - Emergency and extraordinary expenses"
 usc_title: 10
 usc_section: "127"
 chapter: 3
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 127"
-generated_at: "2026-11-23T20:42:09.854Z"
+generated_at: "2026-11-23T20:46:44.882Z"
 status: "active"
 ---
 

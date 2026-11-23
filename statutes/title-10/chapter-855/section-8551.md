@@ -3,9 +3,9 @@ title: "Section 8551 - Development and operation of the Naval Innovation Center 
 usc_title: 10
 usc_section: "8551"
 chapter: 855
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 8551"
-generated_at: "2026-11-23T20:42:11.629Z"
+generated_at: "2026-11-23T20:46:46.383Z"
 status: "active"
 ---
 

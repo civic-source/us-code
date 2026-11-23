@@ -3,9 +3,9 @@ title: "Section 79a - Establishment; statement of purposes"
 usc_title: 16
 usc_section: "79a"
 chapter: 1
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "16 U.S.C. § 79a"
-generated_at: "2026-11-23T20:42:44.274Z"
+generated_at: "2026-11-23T20:47:15.283Z"
 status: "active"
 ---
 

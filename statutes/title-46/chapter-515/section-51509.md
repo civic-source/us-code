@@ -3,9 +3,9 @@ title: "Section 51509 - Student incentive payment agreements"
 usc_title: 46
 usc_section: "51509"
 chapter: 515
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "46 U.S.C. § 51509"
-generated_at: "2026-11-23T20:44:12.215Z"
+generated_at: "2026-11-23T20:48:21.800Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3341 - Functions of Federal financial institutions regulatory ag
 usc_title: 12
 usc_section: "3341"
 chapter: 34
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "12 U.S.C. § 3341"
-generated_at: "2026-11-23T20:42:23.991Z"
+generated_at: "2026-11-23T20:46:54.308Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1217 - Academy cadets and midshipmen: applicability of chapter"
 usc_title: 10
 usc_section: "1217"
 chapter: 61
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 1217"
-generated_at: "2026-11-23T20:42:10.525Z"
+generated_at: "2026-11-23T20:46:45.443Z"
 status: "active"
 ---
 

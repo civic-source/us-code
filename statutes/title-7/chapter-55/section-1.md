@@ -3,9 +3,9 @@ title: "Section 1 - Transparency and accountability for socially disadvantaged f
 usc_title: 7
 usc_section: "1"
 chapter: 55
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "7 U.S.C. § 1"
-generated_at: "2026-11-23T20:42:16.104Z"
+generated_at: "2026-11-23T20:46:36.421Z"
 status: "active"
 ---
 

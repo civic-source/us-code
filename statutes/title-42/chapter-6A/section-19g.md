@@ -3,9 +3,9 @@ title: "Section 19g - Midsize and Large Drinking Water System Infrastructure Res
 usc_title: 42
 usc_section: "19g"
 chapter: 6
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "42 U.S.C. § 19g"
-generated_at: "2026-11-23T20:44:01.349Z"
+generated_at: "2026-11-23T20:48:15.859Z"
 status: "active"
 ---
 

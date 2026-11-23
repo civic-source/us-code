@@ -3,9 +3,9 @@ title: "Section 310 - Director of Coast Guard Investigative Service"
 usc_title: 14
 usc_section: "310"
 chapter: 3
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "14 U.S.C. § 310"
-generated_at: "2026-11-23T20:42:18.928Z"
+generated_at: "2026-11-23T20:46:49.157Z"
 status: "active"
 ---
 

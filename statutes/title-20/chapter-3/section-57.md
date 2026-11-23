@@ -3,9 +3,9 @@ title: "Section 57 - Disbursements"
 usc_title: 20
 usc_section: "57"
 chapter: 3
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "20 U.S.C. § 57"
-generated_at: "2026-11-23T20:42:39.301Z"
+generated_at: "2026-11-23T20:47:09.954Z"
 status: "active"
 ---
 

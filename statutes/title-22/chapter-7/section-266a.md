@@ -3,9 +3,9 @@ title: "Section 266a - Transferred"
 usc_title: 22
 usc_section: "266a"
 chapter: 7
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "22 U.S.C. § 266a"
-generated_at: "2026-11-23T20:42:57.130Z"
+generated_at: "2026-11-23T20:47:28.768Z"
 status: "transferred"
 ---
 

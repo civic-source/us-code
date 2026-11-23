@@ -3,9 +3,9 @@ title: "Section 130303 - Membership"
 usc_title: 36
 usc_section: "130303"
 chapter: 1303
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "36 U.S.C. § 130303"
-generated_at: "2026-11-23T20:43:28.161Z"
+generated_at: "2026-11-23T20:47:56.396Z"
 status: "active"
 ---
 

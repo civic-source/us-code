@@ -3,9 +3,9 @@ title: "Section 1063 - Cross references"
 usc_title: 26
 usc_section: "1063"
 chapter: 1
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "26 U.S.C. § 1063"
-generated_at: "2026-11-23T20:43:13.536Z"
+generated_at: "2026-11-23T20:47:43.894Z"
 status: "active"
 ---
 

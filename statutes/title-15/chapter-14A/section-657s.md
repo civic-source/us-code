@@ -3,9 +3,9 @@ title: "Section 657s - Limitations on subcontracting"
 usc_title: 15
 usc_section: "657s"
 chapter: 14
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "15 U.S.C. § 657s"
-generated_at: "2026-11-23T20:42:28.358Z"
+generated_at: "2026-11-23T20:46:58.888Z"
 status: "active"
 ---
 

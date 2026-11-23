@@ -3,9 +3,9 @@ title: "Section 1029 - Forms"
 usc_title: 29
 usc_section: "1029"
 chapter: 18
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "29 U.S.C. § 1029"
-generated_at: "2026-11-23T20:43:04.296Z"
+generated_at: "2026-11-23T20:47:35.053Z"
 status: "active"
 ---
 

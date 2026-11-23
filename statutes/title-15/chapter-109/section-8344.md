@@ -3,9 +3,9 @@ title: "Section 8344 - Other authority"
 usc_title: 15
 usc_section: "8344"
 chapter: 109
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "15 U.S.C. § 8344"
-generated_at: "2026-11-23T20:42:29.308Z"
+generated_at: "2026-11-23T20:46:59.816Z"
 status: "active"
 ---
 

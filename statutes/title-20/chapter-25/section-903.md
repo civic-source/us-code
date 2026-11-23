@@ -3,9 +3,9 @@ title: "Section 903 - Administration"
 usc_title: 20
 usc_section: "903"
 chapter: 25
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "20 U.S.C. § 903"
-generated_at: "2026-11-23T20:42:39.364Z"
+generated_at: "2026-11-23T20:47:10.020Z"
 status: "active"
 ---
 

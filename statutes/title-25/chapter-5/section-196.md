@@ -3,9 +3,9 @@ title: "Section 196 - Sale or other disposition of dead timber"
 usc_title: 25
 usc_section: "196"
 chapter: 5
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "25 U.S.C. § 196"
-generated_at: "2026-11-23T20:42:50.796Z"
+generated_at: "2026-11-23T20:47:23.787Z"
 status: "active"
 ---
 

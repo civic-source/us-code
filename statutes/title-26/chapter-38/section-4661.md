@@ -3,9 +3,9 @@ title: "Section 4661 - Imposition of tax"
 usc_title: 26
 usc_section: "4661"
 chapter: 38
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "26 U.S.C. § 4661"
-generated_at: "2026-11-23T20:43:13.867Z"
+generated_at: "2026-11-23T20:47:44.188Z"
 status: "active"
 ---
 

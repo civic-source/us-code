@@ -3,9 +3,9 @@ title: "Section 1886 - Data collection and analysis"
 usc_title: 42
 usc_section: "1886"
 chapter: 16
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "42 U.S.C. § 1886"
-generated_at: "2026-11-23T20:44:04.152Z"
+generated_at: "2026-11-23T20:48:16.981Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 40727 - Army support"
 usc_title: 36
 usc_section: "40727"
 chapter: 407
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "36 U.S.C. § 40727"
-generated_at: "2026-11-23T20:43:28.115Z"
+generated_at: "2026-11-23T20:47:56.331Z"
 status: "active"
 ---
 

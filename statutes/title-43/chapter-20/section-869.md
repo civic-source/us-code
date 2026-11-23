@@ -3,9 +3,9 @@ title: "Section 869 - Disposal of lands for public or recreational purposes"
 usc_title: 43
 usc_section: "869"
 chapter: 20
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "43 U.S.C. § 869"
-generated_at: "2026-11-23T20:43:36.651Z"
+generated_at: "2026-11-23T20:48:02.190Z"
 status: "active"
 ---
 

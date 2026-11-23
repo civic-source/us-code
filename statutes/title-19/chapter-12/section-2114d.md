@@ -3,9 +3,9 @@ title: "Section 2114d - Foreign export requirements; consultations and negotiati
 usc_title: 19
 usc_section: "2114d"
 chapter: 12
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "19 U.S.C. § 2114d"
-generated_at: "2026-11-23T20:42:36.308Z"
+generated_at: "2026-11-23T20:47:06.409Z"
 status: "active"
 ---
 

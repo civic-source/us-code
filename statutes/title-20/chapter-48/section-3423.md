@@ -3,9 +3,9 @@ title: "Section 3423 - Repealed. Pub. L. 101–392, title VI, § 602(a)(1) , Sep
 usc_title: 20
 usc_section: "3423"
 chapter: 48
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "20 U.S.C. § 3423"
-generated_at: "2026-11-23T20:42:39.784Z"
+generated_at: "2026-11-23T20:47:10.524Z"
 status: "repealed"
 ---
 

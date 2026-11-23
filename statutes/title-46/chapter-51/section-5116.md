@@ -3,9 +3,9 @@ title: "Section 5116 - Penalties"
 usc_title: 46
 usc_section: "5116"
 chapter: 51
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "46 U.S.C. § 5116"
-generated_at: "2026-11-23T20:44:11.980Z"
+generated_at: "2026-11-23T20:48:21.676Z"
 status: "active"
 ---
 

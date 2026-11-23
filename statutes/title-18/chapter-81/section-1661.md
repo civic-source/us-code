@@ -3,9 +3,9 @@ title: "Section 1661 - Robbery ashore"
 usc_title: 18
 usc_section: "1661"
 chapter: 81
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "18 U.S.C. § 1661"
-generated_at: "2026-11-23T20:42:33.964Z"
+generated_at: "2026-11-23T20:47:03.869Z"
 status: "active"
 ---
 

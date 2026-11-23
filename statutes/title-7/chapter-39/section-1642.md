@@ -3,9 +3,9 @@ title: "Section 1642 - Enforcement by President"
 usc_title: 7
 usc_section: "1642"
 chapter: 39
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "7 U.S.C. § 1642"
-generated_at: "2026-11-23T20:42:15.850Z"
+generated_at: "2026-11-23T20:46:36.171Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4589 - Definitions"
 usc_title: 50
 usc_section: "4589"
 chapter: 55
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "50 U.S.C. § 4589"
-generated_at: "2026-11-23T20:44:14.448Z"
+generated_at: "2026-11-23T20:48:25.350Z"
 status: "active"
 ---
 

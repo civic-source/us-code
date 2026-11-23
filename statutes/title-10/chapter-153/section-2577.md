@@ -3,9 +3,9 @@ title: "Section 2577 - Disposal of recyclable materials"
 usc_title: 10
 usc_section: "2577"
 chapter: 153
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 2577"
-generated_at: "2026-11-23T20:42:10.885Z"
+generated_at: "2026-11-23T20:46:45.764Z"
 status: "active"
 ---
 

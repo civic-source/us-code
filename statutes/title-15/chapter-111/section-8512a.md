@@ -3,9 +3,9 @@ title: "Section 8512a - Learning excellence and good examples from new developer
 usc_title: 15
 usc_section: "8512a"
 chapter: 111
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "15 U.S.C. § 8512a"
-generated_at: "2026-11-23T20:42:29.310Z"
+generated_at: "2026-11-23T20:46:59.818Z"
 status: "active"
 ---
 

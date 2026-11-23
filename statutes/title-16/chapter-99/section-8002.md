@@ -3,9 +3,9 @@ title: "Section 8002 - Purposes"
 usc_title: 16
 usc_section: "8002"
 chapter: 99
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "16 U.S.C. § 8002"
-generated_at: "2026-11-23T20:42:45.955Z"
+generated_at: "2026-11-23T20:47:17.024Z"
 status: "active"
 ---
 

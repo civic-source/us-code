@@ -3,9 +3,9 @@ title: "Section 13620 - Study"
 usc_title: 42
 usc_section: "13620"
 chapter: 135
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "42 U.S.C. § 13620"
-generated_at: "2026-11-23T20:44:05.944Z"
+generated_at: "2026-11-23T20:48:18.445Z"
 status: "active"
 ---
 

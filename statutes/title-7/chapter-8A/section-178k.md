@@ -3,9 +3,9 @@ title: "Section 178k - Disposition of byproducts and strategic and industrially 
 usc_title: 7
 usc_section: "178k"
 chapter: 8
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "7 U.S.C. § 178k"
-generated_at: "2026-11-23T20:42:15.574Z"
+generated_at: "2026-11-23T20:46:35.900Z"
 status: "active"
 ---
 

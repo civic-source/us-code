@@ -3,9 +3,9 @@ title: "Section 881a - Transferred"
 usc_title: 21
 usc_section: "881a"
 chapter: 13
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "21 U.S.C. § 881a"
-generated_at: "2026-11-23T20:42:53.485Z"
+generated_at: "2026-11-23T20:47:22.272Z"
 status: "transferred"
 ---
 

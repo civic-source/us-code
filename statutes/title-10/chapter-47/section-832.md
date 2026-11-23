@@ -3,9 +3,9 @@ title: "Section 832 - Art. 32. Preliminary hearing required before referral to g
 usc_title: 10
 usc_section: "832"
 chapter: 47
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 832"
-generated_at: "2026-11-23T20:42:10.251Z"
+generated_at: "2026-11-23T20:46:45.196Z"
 status: "active"
 ---
 

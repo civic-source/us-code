@@ -3,9 +3,9 @@ title: "Section 4809 - Assessments"
 usc_title: 7
 usc_section: "4809"
 chapter: 79
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "7 U.S.C. § 4809"
-generated_at: "2026-11-23T20:42:16.238Z"
+generated_at: "2026-11-23T20:46:36.556Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 12625 - Repealed. Pub. L. 111–13, title I, § 1515 , Apr. 21, 
 usc_title: 42
 usc_section: "12625"
 chapter: 129
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "42 U.S.C. § 12625"
-generated_at: "2026-11-23T20:44:05.774Z"
+generated_at: "2026-11-23T20:48:18.338Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2161 - Composition of boards"
 usc_title: 14
 usc_section: "2161"
 chapter: 21
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "14 U.S.C. § 2161"
-generated_at: "2026-11-23T20:42:19.027Z"
+generated_at: "2026-11-23T20:46:49.257Z"
 status: "active"
 ---
 

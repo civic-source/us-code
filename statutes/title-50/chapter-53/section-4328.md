@@ -3,9 +3,9 @@ title: "Section 4328 - “Member of the former ruling family” defined"
 usc_title: 50
 usc_section: "4328"
 chapter: 53
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "50 U.S.C. § 4328"
-generated_at: "2026-11-23T20:44:14.417Z"
+generated_at: "2026-11-23T20:48:25.319Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 107c - Repealed. Pub. L. 93–516, title II, § 205 , Dec. 7, 19
 usc_title: 20
 usc_section: "107c"
 chapter: 6
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "20 U.S.C. § 107c"
-generated_at: "2026-11-23T20:42:39.347Z"
+generated_at: "2026-11-23T20:47:09.990Z"
 status: "repealed"
 ---
 

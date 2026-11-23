@@ -3,9 +3,9 @@ title: "Section 3008 - Cooperative aviation centers"
 usc_title: 33
 usc_section: "3008"
 chapter: 43
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "33 U.S.C. § 3008"
-generated_at: "2026-11-23T20:43:23.839Z"
+generated_at: "2026-11-23T20:47:52.388Z"
 status: "active"
 ---
 

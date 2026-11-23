@@ -3,9 +3,9 @@ title: "Section 5303 - Annual adjustments to pay schedules"
 usc_title: 5
 usc_section: "5303"
 chapter: 53
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "5 U.S.C. § 5303"
-generated_at: "2026-11-23T20:41:54.027Z"
+generated_at: "2026-11-23T20:46:27.292Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3006 - Civil action"
 usc_title: 15
 usc_section: "3006"
 chapter: 57
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "15 U.S.C. § 3006"
-generated_at: "2026-11-23T20:42:29.096Z"
+generated_at: "2026-11-23T20:46:59.298Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1614 - Definitions"
 usc_title: 10
 usc_section: "1614"
 chapter: 83
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 1614"
-generated_at: "2026-11-23T20:42:10.659Z"
+generated_at: "2026-11-23T20:46:45.565Z"
 status: "active"
 ---
 

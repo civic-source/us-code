@@ -3,9 +3,9 @@ title: "Section 503 - Rules; regulations; procedures"
 usc_title: 39
 usc_section: "503"
 chapter: 5
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "39 U.S.C. § 503"
-generated_at: "2026-11-23T20:43:27.058Z"
+generated_at: "2026-11-23T20:47:53.992Z"
 status: "active"
 ---
 

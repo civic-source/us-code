@@ -3,9 +3,9 @@ title: "Section 60129 - Protection of employees providing pipeline safety inform
 usc_title: 49
 usc_section: "60129"
 chapter: 601
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "49 U.S.C. § 60129"
-generated_at: "2026-11-23T20:44:19.911Z"
+generated_at: "2026-11-23T20:48:28.800Z"
 status: "active"
 ---
 

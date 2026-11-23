@@ -3,9 +3,9 @@ title: "Section 8461 - Partnership agreements to modernize federally owned campg
 usc_title: 16
 usc_section: "8461"
 chapter: 103
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "16 U.S.C. § 8461"
-generated_at: "2026-11-23T20:42:45.970Z"
+generated_at: "2026-11-23T20:47:17.044Z"
 status: "active"
 ---
 

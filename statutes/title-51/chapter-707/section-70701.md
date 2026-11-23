@@ -3,9 +3,9 @@ title: "Section 70701 - Definitions"
 usc_title: 51
 usc_section: "70701"
 chapter: 707
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "51 U.S.C. § 70701"
-generated_at: "2026-11-23T20:44:22.208Z"
+generated_at: "2026-11-23T20:48:31.200Z"
 status: "active"
 ---
 

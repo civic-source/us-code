@@ -3,9 +3,9 @@ title: "Section 6803 - Issuance of orders"
 usc_title: 7
 usc_section: "6803"
 chapter: 97
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "7 U.S.C. § 6803"
-generated_at: "2026-11-23T20:42:16.344Z"
+generated_at: "2026-11-23T20:46:36.660Z"
 status: "active"
 ---
 

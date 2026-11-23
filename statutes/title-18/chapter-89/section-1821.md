@@ -3,9 +3,9 @@ title: "Section 1821 - Repealed. Pub. L. 116–260, div. O, title X, § 1002(8) 
 usc_title: 18
 usc_section: "1821"
 chapter: 89
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "18 U.S.C. § 1821"
-generated_at: "2026-11-23T20:42:33.976Z"
+generated_at: "2026-11-23T20:47:03.884Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 940i - Cybersecurity and grid security improvements"
 usc_title: 7
 usc_section: "940i"
 chapter: 31
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "7 U.S.C. § 940i"
-generated_at: "2026-11-23T20:42:15.675Z"
+generated_at: "2026-11-23T20:46:35.995Z"
 status: "active"
 ---
 

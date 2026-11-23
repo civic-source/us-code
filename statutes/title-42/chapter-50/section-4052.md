@@ -3,9 +3,9 @@ title: "Section 4052 - Agreements with flood insurance pool"
 usc_title: 42
 usc_section: "4052"
 chapter: 50
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "42 U.S.C. § 4052"
-generated_at: "2026-11-23T20:44:04.536Z"
+generated_at: "2026-11-23T20:48:17.324Z"
 status: "active"
 ---
 

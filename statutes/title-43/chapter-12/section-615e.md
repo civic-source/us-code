@@ -3,9 +3,9 @@ title: "Section 615e - Omitted"
 usc_title: 43
 usc_section: "615e"
 chapter: 12
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "43 U.S.C. § 615e"
-generated_at: "2026-11-23T20:43:36.589Z"
+generated_at: "2026-11-23T20:48:02.160Z"
 status: "omitted"
 ---
 

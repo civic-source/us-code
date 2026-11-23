@@ -3,9 +3,9 @@ title: "Section 1732 - Contracts and grants to provide for the care and treatmen
 usc_title: 38
 usc_section: "1732"
 chapter: 17
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "38 U.S.C. § 1732"
-generated_at: "2026-11-23T20:43:30.796Z"
+generated_at: "2026-11-23T20:47:58.686Z"
 status: "active"
 ---
 

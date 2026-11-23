@@ -3,9 +3,9 @@ title: "Section 2892a - Access by tenants to historical maintenance information"
 usc_title: 10
 usc_section: "2892a"
 chapter: 169
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 2892a"
-generated_at: "2026-11-23T20:42:11.036Z"
+generated_at: "2026-11-23T20:46:45.902Z"
 status: "active"
 ---
 

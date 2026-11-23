@@ -3,9 +3,9 @@ title: "Section 1004 - Supervisory and other managerial organizations"
 usc_title: 39
 usc_section: "1004"
 chapter: 10
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "39 U.S.C. § 1004"
-generated_at: "2026-11-23T20:43:27.061Z"
+generated_at: "2026-11-23T20:47:53.994Z"
 status: "active"
 ---
 

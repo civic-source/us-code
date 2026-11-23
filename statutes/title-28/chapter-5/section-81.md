@@ -3,9 +3,9 @@ title: "Section 81 - Alabama"
 usc_title: 28
 usc_section: "81"
 chapter: 5
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "28 U.S.C. § 81"
-generated_at: "2026-11-23T20:43:02.434Z"
+generated_at: "2026-11-23T20:47:33.398Z"
 status: "active"
 ---
 

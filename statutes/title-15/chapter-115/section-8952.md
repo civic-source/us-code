@@ -3,9 +3,9 @@ title: "Section 8952 - Research and coordination plan for enhanced response on e
 usc_title: 15
 usc_section: "8952"
 chapter: 115
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "15 U.S.C. § 8952"
-generated_at: "2026-11-23T20:42:29.334Z"
+generated_at: "2026-11-23T20:46:59.847Z"
 status: "active"
 ---
 

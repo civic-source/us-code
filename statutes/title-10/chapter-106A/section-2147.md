@@ -3,9 +3,9 @@ title: "Section 2147 - Right of member after reenlisting to transfer entitlement
 usc_title: 10
 usc_section: "2147"
 chapter: 106
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 2147"
-generated_at: "2026-11-23T20:42:10.738Z"
+generated_at: "2026-11-23T20:46:45.631Z"
 status: "active"
 ---
 

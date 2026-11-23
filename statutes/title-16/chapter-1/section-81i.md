@@ -3,9 +3,9 @@ title: "Section 81i - Donation of buildings thereafter revenue producing; dispos
 usc_title: 16
 usc_section: "81i"
 chapter: 1
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "16 U.S.C. § 81i"
-generated_at: "2026-11-23T20:42:44.302Z"
+generated_at: "2026-11-23T20:47:15.292Z"
 status: "active"
 ---
 

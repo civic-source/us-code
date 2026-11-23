@@ -3,9 +3,9 @@ title: "Section 12312 - Active duty agreements: release from duty"
 usc_title: 10
 usc_section: "12312"
 chapter: 1209
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 12312"
-generated_at: "2026-11-23T20:42:11.889Z"
+generated_at: "2026-11-23T20:46:46.644Z"
 status: "active"
 ---
 

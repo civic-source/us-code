@@ -3,9 +3,9 @@ title: "Section 12522 - Enhanced penalties for illegal drug use in Federal priso
 usc_title: 34
 usc_section: "12522"
 chapter: 121
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "34 U.S.C. § 12522"
-generated_at: "2026-11-23T20:43:21.723Z"
+generated_at: "2026-11-23T20:47:48.158Z"
 status: "active"
 ---
 

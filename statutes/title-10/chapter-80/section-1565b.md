@@ -3,9 +3,9 @@ title: "Section 1565b - Victims of sexual assault: access to legal assistance an
 usc_title: 10
 usc_section: "1565b"
 chapter: 80
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 1565b"
-generated_at: "2026-11-23T20:42:10.640Z"
+generated_at: "2026-11-23T20:46:45.545Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 41506 - United States-Mexico Border Violence Task Force"
 usc_title: 34
 usc_section: "41506"
 chapter: 415
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "34 U.S.C. § 41506"
-generated_at: "2026-11-23T20:43:21.851Z"
+generated_at: "2026-11-23T20:47:48.285Z"
 status: "active"
 ---
 

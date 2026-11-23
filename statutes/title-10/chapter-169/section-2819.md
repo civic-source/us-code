@@ -3,9 +3,9 @@ title: "Section 2819 - Strategy and assessment with respect to non-operational, 
 usc_title: 10
 usc_section: "2819"
 chapter: 169
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 2819"
-generated_at: "2026-11-23T20:42:10.994Z"
+generated_at: "2026-11-23T20:46:45.864Z"
 status: "active"
 ---
 

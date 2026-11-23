@@ -3,9 +3,9 @@ title: "Section 150403 - Membership"
 usc_title: 36
 usc_section: "150403"
 chapter: 1504
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "36 U.S.C. § 150403"
-generated_at: "2026-11-23T20:43:28.179Z"
+generated_at: "2026-11-23T20:47:56.419Z"
 status: "active"
 ---
 

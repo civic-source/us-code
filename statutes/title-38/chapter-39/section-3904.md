@@ -3,9 +3,9 @@ title: "Section 3904 - Research and development"
 usc_title: 38
 usc_section: "3904"
 chapter: 39
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "38 U.S.C. § 3904"
-generated_at: "2026-11-23T20:43:31.022Z"
+generated_at: "2026-11-23T20:47:58.876Z"
 status: "active"
 ---
 

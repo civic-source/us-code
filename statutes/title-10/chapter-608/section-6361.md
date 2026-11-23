@@ -3,9 +3,9 @@ title: "Section 6361 - Payment of costs of operation and maintenance of infrastr
 usc_title: 10
 usc_section: "6361"
 chapter: 608
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 6361"
-generated_at: "2026-11-23T20:42:11.381Z"
+generated_at: "2026-11-23T20:46:46.168Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6245 - Annual report"
 usc_title: 42
 usc_section: "6245"
 chapter: 77
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "42 U.S.C. § 6245"
-generated_at: "2026-11-23T20:44:04.788Z"
+generated_at: "2026-11-23T20:48:17.562Z"
 status: "active"
 ---
 

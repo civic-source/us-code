@@ -3,9 +3,9 @@ title: "Section 1095g - TRICARE program: waiver of recoupment of erroneous payme
 usc_title: 10
 usc_section: "1095g"
 chapter: 55
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 1095g"
-generated_at: "2026-11-23T20:42:10.464Z"
+generated_at: "2026-11-23T20:46:45.386Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3507 - Appraisals"
 usc_title: 25
 usc_section: "3507"
 chapter: 37
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "25 U.S.C. § 3507"
-generated_at: "2026-11-23T20:42:51.124Z"
+generated_at: "2026-11-23T20:47:24.130Z"
 status: "active"
 ---
 

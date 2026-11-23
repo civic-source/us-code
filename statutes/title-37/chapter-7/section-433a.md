@@ -3,9 +3,9 @@ title: "Section 433a - Allowance for participation in Ready Reserve screening"
 usc_title: 37
 usc_section: "433a"
 chapter: 7
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "37 U.S.C. § 433a"
-generated_at: "2026-11-23T20:43:25.823Z"
+generated_at: "2026-11-23T20:47:55.279Z"
 status: "active"
 ---
 

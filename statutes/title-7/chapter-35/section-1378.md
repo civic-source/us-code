@@ -3,9 +3,9 @@ title: "Section 1378 - Transfer of acreage allotments ensuing from agency acquis
 usc_title: 7
 usc_section: "1378"
 chapter: 35
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "7 U.S.C. § 1378"
-generated_at: "2026-11-23T20:42:15.731Z"
+generated_at: "2026-11-23T20:46:36.049Z"
 status: "active"
 ---
 

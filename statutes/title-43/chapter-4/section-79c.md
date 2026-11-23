@@ -3,9 +3,9 @@ title: "Section 79c - Payment of fees, commissions, etc.; deposit in Treasury"
 usc_title: 43
 usc_section: "79c"
 chapter: 4
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "43 U.S.C. § 79c"
-generated_at: "2026-11-23T20:43:36.481Z"
+generated_at: "2026-11-23T20:48:02.102Z"
 status: "active"
 ---
 

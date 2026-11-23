@@ -3,9 +3,9 @@ title: "Section 329 - Administration of radio laws in Territories and possession
 usc_title: 47
 usc_section: "329"
 chapter: 5
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "47 U.S.C. § 329"
-generated_at: "2026-11-23T20:44:10.056Z"
+generated_at: "2026-11-23T20:48:22.566Z"
 status: "active"
 ---
 

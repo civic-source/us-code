@@ -3,9 +3,9 @@ title: "Section 887a - Art. 87a. Resistance, flight, breach of arrest, and escap
 usc_title: 10
 usc_section: "887a"
 chapter: 47
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 887a"
-generated_at: "2026-11-23T20:42:10.283Z"
+generated_at: "2026-11-23T20:46:45.233Z"
 status: "active"
 ---
 

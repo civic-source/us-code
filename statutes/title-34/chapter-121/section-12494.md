@@ -3,9 +3,9 @@ title: "Section 12494 - Prohibition on retaliation"
 usc_title: 34
 usc_section: "12494"
 chapter: 121
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "34 U.S.C. § 12494"
-generated_at: "2026-11-23T20:43:21.716Z"
+generated_at: "2026-11-23T20:47:48.154Z"
 status: "active"
 ---
 

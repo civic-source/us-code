@@ -3,9 +3,9 @@ title: "Section 911 - Omitted"
 usc_title: 25
 usc_section: "911"
 chapter: 14
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "25 U.S.C. § 911"
-generated_at: "2026-11-23T20:42:50.880Z"
+generated_at: "2026-11-23T20:47:23.884Z"
 status: "omitted"
 ---
 

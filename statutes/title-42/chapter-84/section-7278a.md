@@ -3,9 +3,9 @@ title: "Section 7278a - Availability of funds for energy and water development f
 usc_title: 42
 usc_section: "7278a"
 chapter: 84
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "42 U.S.C. § 7278a"
-generated_at: "2026-11-23T20:44:04.998Z"
+generated_at: "2026-11-23T20:48:17.767Z"
 status: "active"
 ---
 

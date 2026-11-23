@@ -3,9 +3,9 @@ title: "Section 11185 - Payments"
 usc_title: 34
 usc_section: "11185"
 chapter: 111
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "34 U.S.C. § 11185"
-generated_at: "2026-11-23T20:43:21.652Z"
+generated_at: "2026-11-23T20:47:48.097Z"
 status: "active"
 ---
 

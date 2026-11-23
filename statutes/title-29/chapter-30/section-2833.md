@@ -3,9 +3,9 @@ title: "Section 2833 - Repealed. Pub. L. 113–128, title V, § 511(a) , July 22
 usc_title: 29
 usc_section: "2833"
 chapter: 30
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "29 U.S.C. § 2833"
-generated_at: "2026-11-23T20:43:04.484Z"
+generated_at: "2026-11-23T20:47:35.218Z"
 status: "repealed"
 ---
 

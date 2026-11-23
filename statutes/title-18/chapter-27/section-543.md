@@ -3,9 +3,9 @@ title: "Section 543 - Entry of goods for less than legal duty"
 usc_title: 18
 usc_section: "543"
 chapter: 27
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "18 U.S.C. § 543"
-generated_at: "2026-11-23T20:42:33.841Z"
+generated_at: "2026-11-23T20:47:03.736Z"
 status: "active"
 ---
 

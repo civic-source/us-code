@@ -3,9 +3,9 @@ title: "Section 1720 - Documents not needed by departments to be turned over to 
 usc_title: 44
 usc_section: "1720"
 chapter: 17
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "44 U.S.C. § 1720"
-generated_at: "2026-11-23T20:43:33.490Z"
+generated_at: "2026-11-23T20:48:01.053Z"
 status: "active"
 ---
 

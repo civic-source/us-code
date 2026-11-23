@@ -3,9 +3,9 @@ title: "Section 1508 - Publication in Federal Register as notice of hearing"
 usc_title: 44
 usc_section: "1508"
 chapter: 15
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "44 U.S.C. § 1508"
-generated_at: "2026-11-23T20:43:33.481Z"
+generated_at: "2026-11-23T20:48:01.051Z"
 status: "active"
 ---
 

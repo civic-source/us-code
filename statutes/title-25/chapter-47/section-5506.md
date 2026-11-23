@@ -3,9 +3,9 @@ title: "Section 5506 - Tax exemption for conveyed lands and gross receipts; dist
 usc_title: 25
 usc_section: "5506"
 chapter: 47
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "25 U.S.C. § 5506"
-generated_at: "2026-11-23T20:42:51.226Z"
+generated_at: "2026-11-23T20:47:24.228Z"
 status: "active"
 ---
 

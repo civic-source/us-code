@@ -3,9 +3,9 @@ title: "Section 6191 - Reports in connection with permanent closures of Departme
 usc_title: 10
 usc_section: "6191"
 chapter: 604
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 6191"
-generated_at: "2026-11-23T20:42:11.350Z"
+generated_at: "2026-11-23T20:46:46.146Z"
 status: "active"
 ---
 

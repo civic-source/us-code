@@ -3,9 +3,9 @@ title: "Section 161 - Allowance of deductions"
 usc_title: 26
 usc_section: "161"
 chapter: 1
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "26 U.S.C. § 161"
-generated_at: "2026-11-23T20:43:12.865Z"
+generated_at: "2026-11-23T20:47:43.274Z"
 status: "active"
 ---
 

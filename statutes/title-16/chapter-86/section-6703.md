@@ -3,9 +3,9 @@ title: "Section 6703 - Definitions"
 usc_title: 16
 usc_section: "6703"
 chapter: 86
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "16 U.S.C. § 6703"
-generated_at: "2026-11-23T20:42:45.909Z"
+generated_at: "2026-11-23T20:47:16.977Z"
 status: "active"
 ---
 

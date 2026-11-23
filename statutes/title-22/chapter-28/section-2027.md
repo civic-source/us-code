@@ -3,9 +3,9 @@ title: "Section 2027 - Annual review by Secretary of State of programs and proje
 usc_title: 22
 usc_section: "2027"
 chapter: 28
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "22 U.S.C. § 2027"
-generated_at: "2026-11-23T20:42:57.326Z"
+generated_at: "2026-11-23T20:47:28.986Z"
 status: "active"
 ---
 

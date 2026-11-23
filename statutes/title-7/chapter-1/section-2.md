@@ -3,9 +3,9 @@ title: "Section 2 - Jurisdiction of States"
 usc_title: 7
 usc_section: "2"
 chapter: 1
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "7 U.S.C. § 2"
-generated_at: "2026-11-23T20:42:15.467Z"
+generated_at: "2026-11-23T20:46:35.798Z"
 status: "active"
 ---
 

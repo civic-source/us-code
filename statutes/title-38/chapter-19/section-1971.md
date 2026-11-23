@@ -3,9 +3,9 @@ title: "Section 1971 - Basic tables of premiums; readjustment of rates"
 usc_title: 38
 usc_section: "1971"
 chapter: 19
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "38 U.S.C. § 1971"
-generated_at: "2026-11-23T20:43:30.830Z"
+generated_at: "2026-11-23T20:47:58.719Z"
 status: "active"
 ---
 

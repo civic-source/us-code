@@ -3,9 +3,9 @@ title: "Section 12873 - Implementation grants"
 usc_title: 42
 usc_section: "12873"
 chapter: 130
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "42 U.S.C. § 12873"
-generated_at: "2026-11-23T20:44:05.855Z"
+generated_at: "2026-11-23T20:48:18.388Z"
 status: "active"
 ---
 

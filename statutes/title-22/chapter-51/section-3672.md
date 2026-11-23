@@ -3,9 +3,9 @@ title: "Section 3672 - Placement"
 usc_title: 22
 usc_section: "3672"
 chapter: 51
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "22 U.S.C. § 3672"
-generated_at: "2026-11-23T20:42:57.666Z"
+generated_at: "2026-11-23T20:47:29.384Z"
 status: "active"
 ---
 

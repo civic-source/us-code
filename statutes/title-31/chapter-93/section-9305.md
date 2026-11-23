@@ -3,9 +3,9 @@ title: "Section 9305 - Authority and revocation of authority of surety corporati
 usc_title: 31
 usc_section: "9305"
 chapter: 93
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "31 U.S.C. § 9305"
-generated_at: "2026-11-23T20:43:20.428Z"
+generated_at: "2026-11-23T20:47:49.779Z"
 status: "active"
 ---
 

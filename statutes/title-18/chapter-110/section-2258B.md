@@ -3,9 +3,9 @@ title: "Section 2258B - Limited liability for the reporting, storage, and handli
 usc_title: 18
 usc_section: "2258B"
 chapter: 110
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "18 U.S.C. § 2258B"
-generated_at: "2026-11-23T20:42:34.025Z"
+generated_at: "2026-11-23T20:47:03.932Z"
 status: "active"
 ---
 

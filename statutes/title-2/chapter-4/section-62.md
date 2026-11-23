@@ -3,9 +3,9 @@ title: "Section 62 - Transferred"
 usc_title: 2
 usc_section: "62"
 chapter: 4
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "2 U.S.C. § 62"
-generated_at: "2026-11-23T20:41:48.973Z"
+generated_at: "2026-11-23T20:46:22.266Z"
 status: "transferred"
 ---
 

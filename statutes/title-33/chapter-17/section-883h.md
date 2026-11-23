@@ -3,9 +3,9 @@ title: "Section 883h - Employment of public vessels"
 usc_title: 33
 usc_section: "883h"
 chapter: 17
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "33 U.S.C. § 883h"
-generated_at: "2026-11-23T20:43:23.495Z"
+generated_at: "2026-11-23T20:47:52.095Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9565 - Colors, standards, and guidons of demobilized organizatio
 usc_title: 10
 usc_section: "9565"
 chapter: 965
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 9565"
-generated_at: "2026-11-23T20:42:11.813Z"
+generated_at: "2026-11-23T20:46:46.567Z"
 status: "active"
 ---
 

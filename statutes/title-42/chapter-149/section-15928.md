@@ -3,9 +3,9 @@ title: "Section 15928 - Consultation regarding energy rights-of-way on public la
 usc_title: 42
 usc_section: "15928"
 chapter: 149
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "42 U.S.C. § 15928"
-generated_at: "2026-11-23T20:44:06.063Z"
+generated_at: "2026-11-23T20:48:18.516Z"
 status: "active"
 ---
 

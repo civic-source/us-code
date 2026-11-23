@@ -3,9 +3,9 @@ title: "Section 57532 - Operation of experimental vessels"
 usc_title: 46
 usc_section: "57532"
 chapter: 575
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "46 U.S.C. § 57532"
-generated_at: "2026-11-23T20:44:12.344Z"
+generated_at: "2026-11-23T20:48:21.886Z"
 status: "active"
 ---
 

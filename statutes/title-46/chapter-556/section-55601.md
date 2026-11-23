@@ -3,9 +3,9 @@ title: "Section 55601 - United States marine highway program"
 usc_title: 46
 usc_section: "55601"
 chapter: 556
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "46 U.S.C. § 55601"
-generated_at: "2026-11-23T20:44:12.316Z"
+generated_at: "2026-11-23T20:48:21.857Z"
 status: "active"
 ---
 

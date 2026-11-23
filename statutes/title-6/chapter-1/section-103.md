@@ -3,9 +3,9 @@ title: "Section 103 - Use of appropriated funds"
 usc_title: 6
 usc_section: "103"
 chapter: 1
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "6 U.S.C. § 103"
-generated_at: "2026-11-23T20:41:58.121Z"
+generated_at: "2026-11-23T20:46:30.441Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1172 - Transportation of gambling devices as unlawful; exception
 usc_title: 15
 usc_section: "1172"
 chapter: 24
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "15 U.S.C. § 1172"
-generated_at: "2026-11-23T20:42:28.471Z"
+generated_at: "2026-11-23T20:46:59.004Z"
 status: "active"
 ---
 

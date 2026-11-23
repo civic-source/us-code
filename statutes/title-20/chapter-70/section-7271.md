@@ -3,9 +3,9 @@ title: "Section 7271 - Purposes"
 usc_title: 20
 usc_section: "7271"
 chapter: 70
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "20 U.S.C. § 7271"
-generated_at: "2026-11-23T20:42:39.930Z"
+generated_at: "2026-11-23T20:47:10.704Z"
 status: "active"
 ---
 

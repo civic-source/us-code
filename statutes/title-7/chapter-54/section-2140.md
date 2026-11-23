@@ -3,9 +3,9 @@ title: "Section 2140 - Recordkeeping by dealers, exhibitors, research facilities
 usc_title: 7
 usc_section: "2140"
 chapter: 54
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "7 U.S.C. § 2140"
-generated_at: "2026-11-23T20:42:16.063Z"
+generated_at: "2026-11-23T20:46:36.381Z"
 status: "active"
 ---
 

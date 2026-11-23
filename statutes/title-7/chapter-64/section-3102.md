@@ -3,9 +3,9 @@ title: "Section 3102 - Additional purposes of agricultural research and extensio
 usc_title: 7
 usc_section: "3102"
 chapter: 64
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "7 U.S.C. § 3102"
-generated_at: "2026-11-23T20:42:16.141Z"
+generated_at: "2026-11-23T20:46:36.456Z"
 status: "active"
 ---
 

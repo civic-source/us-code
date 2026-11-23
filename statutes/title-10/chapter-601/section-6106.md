@@ -3,9 +3,9 @@ title: "Section 6106 - Restriction on licensing requirement for certain defense 
 usc_title: 10
 usc_section: "6106"
 chapter: 601
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 6106"
-generated_at: "2026-11-23T20:42:11.325Z"
+generated_at: "2026-11-23T20:46:46.128Z"
 status: "active"
 ---
 

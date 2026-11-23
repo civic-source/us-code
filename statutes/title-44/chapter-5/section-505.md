@@ -3,9 +3,9 @@ title: "Section 505 - Sale of duplicate plates"
 usc_title: 44
 usc_section: "505"
 chapter: 5
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "44 U.S.C. § 505"
-generated_at: "2026-11-23T20:43:33.413Z"
+generated_at: "2026-11-23T20:48:01.033Z"
 status: "active"
 ---
 

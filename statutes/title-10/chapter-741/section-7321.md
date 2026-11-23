@@ -3,9 +3,9 @@ title: "Section 7321 - Mandatory retirement: Superintendent of the United States
 usc_title: 10
 usc_section: "7321"
 chapter: 741
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 7321"
-generated_at: "2026-11-23T20:42:11.420Z"
+generated_at: "2026-11-23T20:46:46.211Z"
 status: "active"
 ---
 

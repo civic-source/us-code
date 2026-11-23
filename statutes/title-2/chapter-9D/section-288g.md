@@ -3,9 +3,9 @@ title: "Section 288g - Advisory and other functions"
 usc_title: 2
 usc_section: "288g"
 chapter: 9
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "2 U.S.C. § 288g"
-generated_at: "2026-11-23T20:41:49.080Z"
+generated_at: "2026-11-23T20:46:22.318Z"
 status: "active"
 ---
 

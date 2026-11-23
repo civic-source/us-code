@@ -3,9 +3,9 @@ title: "Section 1343 - Statistical Abstract of the United States"
 usc_title: 44
 usc_section: "1343"
 chapter: 13
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "44 U.S.C. § 1343"
-generated_at: "2026-11-23T20:43:33.475Z"
+generated_at: "2026-11-23T20:48:01.050Z"
 status: "active"
 ---
 

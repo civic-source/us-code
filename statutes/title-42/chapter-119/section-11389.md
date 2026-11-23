@@ -3,9 +3,9 @@ title: "Section 11389 - Indian tribes and tribally designated housing entities"
 usc_title: 42
 usc_section: "11389"
 chapter: 119
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "42 U.S.C. § 11389"
-generated_at: "2026-11-23T20:44:05.574Z"
+generated_at: "2026-11-23T20:48:18.256Z"
 status: "active"
 ---
 

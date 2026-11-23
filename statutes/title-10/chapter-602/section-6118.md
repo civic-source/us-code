@@ -3,9 +3,9 @@ title: "Section 6118 - Form of certifications regarding the safety or reliabilit
 usc_title: 10
 usc_section: "6118"
 chapter: 602
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 6118"
-generated_at: "2026-11-23T20:42:11.328Z"
+generated_at: "2026-11-23T20:46:46.132Z"
 status: "active"
 ---
 

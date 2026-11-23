@@ -3,9 +3,9 @@ title: "Section 2340B - Exclusive remedies"
 usc_title: 18
 usc_section: "2340B"
 chapter: 113
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "18 U.S.C. § 2340B"
-generated_at: "2026-11-23T20:42:34.056Z"
+generated_at: "2026-11-23T20:47:03.965Z"
 status: "active"
 ---
 

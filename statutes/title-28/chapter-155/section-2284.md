@@ -3,9 +3,9 @@ title: "Section 2284 - Three-judge court; when required; composition; procedure"
 usc_title: 28
 usc_section: "2284"
 chapter: 155
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "28 U.S.C. § 2284"
-generated_at: "2026-11-23T20:43:02.669Z"
+generated_at: "2026-11-23T20:47:33.633Z"
 status: "active"
 ---
 

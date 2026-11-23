@@ -3,9 +3,9 @@ title: "Section 5509 - Authority to require fiduciary to receive payments at reg
 usc_title: 38
 usc_section: "5509"
 chapter: 55
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "38 U.S.C. § 5509"
-generated_at: "2026-11-23T20:43:31.084Z"
+generated_at: "2026-11-23T20:47:58.913Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5 - Display and use of flag by civilians; codification of rules 
 usc_title: 4
 usc_section: "5"
 chapter: 1
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "4 U.S.C. § 5"
-generated_at: "2026-11-23T20:41:43.953Z"
+generated_at: "2026-11-23T20:46:20.405Z"
 status: "active"
 ---
 

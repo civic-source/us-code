@@ -3,9 +3,9 @@ title: "Section 2421 - Transportation generally"
 usc_title: 18
 usc_section: "2421"
 chapter: 117
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "18 U.S.C. § 2421"
-generated_at: "2026-11-23T20:42:34.060Z"
+generated_at: "2026-11-23T20:47:03.969Z"
 status: "active"
 ---
 

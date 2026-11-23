@@ -3,9 +3,9 @@ title: "Section 13107 - Authorization of appropriations"
 usc_title: 46
 usc_section: "13107"
 chapter: 131
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "46 U.S.C. § 13107"
-generated_at: "2026-11-23T20:44:12.091Z"
+generated_at: "2026-11-23T20:48:21.726Z"
 status: "active"
 ---
 

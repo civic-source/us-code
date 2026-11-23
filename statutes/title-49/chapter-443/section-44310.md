@@ -3,9 +3,9 @@ title: "Section 44310 - Ending effective date"
 usc_title: 49
 usc_section: "44310"
 chapter: 443
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "49 U.S.C. § 44310"
-generated_at: "2026-11-23T20:44:19.580Z"
+generated_at: "2026-11-23T20:48:28.577Z"
 status: "active"
 ---
 

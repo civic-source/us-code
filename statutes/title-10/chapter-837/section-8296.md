@@ -3,9 +3,9 @@ title: "Section 8296 - Navy and Marine Corps Medal"
 usc_title: 10
 usc_section: "8296"
 chapter: 837
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 8296"
-generated_at: "2026-11-23T20:42:11.572Z"
+generated_at: "2026-11-23T20:46:46.328Z"
 status: "active"
 ---
 

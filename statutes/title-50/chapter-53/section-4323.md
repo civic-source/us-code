@@ -3,9 +3,9 @@ title: "Section 4323 - Allocation of “unallocated interest fund”"
 usc_title: 50
 usc_section: "4323"
 chapter: 53
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "50 U.S.C. § 4323"
-generated_at: "2026-11-23T20:44:14.416Z"
+generated_at: "2026-11-23T20:48:25.318Z"
 status: "active"
 ---
 

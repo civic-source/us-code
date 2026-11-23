@@ -3,9 +3,9 @@ title: "Section 19060 - Risk and resilience research"
 usc_title: 42
 usc_section: "19060"
 chapter: 163
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "42 U.S.C. § 19060"
-generated_at: "2026-11-23T20:44:06.477Z"
+generated_at: "2026-11-23T20:48:18.791Z"
 status: "active"
 ---
 

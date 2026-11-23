@@ -3,9 +3,9 @@ title: "Section 19117 - Coordination of activities"
 usc_title: 42
 usc_section: "19117"
 chapter: 163
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "42 U.S.C. § 19117"
-generated_at: "2026-11-23T20:44:06.485Z"
+generated_at: "2026-11-23T20:48:18.799Z"
 status: "active"
 ---
 

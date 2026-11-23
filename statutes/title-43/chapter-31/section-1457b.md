@@ -3,9 +3,9 @@ title: "Section 1457b - Use of cooperative agreements"
 usc_title: 43
 usc_section: "1457b"
 chapter: 31
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "43 U.S.C. § 1457b"
-generated_at: "2026-11-23T20:43:36.709Z"
+generated_at: "2026-11-23T20:48:02.219Z"
 status: "active"
 ---
 

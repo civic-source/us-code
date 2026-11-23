@@ -3,9 +3,9 @@ title: "Section 50303 - Membership"
 usc_title: 36
 usc_section: "50303"
 chapter: 503
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "36 U.S.C. § 50303"
-generated_at: "2026-11-23T20:43:28.122Z"
+generated_at: "2026-11-23T20:47:56.339Z"
 status: "active"
 ---
 

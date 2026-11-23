@@ -3,9 +3,9 @@ title: "Section 8478a - Investigative authority"
 usc_title: 5
 usc_section: "8478a"
 chapter: 84
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "5 U.S.C. § 8478a"
-generated_at: "2026-11-23T20:41:54.989Z"
+generated_at: "2026-11-23T20:46:27.642Z"
 status: "active"
 ---
 

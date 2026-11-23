@@ -3,9 +3,9 @@ title: "Section 798 - Repealed. Pub. L. 103–199, title VIII, § 803(1) , Dec. 
 usc_title: 50
 usc_section: "798"
 chapter: 23
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "50 U.S.C. § 798"
-generated_at: "2026-11-23T20:44:14.074Z"
+generated_at: "2026-11-23T20:48:24.981Z"
 status: "repealed"
 ---
 

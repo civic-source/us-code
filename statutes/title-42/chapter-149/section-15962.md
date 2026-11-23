@@ -3,9 +3,9 @@ title: "Section 15962 - Project criteria"
 usc_title: 42
 usc_section: "15962"
 chapter: 149
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "42 U.S.C. § 15962"
-generated_at: "2026-11-23T20:44:06.064Z"
+generated_at: "2026-11-23T20:48:18.518Z"
 status: "active"
 ---
 

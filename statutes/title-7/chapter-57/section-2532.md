@@ -3,9 +3,9 @@ title: "Section 2532 - Ownership during testing"
 usc_title: 7
 usc_section: "2532"
 chapter: 57
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "7 U.S.C. § 2532"
-generated_at: "2026-11-23T20:42:16.118Z"
+generated_at: "2026-11-23T20:46:36.434Z"
 status: "active"
 ---
 

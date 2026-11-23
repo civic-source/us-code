@@ -3,9 +3,9 @@ title: "Section 748 - Training and exercises"
 usc_title: 6
 usc_section: "748"
 chapter: 2
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "6 U.S.C. § 748"
-generated_at: "2026-11-23T20:41:58.372Z"
+generated_at: "2026-11-23T20:46:30.655Z"
 status: "active"
 ---
 

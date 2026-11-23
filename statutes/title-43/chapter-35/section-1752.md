@@ -3,9 +3,9 @@ title: "Section 1752 - Grazing leases and permits"
 usc_title: 43
 usc_section: "1752"
 chapter: 35
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "43 U.S.C. § 1752"
-generated_at: "2026-11-23T20:43:36.831Z"
+generated_at: "2026-11-23T20:48:02.277Z"
 status: "active"
 ---
 

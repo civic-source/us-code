@@ -3,9 +3,9 @@ title: "Section 3079c - Eligibility of former officers to compete for certain po
 usc_title: 33
 usc_section: "3079c"
 chapter: 43
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "33 U.S.C. § 3079c"
-generated_at: "2026-11-23T20:43:23.848Z"
+generated_at: "2026-11-23T20:47:52.397Z"
 status: "active"
 ---
 

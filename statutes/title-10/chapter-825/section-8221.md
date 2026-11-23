@@ -3,9 +3,9 @@ title: "Section 8221 - Chaplains: divine services"
 usc_title: 10
 usc_section: "8221"
 chapter: 825
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 8221"
-generated_at: "2026-11-23T20:42:11.557Z"
+generated_at: "2026-11-23T20:46:46.315Z"
 status: "active"
 ---
 

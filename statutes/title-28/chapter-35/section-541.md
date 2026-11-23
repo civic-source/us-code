@@ -3,9 +3,9 @@ title: "Section 541 - United States attorneys"
 usc_title: 28
 usc_section: "541"
 chapter: 35
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "28 U.S.C. § 541"
-generated_at: "2026-11-23T20:43:02.534Z"
+generated_at: "2026-11-23T20:47:33.510Z"
 status: "active"
 ---
 

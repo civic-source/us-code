@@ -3,9 +3,9 @@ title: "Section 130g - Notification requirements for waivers issued under Depart
 usc_title: 10
 usc_section: "130g"
 chapter: 3
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 130g"
-generated_at: "2026-11-23T20:42:09.878Z"
+generated_at: "2026-11-23T20:46:44.903Z"
 status: "active"
 ---
 

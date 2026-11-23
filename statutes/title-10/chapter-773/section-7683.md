@@ -3,9 +3,9 @@ title: "Section 7683 - Excess non-automatic service rifles: loan or donation for
 usc_title: 10
 usc_section: "7683"
 chapter: 773
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 7683"
-generated_at: "2026-11-23T20:42:11.489Z"
+generated_at: "2026-11-23T20:46:46.257Z"
 status: "active"
 ---
 

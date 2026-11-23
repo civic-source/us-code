@@ -3,9 +3,9 @@ title: "Section 6217 - Global internet freedom"
 usc_title: 22
 usc_section: "6217"
 chapter: 71
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "22 U.S.C. § 6217"
-generated_at: "2026-11-23T20:42:57.873Z"
+generated_at: "2026-11-23T20:47:29.603Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1814 - Transfer or assignment; expiration; renewal"
 usc_title: 29
 usc_section: "1814"
 chapter: 20
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "29 U.S.C. § 1814"
-generated_at: "2026-11-23T20:43:04.458Z"
+generated_at: "2026-11-23T20:47:35.192Z"
 status: "active"
 ---
 

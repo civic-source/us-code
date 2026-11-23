@@ -3,9 +3,9 @@ title: "Section 5421 - Prohibition on waiver of rights"
 usc_title: 42
 usc_section: "5421"
 chapter: 70
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "42 U.S.C. § 5421"
-generated_at: "2026-11-23T20:44:04.739Z"
+generated_at: "2026-11-23T20:48:17.520Z"
 status: "active"
 ---
 

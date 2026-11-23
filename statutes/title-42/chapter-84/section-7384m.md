@@ -3,9 +3,9 @@ title: "Section 7384m - Expansion of list of beryllium vendors"
 usc_title: 42
 usc_section: "7384m"
 chapter: 84
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "42 U.S.C. § 7384m"
-generated_at: "2026-11-23T20:44:05.013Z"
+generated_at: "2026-11-23T20:48:17.799Z"
 status: "active"
 ---
 

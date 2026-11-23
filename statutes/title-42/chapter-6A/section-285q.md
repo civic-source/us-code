@@ -3,9 +3,9 @@ title: "Section 285q - Purpose of Institute"
 usc_title: 42
 usc_section: "285q"
 chapter: 6
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "42 U.S.C. § 285q"
-generated_at: "2026-11-23T20:44:00.979Z"
+generated_at: "2026-11-23T20:48:15.682Z"
 status: "active"
 ---
 

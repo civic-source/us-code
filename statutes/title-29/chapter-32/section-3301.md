@@ -3,9 +3,9 @@ title: "Section 3301 - State administration"
 usc_title: 29
 usc_section: "3301"
 chapter: 32
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "29 U.S.C. § 3301"
-generated_at: "2026-11-23T20:43:04.560Z"
+generated_at: "2026-11-23T20:47:35.287Z"
 status: "active"
 ---
 

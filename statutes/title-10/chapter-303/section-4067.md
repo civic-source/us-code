@@ -3,9 +3,9 @@ title: "Section 4067 - Technology protection features activities"
 usc_title: 10
 usc_section: "4067"
 chapter: 303
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 4067"
-generated_at: "2026-11-23T20:42:11.181Z"
+generated_at: "2026-11-23T20:46:46.018Z"
 status: "active"
 ---
 

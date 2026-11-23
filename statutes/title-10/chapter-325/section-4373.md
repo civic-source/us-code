@@ -3,9 +3,9 @@ title: "Section 4373 - Unit cost reports: immediate report from program manager 
 usc_title: 10
 usc_section: "4373"
 chapter: 325
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 4373"
-generated_at: "2026-11-23T20:42:11.237Z"
+generated_at: "2026-11-23T20:46:46.051Z"
 status: "active"
 ---
 

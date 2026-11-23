@@ -3,9 +3,9 @@ title: "Section 1733 - Enforcement authority"
 usc_title: 43
 usc_section: "1733"
 chapter: 35
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "43 U.S.C. § 1733"
-generated_at: "2026-11-23T20:43:36.817Z"
+generated_at: "2026-11-23T20:48:02.270Z"
 status: "active"
 ---
 

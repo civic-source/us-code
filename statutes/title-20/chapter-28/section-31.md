@@ -3,9 +3,9 @@ title: "Section 31 - Statement of purpose"
 usc_title: 20
 usc_section: "31"
 chapter: 28
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "20 U.S.C. § 31"
-generated_at: "2026-11-23T20:42:39.461Z"
+generated_at: "2026-11-23T20:47:10.134Z"
 status: "active"
 ---
 

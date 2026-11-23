@@ -3,9 +3,9 @@ title: "Section 11331 - Responsibilities for Federal information systems standar
 usc_title: 40
 usc_section: "11331"
 chapter: 113
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "40 U.S.C. § 11331"
-generated_at: "2026-11-23T20:43:26.753Z"
+generated_at: "2026-11-23T20:47:54.752Z"
 status: "active"
 ---
 

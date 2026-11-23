@@ -3,9 +3,9 @@ title: "Section 10112 - Air National Guard: when a component of the Air Force"
 usc_title: 10
 usc_section: "10112"
 chapter: 1003
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 10112"
-generated_at: "2026-11-23T20:42:11.841Z"
+generated_at: "2026-11-23T20:46:46.588Z"
 status: "active"
 ---
 

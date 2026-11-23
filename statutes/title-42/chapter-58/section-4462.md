@@ -3,9 +3,9 @@ title: "Section 4462 - Repealed. Pub. L. 93–288, title VII, § 703 , formerly 
 usc_title: 42
 usc_section: "4462"
 chapter: 58
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "42 U.S.C. § 4462"
-generated_at: "2026-11-23T20:44:04.588Z"
+generated_at: "2026-11-23T20:48:17.369Z"
 status: "repealed"
 ---
 

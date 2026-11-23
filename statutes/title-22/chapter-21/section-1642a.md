@@ -3,9 +3,9 @@ title: "Section 1642a - Financial provisions"
 usc_title: 22
 usc_section: "1642a"
 chapter: 21
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "22 U.S.C. § 1642a"
-generated_at: "2026-11-23T20:42:57.296Z"
+generated_at: "2026-11-23T20:47:28.947Z"
 status: "active"
 ---
 

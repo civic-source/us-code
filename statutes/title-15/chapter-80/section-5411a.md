@@ -3,9 +3,9 @@ title: "Section 5411a - Certification and accreditation"
 usc_title: 15
 usc_section: "5411a"
 chapter: 80
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "15 U.S.C. § 5411a"
-generated_at: "2026-11-23T20:42:29.192Z"
+generated_at: "2026-11-23T20:46:59.695Z"
 status: "active"
 ---
 

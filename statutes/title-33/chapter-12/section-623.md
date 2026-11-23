@@ -3,9 +3,9 @@ title: "Section 623 - Repealed. Oct. 31, 1951, ch. 654, § 1(57) , 65 Stat. 703"
 usc_title: 33
 usc_section: "623"
 chapter: 12
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "33 U.S.C. § 623"
-generated_at: "2026-11-23T20:43:23.432Z"
+generated_at: "2026-11-23T20:47:52.034Z"
 status: "repealed"
 ---
 

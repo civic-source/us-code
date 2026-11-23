@@ -3,9 +3,9 @@ title: "Section 2535 - Renumbered § 4881]"
 usc_title: 10
 usc_section: "2535"
 chapter: 148
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 2535"
-generated_at: "2026-11-23T20:42:10.863Z"
+generated_at: "2026-11-23T20:46:45.752Z"
 status: "renumbered"
 ---
 

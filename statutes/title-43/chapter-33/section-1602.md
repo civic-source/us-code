@@ -3,9 +3,9 @@ title: "Section 1602 - Definitions"
 usc_title: 43
 usc_section: "1602"
 chapter: 33
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "43 U.S.C. § 1602"
-generated_at: "2026-11-23T20:43:36.745Z"
+generated_at: "2026-11-23T20:48:02.240Z"
 status: "active"
 ---
 

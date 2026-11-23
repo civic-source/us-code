@@ -3,9 +3,9 @@ title: "Section 8773 - Repealed. Pub. L. 113–79, title I, § 1422(b)(1) , Feb.
 usc_title: 7
 usc_section: "8773"
 chapter: 113
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "7 U.S.C. § 8773"
-generated_at: "2026-11-23T20:42:16.604Z"
+generated_at: "2026-11-23T20:46:36.837Z"
 status: "repealed"
 ---
 

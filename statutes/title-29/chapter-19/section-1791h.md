@@ -3,9 +3,9 @@ title: "Section 1791h - Repealed. Pub. L. 105–220, title I, § 199(b)(2) , Aug
 usc_title: 29
 usc_section: "1791h"
 chapter: 19
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "29 U.S.C. § 1791h"
-generated_at: "2026-11-23T20:43:04.456Z"
+generated_at: "2026-11-23T20:47:35.191Z"
 status: "repealed"
 ---
 

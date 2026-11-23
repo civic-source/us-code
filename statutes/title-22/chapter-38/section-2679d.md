@@ -3,9 +3,9 @@ title: "Section 2679d - Exemption from certain procurement protest procedures fo
 usc_title: 22
 usc_section: "2679d"
 chapter: 38
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "22 U.S.C. § 2679d"
-generated_at: "2026-11-23T20:42:57.546Z"
+generated_at: "2026-11-23T20:47:29.232Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2239 - Hearings and judicial review"
 usc_title: 42
 usc_section: "2239"
 chapter: 23
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "42 U.S.C. § 2239"
-generated_at: "2026-11-23T20:44:04.300Z"
+generated_at: "2026-11-23T20:48:17.110Z"
 status: "active"
 ---
 

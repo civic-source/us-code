@@ -3,9 +3,9 @@ title: "Section 715h - Omitted"
 usc_title: 25
 usc_section: "715h"
 chapter: 14
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "25 U.S.C. § 715h"
-generated_at: "2026-11-23T20:42:50.873Z"
+generated_at: "2026-11-23T20:47:23.874Z"
 status: "omitted"
 ---
 

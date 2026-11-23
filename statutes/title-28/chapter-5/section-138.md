@@ -3,9 +3,9 @@ title: "Section 138 - Terms abolished"
 usc_title: 28
 usc_section: "138"
 chapter: 5
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "28 U.S.C. § 138"
-generated_at: "2026-11-23T20:43:02.480Z"
+generated_at: "2026-11-23T20:47:33.435Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 21301 - Definitions"
 usc_title: 34
 usc_section: "21301"
 chapter: 213
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "34 U.S.C. § 21301"
-generated_at: "2026-11-23T20:43:21.800Z"
+generated_at: "2026-11-23T20:47:48.229Z"
 status: "active"
 ---
 

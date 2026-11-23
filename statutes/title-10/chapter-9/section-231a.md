@@ -3,9 +3,9 @@ title: "Section 231a - Budgeting for life-cycle costs of aircraft for the Army, 
 usc_title: 10
 usc_section: "231a"
 chapter: 9
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 231a"
-generated_at: "2026-11-23T20:42:10.011Z"
+generated_at: "2026-11-23T20:46:44.964Z"
 status: "active"
 ---
 

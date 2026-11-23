@@ -3,9 +3,9 @@ title: "Section 3906 - Statement of policy"
 usc_title: 19
 usc_section: "3906"
 chapter: 25
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "19 U.S.C. § 3906"
-generated_at: "2026-11-23T20:42:36.501Z"
+generated_at: "2026-11-23T20:47:06.620Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 51323 - United States Merchant Marine Academy Advisory Council"
 usc_title: 46
 usc_section: "51323"
 chapter: 513
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "46 U.S.C. § 51323"
-generated_at: "2026-11-23T20:44:12.209Z"
+generated_at: "2026-11-23T20:48:21.797Z"
 status: "active"
 ---
 

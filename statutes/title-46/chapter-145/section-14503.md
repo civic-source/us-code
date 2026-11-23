@@ -3,9 +3,9 @@ title: "Section 14503 - Certificate of measurement"
 usc_title: 46
 usc_section: "14503"
 chapter: 145
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "46 U.S.C. § 14503"
-generated_at: "2026-11-23T20:44:12.095Z"
+generated_at: "2026-11-23T20:48:21.728Z"
 status: "active"
 ---
 

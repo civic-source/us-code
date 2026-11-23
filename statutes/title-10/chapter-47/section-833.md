@@ -3,9 +3,9 @@ title: "Section 833 - Art. 33. Disposition guidance"
 usc_title: 10
 usc_section: "833"
 chapter: 47
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 833"
-generated_at: "2026-11-23T20:42:10.253Z"
+generated_at: "2026-11-23T20:46:45.197Z"
 status: "active"
 ---
 

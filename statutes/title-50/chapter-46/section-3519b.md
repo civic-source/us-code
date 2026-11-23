@@ -3,9 +3,9 @@ title: "Section 3519b - Special rules for certain individuals injured by reason 
 usc_title: 50
 usc_section: "3519b"
 chapter: 46
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "50 U.S.C. § 3519b"
-generated_at: "2026-11-23T20:44:14.343Z"
+generated_at: "2026-11-23T20:48:25.245Z"
 status: "active"
 ---
 

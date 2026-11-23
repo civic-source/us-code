@@ -3,9 +3,9 @@ title: "Section 614 - Separability"
 usc_title: 7
 usc_section: "614"
 chapter: 26
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "7 U.S.C. § 614"
-generated_at: "2026-11-23T20:42:15.649Z"
+generated_at: "2026-11-23T20:46:35.974Z"
 status: "active"
 ---
 

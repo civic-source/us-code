@@ -3,9 +3,9 @@ title: "Section 1507 - Tare and draft"
 usc_title: 19
 usc_section: "1507"
 chapter: 4
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "19 U.S.C. § 1507"
-generated_at: "2026-11-23T20:42:36.161Z"
+generated_at: "2026-11-23T20:47:06.281Z"
 status: "active"
 ---
 

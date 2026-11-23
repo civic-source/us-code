@@ -3,9 +3,9 @@ title: "Section 384 - Extension of time for payment of charges accrued prior to 
 usc_title: 43
 usc_section: "384"
 chapter: 12
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "43 U.S.C. § 384"
-generated_at: "2026-11-23T20:43:36.516Z"
+generated_at: "2026-11-23T20:48:02.126Z"
 status: "active"
 ---
 

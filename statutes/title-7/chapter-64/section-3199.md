@@ -3,9 +3,9 @@ title: "Section 3199 - Requirements for use of funds"
 usc_title: 7
 usc_section: "3199"
 chapter: 64
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "7 U.S.C. § 3199"
-generated_at: "2026-11-23T20:42:16.165Z"
+generated_at: "2026-11-23T20:46:36.480Z"
 status: "active"
 ---
 

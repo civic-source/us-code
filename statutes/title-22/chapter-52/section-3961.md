@@ -3,9 +3,9 @@ title: "Section 3961 - Salaries of chiefs of mission"
 usc_title: 22
 usc_section: "3961"
 chapter: 52
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "22 U.S.C. § 3961"
-generated_at: "2026-11-23T20:42:57.690Z"
+generated_at: "2026-11-23T20:47:29.418Z"
 status: "active"
 ---
 

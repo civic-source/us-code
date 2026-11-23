@@ -3,9 +3,9 @@ title: "Section 28b - Annual assessment work on mining claims; temporary deferme
 usc_title: 30
 usc_section: "28b"
 chapter: 2
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "30 U.S.C. § 28b"
-generated_at: "2026-11-23T20:43:00.530Z"
+generated_at: "2026-11-23T20:47:32.188Z"
 status: "active"
 ---
 

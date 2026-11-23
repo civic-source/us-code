@@ -3,9 +3,9 @@ title: "Section 8454a - Midshipmen: nomination in event of death, resignation, o
 usc_title: 10
 usc_section: "8454a"
 chapter: 853
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 8454a"
-generated_at: "2026-11-23T20:42:11.610Z"
+generated_at: "2026-11-23T20:46:46.360Z"
 status: "active"
 ---
 

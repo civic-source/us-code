@@ -3,9 +3,9 @@ title: "Section 8118 - Authority for transfer of real property; Department of Ve
 usc_title: 38
 usc_section: "8118"
 chapter: 81
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "38 U.S.C. § 8118"
-generated_at: "2026-11-23T20:43:31.202Z"
+generated_at: "2026-11-23T20:47:58.979Z"
 status: "active"
 ---
 

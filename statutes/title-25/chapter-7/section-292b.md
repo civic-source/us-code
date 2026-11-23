@@ -3,9 +3,9 @@ title: "Section 292b - Establishment of single system of education in Alaska; tr
 usc_title: 25
 usc_section: "292b"
 chapter: 7
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "25 U.S.C. § 292b"
-generated_at: "2026-11-23T20:42:50.802Z"
+generated_at: "2026-11-23T20:47:23.794Z"
 status: "active"
 ---
 

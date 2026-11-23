@@ -3,9 +3,9 @@ title: "Section 1735a - Prepayment of mortgages by nonprofit educational institu
 usc_title: 12
 usc_section: "1735a"
 chapter: 13
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "12 U.S.C. § 1735a"
-generated_at: "2026-11-23T20:42:23.665Z"
+generated_at: "2026-11-23T20:46:53.964Z"
 status: "active"
 ---
 

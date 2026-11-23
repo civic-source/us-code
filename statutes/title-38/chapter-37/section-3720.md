@@ -3,9 +3,9 @@ title: "Section 3720 - Powers of Secretary"
 usc_title: 38
 usc_section: "3720"
 chapter: 37
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "38 U.S.C. § 3720"
-generated_at: "2026-11-23T20:43:31.002Z"
+generated_at: "2026-11-23T20:47:58.866Z"
 status: "active"
 ---
 

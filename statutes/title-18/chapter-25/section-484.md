@@ -3,9 +3,9 @@ title: "Section 484 - Connecting parts of different notes"
 usc_title: 18
 usc_section: "484"
 chapter: 25
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "18 U.S.C. § 484"
-generated_at: "2026-11-23T20:42:33.834Z"
+generated_at: "2026-11-23T20:47:03.728Z"
 status: "active"
 ---
 

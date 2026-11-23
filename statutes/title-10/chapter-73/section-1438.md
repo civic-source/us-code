@@ -3,9 +3,9 @@ title: "Section 1438 - Deposits for amounts not deducted"
 usc_title: 10
 usc_section: "1438"
 chapter: 73
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 1438"
-generated_at: "2026-11-23T20:42:10.572Z"
+generated_at: "2026-11-23T20:46:45.481Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 430nn - Antietam Battlefield site; acquisition of lands, buildin
 usc_title: 16
 usc_section: "430nn"
 chapter: 1
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "16 U.S.C. § 430nn"
-generated_at: "2026-11-23T20:42:44.553Z"
+generated_at: "2026-11-23T20:47:15.720Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1297 - Omitted"
 usc_title: 25
 usc_section: "1297"
 chapter: 14
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "25 U.S.C. § 1297"
-generated_at: "2026-11-23T20:42:50.891Z"
+generated_at: "2026-11-23T20:47:23.904Z"
 status: "omitted"
 ---
 

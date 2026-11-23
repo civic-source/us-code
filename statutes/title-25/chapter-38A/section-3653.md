@@ -3,9 +3,9 @@ title: "Section 3653 - Definitions"
 usc_title: 25
 usc_section: "3653"
 chapter: 38
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "25 U.S.C. § 3653"
-generated_at: "2026-11-23T20:42:51.126Z"
+generated_at: "2026-11-23T20:47:24.133Z"
 status: "active"
 ---
 

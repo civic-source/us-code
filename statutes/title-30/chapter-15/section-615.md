@@ -3,9 +3,9 @@ title: "Section 615 - Limitation of existing rights"
 usc_title: 30
 usc_section: "615"
 chapter: 15
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "30 U.S.C. § 615"
-generated_at: "2026-11-23T20:43:00.601Z"
+generated_at: "2026-11-23T20:47:32.234Z"
 status: "active"
 ---
 

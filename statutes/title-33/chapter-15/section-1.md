@@ -3,9 +3,9 @@ title: "Section 1 - Authorization of appropriation"
 usc_title: 33
 usc_section: "1"
 chapter: 15
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "33 U.S.C. § 1"
-generated_at: "2026-11-23T20:43:23.471Z"
+generated_at: "2026-11-23T20:47:52.072Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1813 - Definitions"
 usc_title: 12
 usc_section: "1813"
 chapter: 16
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "12 U.S.C. § 1813"
-generated_at: "2026-11-23T20:42:23.749Z"
+generated_at: "2026-11-23T20:46:54.052Z"
 status: "active"
 ---
 

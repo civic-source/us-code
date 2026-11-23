@@ -3,9 +3,9 @@ title: "Section 20942 - Project Safe Childhood"
 usc_title: 34
 usc_section: "20942"
 chapter: 209
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "34 U.S.C. § 20942"
-generated_at: "2026-11-23T20:43:21.787Z"
+generated_at: "2026-11-23T20:47:48.219Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2944 - Retired service members and dependents serving on advisor
 usc_title: 14
 usc_section: "2944"
 chapter: 29
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "14 U.S.C. § 2944"
-generated_at: "2026-11-23T20:42:19.069Z"
+generated_at: "2026-11-23T20:46:49.305Z"
 status: "active"
 ---
 

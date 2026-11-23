@@ -3,9 +3,9 @@ title: "Section 1804 - Immigration parole fee"
 usc_title: 8
 usc_section: "1804"
 chapter: 16
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "8 U.S.C. § 1804"
-generated_at: "2026-11-23T20:41:59.941Z"
+generated_at: "2026-11-23T20:46:32.181Z"
 status: "active"
 ---
 

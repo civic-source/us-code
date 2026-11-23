@@ -3,9 +3,9 @@ title: "Section 15 - Repealed. June 25, 1938, ch. 675, § 1002(a) , formerly § 
 usc_title: 21
 usc_section: "15"
 chapter: 1
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "21 U.S.C. § 15"
-generated_at: "2026-11-23T20:42:53.094Z"
+generated_at: "2026-11-23T20:47:21.880Z"
 status: "repealed"
 ---
 

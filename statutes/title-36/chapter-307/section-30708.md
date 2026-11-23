@@ -3,9 +3,9 @@ title: "Section 30708 - Principal office"
 usc_title: 36
 usc_section: "30708"
 chapter: 307
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "36 U.S.C. § 30708"
-generated_at: "2026-11-23T20:43:28.100Z"
+generated_at: "2026-11-23T20:47:56.312Z"
 status: "active"
 ---
 

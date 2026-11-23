@@ -3,9 +3,9 @@ title: "Section 1601 - Findings"
 usc_title: 21
 usc_section: "1601"
 chapter: 21
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "21 U.S.C. § 1601"
-generated_at: "2026-11-23T20:42:53.514Z"
+generated_at: "2026-11-23T20:47:22.309Z"
 status: "active"
 ---
 

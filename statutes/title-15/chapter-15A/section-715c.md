@@ -3,9 +3,9 @@ title: "Section 715c - Suspension of operation of section 715b of this title"
 usc_title: 15
 usc_section: "715c"
 chapter: 15
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "15 U.S.C. § 715c"
-generated_at: "2026-11-23T20:42:28.407Z"
+generated_at: "2026-11-23T20:46:58.939Z"
 status: "active"
 ---
 

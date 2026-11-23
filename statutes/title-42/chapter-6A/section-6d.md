@@ -3,9 +3,9 @@ title: "Section 6d - Targeted liability protections for pandemic and epidemic pr
 usc_title: 42
 usc_section: "6d"
 chapter: 6
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "42 U.S.C. § 6d"
-generated_at: "2026-11-23T20:44:00.538Z"
+generated_at: "2026-11-23T20:48:15.524Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4361b - Implementation by Administrator of Environmental Protect
 usc_title: 42
 usc_section: "4361b"
 chapter: 55
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "42 U.S.C. § 4361b"
-generated_at: "2026-11-23T20:44:04.565Z"
+generated_at: "2026-11-23T20:48:17.351Z"
 status: "active"
 ---
 

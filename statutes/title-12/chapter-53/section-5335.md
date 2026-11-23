@@ -3,9 +3,9 @@ title: "Section 5335 - Open data publication"
 usc_title: 12
 usc_section: "5335"
 chapter: 53
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "12 U.S.C. § 5335"
-generated_at: "2026-11-23T20:42:24.150Z"
+generated_at: "2026-11-23T20:46:54.470Z"
 status: "active"
 ---
 

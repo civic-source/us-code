@@ -3,9 +3,9 @@ title: "Section 60302 - User fees for underground natural gas storage facilities
 usc_title: 49
 usc_section: "60302"
 chapter: 603
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "49 U.S.C. § 60302"
-generated_at: "2026-11-23T20:44:19.918Z"
+generated_at: "2026-11-23T20:48:28.805Z"
 status: "active"
 ---
 

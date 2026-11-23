@@ -3,9 +3,9 @@ title: "Section 15901 - Definition of Secretary"
 usc_title: 42
 usc_section: "15901"
 chapter: 149
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "42 U.S.C. § 15901"
-generated_at: "2026-11-23T20:44:06.049Z"
+generated_at: "2026-11-23T20:48:18.505Z"
 status: "active"
 ---
 

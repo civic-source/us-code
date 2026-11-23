@@ -3,9 +3,9 @@ title: "Section 552 - Public information; agency rules, opinions, orders, record
 usc_title: 5
 usc_section: "552"
 chapter: 5
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "5 U.S.C. § 552"
-generated_at: "2026-11-23T20:41:53.811Z"
+generated_at: "2026-11-23T20:46:27.122Z"
 status: "active"
 ---
 

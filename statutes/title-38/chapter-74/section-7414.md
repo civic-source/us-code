@@ -3,9 +3,9 @@ title: "Section 7414 - Compliance with requirements for examining qualifications
 usc_title: 38
 usc_section: "7414"
 chapter: 74
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "38 U.S.C. § 7414"
-generated_at: "2026-11-23T20:43:31.149Z"
+generated_at: "2026-11-23T20:47:58.955Z"
 status: "active"
 ---
 

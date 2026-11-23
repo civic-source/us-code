@@ -3,9 +3,9 @@ title: "Section 4101d - Flood insurance rate map certification"
 usc_title: 42
 usc_section: "4101d"
 chapter: 50
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "42 U.S.C. § 4101d"
-generated_at: "2026-11-23T20:44:04.545Z"
+generated_at: "2026-11-23T20:48:17.332Z"
 status: "active"
 ---
 

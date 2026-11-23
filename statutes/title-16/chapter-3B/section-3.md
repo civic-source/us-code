@@ -3,9 +3,9 @@ title: "Section 3 - Critical lands resource conservation program in Great Plains
 usc_title: 16
 usc_section: "3"
 chapter: 3
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "16 U.S.C. § 3"
-generated_at: "2026-11-23T20:42:44.874Z"
+generated_at: "2026-11-23T20:47:16.116Z"
 status: "active"
 ---
 

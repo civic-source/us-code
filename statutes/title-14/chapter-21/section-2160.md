@@ -3,9 +3,9 @@ title: "Section 2160 - Repealed. Pub. L. 119–60, div. G, title LXXII, § 7223(
 usc_title: 14
 usc_section: "2160"
 chapter: 21
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "14 U.S.C. § 2160"
-generated_at: "2026-11-23T20:42:19.026Z"
+generated_at: "2026-11-23T20:46:49.257Z"
 status: "repealed"
 ---
 

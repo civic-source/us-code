@@ -3,9 +3,9 @@ title: "Section 393 - Filing of pleadings, motions, depositions, appendixes, bri
 usc_title: 2
 usc_section: "393"
 chapter: 12
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "2 U.S.C. § 393"
-generated_at: "2026-11-23T20:41:49.100Z"
+generated_at: "2026-11-23T20:46:22.330Z"
 status: "active"
 ---
 

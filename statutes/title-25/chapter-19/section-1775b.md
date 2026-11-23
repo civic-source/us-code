@@ -3,9 +3,9 @@ title: "Section 1775b - Omitted"
 usc_title: 25
 usc_section: "1775b"
 chapter: 19
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "25 U.S.C. § 1775b"
-generated_at: "2026-11-23T20:42:50.995Z"
+generated_at: "2026-11-23T20:47:24.013Z"
 status: "omitted"
 ---
 

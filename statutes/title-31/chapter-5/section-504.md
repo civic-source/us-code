@@ -3,9 +3,9 @@ title: "Section 504 - Office of Federal Financial Management"
 usc_title: 31
 usc_section: "504"
 chapter: 5
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "31 U.S.C. § 504"
-generated_at: "2026-11-23T20:43:19.567Z"
+generated_at: "2026-11-23T20:47:49.480Z"
 status: "active"
 ---
 

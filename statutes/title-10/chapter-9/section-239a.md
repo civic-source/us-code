@@ -3,9 +3,9 @@ title: "Section 239a - Repealed. Pub. L. 118–159, div. A, title XVI, § 1649(b
 usc_title: 10
 usc_section: "239a"
 chapter: 9
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 239a"
-generated_at: "2026-11-23T20:42:10.014Z"
+generated_at: "2026-11-23T20:46:44.967Z"
 status: "repealed"
 ---
 

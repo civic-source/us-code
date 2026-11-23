@@ -3,9 +3,9 @@ title: "Section 17092 - High-performance green Federal buildings"
 usc_title: 42
 usc_section: "17092"
 chapter: 152
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "42 U.S.C. § 17092"
-generated_at: "2026-11-23T20:44:06.247Z"
+generated_at: "2026-11-23T20:48:18.640Z"
 status: "active"
 ---
 

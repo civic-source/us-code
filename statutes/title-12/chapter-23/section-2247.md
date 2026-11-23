@@ -3,9 +3,9 @@ title: "Section 2247 - Repealed. Pub. L. 99–205, title II, § 201(2) , Dec. 23
 usc_title: 12
 usc_section: "2247"
 chapter: 23
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "12 U.S.C. § 2247"
-generated_at: "2026-11-23T20:42:23.907Z"
+generated_at: "2026-11-23T20:46:54.223Z"
 status: "repealed"
 ---
 

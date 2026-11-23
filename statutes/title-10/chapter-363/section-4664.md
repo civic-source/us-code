@@ -3,9 +3,9 @@ title: "Section 4664 - Requirements relating to long-term concessions agreements
 usc_title: 10
 usc_section: "4664"
 chapter: 363
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 4664"
-generated_at: "2026-11-23T20:42:11.258Z"
+generated_at: "2026-11-23T20:46:46.067Z"
 status: "active"
 ---
 

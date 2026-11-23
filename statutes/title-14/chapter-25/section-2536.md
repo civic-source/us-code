@@ -3,9 +3,9 @@ title: "Section 2536 - Notification of changes to Uniform Code of Military Justi
 usc_title: 14
 usc_section: "2536"
 chapter: 25
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "14 U.S.C. § 2536"
-generated_at: "2026-11-23T20:42:19.046Z"
+generated_at: "2026-11-23T20:46:49.288Z"
 status: "active"
 ---
 

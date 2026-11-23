@@ -3,9 +3,9 @@ title: "Section 1772e - Omitted"
 usc_title: 25
 usc_section: "1772e"
 chapter: 19
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "25 U.S.C. § 1772e"
-generated_at: "2026-11-23T20:42:50.993Z"
+generated_at: "2026-11-23T20:47:24.012Z"
 status: "omitted"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 995 - Accountability for contractors using military working dogs
 usc_title: 10
 usc_section: "995"
 chapter: 50
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 995"
-generated_at: "2026-11-23T20:42:10.344Z"
+generated_at: "2026-11-23T20:46:45.292Z"
 status: "active"
 ---
 

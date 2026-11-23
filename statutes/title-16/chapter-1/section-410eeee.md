@@ -3,9 +3,9 @@ title: "Section 410eeee - New River Gorge National Park and Preserve Designation
 usc_title: 16
 usc_section: "410eeee"
 chapter: 1
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "16 U.S.C. § 410eeee"
-generated_at: "2026-11-23T20:42:44.513Z"
+generated_at: "2026-11-23T20:47:15.630Z"
 status: "active"
 ---
 

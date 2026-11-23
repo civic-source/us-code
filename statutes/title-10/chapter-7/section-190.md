@@ -3,9 +3,9 @@ title: "Section 190 - Repealed. Pub. L. 116–92, div. A, title VIII, § 810(a) 
 usc_title: 10
 usc_section: "190"
 chapter: 7
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 190"
-generated_at: "2026-11-23T20:42:09.981Z"
+generated_at: "2026-11-23T20:46:44.951Z"
 status: "repealed"
 ---
 

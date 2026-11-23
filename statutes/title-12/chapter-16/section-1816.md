@@ -3,9 +3,9 @@ title: "Section 1816 - Factors to be considered"
 usc_title: 12
 usc_section: "1816"
 chapter: 16
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "12 U.S.C. § 1816"
-generated_at: "2026-11-23T20:42:23.754Z"
+generated_at: "2026-11-23T20:46:54.058Z"
 status: "active"
 ---
 

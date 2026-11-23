@@ -3,9 +3,9 @@ title: "Section 1929 - Authority to adjust premium discount rates"
 usc_title: 38
 usc_section: "1929"
 chapter: 19
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "38 U.S.C. § 1929"
-generated_at: "2026-11-23T20:43:30.819Z"
+generated_at: "2026-11-23T20:47:58.706Z"
 status: "active"
 ---
 

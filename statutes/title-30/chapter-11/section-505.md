@@ -3,9 +3,9 @@ title: "Section 505 - “Mineral leasing laws” defined"
 usc_title: 30
 usc_section: "505"
 chapter: 11
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "30 U.S.C. § 505"
-generated_at: "2026-11-23T20:43:00.594Z"
+generated_at: "2026-11-23T20:47:32.226Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 227 - Repealed. June 27, 1952, ch. 477 , title IV, § 403(a)(20)
 usc_title: 8
 usc_section: "227"
 chapter: 6
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "8 U.S.C. § 227"
-generated_at: "2026-11-23T20:41:59.699Z"
+generated_at: "2026-11-23T20:46:31.937Z"
 status: "repealed"
 ---
 

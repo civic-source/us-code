@@ -3,9 +3,9 @@ title: "Section 10012 - United States strategy for support to a civilian-led gov
 usc_title: 22
 usc_section: "10012"
 chapter: 107
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "22 U.S.C. § 10012"
-generated_at: "2026-11-23T20:42:58.109Z"
+generated_at: "2026-11-23T20:47:29.938Z"
 status: "active"
 ---
 

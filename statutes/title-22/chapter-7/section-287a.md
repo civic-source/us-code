@@ -3,9 +3,9 @@ title: "Section 287a - Action by representatives in accordance with Presidential
 usc_title: 22
 usc_section: "287a"
 chapter: 7
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "22 U.S.C. § 287a"
-generated_at: "2026-11-23T20:42:57.202Z"
+generated_at: "2026-11-23T20:47:28.845Z"
 status: "active"
 ---
 

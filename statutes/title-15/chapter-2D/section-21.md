@@ -3,9 +3,9 @@ title: "Section 21 - Effective date"
 usc_title: 15
 usc_section: "21"
 chapter: 2
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "15 U.S.C. § 21"
-generated_at: "2026-11-23T20:42:28.171Z"
+generated_at: "2026-11-23T20:46:58.692Z"
 status: "active"
 ---
 

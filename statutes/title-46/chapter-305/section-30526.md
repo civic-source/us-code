@@ -3,9 +3,9 @@ title: "Section 30526 - Provisions requiring notice of claim or limiting time fo
 usc_title: 46
 usc_section: "30526"
 chapter: 305
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "46 U.S.C. § 30526"
-generated_at: "2026-11-23T20:44:12.110Z"
+generated_at: "2026-11-23T20:48:21.744Z"
 status: "active"
 ---
 

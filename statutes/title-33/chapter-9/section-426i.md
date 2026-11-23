@@ -3,9 +3,9 @@ title: "Section 426i - Shore damage prevention or mitigation"
 usc_title: 33
 usc_section: "426i"
 chapter: 9
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "33 U.S.C. § 426i"
-generated_at: "2026-11-23T20:43:23.350Z"
+generated_at: "2026-11-23T20:47:51.987Z"
 status: "active"
 ---
 

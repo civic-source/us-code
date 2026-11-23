@@ -3,9 +3,9 @@ title: "Section 130e - Treatment under Freedom of Information Act of certain cri
 usc_title: 10
 usc_section: "130e"
 chapter: 3
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 130e"
-generated_at: "2026-11-23T20:42:09.877Z"
+generated_at: "2026-11-23T20:46:44.902Z"
 status: "active"
 ---
 

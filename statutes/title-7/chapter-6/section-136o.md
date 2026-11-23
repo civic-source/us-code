@@ -3,9 +3,9 @@ title: "Section 136o - Imports and exports"
 usc_title: 7
 usc_section: "136o"
 chapter: 6
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "7 U.S.C. § 136o"
-generated_at: "2026-11-23T20:42:15.528Z"
+generated_at: "2026-11-23T20:46:35.855Z"
 status: "active"
 ---
 

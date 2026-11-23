@@ -3,9 +3,9 @@ title: "Section 20244 - Eligibility for consideration for promotion: duty assign
 usc_title: 10
 usc_section: "20244"
 chapter: 2005
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 20244"
-generated_at: "2026-11-23T20:42:11.971Z"
+generated_at: "2026-11-23T20:46:46.724Z"
 status: "active"
 ---
 

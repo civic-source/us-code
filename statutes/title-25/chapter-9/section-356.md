@@ -3,9 +3,9 @@ title: "Section 356 - Allowance of undisputed claims of restricted allottees of 
 usc_title: 25
 usc_section: "356"
 chapter: 9
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "25 U.S.C. § 356"
-generated_at: "2026-11-23T20:42:50.831Z"
+generated_at: "2026-11-23T20:47:23.830Z"
 status: "active"
 ---
 

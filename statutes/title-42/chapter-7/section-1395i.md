@@ -3,9 +3,9 @@ title: "Section 1395i - Federal Hospital Insurance Trust Fund"
 usc_title: 42
 usc_section: "1395i"
 chapter: 7
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "42 U.S.C. § 1395i"
-generated_at: "2026-11-23T20:44:02.751Z"
+generated_at: "2026-11-23T20:48:16.377Z"
 status: "active"
 ---
 

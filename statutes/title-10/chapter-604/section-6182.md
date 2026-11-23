@@ -3,9 +3,9 @@ title: "Section 6182 - Public statement of environmental liabilities"
 usc_title: 10
 usc_section: "6182"
 chapter: 604
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 6182"
-generated_at: "2026-11-23T20:42:11.349Z"
+generated_at: "2026-11-23T20:46:46.146Z"
 status: "active"
 ---
 

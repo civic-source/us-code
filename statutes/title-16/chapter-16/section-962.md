@@ -3,9 +3,9 @@ title: "Section 962 - Reduction of bycatch in eastern tropical Pacific Ocean"
 usc_title: 16
 usc_section: "962"
 chapter: 16
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "16 U.S.C. § 962"
-generated_at: "2026-11-23T20:42:45.245Z"
+generated_at: "2026-11-23T20:47:16.487Z"
 status: "active"
 ---
 

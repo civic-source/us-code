@@ -3,9 +3,9 @@ title: "Section 839f - Administrative provisions"
 usc_title: 16
 usc_section: "839f"
 chapter: 12
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "16 U.S.C. § 839f"
-generated_at: "2026-11-23T20:42:45.224Z"
+generated_at: "2026-11-23T20:47:16.460Z"
 status: "active"
 ---
 

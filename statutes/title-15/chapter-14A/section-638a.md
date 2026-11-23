@@ -3,9 +3,9 @@ title: "Section 638a - Repealed. Pub. L. 119–83, § 10 ( l ), Apr. 13, 2026 , 
 usc_title: 15
 usc_section: "638a"
 chapter: 14
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "15 U.S.C. § 638a"
-generated_at: "2026-11-23T20:42:28.315Z"
+generated_at: "2026-11-23T20:46:58.844Z"
 status: "repealed"
 ---
 

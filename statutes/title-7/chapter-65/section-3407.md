@@ -3,9 +3,9 @@ title: "Section 3407 - Referendum"
 usc_title: 7
 usc_section: "3407"
 chapter: 65
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "7 U.S.C. § 3407"
-generated_at: "2026-11-23T20:42:16.198Z"
+generated_at: "2026-11-23T20:46:36.517Z"
 status: "active"
 ---
 

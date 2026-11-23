@@ -3,9 +3,9 @@ title: "Section 5596 - Back pay due to unjustified personnel action"
 usc_title: 5
 usc_section: "5596"
 chapter: 55
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "5 U.S.C. § 5596"
-generated_at: "2026-11-23T20:41:54.372Z"
+generated_at: "2026-11-23T20:46:27.404Z"
 status: "active"
 ---
 

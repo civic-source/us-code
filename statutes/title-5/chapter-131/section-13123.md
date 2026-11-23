@@ -3,9 +3,9 @@ title: "Section 13123 - Administrative provisions"
 usc_title: 5
 usc_section: "13123"
 chapter: 131
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "5 U.S.C. § 13123"
-generated_at: "2026-11-23T20:41:55.154Z"
+generated_at: "2026-11-23T20:46:27.913Z"
 status: "active"
 ---
 

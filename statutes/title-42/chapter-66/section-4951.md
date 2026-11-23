@@ -3,9 +3,9 @@ title: "Section 4951 - Congressional statement of purpose"
 usc_title: 42
 usc_section: "4951"
 chapter: 66
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "42 U.S.C. § 4951"
-generated_at: "2026-11-23T20:44:04.621Z"
+generated_at: "2026-11-23T20:48:17.404Z"
 status: "active"
 ---
 

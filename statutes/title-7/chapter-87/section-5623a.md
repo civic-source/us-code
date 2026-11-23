@@ -3,9 +3,9 @@ title: "Section 5623a - Supplemental agricultural trade promotion program"
 usc_title: 7
 usc_section: "5623a"
 chapter: 87
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "7 U.S.C. § 5623a"
-generated_at: "2026-11-23T20:42:16.260Z"
+generated_at: "2026-11-23T20:46:36.586Z"
 status: "active"
 ---
 

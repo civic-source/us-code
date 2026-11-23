@@ -3,9 +3,9 @@ title: "Section 59jj - Designation of nonnavigability for portions of Gloucester
 usc_title: 33
 usc_section: "59jj"
 chapter: 1
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "33 U.S.C. § 59jj"
-generated_at: "2026-11-23T20:43:23.324Z"
+generated_at: "2026-11-23T20:47:51.928Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 70004 - Considerations by Secretary"
 usc_title: 46
 usc_section: "70004"
 chapter: 700
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "46 U.S.C. § 70004"
-generated_at: "2026-11-23T20:44:12.358Z"
+generated_at: "2026-11-23T20:48:21.902Z"
 status: "active"
 ---
 

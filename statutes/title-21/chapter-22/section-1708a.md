@@ -3,9 +3,9 @@ title: "Section 1708a - Repealed. Pub. L. 116–74, § 2(b)(1) , Nov. 27, 2019 ,
 usc_title: 21
 usc_section: "1708a"
 chapter: 22
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "21 U.S.C. § 1708a"
-generated_at: "2026-11-23T20:42:53.532Z"
+generated_at: "2026-11-23T20:47:22.323Z"
 status: "repealed"
 ---
 

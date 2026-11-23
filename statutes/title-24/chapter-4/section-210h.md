@@ -3,9 +3,9 @@ title: "Section 210h - Repealed. Pub. L. 89–183, § 8 , Sept. 14, 1965 , 79 St
 usc_title: 24
 usc_section: "210h"
 chapter: 4
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "24 U.S.C. § 210h"
-generated_at: "2026-11-23T20:42:47.685Z"
+generated_at: "2026-11-23T20:47:18.538Z"
 status: "repealed"
 ---
 

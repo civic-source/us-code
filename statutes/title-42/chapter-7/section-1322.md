@@ -3,9 +3,9 @@ title: "Section 1322 - Repayment by State; certification; transfer; interest on 
 usc_title: 42
 usc_section: "1322"
 chapter: 7
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "42 U.S.C. § 1322"
-generated_at: "2026-11-23T20:44:02.651Z"
+generated_at: "2026-11-23T20:48:16.335Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 284o - Activities of the National Institutes of Health with resp
 usc_title: 42
 usc_section: "284o"
 chapter: 6
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "42 U.S.C. § 284o"
-generated_at: "2026-11-23T20:44:00.897Z"
+generated_at: "2026-11-23T20:48:15.661Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 12725 - Notice"
 usc_title: 42
 usc_section: "12725"
 chapter: 130
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "42 U.S.C. § 12725"
-generated_at: "2026-11-23T20:44:05.829Z"
+generated_at: "2026-11-23T20:48:18.372Z"
 status: "active"
 ---
 

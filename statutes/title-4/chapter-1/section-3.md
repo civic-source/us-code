@@ -3,9 +3,9 @@ title: "Section 3 - Use of flag for advertising purposes; mutilation of flag"
 usc_title: 4
 usc_section: "3"
 chapter: 1
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "4 U.S.C. § 3"
-generated_at: "2026-11-23T20:41:43.952Z"
+generated_at: "2026-11-23T20:46:20.404Z"
 status: "active"
 ---
 

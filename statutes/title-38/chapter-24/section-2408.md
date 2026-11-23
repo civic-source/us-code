@@ -3,9 +3,9 @@ title: "Section 2408 - Aid to States, counties, and tribal organizations for est
 usc_title: 38
 usc_section: "2408"
 chapter: 24
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "38 U.S.C. § 2408"
-generated_at: "2026-11-23T20:43:30.876Z"
+generated_at: "2026-11-23T20:47:58.763Z"
 status: "active"
 ---
 

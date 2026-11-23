@@ -3,9 +3,9 @@ title: "Section 210107 - Nonapplication of audit requirements"
 usc_title: 36
 usc_section: "210107"
 chapter: 2101
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "36 U.S.C. § 210107"
-generated_at: "2026-11-23T20:43:28.275Z"
+generated_at: "2026-11-23T20:47:56.520Z"
 status: "active"
 ---
 

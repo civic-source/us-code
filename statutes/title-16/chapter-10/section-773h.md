@@ -3,9 +3,9 @@ title: "Section 773h - Forfeitures"
 usc_title: 16
 usc_section: "773h"
 chapter: 10
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "16 U.S.C. § 773h"
-generated_at: "2026-11-23T20:42:45.057Z"
+generated_at: "2026-11-23T20:47:16.333Z"
 status: "active"
 ---
 

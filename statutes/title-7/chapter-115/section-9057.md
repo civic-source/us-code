@@ -3,9 +3,9 @@ title: "Section 9057 - Premiums for dairy margin coverage"
 usc_title: 7
 usc_section: "9057"
 chapter: 115
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "7 U.S.C. § 9057"
-generated_at: "2026-11-23T20:42:16.629Z"
+generated_at: "2026-11-23T20:46:36.864Z"
 status: "active"
 ---
 

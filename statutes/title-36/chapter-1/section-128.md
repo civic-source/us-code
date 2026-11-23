@@ -3,9 +3,9 @@ title: "Section 128 - National Maritime Day"
 usc_title: 36
 usc_section: "128"
 chapter: 1
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "36 U.S.C. § 128"
-generated_at: "2026-11-23T20:43:28.006Z"
+generated_at: "2026-11-23T20:47:56.210Z"
 status: "active"
 ---
 

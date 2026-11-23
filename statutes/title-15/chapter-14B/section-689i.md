@@ -3,9 +3,9 @@ title: "Section 689i - Federal Financing Bank"
 usc_title: 15
 usc_section: "689i"
 chapter: 14
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "15 U.S.C. § 689i"
-generated_at: "2026-11-23T20:42:28.375Z"
+generated_at: "2026-11-23T20:46:58.906Z"
 status: "active"
 ---
 

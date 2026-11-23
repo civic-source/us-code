@@ -3,9 +3,9 @@ title: "Section 866 - Art. 66. Courts of Criminal Appeals"
 usc_title: 10
 usc_section: "866"
 chapter: 47
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 866"
-generated_at: "2026-11-23T20:42:10.273Z"
+generated_at: "2026-11-23T20:46:45.223Z"
 status: "active"
 ---
 

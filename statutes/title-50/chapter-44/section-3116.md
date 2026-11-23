@@ -3,9 +3,9 @@ title: "Section 3116 - Notice of impact of diplomatic and consular post closings
 usc_title: 50
 usc_section: "3116"
 chapter: 44
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "50 U.S.C. § 3116"
-generated_at: "2026-11-23T20:44:14.262Z"
+generated_at: "2026-11-23T20:48:25.163Z"
 status: "active"
 ---
 

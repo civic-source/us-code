@@ -3,9 +3,9 @@ title: "Section 665 - Allotments from pay for child and spousal support owed by 
 usc_title: 42
 usc_section: "665"
 chapter: 7
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "42 U.S.C. § 665"
-generated_at: "2026-11-23T20:44:02.301Z"
+generated_at: "2026-11-23T20:48:16.207Z"
 status: "active"
 ---
 

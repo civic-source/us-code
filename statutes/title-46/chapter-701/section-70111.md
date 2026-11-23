@@ -3,9 +3,9 @@ title: "Section 70111 - Enhanced crewmember identification"
 usc_title: 46
 usc_section: "70111"
 chapter: 701
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "46 U.S.C. § 70111"
-generated_at: "2026-11-23T20:44:12.371Z"
+generated_at: "2026-11-23T20:48:21.918Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6138 - Transfer of funds from appropriations account of Majority
 usc_title: 2
 usc_section: "6138"
 chapter: 61
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "2 U.S.C. § 6138"
-generated_at: "2026-11-23T20:41:49.497Z"
+generated_at: "2026-11-23T20:46:22.637Z"
 status: "active"
 ---
 

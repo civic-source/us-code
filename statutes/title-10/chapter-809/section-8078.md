@@ -3,9 +3,9 @@ title: "Section 8078 - Bureau of Medicine and Surgery: Dental Corps; Chief; func
 usc_title: 10
 usc_section: "8078"
 chapter: 809
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 8078"
-generated_at: "2026-11-23T20:42:11.534Z"
+generated_at: "2026-11-23T20:46:46.295Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 150404 - Board of directors"
 usc_title: 36
 usc_section: "150404"
 chapter: 1504
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "36 U.S.C. § 150404"
-generated_at: "2026-11-23T20:43:28.179Z"
+generated_at: "2026-11-23T20:47:56.419Z"
 status: "active"
 ---
 

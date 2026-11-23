@@ -3,9 +3,9 @@ title: "Section 3418 - Repealed. Pub. L. 99–145, title XII, § 1204(a)(1) , No
 usc_title: 20
 usc_section: "3418"
 chapter: 48
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "20 U.S.C. § 3418"
-generated_at: "2026-11-23T20:42:39.783Z"
+generated_at: "2026-11-23T20:47:10.524Z"
 status: "repealed"
 ---
 

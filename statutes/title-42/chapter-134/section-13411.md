@@ -3,9 +3,9 @@ title: "Section 13411 - Enhanced oil recovery"
 usc_title: 42
 usc_section: "13411"
 chapter: 134
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "42 U.S.C. § 13411"
-generated_at: "2026-11-23T20:44:05.915Z"
+generated_at: "2026-11-23T20:48:18.427Z"
 status: "active"
 ---
 

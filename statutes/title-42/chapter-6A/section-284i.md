@@ -3,9 +3,9 @@ title: "Section 284i - Autoimmune diseases"
 usc_title: 42
 usc_section: "284i"
 chapter: 6
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "42 U.S.C. § 284i"
-generated_at: "2026-11-23T20:44:00.887Z"
+generated_at: "2026-11-23T20:48:15.659Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9773 - Acquisition and construction: installations and depots"
 usc_title: 10
 usc_section: "9773"
 chapter: 979
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 9773"
-generated_at: "2026-11-23T20:42:11.831Z"
+generated_at: "2026-11-23T20:46:46.577Z"
 status: "active"
 ---
 

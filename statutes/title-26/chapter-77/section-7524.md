@@ -3,9 +3,9 @@ title: "Section 7524 - Annual notice of tax delinquency"
 usc_title: 26
 usc_section: "7524"
 chapter: 77
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "26 U.S.C. § 7524"
-generated_at: "2026-11-23T20:43:14.556Z"
+generated_at: "2026-11-23T20:47:44.628Z"
 status: "active"
 ---
 

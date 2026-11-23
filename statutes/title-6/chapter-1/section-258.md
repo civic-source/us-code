@@ -3,9 +3,9 @@ title: "Section 258 - Homeland Security Investigations Victim Assistance Program
 usc_title: 6
 usc_section: "258"
 chapter: 1
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "6 U.S.C. § 258"
-generated_at: "2026-11-23T20:41:58.200Z"
+generated_at: "2026-11-23T20:46:30.502Z"
 status: "active"
 ---
 

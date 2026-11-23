@@ -3,9 +3,9 @@ title: "Section 8712 - Annual accounting; special contingency reserve"
 usc_title: 5
 usc_section: "8712"
 chapter: 87
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "5 U.S.C. § 8712"
-generated_at: "2026-11-23T20:41:55.020Z"
+generated_at: "2026-11-23T20:46:27.660Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 646 - Headquarters and meetings of commission"
 usc_title: 33
 usc_section: "646"
 chapter: 13
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "33 U.S.C. § 646"
-generated_at: "2026-11-23T20:43:23.434Z"
+generated_at: "2026-11-23T20:47:52.037Z"
 status: "active"
 ---
 

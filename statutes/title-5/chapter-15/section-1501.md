@@ -3,9 +3,9 @@ title: "Section 1501 - Definitions"
 usc_title: 5
 usc_section: "1501"
 chapter: 15
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "5 U.S.C. § 1501"
-generated_at: "2026-11-23T20:41:53.886Z"
+generated_at: "2026-11-23T20:46:27.183Z"
 status: "active"
 ---
 

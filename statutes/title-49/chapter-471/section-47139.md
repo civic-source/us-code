@@ -3,9 +3,9 @@ title: "Section 47139 - Emission credits for air quality projects"
 usc_title: 49
 usc_section: "47139"
 chapter: 471
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "49 U.S.C. § 47139"
-generated_at: "2026-11-23T20:44:19.809Z"
+generated_at: "2026-11-23T20:48:28.731Z"
 status: "active"
 ---
 

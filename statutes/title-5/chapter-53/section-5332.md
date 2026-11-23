@@ -3,9 +3,9 @@ title: "Section 5332 - The General Schedule"
 usc_title: 5
 usc_section: "5332"
 chapter: 53
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "5 U.S.C. § 5332"
-generated_at: "2026-11-23T20:41:54.081Z"
+generated_at: "2026-11-23T20:46:27.325Z"
 status: "active"
 ---
 
@@ -35,81 +35,82 @@ status: "active"
 
 | Schedule 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 | Col 10 | Col 11 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| GS–1 | $22,360 | $23,110 | $23,853 | $24,594 | $25,336 | $25,770 | $26,506 | $27,247 | $27,277 | $27,970 |
-| GS–2 | 25,142 | 25,740 | 26,573 | 27,277 | 27,583 | 28,394 | 29,205 | 30,016 | 30,827 | 31,638 |
-| GS–3 | 27,434 | 28,348 | 29,262 | 30,176 | 31,090 | 32,004 | 32,918 | 33,832 | 34,746 | 35,660 |
-| GS–4 | 30,795 | 31,822 | 32,849 | 33,876 | 34,903 | 35,930 | 36,957 | 37,984 | 39,011 | 40,038 |
-| GS–5 | 34,454 | 35,602 | 36,750 | 37,898 | 39,046 | 40,194 | 41,342 | 42,490 | 43,638 | 44,786 |
-| GS–6 | 38,407 | 39,687 | 40,967 | 42,247 | 43,527 | 44,807 | 46,087 | 47,367 | 48,647 | 49,927 |
-| GS–7 | 42,679 | 44,102 | 45,525 | 46,948 | 48,371 | 49,794 | 51,217 | 52,640 | 54,063 | 55,486 |
-| GS–8 | 47,265 | 48,841 | 50,417 | 51,993 | 53,569 | 55,145 | 56,721 | 58,297 | 59,873 | 61,449 |
-| GS–9 | 52,205 | 53,945 | 55,685 | 57,425 | 59,165 | 60,905 | 62,645 | 64,385 | 66,125 | 67,865 |
-| GS–10 | 57,489 | 59,405 | 61,321 | 63,237 | 65,153 | 67,069 | 68,985 | 70,901 | 72,817 | 74,733 |
-| GS–11 | 63,163 | 65,268 | 67,373 | 69,478 | 71,583 | 73,688 | 75,793 | 77,898 | 80,003 | 82,108 |
-| GS–12 | 75,706 | 78,230 | 80,754 | 83,278 | 85,802 | 88,326 | 90,850 | 93,374 | 95,898 | 98,422 |
-| GS–13 | 90,025 | 93,026 | 96,027 | 99,028 | 102,029 | 105,030 | 108,031 | 111,032 | 114,033 | 117,034 |
-| GS–14 | 106,382 | 109,928 | 113,474 | 117,020 | 120,566 | 124,112 | 127,658 | 131,204 | 134,750 | 138,296 |
-| GS–15 | 125,133 | 129,304 | 133,475 | 137,646 | 141,817 | 145,988 | 150,159 | 154,330 | 158,501 | 162,672 |
+| GS–1 | $22,584 | $23,341 | $24,092 | $24,840 | $25,589 | $26,028 | $26,771 | $27,519 | $27,550 | $28,248 |
+| GS–2 | 25,393 | 25,997 | 26,839 | 27,550 | 27,858 | 28,677 | 29,496 | 30,315 | 31,134 | 31,953 |
+| GS–3 | 27,708 | 28,632 | 29,556 | 30,480 | 31,404 | 32,328 | 33,252 | 34,176 | 35,100 | 36,024 |
+| GS–4 | 31,103 | 32,140 | 33,177 | 34,214 | 35,251 | 36,288 | 37,325 | 38,362 | 39,399 | 40,436 |
+| GS–5 | 34,799 | 35,959 | 37,119 | 38,279 | 39,439 | 40,599 | 41,759 | 42,919 | 44,079 | 45,239 |
+| GS–6 | 38,791 | 40,084 | 41,377 | 42,670 | 43,963 | 45,256 | 46,549 | 47,842 | 49,135 | 50,428 |
+| GS–7 | 43,106 | 44,543 | 45,980 | 47,417 | 48,854 | 50,291 | 51,728 | 53,165 | 54,602 | 56,039 |
+| GS–8 | 47,738 | 49,329 | 50,920 | 52,511 | 54,102 | 55,693 | 57,284 | 58,875 | 60,466 | 62,057 |
+| GS–9 | 52,727 | 54,485 | 56,243 | 58,001 | 59,759 | 61,517 | 63,275 | 65,033 | 66,791 | 68,549 |
+| GS–10 | 58,064 | 59,999 | 61,934 | 63,869 | 65,804 | 67,739 | 69,674 | 71,609 | 73,544 | 75,479 |
+| GS–11 | 63,795 | 65,922 | 68,049 | 70,176 | 72,303 | 74,430 | 76,557 | 78,684 | 80,811 | 82,938 |
+| GS–12 | 76,463 | 79,012 | 81,561 | 84,110 | 86,659 | 89,208 | 91,757 | 94,306 | 96,855 | 99,404 |
+| GS–13 | 90,925 | 93,956 | 96,987 | 100,018 | 103,049 | 106,080 | 109,111 | 112,142 | 115,173 | 118,204 |
+| GS–14 | 107,446 | 111,028 | 114,610 | 118,192 | 121,774 | 125,356 | 128,938 | 132,520 | 136,102 | 139,684 |
+| GS–15 | 126,384 | 130,597 | 134,810 | 139,023 | 143,236 | 147,449 | 151,662 | 155,875 | 160,088 | 164,301 |
 
 | Schedule 2 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 | Col 10 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | $125,133 | $101,395 | $82,160 | $66,574 | $53,945 | $48,225 | $43,112 | $38,541 | $34,454 |
-| 2 | 128,887 | 104,437 | 84,625 | 68,571 | 55,563 | 49,672 | 44,405 | 39,697 | 35,488 |
-| 3 | 132,754 | 107,570 | 87,164 | 70,628 | 57,230 | 51,162 | 45,738 | 40,888 | 36,552 |
-| 4 | 136,736 | 110,797 | 89,778 | 72,747 | 58,947 | 52,697 | 47,110 | 42,115 | 37,649 |
-| 5 | 140,838 | 114,121 | 92,472 | 74,930 | 60,716 | 54,278 | 48,523 | 43,378 | 38,778 |
-| 6 | 145,063 | 117,545 | 95,246 | 77,178 | 62,537 | 55,906 | 49,979 | 44,680 | 39,942 |
-| 7 | 149,415 | 121,071 | 98,103 | 79,493 | 64,413 | 57,583 | 51,478 | 46,020 | 41,140 |
-| 8 | 153,898 | 124,703 | 101,046 | 81,878 | 66,346 | 59,311 | 53,022 | 47,401 | 42,374 |
-| 9 | 158,515 | 128,444 | 104,078 | 84,334 | 68,336 | 61,090 | 54,613 | 48,823 | 43,645 |
-| 10 | 162,672 | 132,297 | 107,200 | 86,864 | 70,386 | 62,923 | 56,251 | 50,287 | 44,955 |
-| 11 | 162,672 | 136,266 | 110,416 | 89,470 | 72,498 | 64,810 | 57,939 | 51,796 | 46,303 |
-| 12 | 162,672 | 140,354 | 113,729 | 92,154 | 74,672 | 66,755 | 59,677 | 53,350 | 47,692 |
-| 13 | 162,672 | 144,565 | 117,141 | 94,919 | 76,913 | 68,757 | 61,467 | 54,950 | 49,123 |
-| 14 | 162,672 | 148,902 | 120,655 | 97,766 | 79,220 | 70,820 | 63,311 | 56,599 | 50,597 |
+| 1 | $126,384 | $102,409 | $82,982 | $67,240 | $54,485 | $48,708 | $43,543 | $38,926 | $34,799 |
+| 2 | 130,176 | 105,481 | 85,471 | 69,257 | 56,120 | 50,169 | 44,849 | 40,094 | 35,843 |
+| 3 | 134,081 | 108,646 | 88,036 | 71,335 | 57,803 | 51,674 | 46,195 | 41,297 | 36,918 |
+| 4 | 138,103 | 111,905 | 90,677 | 73,475 | 59,537 | 53,225 | 47,581 | 42,535 | 38,026 |
+| 5 | 142,246 | 115,262 | 93,397 | 75,679 | 61,323 | 54,821 | 49,008 | 43,812 | 39,167 |
+| 6 | 146,514 | 118,720 | 96,199 | 77,950 | 63,163 | 56,466 | 50,478 | 45,126 | 40,342 |
+| 7 | 150,909 | 122,282 | 99,085 | 80,288 | 65,058 | 58,160 | 51,993 | 46,480 | 41,552 |
+| 8 | 155,436 | 125,950 | 102,057 | 82,697 | 67,010 | 59,905 | 53,552 | 47,874 | 42,798 |
+| 9 | 160,099 | 129,729 | 105,119 | 85,178 | 69,020 | 61,702 | 55,159 | 49,310 | 44,082 |
+| 10 | 164,301 | 133,621 | 108,273 | 87,733 | 71,091 | 63,553 | 56,814 | 50,790 | 45,405 |
+| 11 | 164,301 | 137,629 | 111,521 | 90,365 | 73,223 | 65,459 | 58,518 | 52,313 | 46,767 |
+| 12 | 164,301 | 141,758 | 114,866 | 93,076 | 75,420 | 67,423 | 60,274 | 53,883 | 48,170 |
+| 13 | 164,301 | 146,011 | 118,312 | 95,868 | 77,683 | 69,446 | 62,082 | 55,499 | 49,615 |
+| 14 | 164,301 | 150,391 | 121,862 | 98,744 | 80,013 | 71,529 | 63,944 | 57,164 | 51,104 |
 
 | Schedule 3 | Col 2 | Col 3 |
 | --- | --- | --- |
-| Schedule for the Office of the Under Secretary for Health ( 38 U.S.C. 7306 ) and Directors of Medical Centers and Veterans Integrated Service Networks ( 38 U.S.C. 7401(4) ) 1 |  |  |
+| Schedule for the Office of the Under Secretary for Health ( 38 U.S.C. 7306 ) and Directors of Medical Centers and Directors of Veterans Integrated Service Networks ( 38 U.S.C. 7401(4) ) 1 |  |  |
 |  | Minimum | Maximum |
-|  | $150,160 | $225,700 2 |
-| Physician, Podiatrist, and Dentist Base and Longevity Pay Schedule 3 |  |  |
-| Physician Grade | $123,077 | $180,519 |
-| Dentist Grade | 123,077 | 180,519 |
-| Podiatrist Grade | 123,077 | 180,519 |
-| Chiropractor and Optometrist Schedule |  |  |
-| Chief Grade | $125,133 | $162,672 |
-| Senior Grade | 106,382 | 138,296 |
-| Intermediate Grade | 90,025 | 117,034 |
-| Full Grade | 75,706 | 98,422 |
-| Associate Grade | 63,163 | 82,108 |
-| Expanded-Function Dental Auxiliary Schedule 4 |  |  |
-| Director Grade | $125,133 | $162,672 |
-| Assistant Director Grade | 106,382 | 138,296 |
-| Chief Grade | 90,025 | 117,034 |
-| Senior Grade | 75,706 | 98,422 |
-| Intermediate Grade | 63,163 | 82,108 |
-| Full Grade | 52,205 | 67,865 |
-| Associate Grade | 44,924 | 58,397 |
-| Junior Grade | 38,407 | 49,927 |
+|  | $151,661 | $228,000 2 |
+| Physician, Podiatrist, Optometrist, and Dentist Base and Longevity Pay Schedule 3 |  |  |
+| Physician Grade | $124,308 | $182,324 |
+| Podiatrist Grade | 124,308 | 182,324 |
+| Optometrist Grade | 124,308 | 182,324 |
+| Dentist Grade | 124,308 | 182,324 |
+| Clinical Chiropractor Schedule 4 |  |  |
+| Chief Grade | $126,384 | $164,301 |
+| Senior Grade | 107,446 | 139,684 |
+| Intermediate Grade | 90,925 | 118,204 |
+| Full Grade | 76,463 | 99,404 |
+| Associate Grade | 63,795 | 82,938 |
+| Expanded-Function Dental Auxiliary Schedule 5 |  |  |
+| Director Grade | $126,384 | $164,301 |
+| Assistant Director Grade | 107,446 | 139,684 |
+| Chief Grade | 90,925 | 118,204 |
+| Senior Grade | 76,463 | 99,404 |
+| Intermediate Grade | 63,795 | 82,938 |
+| Full Grade | 52,727 | 68,549 |
+| Associate Grade | 45,373 | 58,981 |
+| Junior Grade | 38,791 | 50,428 |
 
 | Schedule 4 | Col 2 | Col 3 |
 | --- | --- | --- |
 |  | Minimum | Maximum |
-| Agencies with a Certified SES Performance Appraisal System | $150,160 | $225,700 |
-| Agencies without a Certified SES Performance Appraisal System | $150,160 | $207,500 |
+| Agencies with a Certified SES Performance Appraisal System | $151,661 | $228,000 |
+| Agencies without a Certified SES Performance Appraisal System | $151,661 | $209,600 |
 
 | Schedule 5 | Col 2 |
 | --- | --- |
-| Level I | $250,600 |
-| Level II | 225,700 |
-| Level III | 207,500 |
-| Level IV | 195,200 |
-| Level V | 183,100 |
+| Level I | $253,100 |
+| Level II | 228,000 |
+| Level III | 209,600 |
+| Level IV | 197,200 |
+| Level V | 184,900 |
 
 | Schedule 6 | Col 2 |
 | --- | --- |
-| Vice President | $289,400 |
+| Vice President | $292,300 |
 | Senators | 174,000 |
 | Members of the House of Representatives | 174,000 |
 | Delegates to the House of Representatives | 174,000 |
@@ -121,83 +122,83 @@ status: "active"
 
 | Schedule 7 | Col 2 |
 | --- | --- |
-| Chief Justice of the United States | $317,500 |
-| Associate Justices of the Supreme Court | 303,600 |
-| Circuit Judges | 262,300 |
-| District Judges | 247,400 |
-| Judges of the Court of International Trade | 247,400 |
+| Chief Justice of the United States | $320,700 |
+| Associate Justices of the Supreme Court | 306,600 |
+| Circuit Judges | 264,900 |
+| District Judges | 249,900 |
+| Judges of the Court of International Trade | 249,900 |
 
 | Schedule 8 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 | Col 10 | Col 11 | Col 12 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | O–10 1 | ................. | ................. | ................. | ................. | ................. | ................. | ................. | ................. | ................. | ................. | ................. |
 | O–9 1 | ................. | ................. | ................. | ................. | ................. | ................. | ................. | ................. | ................. | ................. | ................. |
-| O–8 | $13,380.00 | $13,818.90 | $14,109.30 | $14,190.30 | $14,553.60 | $15,159.30 | $15,300.60 | $15,876.30 | $16,042.20 | $16,538.10 | $17,256.00 |
-| O–7 | 11,117.70 | 11,634.00 | 11,873.10 | 12,063.60 | 12,407.10 | 12,747.30 | 13,140.00 | 13,531.50 | 13,925.10 | 15,159.30 | 16,202.10 |
-| O–6 2 | 8,430.90 | 9,261.90 | 9,870.00 | 9,870.00 | 9,907.80 | 10,332.30 | 10,388.70 | 10,388.70 | 10,979.10 | 12,022.80 | 12,635.40 |
-| O–5 | 7,028.40 | 7,917.30 | 8,465.40 | 8,568.60 | 8,910.90 | 9,114.90 | 9,564.90 | 9,895.80 | 10,322.70 | 10,974.30 | 11,285.10 |
-| O–4 | 6,064.20 | 7,019.70 | 7,488.90 | 7,592.40 | 8,027.10 | 8,493.60 | 9,075.00 | 9,526.20 | 9,840.60 | 10,020.90 | 10,125.00 |
-| O–3 3 | 5,331.60 | 6,044.10 | 6,522.60 | 7,112.40 | 7,453.80 | 7,827.90 | 8,069.10 | 8,466.60 | 8,674.50 | 8,674.50 | 8,674.50 |
-| O–2 3 | 4,606.80 | 5,246.70 | 6,042.90 | 6,247.20 | 6,375.30 | 6,375.30 | 6,375.30 | 6,375.30 | 6,375.30 | 6,375.30 | 6,375.30 |
-| O–1 3 | 3,998.40 | 4,161.90 | 5,031.30 | 5,031.30 | 5,031.30 | 5,031.30 | 5,031.30 | 5,031.30 | 5,031.30 | 5,031.30 | 5,031.30 |
+| O–8 1 | $13,888.50 | $14,343.90 | $14,645.40 | $14,729.40 | $15,106.50 | $15,735.30 | $15,882.00 | $16,479.60 | $16,651.80 | $17,166.60 | $17,911.80 |
+| O–7 | 11,540.10 | 12,076.20 | 12,324.30 | 12,522.00 | 12,878.70 | 13,231.80 | 13,639.20 | 14,045.70 | 14,454.30 | 15,735.30 | 16,817.70 |
+| O–6 2 | 8,751.30 | 9,613.80 | 10,245.00 | 10,245.00 | 10,284.30 | 10,725.00 | 10,783.50 | 10,783.50 | 11,396.40 | 12,479.70 | 13,115.40 |
+| O–5 | 7,295.40 | 8,218.20 | 8,787.00 | 8,894.10 | 9,249.60 | 9,461.40 | 9,928.50 | 10,271.70 | 10,715.10 | 11,391.30 | 11,713.80 |
+| O–4 | 6,294.60 | 7,286.40 | 7,773.60 | 7,881.00 | 8,332.20 | 8,816.40 | 9,420.00 | 9,888.30 | 10,214.40 | 10,401.60 | 10,509.90 |
+| O–3 3 | 5,534.10 | 6,273.90 | 6,770.40 | 7,382.70 | 7,737.00 | 8,125.50 | 8,375.70 | 8,788.20 | 9,004.20 | 9,004.20 | 9,004.20 |
+| O–2 3 | 4,782.00 | 5,446.20 | 6,272.40 | 6,484.50 | 6,617.70 | 6,617.70 | 6,617.70 | 6,617.70 | 6,617.70 | 6,617.70 | 6,617.70 |
+| O–1 3 | 4,150.20 | 4,320.00 | 5,222.40 | 5,222.40 | 5,222.40 | 5,222.40 | 5,222.40 | 5,222.40 | 5,222.40 | 5,222.40 | 5,222.40 |
 |  | Over 20 | Over 22 | Over 24 | Over 26 | Over 28 | Over 30 | Over 32 | Over 34 | Over 36 | Over 38 | Over 40 |
-| O–10 1 | 1 $18,808.20 | 1 $18,808.20 | 1 $18,808.20 | 1 $18,808.20 | 1 $18,808.20 | 1 $18,808.20 | 1 $18,808.20 | 1 $18,808.20 | 1 $18,808.20 | 1 $18,808.20 | 1 $18,808.20 |
-| O–9 | 1 18,808.20 | 1 18,808.20 | 1 18,808.20 | 1 18,808.20 | 1 18,808.20 | 1 18,808.20 | 1 18,808.20 | 1 18,808.20 | 1 18,808.20 | 1 18,808.20 | 1 18,808.20 |
-| O–8 | 17,917.20 | 18,359.10 | 18,359.10 | 18,359.10 | 18,359.10 | 1 18,808.20 | 1 18,808.20 | 1 18,808.20 | 1 18,808.20 | 1 18,808.20 | 1 18,808.20 |
-| O–7 | 16,202.10 | 16,202.10 | 16,202.10 | 16,285.50 | 16,285.50 | 16,611.00 | 16,611.00 | 16,611.00 | 16,611.00 | 16,611.00 | 16,611.00 |
-| O–6 2 | 13,247.70 | 13,596.30 | 13,949.10 | 14,632.80 | 14,632.80 | 14,925.00 | 14,925.00 | 14,925.00 | 14,925.00 | 14,925.00 | 14,925.00 |
-| O–5 | 11,592.30 | 11,940.90 | 11,940.90 | 11,940.90 | 11,940.90 | 11,940.90 | 11,940.90 | 11,940.90 | 11,940.90 | 11,940.90 | 11,940.90 |
-| O–4 | 10,125.00 | 10,125.00 | 10,125.00 | 10,125.00 | 10,125.00 | 10,125.00 | 10,125.00 | 10,125.00 | 10,125.00 | 10,125.00 | 10,125.00 |
-| O–3 3 | 8,674.50 | 8,674.50 | 8,674.50 | 8,674.50 | 8,674.50 | 8,674.50 | 8,674.50 | 8,674.50 | 8,674.50 | 8,674.50 | 8,674.50 |
-| O–2 3 | 6,375.30 | 6,375.30 | 6,375.30 | 6,375.30 | 6,375.30 | 6,375.30 | 6,375.30 | 6,375.30 | 6,375.30 | 6,375.30 | 6,375.30 |
-| O–1 3 | 5,031.30 | 5,031.30 | 5,031.30 | 5,031.30 | 5,031.30 | 5,031.30 | 5,031.30 | 5,031.30 | 5,031.30 | 5,031.30 | 5,031.30 |
+| O–10 1 | $18,999.90 | $18,999.90 | $18,999.90 | $18,999.90 | $18,990.90 | $18,999.90 | $18,999.90 | $18,999.90 | $18,999.90 | $18,999.90 | $18,999.90 |
+| O–9 1 | 18,999.90 | 18,999.90 | 18,999.90 | 18,999.90 | 18,999.90 | 18,999.90 | 18,999.90 | 18,999.90 | 18,999.90 | 18,999.90 | 18,999.90 |
+| O–8 1 | 18,598.20 | 18,999.90 | 18,999.90 | 18,999.90 | 18,999.90 | 18,999.90 | 18,999.90 | 18,999.90 | 18,999.90 | 18,999.90 | 18,999.90 |
+| O–7 | 16,817.70 | 16,817.70 | 16,817.70 | 16,904.40 | 16,904.40 | 17,242.20 | 17,242.20 | 17,242.20 | 17,242.20 | 17,242.20 | 17,242.20 |
+| O–6 2 | 13,751.10 | 14,112.90 | 14,479.20 | 15,188.70 | 15,188.70 | 15,408.30 | 15,408.30 | 15,408.30 | 15,408.30 | 15,408.30 | 15,408.30 |
+| O–5 | 12,032.70 | 12,394.80 | 12,394.80 | 12,394.80 | 12,394.80 | 12,394.80 | 12,394.80 | 12,394.80 | 12,394.80 | 12,394.80 | 12,394.80 |
+| O–4 | 10,509.90 | 10,509.90 | 10,509.90 | 10,509.90 | 10,509.90 | 10,509.90 | 10,509.90 | 10,509.90 | 10,509.90 | 10,509.90 | 10,509.90 |
+| O–3 3 | 9,004.20 | 9,004.20 | 9,004.20 | 9,004.20 | 9,004.20 | 9,004.20 | 9,004.20 | 9,004.20 | 9,004.20 | 9,004.20 | 9,004.20 |
+| O–2 3 | 6,617.70 | 6,617.70 | 6,617.70 | 6,617.70 | 6,617.70 | 6,617.70 | 6,617.70 | 6,617.70 | 6,617.70 | 6,617.70 | 6,617.70 |
+| O–1 3 | 5,222.40 | 5,222.40 | 5,222.40 | 5,222.40 | 5,222.40 | 5,222.40 | 5,222.40 | 5,222.40 | 5,222.40 | 5,222.40 | 5,222.40 |
 
 | Commissioned Officers With Over 4 Years Active Duty Service as an Enlisted Member or Warrant Officer 4 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 | Col 10 | Col 11 | Col 12 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| O–3E | .............. | .............. | .............. | $7,112.40 | $7,453.80 | $7,827.90 | $8,069.10 | $8,466.60 | $8,802.60 | $8,995.20 | $9,257.70 |
-| O–2E | .............. | .............. | .............. | 6,247.20 | 6,375.30 | 6,578.10 | 6,920.70 | 7,185.90 | 7,383.00 | 7,383.00 | 7,383.00 |
-| O–1E | .............. | .............. | .............. | 5,031.30 | 5,372.40 | 5,571.30 | 5,774.40 | 5,973.60 | 6,247.20 | 6,247.20 | 6,247.20 |
+| O–3E | .............. | .............. | .............. | $7,382.70 | $7,737.00 | $8,125.50 | $8,375.70 | $8,788.20 | $9,137.10 | $9,336.90 | $9,609.60 |
+| O–2E | .............. | .............. | .............. | 6,484.50 | 6,617.70 | 6,828.00 | 7,183.80 | 7,458.90 | 7,663.50 | 7,663.50 | 7,663.50 |
+| O–1E | .............. | .............. | .............. | 5,222.40 | 5,576.70 | 5,783.10 | 5,993.70 | 6,200.70 | 6,484.50 | 6,484.50 | 6,484.50 |
 |  | Over 20 | Over 22 | Over 24 | Over 26 | Over 28 | Over 30 | Over 32 | Over 34 | Over 36 | Over 38 | Over 40 |
-| O–3E | $9,257.70 | $9,257.70 | $9,257.70 | $9,257.70 | $9,257.70 | $9,257.70 | $9,257.70 | $9,257.70 | $9,257.70 | $9,257.70 | $9,257.70 |
-| O–2E | 7,383.00 | 7,383.00 | 7,383.00 | 7,383.00 | 7,383.00 | 7,383.00 | 7,383.00 | 7,383.00 | 7,383.00 | 7,383.00 | 7,383.00 |
-| O–1E | 6,247.20 | 6,247.20 | 6,247.20 | 6,247.20 | 6,247.20 | 6,247.20 | 6,247.20 | 6,247.20 | 6,247.20 | 6,247.20 | 6,247.20 |
+| O–3E | $9,609.60 | $9,609.60 | $9,609.60 | $9,609.60 | $9,609.60 | $9,609.60 | $9,609.60 | $9,609.60 | $9,609.60 | $9,609.60 | $9,609.60 |
+| O–2E | 7,663.50 | 7,663.50 | 7,663.50 | 7,663.50 | 7,663.50 | 7,663.50 | 7,663.50 | 7,663.50 | 7,663.50 | 7,663.50 | 7,663.50 |
+| O–1E | 6,484.50 | 6,484.50 | 6,484.50 | 6,484.50 | 6,484.50 | 6,484.50 | 6,484.50 | 6,484.50 | 6,484.50 | 6,484.50 | 6,484.50 |
 
 | Warrant Officers | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 | Col 10 | Col 11 | Col 12 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | W–5 | .............. | .............. | .............. | .............. | .............. | .............. | .............. | .............. | .............. | .............. | .............. |
-| W–4 | $5,510.40 | $5,926.80 | $6,096.90 | $6,264.30 | $6,552.90 | $6,838.20 | $7,127.10 | $7,560.90 | $7,941.90 | $8,304.30 | $8,601.60 |
-| W–3 | 5,032.20 | 5,241.30 | 5,457.00 | 5,526.90 | 5,752.20 | 6,195.60 | 6,657.60 | 6,875.10 | 7,126.80 | 7,385.40 | 7,851.90 |
-| W–2 | 4,452.60 | 4,873.80 | 5,003.10 | 5,092.50 | 5,380.80 | 5,829.60 | 6,052.50 | 6,271.20 | 6,539.10 | 6,748.50 | 6,937.80 |
-| W–1 | 3,908.10 | 4,329.30 | 4,442.10 | 4,681.20 | 4,963.50 | 5,379.90 | 5,574.30 | 5,847.00 | 6,114.30 | 6,324.60 | 6,518.40 |
+| W–4 | $5,719.80 | $6,152.10 | $6,328.50 | $6,502.20 | $6,801.90 | $7,098.00 | $7,398.00 | $7,848.30 | $8,243.70 | $8,619.90 | $8,928.60 |
+| W–3 | 5,223.30 | 5,440.50 | 5,664.30 | 5,736.90 | 5,970.90 | 6,431.10 | 6,910.50 | 7,136.40 | 7,397.70 | 7,665.90 | 8,150.40 |
+| W–2 | 4,621.80 | 5,058.90 | 5,193.30 | 5,286.00 | 5,585.40 | 6,051.00 | 6,282.60 | 6,509.40 | 6,787.50 | 7,005.00 | 7,201.50 |
+| W–1 | 4,056.60 | 4,493.70 | 4,611.00 | 4,859.10 | 5,152.20 | 5,584.20 | 5,786.10 | 6,069.30 | 6,346.50 | 6,564.90 | 6,766.20 |
 |  | Over 20 | Over 22 | Over 24 | Over 26 | Over 28 | Over 30 | Over 32 | Over 34 | Over 36 | Over 38 | Over 40 |
-| W–5 | $9,797.40 | $10,294.50 | $10,665.00 | $11,074.20 | $11,074.20 | $11,628.90 | $11,628.90 | $12,209.40 | $12,209.40 | $12,821.10 | $12,821.10 |
-| W–4 | 8,891.10 | 9,315.60 | 9,664.80 | 10,062.90 | 10,062.90 | 10,263.60 | 10,263.60 | 10,263.60 | 10,263.60 | 10,263.60 | 10,263.60 |
-| W–3 | 8,166.30 | 8,354.40 | 8,554.50 | 8,827.20 | 8,827.20 | 8,827.20 | 8,827.20 | 8,827.20 | 8,827.20 | 8,827.20 | 8,827.20 |
-| W–2 | 7,164.60 | 7,313.70 | 7,431.90 | 7,431.90 | 7,431.90 | 7,431.90 | 7,431.90 | 7,431.90 | 7,431.90 | 7,431.90 | 7,431.90 |
-| W–1 | 6,753.60 | 6,753.60 | 6,753.60 | 6,753.60 | 6,753.60 | 6,753.60 | 6,753.60 | 6,753.60 | 6,753.60 | 6,753.60 | 6,753.60 |
+| W–5 | $10,169.70 | $10,685.70 | $11,070.30 | $11,495.10 | $11,495.10 | $12,070.80 | $12,070.80 | $12,673.50 | $12,673.50 | $13,308.30 | $13,308.30 |
+| W–4 | 9,228.90 | 9,669.60 | 10,032.00 | 10,445.40 | 10,445.40 | 10,653.60 | 10,653.60 | 10,653.60 | 10,653.60 | 10,653.60 | 10,653.60 |
+| W–3 | 8,476.50 | 8,671.80 | 8,879.70 | 9,162.60 | 9,162.60 | 9,162.60 | 9,162.60 | 9,162.60 | 9,162.60 | 9,162.60 | 9,162.60 |
+| W–2 | 7,437.00 | 7,591.50 | 7,714.20 | 7,714.20 | 7,714.20 | 7,714.20 | 7,714.20 | 7,714.20 | 7,714.20 | 7,714.20 | 7,714.20 |
+| W–1 | 7,010.10 | 7,010.10 | 7,010.10 | 7,010.10 | 7,010.10 | 7,010.10 | 7,010.10 | 7,010.10 | 7,010.10 | 7,010.10 | 7,010.10 |
 
-| Enlisted Members 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 | Col 10 | Col 11 | Col 12 |
+| Enlisted Members | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 | Col 10 | Col 11 | Col 12 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| E–9 2 | .............. | .............. | .............. | .............. | .............. | .............. | $6,657.30 | $6,807.90 | $6,997.80 | $7,221.60 | $7,447.80 |
-| E–8 | .............. | .............. | .............. | .............. | .............. | $5,449.50 | 5,690.70 | 5,839.80 | 6,018.60 | 6,212.10 | 6,561.90 |
-| E–7 | $3,788.10 | $4,134.30 | $4,293.00 | $4,502.10 | $4,666.50 | 4,947.60 | 5,106.30 | 5,387.10 | 5,621.40 | 5,781.30 | 5,951.10 |
-| E–6 | 3,276.60 | 3,606.00 | 3,765.00 | 3,919.80 | 4,080.60 | 4,443.90 | 4,585.20 | 4,858.80 | 4,942.50 | 5,003.40 | 5,074.80 |
-| E–5 | 3,001.50 | 3,203.70 | 3,358.80 | 3,517.20 | 3,763.80 | 4,021.80 | 4,234.50 | 4,259.70 | 4,259.70 | 4,259.70 | 4,259.70 |
-| E–4 | 2,752.20 | 2,892.90 | 3,049.80 | 3,204.30 | 3,341.40 | 3,341.40 | 3,341.40 | 3,341.40 | 3,341.40 | 3,341.40 | 3,341.40 |
-| E–3 | 2,484.60 | 2,640.60 | 2,800.80 | 2,800.80 | 2,800.80 | 2,800.80 | 2,800.80 | 2,800.80 | 2,800.80 | 2,800.80 | 2,800.80 |
-| E–2 | 2,362.80 | 2,362.80 | 2,362.80 | 2,362.80 | 2,362.80 | 2,362.80 | 2,362.80 | 2,362.80 | 2,362.80 | 2,362.80 | 2,362.80 |
-| E–1 3 | 2,108.10 | 2,108.10 | 2,108.10 | 2,108.10 | 2,108.10 | 2,108.10 | 2,108.10 | 2,108.10 | 2,108.10 | 2,108.10 | 2,108.10 |
-| E–1 4 | 1,949.10 | .............. | .............. | .............. | .............. | .............. | .............. | .............. | .............. | .............. | .............. |
+| E–9 1 | .............. | .............. | .............. | .............. | .............. | .............. | $6,910.20 | $7,066.50 | $7,263.60 | $7,496.10 | $7,730.70 |
+| E–8 | .............. | .............. | .............. | .............. | .............. | $5,656.50 | 5,907.00 | 6,061.80 | 6,247.20 | 6,448.20 | 6,811.20 |
+| E–7 | $3,932.10 | $4,291.50 | $4,456.20 | $4,673.10 | $4,843.80 | 5,135.70 | 5,300.40 | 5,591.70 | 5,835.00 | 6,000.90 | 6,177.30 |
+| E–6 | 3,401.10 | 3,743.10 | 3,908.10 | 4,068.90 | 4,235.70 | 4,612.80 | 4,759.50 | 5,043.30 | 5,130.30 | 5,193.60 | 5,267.70 |
+| E–5 | 3,342.90 | 3,598.20 | 3,775.80 | 3,946.80 | 4,110.00 | 4,299.90 | 4,395.30 | 4,421.70 | 4,421.70 | 4,421.70 | 4,421.70 |
+| E–4 | 3,142.20 | 3,303.00 | 3,482.40 | 3,658.50 | 3,815.40 | 3,815.40 | 3,815.40 | 3,815.40 | 3,815.40 | 3,815.40 | 3,815.40 |
+| E–3 | 2,836.80 | 3,015.00 | 3,198.00 | 3,198.00 | 3,198.00 | 3,198.00 | 3,198.00 | 3,198.00 | 3,198.00 | 3,198.00 | 3,198.00 |
+| E–2 | 2,697.90 | 2,697.90 | 2,697.90 | 2,697.90 | 2,697.90 | 2,697.90 | 2,697.90 | 2,697.90 | 2,697.90 | 2,697.90 | 2,697.90 |
+| E–1 2 | 2,407.20 | 2,407.20 | 2,407.20 | 2,407.20 | 2,407.20 | 2,407.20 | 2,407.20 | 2,407.20 | 2,407.20 | 2,407.20 | 2,407.20 |
+| E–1 3 | 2,225.70 | .............. | .............. | .............. | .............. | .............. | .............. | .............. | .............. | .............. | .............. |
 |  | Over 20 | Over 22 | Over 24 | Over 26 | Over 28 | Over 30 | Over 32 | Over 34 | Over 36 | Over 38 | Over 40 |
-| E–9 2 | $7,808.40 | $8,114.70 | $8,436.00 | $8,928.60 | $8,928.60 | $9,374.10 | $9,374.10 | $9,843.30 | $9,843.30 | $10,336.50 | $10,336.50 |
-| E–8 | 6,739.20 | 7,040.70 | 7,207.80 | 7,619.40 | 7,619.40 | 7,772.10 | 7,772.10 | 7,772.10 | 7,772.10 | 7,772.10 | 7,772.10 |
-| E–7 | 6,017.10 | 6,238.20 | 6,356.70 | 6,808.80 | 6,808.80 | 6,808.80 | 6,808.80 | 6,808.80 | 6,808.80 | 6,808.80 | 6,808.80 |
-| E–6 | 5,074.80 | 5,074.80 | 5,074.80 | 5,074.80 | 5,074.80 | 5,074.80 | 5,074.80 | 5,074.80 | 5,074.80 | 5,074.80 | 5,074.80 |
-| E–5 | 4,259.70 | 4,259.70 | 4,259.70 | 4,259.70 | 4,259.70 | 4,259.70 | 4,259.70 | 4,259.70 | 4,259.70 | 4,259.70 | 4,259.70 |
-| E–4 | 3,341.40 | 3,341.40 | 3,341.40 | 3,341.40 | 3,341.40 | 3,341.40 | 3,341.40 | 3,341.40 | 3,341.40 | 3,341.40 | 3,341.40 |
-| E–3 | 2,800.80 | 2,800.80 | 2,800.80 | 2,800.80 | 2,800.80 | 2,800.80 | 2,800.80 | 2,800.80 | 2,800.80 | 2,800.80 | 2,800.80 |
-| E–2 | 2,362.80 | 2,362.80 | 2,362.80 | 2,362.80 | 2,362.80 | 2,362.80 | 2,362.80 | 2,362.80 | 2,362.80 | 2,362.80 | 2,362.80 |
-| E–1 3 | 2,108.10 | 2,108.10 | 2,108.10 | 2,108.10 | 2,108.10 | 2,108.10 | 2,108.10 | 2,108.10 | 2,108.10 | 2,108.10 | 2,108.10 |
-| E–1 4 | .............. | .............. | .............. | .............. | .............. | .............. | .............. | .............. | .............. | .............. | .............. |
+| E–9 1 | $8,105.10 | $8,423.10 | $8,756.70 | $9,267.90 | $9,267.90 | $9,730.20 | $9,730.20 | $10,217.40 | $10,217.40 | $10,729.20 | $10,729.20 |
+| E–8 | 6,995.40 | 7,308.30 | 7,481.70 | 7,908.90 | 7,908.90 | 8,067.30 | 8,067.30 | 8,067.30 | 8,067.30 | 8,067.30 | 8,067.30 |
+| E–7 | 6,245.70 | 6,475.20 | 6,598.20 | 7,067.40 | 7,067.40 | 7,067.40 | 7,067.40 | 7,067.40 | 7,067.40 | 7,067.40 | 7,067.40 |
+| E–6 | 5,267.70 | 5,267.70 | 5,267.70 | 5,267.70 | 5,267.70 | 5,267.70 | 5,267.70 | 5,267.70 | 5,267.70 | 5,267.70 | 5,267.70 |
+| E–5 | 4,421.70 | 4,421.70 | 4,421.70 | 4,421.70 | 4,421.70 | 4,421.70 | 4,421.70 | 4,421.70 | 4,421.70 | 4,421.70 | 4,421.70 |
+| E–4 | 3,815.40 | 3,815.40 | 3,815.40 | 3,815.40 | 3,815.40 | 3,815.40 | 3,815.40 | 3,815.40 | 3,815.40 | 3,815.40 | 3,815.40 |
+| E–3 | 3,198.00 | 3,198.00 | 3,198.00 | 3,198.00 | 3,198.00 | 3,198.00 | 3,198.00 | 3,198.00 | 3,198.00 | 3,198.00 | 3,198.00 |
+| E–2 | 2,697.90 | 2,697.90 | 2,697.90 | 2,697.90 | 2,697.90 | 2,697.90 | 2,697.90 | 2,697.90 | 2,697.90 | 2,697.90 | 2,697.90 |
+| E–1 2 | 2,407.20 | 2,407.20 | 2,407.20 | 2,407.20 | 2,407.20 | 2,407.20 | 2,407.20 | 2,407.20 | 2,407.20 | 2,407.20 | 2,407.20 |
+| E–1 3 | .............. | .............. | .............. | .............. | .............. | .............. | .............. | .............. | .............. | .............. | .............. |
 
 | Schedule 9 | Col 2 |
 | --- | --- |
@@ -262,14 +263,14 @@ status: "active"
 
 | Schedule 10 | Col 2 |
 | --- | --- |
-| AL–3/A | $130,400 |
-| AL–3/B | 140,300 |
-| AL–3/C | 150,400 |
-| AL–3/D | 160,600 |
-| AL–3/E | 170,800 |
-| AL–3/F | 180,600 |
-| AL–2 | 190,500 |
-| AL–1 1 | 195,200 |
+| AL–3/A | $131,700 |
+| AL–3/B | 141,700 |
+| AL–3/C | 151,900 |
+| AL–3/D | 162,200 |
+| AL–3/E | 172,500 |
+| AL–3/F | 182,400 |
+| AL–2 | 192,400 |
+| AL–1 1 | 197,200 |
 
 
 Historical and Revision Notes
@@ -370,11 +371,11 @@ Sec.
 
 Sec.
 
-J.R. Biden, Jr.
+Donald J. Trump.
 
 Schedule
 
-January 1, 2025
+January 1, 2026
 
 GS–1
 
@@ -408,7 +409,7 @@ GS–15
 
 Schedule
 
-January 1, 2025
+January 1, 2026
 
 1
 
@@ -440,9 +441,9 @@ January 1, 2025
 
 Schedule
 
-January 1, 2025
+January 1, 2026
 
-1 Pursuant to 38 U.S.C. 7404(a)(2)(A) and (e), this schedule does not apply to the Director of Nursing Service or any incumbents who are physicians, podiatrists, or dentists. Pursuant to 38 U.S.C. 7404(a)(2)(B) , this schedule also does not apply to the basic pay of any incumbents who are registered nurses or physician assistants if that basic pay is determined by the Secretary under subchapter IV of chapter 74 of title 38, United States Code. 2 Pursuant to 38 U.S.C. 7404(a)(3)(B) , for positions that are covered by a certified performance appraisal system, the maximum rate of basic pay may not exceed the rate of basic pay payable for level II of the Executive Schedule. For positions that are not covered by a certified performance appraisal system, the maximum rate of basic pay may not exceed the rate of basic pay payable for level III of the Executive Schedule. 3 Pursuant to 38 U.S.C. 7431 , Veterans Health Administration physicians, podiatrists, and dentists paid under the Physician, Podiatrist, and Dentist Base and Longevity Pay schedule may also be paid market pay and performance pay. 4 Pursuant to section 301(a) of Public Law 102–40 [ 38 U.S.C. 7451 note], these positions are paid according to the Nurse Schedule in 38 U.S.C. 4107(b) , as in effect on August 14, 1990 , with subsequent adjustments.
+1 Pursuant to 38 U.S.C. 7404(a)(2)(A) and (e), this schedule does not apply to the Director of Nursing Service or any incumbents who are physicians, podiatrists, optometrists or dentists. Pursuant to 38 U.S.C. 7404(a)(2)(B) , this schedule also does not apply to the basic pay of any incumbents who are registered nurses or physician assistants if that basic pay is determined by the Secretary under subchapter IV of chapter 74 of title 38, United States Code. 2 Pursuant to 38 U.S.C. 7404(a)(3)(B) , for positions that are covered by a certified performance appraisal system, the maximum rate of basic pay may not exceed the rate of basic pay payable for level II of the Executive Schedule. For positions that are not covered by a certified performance appraisal system, the maximum rate of basic pay may not exceed the rate of basic pay payable for level III of the Executive Schedule. 3 Pursuant to 38 U.S.C. 7431 , Veterans Health Administration physicians, podiatrists, optometrists and dentists paid under the Physician, Podiatrist, Optometrist, and Dentist Base and Longevity Pay schedule may also be paid market pay and performance pay. 4 Pursuant to section 142 of Public Law 118–210 , Veterans Health Administration optometrists are to be removed from the 38 U.S.C. 7404 Salary Table for Clinical Chiropractors and converted to the Physician, Podiatrist, Optometrist, and Dentist pay system under 38 U.S.C. 7431 . 5 Pursuant to section 301(a) of Public Law 102–40 [ 38 U.S.C. 7451 note], these positions are paid according to the Nurse Schedule in 38 U.S.C. 4107(b) , as in effect on August 14, 1990 , with subsequent adjustments.
 
 38 U.S.C. 7306
 
@@ -456,9 +457,13 @@ January 1, 2025
 
 Physician Grade
 
+Podiatrist Grade
+
+Optometrist Grade
+
 Dentist Grade
 
-Podiatrist Grade
+4
 
 Chief Grade
 
@@ -470,7 +475,7 @@ Full Grade
 
 Associate Grade
 
-4
+5
 
 Director Grade
 
@@ -490,7 +495,7 @@ Junior Grade
 
 Schedule
 
-January 1, 2025
+January 1, 2026
 
 Agencies with a Certified SES Performance Appraisal System
 
@@ -498,7 +503,7 @@ Agencies without a Certified SES Performance Appraisal System
 
 Schedule
 
-January 1, 2025
+January 1, 2026
 
 Level I
 
@@ -512,11 +517,7 @@ Level V
 
 Schedule
 
-1
-
-January 1, 2025
-
-1 This pay schedule assumes that Congress will continue to impose a freeze on the salaries of Members of Congress as it has since 2009, and so this schedule would be subject to further revisions if Congress proceeds differently.
+January 1, 2026
 
 Vice President
 
@@ -538,7 +539,7 @@ Speaker of the House of Representatives
 
 Schedule
 
-January 1, 2025
+January 1, 2026
 
 Chief Justice of the United States
 
@@ -552,19 +553,19 @@ Judges of the Court of International Trade
 
 Schedule
 
-January 1, 2025
+January 1, 2026
 
 part i—monthly basic pay
 
 37 U.S.C. 205
 
-1 Basic pay is limited to the rate of basic pay for level II of the Executive Schedule in effect during calendar year 2025, which is $18,808.20 per month for officers at pay grades O–7 through O–10. This includes officers serving as Chairman or Vice Chairman of the Joint Chiefs of Staff, Chief of Staff of the Army, Chief of Naval Operations, Chief of Staff of the Air Force, Commandant of the Marine Corps, Chief of Space Operations, Commandant of the Coast Guard, Chief of the National Guard Bureau, or commander of a unified or specified combatant command (as defined in 10 U.S.C. 161(c) ). 2 Basic pay is limited to the rate of basic pay for level V of the Executive Schedule in effect during calendar year 2025, which is $15,258.30 per month, for officers at pay grades O–6 and below. 3 Does not apply to commissioned officers who have been credited with over 4 years of active duty service as an enlisted member or warrant officer.
+1 Basic pay is limited to the rate of basic pay for level II of the Executive Schedule in effect during calendar year 2026, which is $18,899.90 per month, for officers at pay grades O–7 through O–10. This includes officers serving as Chairman or Vice Chairman of the Joint Chiefs of Staff, Chief of Staff of the Army, Chief of Naval Operations, Chief of Staff of the Air Force, Commandant of the Marine Corps, Chief of Space Operations, Commandant of the Coast Guard, Chief of the National Guard Bureau, or commander of a unified or specified combatant command (as defined in 10 U.S.C. 161(c) ). 2 Basic pay is limited to the rate of basic pay for level V of the Executive Schedule in effect during calendar year 2026, which is $15,408.30 per month, for officers at pay grades O–6 and below. 3 Does not apply to commissioned officers who have been credited with over 4 years of active duty service as an enlisted member or warrant officer.
 
 O–10 1
 
 O–9 1
 
-O–8
+O–8 1
 
 O–7
 
@@ -582,65 +583,9 @@ O–1 3
 
 O–10 1
 
-1
+O–9 1
 
-1
-
-1
-
-1
-
-1
-
-1
-
-1
-
-1
-
-1
-
-1
-
-1
-
-O–9
-
-1
-
-1
-
-1
-
-1
-
-1
-
-1
-
-1
-
-1
-
-1
-
-1
-
-1
-
-O–8
-
-1
-
-1
-
-1
-
-1
-
-1
-
-1
+O–8 1
 
 O–7
 
@@ -658,7 +603,7 @@ O–1 3
 
 4
 
-4 Reservists with at least 1,460 points as an enlisted member, a warrant officer, or a warrant officer and an enlisted member, which are creditable toward reserve retirement, also qualify for these rates.
+4 [sic, two footnotes 4 were provided] Reservists also qualify for these rates, provided that they have at least 1,460 points as an enlisted member, a warrant officer, or a warrant officer and an enlisted member, and that those points are creditable toward reserve retirement. 4 [sic, two footnotes 4 were provided] Reservists with at least 1,460 points as an enlisted member, a warrant officer, or a warrant officer and an enlisted member which are creditable toward reserve retirement also qualify for these rates.
 
 O–3E
 
@@ -692,11 +637,9 @@ W–2
 
 W–1
 
-1
+1 For noncommissioned officers serving as Sergeant Major of the Army, Master Chief Petty Officer of the Navy or Coast Guard, Chief Master Sergeant of the Air Force, Sergeant Major of the Marine Corps, Chief Master Sergeant of the Space Force, Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff, or Senior Enlisted Advisor to the Chief of the National Guard Bureau, basic pay for this grade is $11,166.90 per month, regardless of cumulative years of service under 37 U.S.C. 205 . 2 Applies to personnel who have served 4 months or more on active duty. 3 Applies to personnel who have served less than 4 months on active duty.
 
-1 This schedule is subject to possible future revision in light of an anticipated statutory enactment. [Editorial note: See section 601 of Pub. L. 118–159 , set out as a note under 37 U.S.C. 203 .] 2 For noncommissioned officers serving as Sergeant Major of the Army, Master Chief Petty Officer of the Navy or Coast Guard, Chief Master Sergeant of the Air Force, Sergeant Major of the Marine Corps, Chief Master Sergeant of the Space Force, Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff, or Senior Enlisted Advisor to the Chief of the National Guard Bureau, basic pay for this grade is $10,758.00 per month, regardless of cumulative years of service under 37 U.S.C. 205 . 3 Applies to personnel who have served 4 months or more on active duty. 4 Applies to personnel who have served less than 4 months on active duty.
-
-E–9 2
+E–9 1
 
 E–8
 
@@ -712,11 +655,11 @@ E–3
 
 E–2
 
+E–1 2
+
 E–1 3
 
-E–1 4
-
-E–9 2
+E–9 1
 
 E–8
 
@@ -732,15 +675,15 @@ E–3
 
 E–2
 
-E–1 3
+E–1 2
 
-E–1 4
+E–1 3
 
 part ii—rate of monthly cadet or midshipman pay
 
 Schedule
 
-January 1, 2025
+January 1, 2026
 
 1
 
@@ -864,7 +807,7 @@ Rest of U.S.
 
 Schedule
 
-January 1, 2025
+January 1, 2026
 
 1 Pursuant to 5 U.S.C. 5372(b)(1)(C) , the rate of basic pay for AL–1 may not exceed the rate for level IV of the Executive Schedule.
 

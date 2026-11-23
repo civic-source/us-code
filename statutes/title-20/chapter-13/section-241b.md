@@ -3,9 +3,9 @@ title: "Section 241b - Repealed. Pub. L. 95–561, title I, § 101(c) , Nov. 1, 
 usc_title: 20
 usc_section: "241b"
 chapter: 13
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "20 U.S.C. § 241b"
-generated_at: "2026-11-23T20:42:39.353Z"
+generated_at: "2026-11-23T20:47:09.999Z"
 status: "repealed"
 ---
 

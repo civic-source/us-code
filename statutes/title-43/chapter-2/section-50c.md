@@ -3,9 +3,9 @@ title: "Section 50c - Payment of costs incidental to utilization of services of 
 usc_title: 43
 usc_section: "50c"
 chapter: 2
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "43 U.S.C. § 50c"
-generated_at: "2026-11-23T20:43:36.467Z"
+generated_at: "2026-11-23T20:48:02.100Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 24 - Activities"
 usc_title: 20
 usc_section: "24"
 chapter: 28
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "20 U.S.C. § 24"
-generated_at: "2026-11-23T20:42:39.452Z"
+generated_at: "2026-11-23T20:47:10.123Z"
 status: "active"
 ---
 

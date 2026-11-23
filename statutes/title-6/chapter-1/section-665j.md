@@ -3,9 +3,9 @@ title: "Section 665j - Ransomware threat mitigation activities"
 usc_title: 6
 usc_section: "665j"
 chapter: 1
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "6 U.S.C. § 665j"
-generated_at: "2026-11-23T20:41:58.346Z"
+generated_at: "2026-11-23T20:46:30.636Z"
 status: "active"
 ---
 

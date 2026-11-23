@@ -3,9 +3,9 @@ title: "Section 2106 - Determination"
 usc_title: 28
 usc_section: "2106"
 chapter: 133
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "28 U.S.C. § 2106"
-generated_at: "2026-11-23T20:43:02.660Z"
+generated_at: "2026-11-23T20:47:33.623Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 17216 - Organization and administration of programs"
 usc_title: 42
 usc_section: "17216"
 chapter: 152
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "42 U.S.C. § 17216"
-generated_at: "2026-11-23T20:44:06.277Z"
+generated_at: "2026-11-23T20:48:18.660Z"
 status: "active"
 ---
 

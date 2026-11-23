@@ -3,9 +3,9 @@ title: "Section 1921 - Extra hazard costs"
 usc_title: 38
 usc_section: "1921"
 chapter: 19
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "38 U.S.C. § 1921"
-generated_at: "2026-11-23T20:43:30.815Z"
+generated_at: "2026-11-23T20:47:58.703Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2225 - Integration of women"
 usc_title: 22
 usc_section: "2225"
 chapter: 32
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "22 U.S.C. § 2225"
-generated_at: "2026-11-23T20:42:57.389Z"
+generated_at: "2026-11-23T20:47:29.050Z"
 status: "active"
 ---
 

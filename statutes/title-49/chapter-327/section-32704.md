@@ -3,9 +3,9 @@ title: "Section 32704 - Service, repair, and replacement"
 usc_title: 49
 usc_section: "32704"
 chapter: 327
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "49 U.S.C. § 32704"
-generated_at: "2026-11-23T20:44:19.378Z"
+generated_at: "2026-11-23T20:48:28.442Z"
 status: "active"
 ---
 

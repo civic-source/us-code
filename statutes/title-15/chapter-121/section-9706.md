@@ -3,9 +3,9 @@ title: "Section 9706 - Freshwater monitoring along the coast"
 usc_title: 15
 usc_section: "9706"
 chapter: 121
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "15 U.S.C. § 9706"
-generated_at: "2026-11-23T20:42:29.400Z"
+generated_at: "2026-11-23T20:46:59.916Z"
 status: "active"
 ---
 

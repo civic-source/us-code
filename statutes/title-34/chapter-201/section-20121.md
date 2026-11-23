@@ -3,9 +3,9 @@ title: "Section 20121 - Legal assistance for victims"
 usc_title: 34
 usc_section: "20121"
 chapter: 201
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "34 U.S.C. § 20121"
-generated_at: "2026-11-23T20:43:21.744Z"
+generated_at: "2026-11-23T20:47:48.183Z"
 status: "active"
 ---
 

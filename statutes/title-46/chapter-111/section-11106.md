@@ -3,9 +3,9 @@ title: "Section 11106 - Wages on justifiable complaint of seamen"
 usc_title: 46
 usc_section: "11106"
 chapter: 111
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "46 U.S.C. § 11106"
-generated_at: "2026-11-23T20:44:12.043Z"
+generated_at: "2026-11-23T20:48:21.710Z"
 status: "active"
 ---
 

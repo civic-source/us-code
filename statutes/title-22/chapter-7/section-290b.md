@@ -3,9 +3,9 @@ title: "Section 290b - Authorization of appropriations; payment of salaries and 
 usc_title: 22
 usc_section: "290b"
 chapter: 7
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "22 U.S.C. § 290b"
-generated_at: "2026-11-23T20:42:57.217Z"
+generated_at: "2026-11-23T20:47:28.857Z"
 status: "active"
 ---
 

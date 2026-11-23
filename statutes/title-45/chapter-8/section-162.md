@@ -3,9 +3,9 @@ title: "Section 162 - Authorization of appropriations"
 usc_title: 45
 usc_section: "162"
 chapter: 8
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "45 U.S.C. § 162"
-generated_at: "2026-11-23T20:43:35.090Z"
+generated_at: "2026-11-23T20:48:01.311Z"
 status: "active"
 ---
 

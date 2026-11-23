@@ -3,9 +3,9 @@ title: "Section 238 - Gifts for benefit of Service"
 usc_title: 42
 usc_section: "238"
 chapter: 6
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "42 U.S.C. § 238"
-generated_at: "2026-11-23T20:44:00.380Z"
+generated_at: "2026-11-23T20:48:15.478Z"
 status: "active"
 ---
 

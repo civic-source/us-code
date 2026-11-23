@@ -3,9 +3,9 @@ title: "Section 7441a - Cadets: appointment by the President"
 usc_title: 10
 usc_section: "7441a"
 chapter: 753
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 7441a"
-generated_at: "2026-11-23T20:42:11.443Z"
+generated_at: "2026-11-23T20:46:46.229Z"
 status: "active"
 ---
 

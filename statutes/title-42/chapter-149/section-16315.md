@@ -3,9 +3,9 @@ title: "Section 16315 - Electricity Storage Research Initiative"
 usc_title: 42
 usc_section: "16315"
 chapter: 149
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "42 U.S.C. § 16315"
-generated_at: "2026-11-23T20:44:06.166Z"
+generated_at: "2026-11-23T20:48:18.586Z"
 status: "active"
 ---
 

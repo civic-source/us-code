@@ -3,9 +3,9 @@ title: "Section 9221b - Sanctions with respect to foreign financial institutions
 usc_title: 22
 usc_section: "9221b"
 chapter: 99
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "22 U.S.C. § 9221b"
-generated_at: "2026-11-23T20:42:58.056Z"
+generated_at: "2026-11-23T20:47:29.872Z"
 status: "active"
 ---
 

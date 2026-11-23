@@ -3,9 +3,9 @@ title: "Section 8114 - Reporting"
 usc_title: 15
 usc_section: "8114"
 chapter: 107
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "15 U.S.C. § 8114"
-generated_at: "2026-11-23T20:42:29.299Z"
+generated_at: "2026-11-23T20:46:59.806Z"
 status: "active"
 ---
 

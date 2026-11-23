@@ -3,9 +3,9 @@ title: "Section 2455a - National Nuclear Security Administration authority for u
 usc_title: 50
 usc_section: "2455a"
 chapter: 41
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "50 U.S.C. § 2455a"
-generated_at: "2026-11-23T20:44:14.205Z"
+generated_at: "2026-11-23T20:48:25.096Z"
 status: "active"
 ---
 

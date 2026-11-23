@@ -3,9 +3,9 @@ title: "Section 248b - Annual independent audits of Federal reserve banks and Bo
 usc_title: 12
 usc_section: "248b"
 chapter: 3
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "12 U.S.C. § 248b"
-generated_at: "2026-11-23T20:42:23.364Z"
+generated_at: "2026-11-23T20:46:53.660Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1260 - Applications; allocation"
 usc_title: 33
 usc_section: "1260"
 chapter: 26
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "33 U.S.C. § 1260"
-generated_at: "2026-11-23T20:43:23.573Z"
+generated_at: "2026-11-23T20:47:52.137Z"
 status: "active"
 ---
 

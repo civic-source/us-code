@@ -3,9 +3,9 @@ title: "Section 2107 - Acceptance of records for historical preservation"
 usc_title: 44
 usc_section: "2107"
 chapter: 21
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "44 U.S.C. § 2107"
-generated_at: "2026-11-23T20:43:33.495Z"
+generated_at: "2026-11-23T20:48:01.056Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 517 - Authorized enlisted end strength: members in pay grades Eโ
 usc_title: 10
 usc_section: "517"
 chapter: 31
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. ยง 517"
-generated_at: "2026-11-23T20:42:10.137Z"
+generated_at: "2026-11-23T20:46:45.069Z"
 status: "active"
 ---
 

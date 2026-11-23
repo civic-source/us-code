@@ -3,9 +3,9 @@ title: "Section 17197 - Advanced geothermal computing and data science research 
 usc_title: 42
 usc_section: "17197"
 chapter: 152
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "42 U.S.C. § 17197"
-generated_at: "2026-11-23T20:44:06.271Z"
+generated_at: "2026-11-23T20:48:18.657Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6310 - Notification of supervising boxing commission"
 usc_title: 15
 usc_section: "6310"
 chapter: 89
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "15 U.S.C. § 6310"
-generated_at: "2026-11-23T20:42:29.211Z"
+generated_at: "2026-11-23T20:46:59.718Z"
 status: "active"
 ---
 

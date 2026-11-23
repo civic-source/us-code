@@ -3,9 +3,9 @@ title: "Section 4326 - Waiver by Custodian of demand for property; acceptance of
 usc_title: 50
 usc_section: "4326"
 chapter: 53
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "50 U.S.C. § 4326"
-generated_at: "2026-11-23T20:44:14.416Z"
+generated_at: "2026-11-23T20:48:25.318Z"
 status: "active"
 ---
 

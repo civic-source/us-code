@@ -3,9 +3,9 @@ title: "Section 406 - Authority of Inspector General"
 usc_title: 5
 usc_section: "406"
 chapter: 4
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "5 U.S.C. § 406"
-generated_at: "2026-11-23T20:41:53.744Z"
+generated_at: "2026-11-23T20:46:27.060Z"
 status: "active"
 ---
 

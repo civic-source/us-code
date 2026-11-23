@@ -3,9 +3,9 @@ title: "Section 130306 - Restrictions"
 usc_title: 36
 usc_section: "130306"
 chapter: 1303
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "36 U.S.C. § 130306"
-generated_at: "2026-11-23T20:43:28.162Z"
+generated_at: "2026-11-23T20:47:56.398Z"
 status: "active"
 ---
 

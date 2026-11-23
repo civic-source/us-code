@@ -3,9 +3,9 @@ title: "Section 3227c - Continued applicability of the Federal Advisory Committe
 usc_title: 50
 usc_section: "3227c"
 chapter: 44
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "50 U.S.C. § 3227c"
-generated_at: "2026-11-23T20:44:14.281Z"
+generated_at: "2026-11-23T20:48:25.179Z"
 status: "active"
 ---
 

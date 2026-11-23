@@ -3,9 +3,9 @@ title: "Section 3349e - Presidential explanation of failure to nominate an inspe
 usc_title: 5
 usc_section: "3349e"
 chapter: 33
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "5 U.S.C. § 3349e"
-generated_at: "2026-11-23T20:41:53.951Z"
+generated_at: "2026-11-23T20:46:27.242Z"
 status: "active"
 ---
 

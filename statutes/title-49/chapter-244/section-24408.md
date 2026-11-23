@@ -3,9 +3,9 @@ title: "Section 24408 - Renumbered §§ 22901 to 22908]"
 usc_title: 49
 usc_section: "24408"
 chapter: 244
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "49 U.S.C. § 24408"
-generated_at: "2026-11-23T20:44:19.200Z"
+generated_at: "2026-11-23T20:48:28.325Z"
 status: "renumbered"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 251 - Leases to claimants of withdrawn lands; terms and conditio
 usc_title: 30
 usc_section: "251"
 chapter: 3
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "30 U.S.C. § 251"
-generated_at: "2026-11-23T20:43:00.585Z"
+generated_at: "2026-11-23T20:47:32.219Z"
 status: "active"
 ---
 

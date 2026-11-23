@@ -3,9 +3,9 @@ title: "Section 6371b - Preliminary energy audits and energy audits"
 usc_title: 42
 usc_section: "6371b"
 chapter: 77
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "42 U.S.C. § 6371b"
-generated_at: "2026-11-23T20:44:04.854Z"
+generated_at: "2026-11-23T20:48:17.631Z"
 status: "active"
 ---
 

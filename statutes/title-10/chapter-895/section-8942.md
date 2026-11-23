@@ -3,9 +3,9 @@ title: "Section 8942 - Rifles and ammunition for target practice: educational in
 usc_title: 10
 usc_section: "8942"
 chapter: 895
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 8942"
-generated_at: "2026-11-23T20:42:11.722Z"
+generated_at: "2026-11-23T20:46:46.481Z"
 status: "active"
 ---
 

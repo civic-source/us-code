@@ -3,9 +3,9 @@ title: "Section 2313 - Research and development"
 usc_title: 33
 usc_section: "2313"
 chapter: 36
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "33 U.S.C. § 2313"
-generated_at: "2026-11-23T20:43:23.780Z"
+generated_at: "2026-11-23T20:47:52.325Z"
 status: "active"
 ---
 

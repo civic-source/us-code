@@ -3,9 +3,9 @@ title: "Section 8667 - Changing category or type: limitations"
 usc_title: 10
 usc_section: "8667"
 chapter: 863
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 8667"
-generated_at: "2026-11-23T20:42:11.647Z"
+generated_at: "2026-11-23T20:46:46.417Z"
 status: "active"
 ---
 

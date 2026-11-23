@@ -3,9 +3,9 @@ title: "Section 136s - Solicitation of comments; notice of public hearings"
 usc_title: 7
 usc_section: "136s"
 chapter: 6
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "7 U.S.C. § 136s"
-generated_at: "2026-11-23T20:42:15.531Z"
+generated_at: "2026-11-23T20:46:35.858Z"
 status: "active"
 ---
 

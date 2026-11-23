@@ -3,9 +3,9 @@ title: "Section 3144 - Access to information; confidentiality"
 usc_title: 22
 usc_section: "3144"
 chapter: 46
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "22 U.S.C. § 3144"
-generated_at: "2026-11-23T20:42:57.636Z"
+generated_at: "2026-11-23T20:47:29.342Z"
 status: "active"
 ---
 

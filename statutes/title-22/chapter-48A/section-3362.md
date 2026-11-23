@@ -3,9 +3,9 @@ title: "Section 3362 - Task force to counter economic coercion by the People’s
 usc_title: 22
 usc_section: "3362"
 chapter: 48
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "22 U.S.C. § 3362"
-generated_at: "2026-11-23T20:42:57.648Z"
+generated_at: "2026-11-23T20:47:29.357Z"
 status: "active"
 ---
 

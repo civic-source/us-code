@@ -3,9 +3,9 @@ title: "Section 21104 - Membership"
 usc_title: 36
 usc_section: "21104"
 chapter: 211
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "36 U.S.C. § 21104"
-generated_at: "2026-11-23T20:43:28.050Z"
+generated_at: "2026-11-23T20:47:56.261Z"
 status: "active"
 ---
 

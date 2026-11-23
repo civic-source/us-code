@@ -3,9 +3,9 @@ title: "Section 421d - Effect on existing laws"
 usc_title: 43
 usc_section: "421d"
 chapter: 12
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "43 U.S.C. § 421d"
-generated_at: "2026-11-23T20:43:36.547Z"
+generated_at: "2026-11-23T20:48:02.142Z"
 status: "active"
 ---
 

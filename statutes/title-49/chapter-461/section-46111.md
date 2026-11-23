@@ -3,9 +3,9 @@ title: "Section 46111 - Certificate actions in response to a security threat"
 usc_title: 49
 usc_section: "46111"
 chapter: 461
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "49 U.S.C. § 46111"
-generated_at: "2026-11-23T20:44:19.738Z"
+generated_at: "2026-11-23T20:48:28.681Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1141l - Assignment of an extension of protection"
 usc_title: 15
 usc_section: "1141l"
 chapter: 22
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "15 U.S.C. § 1141l"
-generated_at: "2026-11-23T20:42:28.469Z"
+generated_at: "2026-11-23T20:46:59.002Z"
 status: "active"
 ---
 

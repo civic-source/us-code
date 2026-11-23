@@ -3,9 +3,9 @@ title: "Section 2001 - Human relations training"
 usc_title: 10
 usc_section: "2001"
 chapter: 101
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 2001"
-generated_at: "2026-11-23T20:42:10.706Z"
+generated_at: "2026-11-23T20:46:45.594Z"
 status: "active"
 ---
 

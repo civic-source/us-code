@@ -3,9 +3,9 @@ title: "Section 1921 - Congressional findings"
 usc_title: 7
 usc_section: "1921"
 chapter: 50
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "7 U.S.C. § 1921"
-generated_at: "2026-11-23T20:42:15.905Z"
+generated_at: "2026-11-23T20:46:36.222Z"
 status: "active"
 ---
 

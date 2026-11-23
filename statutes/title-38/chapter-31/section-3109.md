@@ -3,9 +3,9 @@ title: "Section 3109 - Entitlement to independent living services and assistance
 usc_title: 38
 usc_section: "3109"
 chapter: 31
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "38 U.S.C. § 3109"
-generated_at: "2026-11-23T20:43:30.904Z"
+generated_at: "2026-11-23T20:47:58.789Z"
 status: "active"
 ---
 

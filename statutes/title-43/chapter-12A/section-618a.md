@@ -3,9 +3,9 @@ title: "Section 618a - Receipts from project; disposition"
 usc_title: 43
 usc_section: "618a"
 chapter: 12
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "43 U.S.C. § 618a"
-generated_at: "2026-11-23T20:43:36.615Z"
+generated_at: "2026-11-23T20:48:02.165Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 488f - Omitted"
 usc_title: 48
 usc_section: "488f"
 chapter: 2
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "48 U.S.C. § 488f"
-generated_at: "2026-11-23T20:44:08.844Z"
+generated_at: "2026-11-23T20:48:23.114Z"
 status: "omitted"
 ---
 

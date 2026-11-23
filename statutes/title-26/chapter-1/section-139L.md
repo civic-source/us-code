@@ -3,9 +3,9 @@ title: "Section 139L - Interest on loans secured by rural or agricultural real p
 usc_title: 26
 usc_section: "139L"
 chapter: 1
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "26 U.S.C. § 139L"
-generated_at: "2026-11-23T20:43:12.822Z"
+generated_at: "2026-11-23T20:47:43.232Z"
 status: "active"
 ---
 

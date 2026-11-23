@@ -3,9 +3,9 @@ title: "Section 2613 - Confidential information"
 usc_title: 15
 usc_section: "2613"
 chapter: 53
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "15 U.S.C. § 2613"
-generated_at: "2026-11-23T20:42:29.023Z"
+generated_at: "2026-11-23T20:46:59.255Z"
 status: "active"
 ---
 

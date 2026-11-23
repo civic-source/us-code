@@ -3,9 +3,9 @@ title: "Section 2015a - Cold standby"
 usc_title: 42
 usc_section: "2015a"
 chapter: 23
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "42 U.S.C. § 2015a"
-generated_at: "2026-11-23T20:44:04.229Z"
+generated_at: "2026-11-23T20:48:17.050Z"
 status: "active"
 ---
 

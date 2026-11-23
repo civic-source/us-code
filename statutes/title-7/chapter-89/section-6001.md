@@ -3,9 +3,9 @@ title: "Section 6001 - Findings and declaration of policy"
 usc_title: 7
 usc_section: "6001"
 chapter: 89
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "7 U.S.C. § 6001"
-generated_at: "2026-11-23T20:42:16.288Z"
+generated_at: "2026-11-23T20:46:36.613Z"
 status: "active"
 ---
 

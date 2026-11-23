@@ -3,9 +3,9 @@ title: "Section 1046 - Imports"
 usc_title: 21
 usc_section: "1046"
 chapter: 15
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "21 U.S.C. § 1046"
-generated_at: "2026-11-23T20:42:53.501Z"
+generated_at: "2026-11-23T20:47:22.292Z"
 status: "active"
 ---
 

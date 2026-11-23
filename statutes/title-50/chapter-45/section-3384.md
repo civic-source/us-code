@@ -3,9 +3,9 @@ title: "Section 3384 - Intelligence Community Counterintelligence Office at the 
 usc_title: 50
 usc_section: "3384"
 chapter: 45
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "50 U.S.C. § 3384"
-generated_at: "2026-11-23T20:44:14.329Z"
+generated_at: "2026-11-23T20:48:25.231Z"
 status: "active"
 ---
 

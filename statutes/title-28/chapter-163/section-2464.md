@@ -3,9 +3,9 @@ title: "Section 2464 - Security; special bond"
 usc_title: 28
 usc_section: "2464"
 chapter: 163
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "28 U.S.C. § 2464"
-generated_at: "2026-11-23T20:43:02.682Z"
+generated_at: "2026-11-23T20:47:33.646Z"
 status: "active"
 ---
 

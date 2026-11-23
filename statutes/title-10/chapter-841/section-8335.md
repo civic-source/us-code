@@ -3,9 +3,9 @@ title: "Section 8335 - Restoration to former grade: warrant officers and enliste
 usc_title: 10
 usc_section: "8335"
 chapter: 841
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 8335"
-generated_at: "2026-11-23T20:42:11.597Z"
+generated_at: "2026-11-23T20:46:46.344Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2342 - Cooperative program on research, development, and demonst
 usc_title: 50
 usc_section: "2342"
 chapter: 40
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "50 U.S.C. § 2342"
-generated_at: "2026-11-23T20:44:14.179Z"
+generated_at: "2026-11-23T20:48:25.082Z"
 status: "active"
 ---
 

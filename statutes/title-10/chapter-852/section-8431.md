@@ -3,9 +3,9 @@ title: "Section 8431 - Recruit basic training: separate housing for male and fem
 usc_title: 10
 usc_section: "8431"
 chapter: 852
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 8431"
-generated_at: "2026-11-23T20:42:11.606Z"
+generated_at: "2026-11-23T20:46:46.356Z"
 status: "active"
 ---
 

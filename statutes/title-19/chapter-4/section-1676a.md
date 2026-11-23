@@ -3,9 +3,9 @@ title: "Section 1676a - Required determinations"
 usc_title: 19
 usc_section: "1676a"
 chapter: 4
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "19 U.S.C. § 1676a"
-generated_at: "2026-11-23T20:42:36.247Z"
+generated_at: "2026-11-23T20:47:06.362Z"
 status: "active"
 ---
 

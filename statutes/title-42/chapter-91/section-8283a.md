@@ -3,9 +3,9 @@ title: "Section 8283a - Repealed. Pub. L. 99–412, title II, § 201(a) , Aug. 2
 usc_title: 42
 usc_section: "8283a"
 chapter: 91
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "42 U.S.C. § 8283a"
-generated_at: "2026-11-23T20:44:05.226Z"
+generated_at: "2026-11-23T20:48:18.005Z"
 status: "repealed"
 ---
 

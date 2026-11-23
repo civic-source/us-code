@@ -3,9 +3,9 @@ title: "Section 841 - Repealed. June 25, 1948, ch. 645, § 21 , 62 Stat. 862"
 usc_title: 43
 usc_section: "841"
 chapter: 19
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "43 U.S.C. § 841"
-generated_at: "2026-11-23T20:43:36.646Z"
+generated_at: "2026-11-23T20:48:02.188Z"
 status: "repealed"
 ---
 

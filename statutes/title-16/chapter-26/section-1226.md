@@ -3,9 +3,9 @@ title: "Section 1226 - Federal agency authority to carry out Federal project wit
 usc_title: 16
 usc_section: "1226"
 chapter: 26
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "16 U.S.C. § 1226"
-generated_at: "2026-11-23T20:42:45.375Z"
+generated_at: "2026-11-23T20:47:16.559Z"
 status: "active"
 ---
 

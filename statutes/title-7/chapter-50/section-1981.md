@@ -3,9 +3,9 @@ title: "Section 1981 - Farmers Home Administration"
 usc_title: 7
 usc_section: "1981"
 chapter: 50
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "7 U.S.C. § 1981"
-generated_at: "2026-11-23T20:42:15.934Z"
+generated_at: "2026-11-23T20:46:36.247Z"
 status: "active"
 ---
 

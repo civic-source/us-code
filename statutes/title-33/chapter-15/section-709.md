@@ -3,9 +3,9 @@ title: "Section 709 - Regulations for use of storage waters; application to Tenn
 usc_title: 33
 usc_section: "709"
 chapter: 15
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "33 U.S.C. § 709"
-generated_at: "2026-11-23T20:43:23.473Z"
+generated_at: "2026-11-23T20:47:52.081Z"
 status: "active"
 ---
 

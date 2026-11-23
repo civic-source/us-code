@@ -3,9 +3,9 @@ title: "Section 886 - Repealed. Pub. L. 91–230, title IV, § 401(d)(4) , Apr. 
 usc_title: 20
 usc_section: "886"
 chapter: 24
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "20 U.S.C. § 886"
-generated_at: "2026-11-23T20:42:39.363Z"
+generated_at: "2026-11-23T20:47:10.019Z"
 status: "repealed"
 ---
 

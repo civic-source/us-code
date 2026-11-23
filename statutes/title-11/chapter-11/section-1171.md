@@ -3,9 +3,9 @@ title: "Section 1171 - Priority claims"
 usc_title: 11
 usc_section: "1171"
 chapter: 11
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "11 U.S.C. § 1171"
-generated_at: "2026-11-23T20:42:19.876Z"
+generated_at: "2026-11-23T20:46:50.073Z"
 status: "active"
 ---
 

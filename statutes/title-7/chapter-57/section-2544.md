@@ -3,9 +3,9 @@ title: "Section 2544 - Research exemption"
 usc_title: 7
 usc_section: "2544"
 chapter: 57
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "7 U.S.C. § 2544"
-generated_at: "2026-11-23T20:42:16.120Z"
+generated_at: "2026-11-23T20:46:36.435Z"
 status: "active"
 ---
 

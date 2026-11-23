@@ -3,9 +3,9 @@ title: "Section 2281a - Tribal Liaison"
 usc_title: 33
 usc_section: "2281a"
 chapter: 36
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "33 U.S.C. § 2281a"
-generated_at: "2026-11-23T20:43:23.758Z"
+generated_at: "2026-11-23T20:47:52.309Z"
 status: "active"
 ---
 

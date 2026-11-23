@@ -3,9 +3,9 @@ title: "Section 31 - Iowa River, Iowa, above Toolsboro"
 usc_title: 33
 usc_section: "31"
 chapter: 1
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "33 U.S.C. § 31"
-generated_at: "2026-11-23T20:43:23.303Z"
+generated_at: "2026-11-23T20:47:51.904Z"
 status: "active"
 ---
 

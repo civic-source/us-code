@@ -3,9 +3,9 @@ title: "Section 50B - Repealed. Pub. L. 98–369, div. A, title IV, § 474(m)(2)
 usc_title: 26
 usc_section: "50B"
 chapter: 1
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "26 U.S.C. § 50B"
-generated_at: "2026-11-23T20:43:12.717Z"
+generated_at: "2026-11-23T20:47:43.132Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 557 - Settlement of accounts"
 usc_title: 37
 usc_section: "557"
 chapter: 10
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "37 U.S.C. § 557"
-generated_at: "2026-11-23T20:43:25.838Z"
+generated_at: "2026-11-23T20:47:55.304Z"
 status: "active"
 ---
 

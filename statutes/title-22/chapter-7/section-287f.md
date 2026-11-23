@@ -3,9 +3,9 @@ title: "Section 287f - Omitted"
 usc_title: 22
 usc_section: "287f"
 chapter: 7
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "22 U.S.C. § 287f"
-generated_at: "2026-11-23T20:42:57.210Z"
+generated_at: "2026-11-23T20:47:28.850Z"
 status: "omitted"
 ---
 

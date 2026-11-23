@@ -3,9 +3,9 @@ title: "Section 240 - Border Enforcement Security Task Force"
 usc_title: 6
 usc_section: "240"
 chapter: 1
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "6 U.S.C. § 240"
-generated_at: "2026-11-23T20:41:58.193Z"
+generated_at: "2026-11-23T20:46:30.497Z"
 status: "active"
 ---
 

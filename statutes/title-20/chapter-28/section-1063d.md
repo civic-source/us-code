@@ -3,9 +3,9 @@ title: "Section 1063d - Strengthening HBCUs through Federal agency plans"
 usc_title: 20
 usc_section: "1063d"
 chapter: 28
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "20 U.S.C. § 1063d"
-generated_at: "2026-11-23T20:42:39.428Z"
+generated_at: "2026-11-23T20:47:10.088Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8543 - Provost and Chief Academic Officer"
 usc_title: 10
 usc_section: "8543"
 chapter: 855
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 8543"
-generated_at: "2026-11-23T20:42:11.623Z"
+generated_at: "2026-11-23T20:46:46.379Z"
 status: "active"
 ---
 

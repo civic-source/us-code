@@ -3,9 +3,9 @@ title: "Section 5911 - Quarters and facilities; employees in the United States"
 usc_title: 5
 usc_section: "5911"
 chapter: 59
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "5 U.S.C. § 5911"
-generated_at: "2026-11-23T20:41:54.441Z"
+generated_at: "2026-11-23T20:46:27.428Z"
 status: "active"
 ---
 

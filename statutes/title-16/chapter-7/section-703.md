@@ -3,9 +3,9 @@ title: "Section 703 - Taking, killing, or possessing migratory birds unlawful"
 usc_title: 16
 usc_section: "703"
 chapter: 7
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "16 U.S.C. § 703"
-generated_at: "2026-11-23T20:42:44.981Z"
+generated_at: "2026-11-23T20:47:16.289Z"
 status: "active"
 ---
 

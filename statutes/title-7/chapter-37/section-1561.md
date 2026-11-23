@@ -3,9 +3,9 @@ title: "Section 1561 - Definition of terms"
 usc_title: 7
 usc_section: "1561"
 chapter: 37
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "7 U.S.C. § 1561"
-generated_at: "2026-11-23T20:42:15.816Z"
+generated_at: "2026-11-23T20:46:36.122Z"
 status: "active"
 ---
 

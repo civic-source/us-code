@@ -3,9 +3,9 @@ title: "Section 996 - Individual Longitudinal Exposure Record"
 usc_title: 10
 usc_section: "996"
 chapter: 50
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 996"
-generated_at: "2026-11-23T20:42:10.345Z"
+generated_at: "2026-11-23T20:46:45.292Z"
 status: "active"
 ---
 

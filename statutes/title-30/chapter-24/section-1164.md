@@ -3,9 +3,9 @@ title: "Section 1164 - Repealed. Pub. L. 116–260, div. Z, title III, § 3002(i
 usc_title: 30
 usc_section: "1164"
 chapter: 24
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "30 U.S.C. § 1164"
-generated_at: "2026-11-23T20:43:00.644Z"
+generated_at: "2026-11-23T20:47:32.289Z"
 status: "repealed"
 ---
 

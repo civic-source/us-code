@@ -3,9 +3,9 @@ title: "Section 109 - Standards"
 usc_title: 23
 usc_section: "109"
 chapter: 1
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "23 U.S.C. § 109"
-generated_at: "2026-11-23T20:42:48.966Z"
+generated_at: "2026-11-23T20:47:19.838Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 709 - Technicians: employment, use, status"
 usc_title: 32
 usc_section: "709"
 chapter: 7
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "32 U.S.C. § 709"
-generated_at: "2026-11-23T20:43:16.794Z"
+generated_at: "2026-11-23T20:47:46.641Z"
 status: "active"
 ---
 

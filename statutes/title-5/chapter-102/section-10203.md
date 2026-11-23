@@ -3,9 +3,9 @@ title: "Section 10203 - Basic pay"
 usc_title: 5
 usc_section: "10203"
 chapter: 102
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "5 U.S.C. § 10203"
-generated_at: "2026-11-23T20:41:55.126Z"
+generated_at: "2026-11-23T20:46:27.897Z"
 status: "active"
 ---
 

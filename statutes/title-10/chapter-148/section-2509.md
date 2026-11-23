@@ -3,9 +3,9 @@ title: "Section 2509 - Renumbered § 4819]"
 usc_title: 10
 usc_section: "2509"
 chapter: 148
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 2509"
-generated_at: "2026-11-23T20:42:10.861Z"
+generated_at: "2026-11-23T20:46:45.751Z"
 status: "renumbered"
 ---
 

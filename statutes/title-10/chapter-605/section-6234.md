@@ -3,9 +3,9 @@ title: "Section 6234 - Protection of classified information during laboratory-to
 usc_title: 10
 usc_section: "6234"
 chapter: 605
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 6234"
-generated_at: "2026-11-23T20:42:11.358Z"
+generated_at: "2026-11-23T20:46:46.152Z"
 status: "active"
 ---
 

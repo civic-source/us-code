@@ -3,9 +3,9 @@ title: "Section 1722 - Appointment of members"
 usc_title: 2
 usc_section: "1722"
 chapter: 27
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "2 U.S.C. § 1722"
-generated_at: "2026-11-23T20:41:49.293Z"
+generated_at: "2026-11-23T20:46:22.504Z"
 status: "active"
 ---
 

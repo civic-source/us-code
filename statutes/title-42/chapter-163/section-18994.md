@@ -3,9 +3,9 @@ title: "Section 18994 - STEM workforce data"
 usc_title: 42
 usc_section: "18994"
 chapter: 163
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "42 U.S.C. § 18994"
-generated_at: "2026-11-23T20:44:06.467Z"
+generated_at: "2026-11-23T20:48:18.784Z"
 status: "active"
 ---
 

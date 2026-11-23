@@ -3,9 +3,9 @@ title: "Section 8724 - Continuation in effect of sanctions with respect to the G
 usc_title: 22
 usc_section: "8724"
 chapter: 94
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "22 U.S.C. § 8724"
-generated_at: "2026-11-23T20:42:58.019Z"
+generated_at: "2026-11-23T20:47:29.837Z"
 status: "active"
 ---
 

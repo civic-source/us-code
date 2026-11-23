@@ -3,9 +3,9 @@ title: "Section 3242 - Training program"
 usc_title: 22
 usc_section: "3242"
 chapter: 47
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "22 U.S.C. § 3242"
-generated_at: "2026-11-23T20:42:57.638Z"
+generated_at: "2026-11-23T20:47:29.346Z"
 status: "active"
 ---
 

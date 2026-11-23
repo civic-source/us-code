@@ -3,9 +3,9 @@ title: "Section 5511 - Ballistic missile defense programs: program elements"
 usc_title: 10
 usc_section: "5511"
 chapter: 551
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 5511"
-generated_at: "2026-11-23T20:42:11.313Z"
+generated_at: "2026-11-23T20:46:46.121Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6221 - Prohibition on international inspections of Department of
 usc_title: 10
 usc_section: "6221"
 chapter: 605
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 6221"
-generated_at: "2026-11-23T20:42:11.353Z"
+generated_at: "2026-11-23T20:46:46.148Z"
 status: "active"
 ---
 

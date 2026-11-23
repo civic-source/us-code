@@ -3,9 +3,9 @@ title: "Section 139C - Certain disability-related first responder retirement pay
 usc_title: 26
 usc_section: "139C"
 chapter: 1
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "26 U.S.C. § 139C"
-generated_at: "2026-11-23T20:43:12.820Z"
+generated_at: "2026-11-23T20:47:43.230Z"
 status: "active"
 ---
 

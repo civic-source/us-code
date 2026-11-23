@@ -3,9 +3,9 @@ title: "Section 146 - Cybersecurity workforce assessment and strategy"
 usc_title: 6
 usc_section: "146"
 chapter: 1
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "6 U.S.C. § 146"
-generated_at: "2026-11-23T20:41:58.153Z"
+generated_at: "2026-11-23T20:46:30.465Z"
 status: "active"
 ---
 

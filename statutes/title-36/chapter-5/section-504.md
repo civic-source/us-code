@@ -3,9 +3,9 @@ title: "Section 504 - Installation and removal of electrical facilities"
 usc_title: 36
 usc_section: "504"
 chapter: 5
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "36 U.S.C. § 504"
-generated_at: "2026-11-23T20:43:28.012Z"
+generated_at: "2026-11-23T20:47:56.218Z"
 status: "active"
 ---
 

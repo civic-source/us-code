@@ -3,9 +3,9 @@ title: "Section 10222 - Imposition of sanctions with respect to human rights abu
 usc_title: 22
 usc_section: "10222"
 chapter: 109
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "22 U.S.C. § 10222"
-generated_at: "2026-11-23T20:42:58.111Z"
+generated_at: "2026-11-23T20:47:29.940Z"
 status: "active"
 ---
 

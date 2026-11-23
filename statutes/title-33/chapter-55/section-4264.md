@@ -3,9 +3,9 @@ title: "Section 4264 - Enhancing international outreach and partnership of Unite
 usc_title: 33
 usc_section: "4264"
 chapter: 55
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "33 U.S.C. § 4264"
-generated_at: "2026-11-23T20:43:23.909Z"
+generated_at: "2026-11-23T20:47:52.438Z"
 status: "active"
 ---
 

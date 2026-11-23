@@ -3,9 +3,9 @@ title: "Section 1863 - Plan for random jury selection"
 usc_title: 28
 usc_section: "1863"
 chapter: 121
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "28 U.S.C. § 1863"
-generated_at: "2026-11-23T20:43:02.637Z"
+generated_at: "2026-11-23T20:47:33.608Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2124 - Promotions; pay and allowances"
 usc_title: 14
 usc_section: "2124"
 chapter: 21
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "14 U.S.C. § 2124"
-generated_at: "2026-11-23T20:42:19.018Z"
+generated_at: "2026-11-23T20:46:49.248Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 58 - Repealed. Pub. L. 86–230, § 6 , Sept. 8, 1959 , 73 Stat.
 usc_title: 12
 usc_section: "58"
 chapter: 2
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "12 U.S.C. § 58"
-generated_at: "2026-11-23T20:42:23.335Z"
+generated_at: "2026-11-23T20:46:53.631Z"
 status: "repealed"
 ---
 

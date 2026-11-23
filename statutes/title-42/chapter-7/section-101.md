@@ -3,9 +3,9 @@ title: "Section 101 - Eligibility, enrollment, and information"
 usc_title: 42
 usc_section: "101"
 chapter: 7
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "42 U.S.C. § 101"
-generated_at: "2026-11-23T20:44:02.976Z"
+generated_at: "2026-11-23T20:48:16.495Z"
 status: "active"
 ---
 

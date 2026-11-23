@@ -3,9 +3,9 @@ title: "Section 11 - Valles Caldera National Preserve, New Mexico"
 usc_title: 16
 usc_section: "11"
 chapter: 6
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "16 U.S.C. § 11"
-generated_at: "2026-11-23T20:42:44.979Z"
+generated_at: "2026-11-23T20:47:16.286Z"
 status: "active"
 ---
 

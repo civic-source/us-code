@@ -3,9 +3,9 @@ title: "Section 10822 - Allotment formula and reallotments"
 usc_title: 42
 usc_section: "10822"
 chapter: 114
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "42 U.S.C. § 10822"
-generated_at: "2026-11-23T20:44:05.494Z"
+generated_at: "2026-11-23T20:48:18.217Z"
 status: "active"
 ---
 

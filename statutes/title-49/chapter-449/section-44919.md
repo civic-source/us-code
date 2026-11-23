@@ -3,9 +3,9 @@ title: "Section 44919 - PreCheck Program"
 usc_title: 49
 usc_section: "44919"
 chapter: 449
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "49 U.S.C. § 44919"
-generated_at: "2026-11-23T20:44:19.692Z"
+generated_at: "2026-11-23T20:48:28.662Z"
 status: "active"
 ---
 

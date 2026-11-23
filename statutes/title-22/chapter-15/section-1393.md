@@ -3,9 +3,9 @@ title: "Section 1393 - Supplementary sinking fund for bond payments; purchase of
 usc_title: 22
 usc_section: "1393"
 chapter: 15
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "22 U.S.C. § 1393"
-generated_at: "2026-11-23T20:42:57.259Z"
+generated_at: "2026-11-23T20:47:28.916Z"
 status: "active"
 ---
 

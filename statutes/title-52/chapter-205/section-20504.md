@@ -3,9 +3,9 @@ title: "Section 20504 - Simultaneous application for voter registration and appl
 usc_title: 52
 usc_section: "20504"
 chapter: 205
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "52 U.S.C. § 20504"
-generated_at: "2026-11-23T20:44:21.578Z"
+generated_at: "2026-11-23T20:48:30.249Z"
 status: "active"
 ---
 

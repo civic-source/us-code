@@ -3,9 +3,9 @@ title: "Section 18012 - Rating reforms must apply uniformly to all health insura
 usc_title: 42
 usc_section: "18012"
 chapter: 157
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "42 U.S.C. § 18012"
-generated_at: "2026-11-23T20:44:06.335Z"
+generated_at: "2026-11-23T20:48:18.698Z"
 status: "active"
 ---
 

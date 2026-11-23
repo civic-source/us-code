@@ -3,9 +3,9 @@ title: "Section 6706 - Original issue discount information requirements"
 usc_title: 26
 usc_section: "6706"
 chapter: 68
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "26 U.S.C. § 6706"
-generated_at: "2026-11-23T20:43:14.485Z"
+generated_at: "2026-11-23T20:47:44.551Z"
 status: "active"
 ---
 

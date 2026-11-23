@@ -3,9 +3,9 @@ title: "Section 824b - Disposition of property; consolidations; purchase of secu
 usc_title: 16
 usc_section: "824b"
 chapter: 12
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "16 U.S.C. § 824b"
-generated_at: "2026-11-23T20:42:45.125Z"
+generated_at: "2026-11-23T20:47:16.369Z"
 status: "active"
 ---
 

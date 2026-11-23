@@ -3,9 +3,9 @@ title: "Section 18 - Same; parliamentary procedure at joint session"
 usc_title: 3
 usc_section: "18"
 chapter: 1
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "3 U.S.C. § 18"
-generated_at: "2026-11-23T20:41:44.349Z"
+generated_at: "2026-11-23T20:46:20.223Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2701 - Educational facilities"
 usc_title: 22
 usc_section: "2701"
 chapter: 38
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "22 U.S.C. § 2701"
-generated_at: "2026-11-23T20:42:57.554Z"
+generated_at: "2026-11-23T20:47:29.245Z"
 status: "active"
 ---
 

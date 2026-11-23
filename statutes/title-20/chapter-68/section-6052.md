@@ -3,9 +3,9 @@ title: "Section 6052 - Continuation of awards"
 usc_title: 20
 usc_section: "6052"
 chapter: 68
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "20 U.S.C. § 6052"
-generated_at: "2026-11-23T20:42:39.847Z"
+generated_at: "2026-11-23T20:47:10.607Z"
 status: "active"
 ---
 

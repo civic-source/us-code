@@ -3,9 +3,9 @@ title: "Section 290 - Repealed. Pub. L. 93–43, § 7(a)(1) , (13)–(18), (42),
 usc_title: 24
 usc_section: "290"
 chapter: 7
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "24 U.S.C. § 290"
-generated_at: "2026-11-23T20:42:47.693Z"
+generated_at: "2026-11-23T20:47:18.543Z"
 status: "repealed"
 ---
 

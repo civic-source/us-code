@@ -3,9 +3,9 @@ title: "Section 715c - Areas recommended for approval; character"
 usc_title: 16
 usc_section: "715c"
 chapter: 7
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "16 U.S.C. § 715c"
-generated_at: "2026-11-23T20:42:44.987Z"
+generated_at: "2026-11-23T20:47:16.292Z"
 status: "active"
 ---
 

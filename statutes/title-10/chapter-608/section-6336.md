@@ -3,9 +3,9 @@ title: "Section 6336 - Report on use of funds for certain research and developme
 usc_title: 10
 usc_section: "6336"
 chapter: 608
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 6336"
-generated_at: "2026-11-23T20:42:11.377Z"
+generated_at: "2026-11-23T20:46:46.165Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1174 - Regulations regarding presumptions of service connection 
 usc_title: 38
 usc_section: "1174"
 chapter: 11
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "38 U.S.C. § 1174"
-generated_at: "2026-11-23T20:43:30.700Z"
+generated_at: "2026-11-23T20:47:58.627Z"
 status: "active"
 ---
 

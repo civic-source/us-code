@@ -3,9 +3,9 @@ title: "Section 4402 - Requirement to address modular open system approach in pr
 usc_title: 10
 usc_section: "4402"
 chapter: 327
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 4402"
-generated_at: "2026-11-23T20:42:11.241Z"
+generated_at: "2026-11-23T20:46:46.055Z"
 status: "active"
 ---
 

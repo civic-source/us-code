@@ -3,9 +3,9 @@ title: "Section 1823 - Acquisition of real property for Sergeant at Arms and Doo
 usc_title: 2
 usc_section: "1823"
 chapter: 28
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "2 U.S.C. § 1823"
-generated_at: "2026-11-23T20:41:49.307Z"
+generated_at: "2026-11-23T20:46:22.511Z"
 status: "active"
 ---
 

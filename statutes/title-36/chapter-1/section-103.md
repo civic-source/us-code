@@ -3,9 +3,9 @@ title: "Section 103 - Cancer Control Month"
 usc_title: 36
 usc_section: "103"
 chapter: 1
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "36 U.S.C. § 103"
-generated_at: "2026-11-23T20:43:27.999Z"
+generated_at: "2026-11-23T20:47:56.201Z"
 status: "active"
 ---
 

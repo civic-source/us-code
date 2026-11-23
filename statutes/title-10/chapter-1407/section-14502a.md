@@ -3,9 +3,9 @@ title: "Section 14502a - Special selection review boards"
 usc_title: 10
 usc_section: "14502a"
 chapter: 1407
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 14502a"
-generated_at: "2026-11-23T20:42:11.932Z"
+generated_at: "2026-11-23T20:46:46.680Z"
 status: "active"
 ---
 

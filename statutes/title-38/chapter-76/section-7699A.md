@@ -3,9 +3,9 @@ title: "Section 7699A - Obligated service"
 usc_title: 38
 usc_section: "7699A"
 chapter: 76
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "38 U.S.C. § 7699A"
-generated_at: "2026-11-23T20:43:31.183Z"
+generated_at: "2026-11-23T20:47:58.970Z"
 status: "active"
 ---
 

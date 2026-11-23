@@ -3,9 +3,9 @@ title: "Section 6720C - Penalty for failure to notify health plan of cessation o
 usc_title: 26
 usc_section: "6720C"
 chapter: 68
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "26 U.S.C. § 6720C"
-generated_at: "2026-11-23T20:43:14.489Z"
+generated_at: "2026-11-23T20:47:44.555Z"
 status: "active"
 ---
 

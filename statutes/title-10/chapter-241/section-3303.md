@@ -3,9 +3,9 @@ title: "Section 3303 - Competitive proposals"
 usc_title: 10
 usc_section: "3303"
 chapter: 241
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 3303"
-generated_at: "2026-11-23T20:42:11.098Z"
+generated_at: "2026-11-23T20:46:45.950Z"
 status: "active"
 ---
 

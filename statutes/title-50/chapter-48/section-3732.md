@@ -3,9 +3,9 @@ title: "Section 3732 - Requirement for on-site managers"
 usc_title: 50
 usc_section: "3732"
 chapter: 48
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "50 U.S.C. § 3732"
-generated_at: "2026-11-23T20:44:14.359Z"
+generated_at: "2026-11-23T20:48:25.261Z"
 status: "active"
 ---
 

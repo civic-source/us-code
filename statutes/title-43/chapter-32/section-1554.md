@@ -3,9 +3,9 @@ title: "Section 1554 - Federal reclamation laws"
 usc_title: 43
 usc_section: "1554"
 chapter: 32
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "43 U.S.C. § 1554"
-generated_at: "2026-11-23T20:43:36.727Z"
+generated_at: "2026-11-23T20:48:02.231Z"
 status: "active"
 ---
 

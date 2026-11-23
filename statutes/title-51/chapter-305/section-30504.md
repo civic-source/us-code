@@ -3,9 +3,9 @@ title: "Section 30504 - Assessment of science mission extensions"
 usc_title: 51
 usc_section: "30504"
 chapter: 305
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "51 U.S.C. § 30504"
-generated_at: "2026-11-23T20:44:22.110Z"
+generated_at: "2026-11-23T20:48:31.132Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1734 - Agreements"
 usc_title: 7
 usc_section: "1734"
 chapter: 41
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "7 U.S.C. § 1734"
-generated_at: "2026-11-23T20:42:15.869Z"
+generated_at: "2026-11-23T20:46:36.190Z"
 status: "active"
 ---
 

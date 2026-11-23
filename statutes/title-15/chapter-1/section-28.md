@@ -3,9 +3,9 @@ title: "Section 28 - Repealed. Pub. L. 98–620, title IV, § 402(11) , Nov. 8, 
 usc_title: 15
 usc_section: "28"
 chapter: 1
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "15 U.S.C. § 28"
-generated_at: "2026-11-23T20:42:27.890Z"
+generated_at: "2026-11-23T20:46:58.448Z"
 status: "repealed"
 ---
 

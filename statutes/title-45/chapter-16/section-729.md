@@ -3,9 +3,9 @@ title: "Section 729 - Advisory Board"
 usc_title: 45
 usc_section: "729"
 chapter: 16
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "45 U.S.C. § 729"
-generated_at: "2026-11-23T20:43:35.231Z"
+generated_at: "2026-11-23T20:48:01.370Z"
 status: "active"
 ---
 

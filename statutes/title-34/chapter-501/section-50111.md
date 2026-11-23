@@ -3,9 +3,9 @@ title: "Section 50111 - Issuance of rules"
 usc_title: 34
 usc_section: "50111"
 chapter: 501
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "34 U.S.C. § 50111"
-generated_at: "2026-11-23T20:43:21.854Z"
+generated_at: "2026-11-23T20:47:48.288Z"
 status: "active"
 ---
 

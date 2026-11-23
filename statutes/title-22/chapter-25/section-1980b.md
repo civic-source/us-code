@@ -3,9 +3,9 @@ title: "Section 1980b - Sanctions for imposition of conditions on U.S. fishing v
 usc_title: 22
 usc_section: "1980b"
 chapter: 25
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "22 U.S.C. § 1980b"
-generated_at: "2026-11-23T20:42:57.324Z"
+generated_at: "2026-11-23T20:47:28.984Z"
 status: "active"
 ---
 

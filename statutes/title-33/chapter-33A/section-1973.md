@@ -3,9 +3,9 @@ title: "Section 1973 - Agreement with the Marine Debris Foundation"
 usc_title: 33
 usc_section: "1973"
 chapter: 33
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "33 U.S.C. § 1973"
-generated_at: "2026-11-23T20:43:23.727Z"
+generated_at: "2026-11-23T20:47:52.277Z"
 status: "active"
 ---
 

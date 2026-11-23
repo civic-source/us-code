@@ -3,9 +3,9 @@ title: "Section 1 - Additional requirements applicable to rulemaking"
 usc_title: 42
 usc_section: "1"
 chapter: 34
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-11-23T20:44:04.358Z"
+generated_at: "2026-11-23T20:48:17.169Z"
 status: "active"
 ---
 

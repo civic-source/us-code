@@ -3,9 +3,9 @@ title: "Section 1328 - Enforcement by Treasury and Postal Service"
 usc_title: 17
 usc_section: "1328"
 chapter: 13
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "17 U.S.C. § 1328"
-generated_at: "2026-11-23T20:42:31.863Z"
+generated_at: "2026-11-23T20:47:01.804Z"
 status: "active"
 ---
 

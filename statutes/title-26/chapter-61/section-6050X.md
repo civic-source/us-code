@@ -3,9 +3,9 @@ title: "Section 6050X - Information with respect to certain fines, penalties, an
 usc_title: 26
 usc_section: "6050X"
 chapter: 61
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "26 U.S.C. § 6050X"
-generated_at: "2026-11-23T20:43:14.044Z"
+generated_at: "2026-11-23T20:47:44.377Z"
 status: "active"
 ---
 

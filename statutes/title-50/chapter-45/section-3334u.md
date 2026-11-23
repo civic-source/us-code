@@ -3,9 +3,9 @@ title: "Section 3334u - Notification of referral to Department of Justice"
 usc_title: 50
 usc_section: "3334u"
 chapter: 45
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "50 U.S.C. § 3334u"
-generated_at: "2026-11-23T20:44:14.304Z"
+generated_at: "2026-11-23T20:48:25.202Z"
 status: "active"
 ---
 

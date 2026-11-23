@@ -3,9 +3,9 @@ title: "Section 348 - Patents to be held in trust; descent and partition"
 usc_title: 25
 usc_section: "348"
 chapter: 9
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "25 U.S.C. § 348"
-generated_at: "2026-11-23T20:42:50.829Z"
+generated_at: "2026-11-23T20:47:23.828Z"
 status: "active"
 ---
 

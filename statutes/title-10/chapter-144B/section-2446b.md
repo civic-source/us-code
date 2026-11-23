@@ -3,9 +3,9 @@ title: "Section 2446b - Renumbered § 4402]"
 usc_title: 10
 usc_section: "2446b"
 chapter: 144
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 2446b"
-generated_at: "2026-11-23T20:42:10.839Z"
+generated_at: "2026-11-23T20:46:45.729Z"
 status: "renumbered"
 ---
 

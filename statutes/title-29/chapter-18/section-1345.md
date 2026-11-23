@@ -3,9 +3,9 @@ title: "Section 1345 - Recapture of payments"
 usc_title: 29
 usc_section: "1345"
 chapter: 18
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "29 U.S.C. § 1345"
-generated_at: "2026-11-23T20:43:04.430Z"
+generated_at: "2026-11-23T20:47:35.165Z"
 status: "active"
 ---
 

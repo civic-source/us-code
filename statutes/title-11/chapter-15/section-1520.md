@@ -3,9 +3,9 @@ title: "Section 1520 - Effects of recognition of a foreign main proceeding"
 usc_title: 11
 usc_section: "1520"
 chapter: 15
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "11 U.S.C. § 1520"
-generated_at: "2026-11-23T20:42:19.905Z"
+generated_at: "2026-11-23T20:46:50.111Z"
 status: "active"
 ---
 

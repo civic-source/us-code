@@ -3,9 +3,9 @@ title: "Section 40912 - Requirements to obtain waiver"
 usc_title: 34
 usc_section: "40912"
 chapter: 409
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "34 U.S.C. § 40912"
-generated_at: "2026-11-23T20:43:21.843Z"
+generated_at: "2026-11-23T20:47:48.275Z"
 status: "active"
 ---
 

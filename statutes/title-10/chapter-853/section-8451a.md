@@ -3,9 +3,9 @@ title: "Section 8451a - Superintendent"
 usc_title: 10
 usc_section: "8451a"
 chapter: 853
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "10 U.S.C. § 8451a"
-generated_at: "2026-11-23T20:42:11.606Z"
+generated_at: "2026-11-23T20:46:46.357Z"
 status: "active"
 ---
 

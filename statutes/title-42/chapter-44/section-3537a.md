@@ -3,9 +3,9 @@ title: "Section 3537a - Prohibition of advance disclosure of funding decisions"
 usc_title: 42
 usc_section: "3537a"
 chapter: 44
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "42 U.S.C. § 3537a"
-generated_at: "2026-11-23T20:44:04.483Z"
+generated_at: "2026-11-23T20:48:17.273Z"
 status: "active"
 ---
 

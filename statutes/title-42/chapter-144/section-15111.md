@@ -3,9 +3,9 @@ title: "Section 15111 - Findings"
 usc_title: 42
 usc_section: "15111"
 chapter: 144
-current_through: "PL 119-94"
+current_through: "PL 119-95"
 classification: "42 U.S.C. § 15111"
-generated_at: "2026-11-23T20:44:06.014Z"
+generated_at: "2026-11-23T20:48:18.489Z"
 status: "active"
 ---
 
