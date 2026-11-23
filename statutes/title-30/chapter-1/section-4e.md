@@ -3,9 +3,9 @@ title: "Section 4e - Omitted"
 usc_title: 30
 usc_section: "4e"
 chapter: 1
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "30 U.S.C. § 4e"
-generated_at: "2026-11-23T21:09:20.031Z"
+generated_at: "2026-11-23T21:11:04.150Z"
 status: "omitted"
 ---
 

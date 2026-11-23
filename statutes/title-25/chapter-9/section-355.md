@@ -3,9 +3,9 @@ title: "Section 355 - Laws applicable to lands of full-blooded members of Five C
 usc_title: 25
 usc_section: "355"
 chapter: 9
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "25 U.S.C. § 355"
-generated_at: "2026-11-23T21:09:16.270Z"
+generated_at: "2026-11-23T21:10:53.782Z"
 status: "active"
 ---
 

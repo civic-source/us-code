@@ -3,9 +3,9 @@ title: "Section 3109 - Tax and loss bonds"
 usc_title: 31
 usc_section: "3109"
 chapter: 31
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "31 U.S.C. § 3109"
-generated_at: "2026-11-23T21:09:27.743Z"
+generated_at: "2026-11-23T21:11:26.007Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 20351 - Requirement for background checks"
 usc_title: 34
 usc_section: "20351"
 chapter: 203
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "34 U.S.C. § 20351"
-generated_at: "2026-11-23T21:09:27.207Z"
+generated_at: "2026-11-23T21:11:24.565Z"
 status: "active"
 ---
 

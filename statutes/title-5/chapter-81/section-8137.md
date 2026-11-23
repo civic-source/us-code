@@ -3,9 +3,9 @@ title: "Section 8137 - Compensation for noncitizens and nonresidents"
 usc_title: 5
 usc_section: "8137"
 chapter: 81
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "5 U.S.C. § 8137"
-generated_at: "2026-11-23T21:08:48.539Z"
+generated_at: "2026-11-23T21:10:24.168Z"
 status: "active"
 ---
 

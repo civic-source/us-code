@@ -3,9 +3,9 @@ title: "Section 5174b - Critical document fee waiver"
 usc_title: 42
 usc_section: "5174b"
 chapter: 68
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "42 U.S.C. § 5174b"
-generated_at: "2026-11-23T21:09:43.105Z"
+generated_at: "2026-11-23T21:12:00.828Z"
 status: "active"
 ---
 

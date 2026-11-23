@@ -3,9 +3,9 @@ title: "Section 6503 - Commission for the Judiciary Office Building"
 usc_title: 40
 usc_section: "6503"
 chapter: 65
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "40 U.S.C. § 6503"
-generated_at: "2026-11-23T21:09:32.730Z"
+generated_at: "2026-11-23T21:11:31.634Z"
 status: "active"
 ---
 

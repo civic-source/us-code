@@ -3,9 +3,9 @@ title: "Section 2001a - Debt restructuring and loan servicing for community faci
 usc_title: 7
 usc_section: "2001a"
 chapter: 50
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "7 U.S.C. § 2001a"
-generated_at: "2026-11-23T21:08:53.861Z"
+generated_at: "2026-11-23T21:10:29.069Z"
 status: "active"
 ---
 

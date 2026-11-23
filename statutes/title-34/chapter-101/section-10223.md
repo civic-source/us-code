@@ -3,9 +3,9 @@ title: "Section 10223 - Finality of determinations"
 usc_title: 34
 usc_section: "10223"
 chapter: 101
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "34 U.S.C. § 10223"
-generated_at: "2026-11-23T21:09:27.110Z"
+generated_at: "2026-11-23T21:11:24.228Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4193 - Protests"
 usc_title: 22
 usc_section: "4193"
 chapter: 52
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "22 U.S.C. § 4193"
-generated_at: "2026-11-23T21:09:18.430Z"
+generated_at: "2026-11-23T21:11:01.372Z"
 status: "active"
 ---
 

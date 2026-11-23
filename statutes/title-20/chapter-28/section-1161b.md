@@ -3,9 +3,9 @@ title: "Section 1161b - Mathematics and science scholars program"
 usc_title: 20
 usc_section: "1161b"
 chapter: 28
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "20 U.S.C. § 1161b"
-generated_at: "2026-11-23T21:09:09.325Z"
+generated_at: "2026-11-23T21:10:44.609Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 494 - Supervision and control of project"
 usc_title: 50
 usc_section: "494"
 chapter: 18
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "50 U.S.C. § 494"
-generated_at: "2026-11-23T21:09:49.224Z"
+generated_at: "2026-11-23T21:12:07.629Z"
 status: "active"
 ---
 

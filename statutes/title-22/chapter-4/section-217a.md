@@ -3,9 +3,9 @@ title: "Section 217a - Validity of passport; limitation of time"
 usc_title: 22
 usc_section: "217a"
 chapter: 4
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "22 U.S.C. § 217a"
-generated_at: "2026-11-23T21:09:18.146Z"
+generated_at: "2026-11-23T21:11:00.581Z"
 status: "active"
 ---
 

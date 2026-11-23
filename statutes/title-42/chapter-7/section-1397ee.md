@@ -3,9 +3,9 @@ title: "Section 1397ee - Payments to States"
 usc_title: 42
 usc_section: "1397ee"
 chapter: 7
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "42 U.S.C. § 1397ee"
-generated_at: "2026-11-23T21:09:42.709Z"
+generated_at: "2026-11-23T21:11:59.874Z"
 status: "active"
 ---
 

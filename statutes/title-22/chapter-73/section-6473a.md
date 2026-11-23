@@ -3,9 +3,9 @@ title: "Section 6473a - Designated persons list for particularly severe violatio
 usc_title: 22
 usc_section: "6473a"
 chapter: 73
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "22 U.S.C. § 6473a"
-generated_at: "2026-11-23T21:09:18.479Z"
+generated_at: "2026-11-23T21:11:01.505Z"
 status: "active"
 ---
 

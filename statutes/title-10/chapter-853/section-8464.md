@@ -3,9 +3,9 @@ title: "Section 8464 - Hazing: definition; prohibition"
 usc_title: 10
 usc_section: "8464"
 chapter: 853
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "10 U.S.C. § 8464"
-generated_at: "2026-11-23T21:08:58.764Z"
+generated_at: "2026-11-23T21:10:34.085Z"
 status: "active"
 ---
 

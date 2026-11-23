@@ -3,9 +3,9 @@ title: "Section 3691A - Withdrawal or leave of absence from certain education"
 usc_title: 38
 usc_section: "3691A"
 chapter: 36
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "38 U.S.C. § 3691A"
-generated_at: "2026-11-23T21:09:32.087Z"
+generated_at: "2026-11-23T21:11:36.303Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1741 - Assistance for United States nationals unlawfully or wron
 usc_title: 22
 usc_section: "1741"
 chapter: 23
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "22 U.S.C. § 1741"
-generated_at: "2026-11-23T21:09:18.236Z"
+generated_at: "2026-11-23T21:11:00.876Z"
 status: "active"
 ---
 

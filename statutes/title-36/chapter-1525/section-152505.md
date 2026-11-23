@@ -3,9 +3,9 @@ title: "Section 152505 - Powers"
 usc_title: 36
 usc_section: "152505"
 chapter: 1525
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "36 U.S.C. § 152505"
-generated_at: "2026-11-23T21:09:30.975Z"
+generated_at: "2026-11-23T21:11:33.600Z"
 status: "active"
 ---
 

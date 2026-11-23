@@ -3,9 +3,9 @@ title: "Section 1739 - Mortgage insurance benefits"
 usc_title: 12
 usc_section: "1739"
 chapter: 13
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "12 U.S.C. § 1739"
-generated_at: "2026-11-23T21:09:02.199Z"
+generated_at: "2026-11-23T21:10:37.999Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2672 - Participation in international activities; restriction; e
 usc_title: 22
 usc_section: "2672"
 chapter: 38
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "22 U.S.C. § 2672"
-generated_at: "2026-11-23T21:09:18.344Z"
+generated_at: "2026-11-23T21:11:01.152Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 19084 - Advanced computing"
 usc_title: 42
 usc_section: "19084"
 chapter: 163
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "42 U.S.C. § 19084"
-generated_at: "2026-11-23T21:09:43.816Z"
+generated_at: "2026-11-23T21:12:02.247Z"
 status: "active"
 ---
 

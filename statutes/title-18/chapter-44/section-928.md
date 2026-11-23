@@ -3,9 +3,9 @@ title: "Section 928 - Separability"
 usc_title: 18
 usc_section: "928"
 chapter: 44
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "18 U.S.C. § 928"
-generated_at: "2026-11-23T21:09:06.545Z"
+generated_at: "2026-11-23T21:10:45.480Z"
 status: "active"
 ---
 

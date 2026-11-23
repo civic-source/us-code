@@ -3,9 +3,9 @@ title: "Section 6624 - Federal scientific collections"
 usc_title: 42
 usc_section: "6624"
 chapter: 79
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "42 U.S.C. § 6624"
-generated_at: "2026-11-23T21:09:43.200Z"
+generated_at: "2026-11-23T21:12:01.033Z"
 status: "active"
 ---
 

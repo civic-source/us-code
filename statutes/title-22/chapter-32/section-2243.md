@@ -3,9 +3,9 @@ title: "Section 2243 - Repealed. Pub. L. 92–226 , pt. II, § 202(b), Feb. 7, 1
 usc_title: 22
 usc_section: "2243"
 chapter: 32
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "22 U.S.C. § 2243"
-generated_at: "2026-11-23T21:09:18.277Z"
+generated_at: "2026-11-23T21:11:00.975Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 10 - Repealed. Pub. L. 86–682, § 12(a) , Sept. 2, 1960 , 74 S
 usc_title: 13
 usc_section: "10"
 chapter: 1
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "13 U.S.C. § 10"
-generated_at: "2026-11-23T21:09:00.064Z"
+generated_at: "2026-11-23T21:10:35.487Z"
 status: "repealed"
 ---
 

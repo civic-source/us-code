@@ -3,9 +3,9 @@ title: "Section 289g - Fetal research"
 usc_title: 42
 usc_section: "289g"
 chapter: 6
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "42 U.S.C. § 289g"
-generated_at: "2026-11-23T21:09:41.985Z"
+generated_at: "2026-11-23T21:11:58.300Z"
 status: "active"
 ---
 

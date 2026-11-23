@@ -3,9 +3,9 @@ title: "Section 3031 - Pay and allowances; date of acceptance of promotion"
 usc_title: 33
 usc_section: "3031"
 chapter: 43
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "33 U.S.C. § 3031"
-generated_at: "2026-11-23T21:09:28.644Z"
+generated_at: "2026-11-23T21:11:28.975Z"
 status: "active"
 ---
 

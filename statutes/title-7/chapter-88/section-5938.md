@@ -3,9 +3,9 @@ title: "Section 5938 - Repealed. Pub. L. 113–79, title VII, § 7518 , Feb. 7, 
 usc_title: 7
 usc_section: "5938"
 chapter: 88
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "7 U.S.C. § 5938"
-generated_at: "2026-11-23T21:08:54.010Z"
+generated_at: "2026-11-23T21:10:29.265Z"
 status: "repealed"
 ---
 

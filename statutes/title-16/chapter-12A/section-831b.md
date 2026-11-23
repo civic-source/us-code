@@ -3,9 +3,9 @@ title: "Section 831b - Officers and employees; wages of laborers and mechanics; 
 usc_title: 16
 usc_section: "831b"
 chapter: 12
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "16 U.S.C. § 831b"
-generated_at: "2026-11-23T21:09:12.155Z"
+generated_at: "2026-11-23T21:10:48.683Z"
 status: "active"
 ---
 

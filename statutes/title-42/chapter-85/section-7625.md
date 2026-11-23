@@ -3,9 +3,9 @@ title: "Section 7625 - Vapor recovery for small business marketers of petroleum 
 usc_title: 42
 usc_section: "7625"
 chapter: 85
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "42 U.S.C. § 7625"
-generated_at: "2026-11-23T21:09:43.330Z"
+generated_at: "2026-11-23T21:12:01.281Z"
 status: "active"
 ---
 

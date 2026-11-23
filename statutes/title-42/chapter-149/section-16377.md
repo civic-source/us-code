@@ -3,9 +3,9 @@ title: "Section 16377 - Regulations"
 usc_title: 42
 usc_section: "16377"
 chapter: 149
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "42 U.S.C. § 16377"
-generated_at: "2026-11-23T21:09:43.716Z"
+generated_at: "2026-11-23T21:12:02.009Z"
 status: "active"
 ---
 

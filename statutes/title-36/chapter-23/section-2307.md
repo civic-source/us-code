@@ -3,9 +3,9 @@ title: "Section 2307 - Gifts, bequests, and devises of property; tax treatment"
 usc_title: 36
 usc_section: "2307"
 chapter: 23
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "36 U.S.C. § 2307"
-generated_at: "2026-11-23T21:09:30.899Z"
+generated_at: "2026-11-23T21:11:33.386Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5532 - Advance payments"
 usc_title: 2
 usc_section: "5532"
 chapter: 55
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "2 U.S.C. § 5532"
-generated_at: "2026-11-23T21:08:46.743Z"
+generated_at: "2026-11-23T21:10:22.561Z"
 status: "active"
 ---
 

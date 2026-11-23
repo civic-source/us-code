@@ -3,9 +3,9 @@ title: "Section 654 - Duties of employers and employees"
 usc_title: 29
 usc_section: "654"
 chapter: 15
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "29 U.S.C. § 654"
-generated_at: "2026-11-23T21:09:21.543Z"
+generated_at: "2026-11-23T21:11:07.804Z"
 status: "active"
 ---
 

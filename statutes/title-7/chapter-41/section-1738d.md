@@ -3,9 +3,9 @@ title: "Section 1738d - Repayment of principal"
 usc_title: 7
 usc_section: "1738d"
 chapter: 41
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "7 U.S.C. § 1738d"
-generated_at: "2026-11-23T21:08:53.830Z"
+generated_at: "2026-11-23T21:10:29.040Z"
 status: "active"
 ---
 

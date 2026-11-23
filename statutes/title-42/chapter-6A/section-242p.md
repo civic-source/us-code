@@ -3,9 +3,9 @@ title: "Section 242p - National disease prevention data profile"
 usc_title: 42
 usc_section: "242p"
 chapter: 6
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "42 U.S.C. § 242p"
-generated_at: "2026-11-23T21:09:41.860Z"
+generated_at: "2026-11-23T21:11:57.971Z"
 status: "active"
 ---
 

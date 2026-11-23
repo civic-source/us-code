@@ -3,9 +3,9 @@ title: "Section 1842 - Acquisition of bank shares or assets"
 usc_title: 12
 usc_section: "1842"
 chapter: 17
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "12 U.S.C. § 1842"
-generated_at: "2026-11-23T21:09:02.284Z"
+generated_at: "2026-11-23T21:10:38.073Z"
 status: "active"
 ---
 

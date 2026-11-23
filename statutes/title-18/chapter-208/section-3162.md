@@ -3,9 +3,9 @@ title: "Section 3162 - Sanctions"
 usc_title: 18
 usc_section: "3162"
 chapter: 208
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "18 U.S.C. § 3162"
-generated_at: "2026-11-23T21:09:06.662Z"
+generated_at: "2026-11-23T21:10:45.596Z"
 status: "active"
 ---
 

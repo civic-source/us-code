@@ -3,9 +3,9 @@ title: "Section 420 - Piers and cribs on Mississippi and St. Croix Rivers"
 usc_title: 33
 usc_section: "420"
 chapter: 9
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "33 U.S.C. § 420"
-generated_at: "2026-11-23T21:09:28.490Z"
+generated_at: "2026-11-23T21:11:28.565Z"
 status: "active"
 ---
 

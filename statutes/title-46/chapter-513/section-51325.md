@@ -3,9 +3,9 @@ title: "Section 51325 - Sexual assault and sexual harassment prevention informat
 usc_title: 46
 usc_section: "51325"
 chapter: 513
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "46 U.S.C. § 51325"
-generated_at: "2026-11-23T21:09:47.432Z"
+generated_at: "2026-11-23T21:12:09.583Z"
 status: "active"
 ---
 

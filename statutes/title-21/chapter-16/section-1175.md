@@ -3,9 +3,9 @@ title: "Section 1175 - Transferred"
 usc_title: 21
 usc_section: "1175"
 chapter: 16
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "21 U.S.C. § 1175"
-generated_at: "2026-11-23T21:09:15.643Z"
+generated_at: "2026-11-23T21:10:56.028Z"
 status: "transferred"
 ---
 

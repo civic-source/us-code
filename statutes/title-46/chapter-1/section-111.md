@@ -3,9 +3,9 @@ title: "Section 111 - Numbered vessel"
 usc_title: 46
 usc_section: "111"
 chapter: 1
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "46 U.S.C. § 111"
-generated_at: "2026-11-23T21:09:47.290Z"
+generated_at: "2026-11-23T21:12:09.165Z"
 status: "active"
 ---
 

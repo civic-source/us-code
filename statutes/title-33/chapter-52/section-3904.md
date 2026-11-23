@@ -3,9 +3,9 @@ title: "Section 3904 - Eligible entities"
 usc_title: 33
 usc_section: "3904"
 chapter: 52
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "33 U.S.C. § 3904"
-generated_at: "2026-11-23T21:09:28.658Z"
+generated_at: "2026-11-23T21:11:29.010Z"
 status: "active"
 ---
 

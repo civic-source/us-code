@@ -3,9 +3,9 @@ title: "Section 1522 - Conduct of chemical and biological defense program"
 usc_title: 50
 usc_section: "1522"
 chapter: 32
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "50 U.S.C. § 1522"
-generated_at: "2026-11-23T21:09:49.236Z"
+generated_at: "2026-11-23T21:12:07.645Z"
 status: "active"
 ---
 

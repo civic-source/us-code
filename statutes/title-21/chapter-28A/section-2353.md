@@ -3,9 +3,9 @@ title: "Section 2353 - Imposition of sanctions with respect to fentanyl traffick
 usc_title: 21
 usc_section: "2353"
 chapter: 28
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "21 U.S.C. § 2353"
-generated_at: "2026-11-23T21:09:15.666Z"
+generated_at: "2026-11-23T21:10:56.072Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 368 - Operation of bathhouse in connection with hotel"
 usc_title: 16
 usc_section: "368"
 chapter: 1
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "16 U.S.C. § 368"
-generated_at: "2026-11-23T21:09:11.753Z"
+generated_at: "2026-11-23T21:10:48.054Z"
 status: "active"
 ---
 

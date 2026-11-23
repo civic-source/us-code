@@ -3,9 +3,9 @@ title: "Section 40721 - Responsibility of corporation"
 usc_title: 36
 usc_section: "40721"
 chapter: 407
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "36 U.S.C. § 40721"
-generated_at: "2026-11-23T21:09:30.933Z"
+generated_at: "2026-11-23T21:11:33.480Z"
 status: "active"
 ---
 

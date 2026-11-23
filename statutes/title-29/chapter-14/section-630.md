@@ -3,9 +3,9 @@ title: "Section 630 - Definitions"
 usc_title: 29
 usc_section: "630"
 chapter: 14
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "29 U.S.C. § 630"
-generated_at: "2026-11-23T21:09:21.542Z"
+generated_at: "2026-11-23T21:11:07.781Z"
 status: "active"
 ---
 

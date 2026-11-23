@@ -3,9 +3,9 @@ title: "Section 5891 - Sex discrimination prohibited"
 usc_title: 42
 usc_section: "5891"
 chapter: 73
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "42 U.S.C. § 5891"
-generated_at: "2026-11-23T21:09:43.144Z"
+generated_at: "2026-11-23T21:12:00.909Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 122 - Repealed. Pub. L. 95–391, title I, § 111 , Sept. 30, 19
 usc_title: 2
 usc_section: "122"
 chapter: 4
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "2 U.S.C. § 122"
-generated_at: "2026-11-23T21:08:46.508Z"
+generated_at: "2026-11-23T21:10:22.443Z"
 status: "repealed"
 ---
 

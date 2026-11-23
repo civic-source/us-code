@@ -3,9 +3,9 @@ title: "Section 5323 - Purposes"
 usc_title: 22
 usc_section: "5323"
 chapter: 62
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "22 U.S.C. § 5323"
-generated_at: "2026-11-23T21:09:18.448Z"
+generated_at: "2026-11-23T21:11:01.422Z"
 status: "active"
 ---
 

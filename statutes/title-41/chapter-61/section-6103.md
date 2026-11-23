@@ -3,9 +3,9 @@ title: "Section 6103 - Opening of bids"
 usc_title: 41
 usc_section: "6103"
 chapter: 61
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "41 U.S.C. § 6103"
-generated_at: "2026-11-23T21:09:34.072Z"
+generated_at: "2026-11-23T21:11:38.941Z"
 status: "active"
 ---
 

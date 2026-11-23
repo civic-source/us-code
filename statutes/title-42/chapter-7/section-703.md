@@ -3,9 +3,9 @@ title: "Section 703 - Payments to States"
 usc_title: 42
 usc_section: "703"
 chapter: 7
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "42 U.S.C. § 703"
-generated_at: "2026-11-23T21:09:42.297Z"
+generated_at: "2026-11-23T21:11:59.046Z"
 status: "active"
 ---
 

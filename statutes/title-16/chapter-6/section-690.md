@@ -3,9 +3,9 @@ title: "Section 690 - Bear River Migratory Bird Refuge; establishment; acquisiti
 usc_title: 16
 usc_section: "690"
 chapter: 6
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "16 U.S.C. § 690"
-generated_at: "2026-11-23T21:09:12.076Z"
+generated_at: "2026-11-23T21:10:48.581Z"
 status: "active"
 ---
 

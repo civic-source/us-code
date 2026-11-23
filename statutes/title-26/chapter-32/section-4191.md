@@ -3,9 +3,9 @@ title: "Section 4191 - Repealed. Pub. L. 116–94, div. N, title I, § 501(a) , 
 usc_title: 26
 usc_section: "4191"
 chapter: 32
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "26 U.S.C. § 4191"
-generated_at: "2026-11-23T21:09:24.985Z"
+generated_at: "2026-11-23T21:11:20.326Z"
 status: "repealed"
 ---
 

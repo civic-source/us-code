@@ -3,9 +3,9 @@ title: "Section 6864 - Termination of extended period for payment in case of car
 usc_title: 26
 usc_section: "6864"
 chapter: 70
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "26 U.S.C. § 6864"
-generated_at: "2026-11-23T21:09:25.152Z"
+generated_at: "2026-11-23T21:11:20.757Z"
 status: "active"
 ---
 

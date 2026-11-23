@@ -3,9 +3,9 @@ title: "Section 2414 - Student assistance and other Federal programs"
 usc_title: 20
 usc_section: "2414"
 chapter: 44
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "20 U.S.C. § 2414"
-generated_at: "2026-11-23T21:09:09.382Z"
+generated_at: "2026-11-23T21:10:44.685Z"
 status: "active"
 ---
 

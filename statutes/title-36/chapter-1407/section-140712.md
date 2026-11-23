@@ -3,9 +3,9 @@ title: "Section 140712 - Annual report"
 usc_title: 36
 usc_section: "140712"
 chapter: 1407
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "36 U.S.C. § 140712"
-generated_at: "2026-11-23T21:09:30.958Z"
+generated_at: "2026-11-23T21:11:33.547Z"
 status: "active"
 ---
 

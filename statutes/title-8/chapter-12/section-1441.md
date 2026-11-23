@@ -3,9 +3,9 @@ title: "Section 1441 - Constructive residence through service on certain United 
 usc_title: 8
 usc_section: "1441"
 chapter: 12
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "8 U.S.C. § 1441"
-generated_at: "2026-11-23T21:08:51.420Z"
+generated_at: "2026-11-23T21:10:26.767Z"
 status: "active"
 ---
 

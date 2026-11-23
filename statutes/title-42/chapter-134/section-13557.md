@@ -3,9 +3,9 @@ title: "Section 13557 - Sense of Congress on risk assessments"
 usc_title: 42
 usc_section: "13557"
 chapter: 134
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "42 U.S.C. § 13557"
-generated_at: "2026-11-23T21:09:43.611Z"
+generated_at: "2026-11-23T21:12:01.829Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 205 - Removal of cases from State courts"
 usc_title: 9
 usc_section: "205"
 chapter: 2
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "9 U.S.C. § 205"
-generated_at: "2026-11-23T21:08:49.765Z"
+generated_at: "2026-11-23T21:10:25.389Z"
 status: "active"
 ---
 

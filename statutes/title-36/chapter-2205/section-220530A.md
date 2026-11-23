@@ -3,9 +3,9 @@ title: "Section 220530A - Annual report on equal treatment of athletes"
 usc_title: 36
 usc_section: "220530A"
 chapter: 2205
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "36 U.S.C. § 220530A"
-generated_at: "2026-11-23T21:09:31.001Z"
+generated_at: "2026-11-23T21:11:33.679Z"
 status: "active"
 ---
 

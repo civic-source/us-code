@@ -3,9 +3,9 @@ title: "Section 1924 - Unauthorized removal and retention of classified document
 usc_title: 18
 usc_section: "1924"
 chapter: 93
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "18 U.S.C. § 1924"
-generated_at: "2026-11-23T21:09:06.602Z"
+generated_at: "2026-11-23T21:10:45.535Z"
 status: "active"
 ---
 

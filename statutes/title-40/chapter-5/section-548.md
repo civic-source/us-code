@@ -3,9 +3,9 @@ title: "Section 548 - Surplus vessels"
 usc_title: 40
 usc_section: "548"
 chapter: 5
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "40 U.S.C. § 548"
-generated_at: "2026-11-23T21:09:32.689Z"
+generated_at: "2026-11-23T21:11:31.550Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2001 - Congressional statement of findings"
 usc_title: 20
 usc_section: "2001"
 chapter: 42
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "20 U.S.C. § 2001"
-generated_at: "2026-11-23T21:09:09.368Z"
+generated_at: "2026-11-23T21:10:44.673Z"
 status: "active"
 ---
 

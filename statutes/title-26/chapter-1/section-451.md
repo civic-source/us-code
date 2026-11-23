@@ -3,9 +3,9 @@ title: "Section 451 - General rule for taxable year of inclusion"
 usc_title: 26
 usc_section: "451"
 chapter: 1
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "26 U.S.C. § 451"
-generated_at: "2026-11-23T21:09:24.757Z"
+generated_at: "2026-11-23T21:11:19.231Z"
 status: "active"
 ---
 

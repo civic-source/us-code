@@ -3,9 +3,9 @@ title: "Section 51 - Omitted"
 usc_title: 43
 usc_section: "51"
 chapter: 3
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "43 U.S.C. § 51"
-generated_at: "2026-11-23T21:09:35.465Z"
+generated_at: "2026-11-23T21:11:41.091Z"
 status: "omitted"
 ---
 

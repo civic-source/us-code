@@ -3,9 +3,9 @@ title: "Section 7141 - Definitions"
 usc_title: 16
 usc_section: "7141"
 chapter: 90
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "16 U.S.C. § 7141"
-generated_at: "2026-11-23T21:09:12.468Z"
+generated_at: "2026-11-23T21:10:49.257Z"
 status: "active"
 ---
 

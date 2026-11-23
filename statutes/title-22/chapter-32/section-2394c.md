@@ -3,9 +3,9 @@ title: "Section 2394c - Information on covered United States foreign assistance 
 usc_title: 22
 usc_section: "2394c"
 chapter: 32
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "22 U.S.C. § 2394c"
-generated_at: "2026-11-23T21:09:18.309Z"
+generated_at: "2026-11-23T21:11:01.057Z"
 status: "active"
 ---
 

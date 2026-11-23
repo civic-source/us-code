@@ -3,9 +3,9 @@ title: "Section 20101 - Purpose"
 usc_title: 49
 usc_section: "20101"
 chapter: 201
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "49 U.S.C. § 20101"
-generated_at: "2026-11-23T21:09:51.862Z"
+generated_at: "2026-11-23T21:12:13.267Z"
 status: "active"
 ---
 

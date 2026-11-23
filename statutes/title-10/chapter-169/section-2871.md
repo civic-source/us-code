@@ -3,9 +3,9 @@ title: "Section 2871 - Definitions"
 usc_title: 10
 usc_section: "2871"
 chapter: 169
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "10 U.S.C. § 2871"
-generated_at: "2026-11-23T21:08:58.569Z"
+generated_at: "2026-11-23T21:10:33.877Z"
 status: "active"
 ---
 

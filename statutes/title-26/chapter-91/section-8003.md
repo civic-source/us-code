@@ -3,9 +3,9 @@ title: "Section 8003 - Election of chairman and vice chairman"
 usc_title: 26
 usc_section: "8003"
 chapter: 91
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "26 U.S.C. § 8003"
-generated_at: "2026-11-23T21:09:25.202Z"
+generated_at: "2026-11-23T21:11:20.886Z"
 status: "active"
 ---
 

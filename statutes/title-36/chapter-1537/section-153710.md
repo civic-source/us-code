@@ -3,9 +3,9 @@ title: "Section 153710 - Service of process"
 usc_title: 36
 usc_section: "153710"
 chapter: 1537
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "36 U.S.C. § 153710"
-generated_at: "2026-11-23T21:09:30.981Z"
+generated_at: "2026-11-23T21:11:33.620Z"
 status: "active"
 ---
 

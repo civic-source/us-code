@@ -3,9 +3,9 @@ title: "Section 620 - Relay services for deaf-blind individuals"
 usc_title: 47
 usc_section: "620"
 chapter: 5
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "47 U.S.C. § 620"
-generated_at: "2026-11-23T21:09:48.081Z"
+generated_at: "2026-11-23T21:12:05.791Z"
 status: "active"
 ---
 

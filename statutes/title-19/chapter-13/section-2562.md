@@ -3,9 +3,9 @@ title: "Section 2562 - Consideration of standards-related activities by an inter
 usc_title: 19
 usc_section: "2562"
 chapter: 13
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "19 U.S.C. § 2562"
-generated_at: "2026-11-23T21:09:07.854Z"
+generated_at: "2026-11-23T21:10:43.062Z"
 status: "active"
 ---
 

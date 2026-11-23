@@ -3,9 +3,9 @@ title: "Section 2262 - Survey of potential for use of certain facilities as hydr
 usc_title: 33
 usc_section: "2262"
 chapter: 36
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "33 U.S.C. § 2262"
-generated_at: "2026-11-23T21:09:28.610Z"
+generated_at: "2026-11-23T21:11:28.883Z"
 status: "active"
 ---
 

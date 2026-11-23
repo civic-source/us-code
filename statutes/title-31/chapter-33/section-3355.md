@@ -3,9 +3,9 @@ title: "Section 3355 - Improving recovery of improper payments"
 usc_title: 31
 usc_section: "3355"
 chapter: 33
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "31 U.S.C. § 3355"
-generated_at: "2026-11-23T21:09:27.753Z"
+generated_at: "2026-11-23T21:11:26.032Z"
 status: "active"
 ---
 

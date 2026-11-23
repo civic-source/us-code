@@ -3,9 +3,9 @@ title: "Section 2264 - Repealed. Pub. L. 116–260, div. AA, title III, § 360(a
 usc_title: 33
 usc_section: "2264"
 chapter: 36
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "33 U.S.C. § 2264"
-generated_at: "2026-11-23T21:09:28.610Z"
+generated_at: "2026-11-23T21:11:28.884Z"
 status: "repealed"
 ---
 

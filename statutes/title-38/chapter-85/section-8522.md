@@ -3,9 +3,9 @@ title: "Section 8522 - Sale of assets accruing to the Fund"
 usc_title: 38
 usc_section: "8522"
 chapter: 85
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "38 U.S.C. § 8522"
-generated_at: "2026-11-23T21:09:32.200Z"
+generated_at: "2026-11-23T21:11:36.537Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 218 - Repealed. June 25, 1948, ch. 645, § 21 , 62 Stat. 862"
 usc_title: 25
 usc_section: "218"
 chapter: 6
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "25 U.S.C. § 218"
-generated_at: "2026-11-23T21:09:16.261Z"
+generated_at: "2026-11-23T21:10:53.761Z"
 status: "repealed"
 ---
 

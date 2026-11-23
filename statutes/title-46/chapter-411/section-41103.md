@@ -3,9 +3,9 @@ title: "Section 41103 - Disclosure of information"
 usc_title: 46
 usc_section: "41103"
 chapter: 411
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "46 U.S.C. § 41103"
-generated_at: "2026-11-23T21:09:47.391Z"
+generated_at: "2026-11-23T21:12:09.500Z"
 status: "active"
 ---
 

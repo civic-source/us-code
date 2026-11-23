@@ -3,9 +3,9 @@ title: "Section 7651 - Findings"
 usc_title: 22
 usc_section: "7651"
 chapter: 83
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "22 U.S.C. § 7651"
-generated_at: "2026-11-23T21:09:18.511Z"
+generated_at: "2026-11-23T21:11:01.583Z"
 status: "active"
 ---
 

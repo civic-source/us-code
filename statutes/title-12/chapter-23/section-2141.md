@@ -3,9 +3,9 @@ title: "Section 2141 - Charter, powers, and operation"
 usc_title: 12
 usc_section: "2141"
 chapter: 23
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "12 U.S.C. § 2141"
-generated_at: "2026-11-23T21:09:02.303Z"
+generated_at: "2026-11-23T21:10:38.089Z"
 status: "active"
 ---
 

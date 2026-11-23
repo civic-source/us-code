@@ -3,9 +3,9 @@ title: "Section 13 - Original papers on file as evidence"
 usc_title: 43
 usc_section: "13"
 chapter: 1
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "43 U.S.C. § 13"
-generated_at: "2026-11-23T21:09:35.452Z"
+generated_at: "2026-11-23T21:11:41.028Z"
 status: "active"
 ---
 

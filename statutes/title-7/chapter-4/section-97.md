@@ -3,9 +3,9 @@ title: "Section 97 - Purchase and analysis by Secretary of samples of spirits of
 usc_title: 7
 usc_section: "97"
 chapter: 4
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "7 U.S.C. § 97"
-generated_at: "2026-11-23T21:08:53.632Z"
+generated_at: "2026-11-23T21:10:28.851Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2802 - Definitions"
 usc_title: 12
 usc_section: "2802"
 chapter: 29
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "12 U.S.C. § 2802"
-generated_at: "2026-11-23T21:09:02.338Z"
+generated_at: "2026-11-23T21:10:38.118Z"
 status: "active"
 ---
 

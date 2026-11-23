@@ -3,9 +3,9 @@ title: "Section 122 - Use of land and water conservation fund"
 usc_title: 16
 usc_section: "122"
 chapter: 1
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "16 U.S.C. § 122"
-generated_at: "2026-11-23T21:09:11.964Z"
+generated_at: "2026-11-23T21:10:48.402Z"
 status: "active"
 ---
 

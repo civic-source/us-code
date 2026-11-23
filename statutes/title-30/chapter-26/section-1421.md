@@ -3,9 +3,9 @@ title: "Section 1421 - Prevention of interference with other uses of the high se
 usc_title: 30
 usc_section: "1421"
 chapter: 26
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "30 U.S.C. § 1421"
-generated_at: "2026-11-23T21:09:20.101Z"
+generated_at: "2026-11-23T21:11:04.390Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9286 - Korea Defense Service Medal"
 usc_title: 10
 usc_section: "9286"
 chapter: 937
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "10 U.S.C. § 9286"
-generated_at: "2026-11-23T21:08:58.816Z"
+generated_at: "2026-11-23T21:10:34.144Z"
 status: "active"
 ---
 

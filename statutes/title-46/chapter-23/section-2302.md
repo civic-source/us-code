@@ -3,9 +3,9 @@ title: "Section 2302 - Penalties for negligent operations and interfering with s
 usc_title: 46
 usc_section: "2302"
 chapter: 23
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "46 U.S.C. § 2302"
-generated_at: "2026-11-23T21:09:47.296Z"
+generated_at: "2026-11-23T21:12:09.178Z"
 status: "active"
 ---
 

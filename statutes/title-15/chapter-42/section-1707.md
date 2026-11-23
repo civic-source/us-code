@@ -3,9 +3,9 @@ title: "Section 1707 - Property report"
 usc_title: 15
 usc_section: "1707"
 chapter: 42
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "15 U.S.C. § 1707"
-generated_at: "2026-11-23T21:09:04.227Z"
+generated_at: "2026-11-23T21:10:40.293Z"
 status: "active"
 ---
 

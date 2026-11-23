@@ -3,9 +3,9 @@ title: "Section 8138 - Minimum limit modification for noncitizens and aliens"
 usc_title: 5
 usc_section: "8138"
 chapter: 81
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "5 U.S.C. § 8138"
-generated_at: "2026-11-23T21:08:48.540Z"
+generated_at: "2026-11-23T21:10:24.172Z"
 status: "active"
 ---
 

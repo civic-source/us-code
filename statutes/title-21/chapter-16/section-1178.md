@@ -3,9 +3,9 @@ title: "Section 1178 - Records and audit"
 usc_title: 21
 usc_section: "1178"
 chapter: 16
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "21 U.S.C. § 1178"
-generated_at: "2026-11-23T21:09:15.643Z"
+generated_at: "2026-11-23T21:10:56.029Z"
 status: "active"
 ---
 

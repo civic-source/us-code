@@ -3,9 +3,9 @@ title: "Section 1665b - Advertising of open end consumer credit plans secured by
 usc_title: 15
 usc_section: "1665b"
 chapter: 41
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "15 U.S.C. § 1665b"
-generated_at: "2026-11-23T21:09:04.198Z"
+generated_at: "2026-11-23T21:10:40.260Z"
 status: "active"
 ---
 

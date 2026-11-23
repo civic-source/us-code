@@ -3,9 +3,9 @@ title: "Section 8724 - Protection of oil reserves; contracts for conservation"
 usc_title: 10
 usc_section: "8724"
 chapter: 869
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "10 U.S.C. § 8724"
-generated_at: "2026-11-23T21:08:58.783Z"
+generated_at: "2026-11-23T21:10:34.108Z"
 status: "active"
 ---
 

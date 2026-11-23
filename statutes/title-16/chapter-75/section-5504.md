@@ -3,9 +3,9 @@ title: "Section 5504 - Responsibilities of Secretary"
 usc_title: 16
 usc_section: "5504"
 chapter: 75
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "16 U.S.C. § 5504"
-generated_at: "2026-11-23T21:09:12.427Z"
+generated_at: "2026-11-23T21:10:49.181Z"
 status: "active"
 ---
 

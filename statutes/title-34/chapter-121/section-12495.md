@@ -3,9 +3,9 @@ title: "Section 12495 - Right to report crime and emergencies from one’s home"
 usc_title: 34
 usc_section: "12495"
 chapter: 121
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "34 U.S.C. § 12495"
-generated_at: "2026-11-23T21:09:27.181Z"
+generated_at: "2026-11-23T21:11:24.518Z"
 status: "active"
 ---
 

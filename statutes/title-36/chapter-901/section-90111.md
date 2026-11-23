@@ -3,9 +3,9 @@ title: "Section 90111 - Authorization of appropriations"
 usc_title: 36
 usc_section: "90111"
 chapter: 901
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "36 U.S.C. § 90111"
-generated_at: "2026-11-23T21:09:30.948Z"
+generated_at: "2026-11-23T21:11:33.518Z"
 status: "active"
 ---
 

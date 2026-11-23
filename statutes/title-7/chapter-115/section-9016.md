@@ -3,9 +3,9 @@ title: "Section 9016 - Price loss coverage"
 usc_title: 7
 usc_section: "9016"
 chapter: 115
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "7 U.S.C. § 9016"
-generated_at: "2026-11-23T21:08:54.113Z"
+generated_at: "2026-11-23T21:10:29.398Z"
 status: "active"
 ---
 

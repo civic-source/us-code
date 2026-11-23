@@ -3,9 +3,9 @@ title: "Section 2101 - Short title"
 usc_title: 19
 usc_section: "2101"
 chapter: 12
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "19 U.S.C. § 2101"
-generated_at: "2026-11-23T21:09:07.807Z"
+generated_at: "2026-11-23T21:10:43.013Z"
 status: "active"
 ---
 

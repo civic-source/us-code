@@ -3,9 +3,9 @@ title: "Section 6123 - Acceleration of depleted uranium manufacturing processes"
 usc_title: 10
 usc_section: "6123"
 chapter: 602
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "10 U.S.C. § 6123"
-generated_at: "2026-11-23T21:08:58.671Z"
+generated_at: "2026-11-23T21:10:33.982Z"
 status: "active"
 ---
 

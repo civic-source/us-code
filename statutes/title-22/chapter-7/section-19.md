@@ -3,9 +3,9 @@ title: "Section 19 - Multilateral Debt Relief Initiative"
 usc_title: 22
 usc_section: "19"
 chapter: 7
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "22 U.S.C. § 19"
-generated_at: "2026-11-23T21:09:18.200Z"
+generated_at: "2026-11-23T21:11:00.780Z"
 status: "active"
 ---
 

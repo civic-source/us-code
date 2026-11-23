@@ -3,9 +3,9 @@ title: "Section 3408 - Job creation activities authorized"
 usc_title: 25
 usc_section: "3408"
 chapter: 36
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "25 U.S.C. § 3408"
-generated_at: "2026-11-23T21:09:16.396Z"
+generated_at: "2026-11-23T21:10:54.046Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3703 - Rate of payment for advertisements, notices, and proposal
 usc_title: 44
 usc_section: "3703"
 chapter: 37
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "44 U.S.C. § 3703"
-generated_at: "2026-11-23T21:09:44.030Z"
+generated_at: "2026-11-23T21:11:38.438Z"
 status: "active"
 ---
 

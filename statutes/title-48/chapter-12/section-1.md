@@ -3,9 +3,9 @@ title: "Section 1 - Applicability of laws referred to in section 502(a)(1) of Co
 usc_title: 48
 usc_section: "1"
 chapter: 12
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "48 U.S.C. § 1"
-generated_at: "2026-11-23T21:09:46.412Z"
+generated_at: "2026-11-23T21:12:04.571Z"
 status: "active"
 ---
 

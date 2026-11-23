@@ -3,9 +3,9 @@ title: "Section 50e - Appropriations for benefit of natives; purchase of supplie
 usc_title: 48
 usc_section: "50e"
 chapter: 2
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "48 U.S.C. § 50e"
-generated_at: "2026-11-23T21:09:46.364Z"
+generated_at: "2026-11-23T21:12:04.514Z"
 status: "active"
 ---
 

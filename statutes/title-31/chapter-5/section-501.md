@@ -3,9 +3,9 @@ title: "Section 501 - Office of Management and Budget"
 usc_title: 31
 usc_section: "501"
 chapter: 5
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "31 U.S.C. § 501"
-generated_at: "2026-11-23T21:09:27.706Z"
+generated_at: "2026-11-23T21:11:25.898Z"
 status: "active"
 ---
 
@@ -40,6 +40,14 @@ Mar. 2, 1974
 Pub. L. 93–250, § 1
 
 88 Stat. 11
+
+Definitions
+
+Requirements.—
+
+Submission
+
+Report
 
 Appropriate congressional committees
 

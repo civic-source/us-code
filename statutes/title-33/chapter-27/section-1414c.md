@@ -3,9 +3,9 @@ title: "Section 1414c - Prohibition on disposal of sewage sludge at landfills on
 usc_title: 33
 usc_section: "1414c"
 chapter: 27
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "33 U.S.C. § 1414c"
-generated_at: "2026-11-23T21:09:28.586Z"
+generated_at: "2026-11-23T21:11:28.813Z"
 status: "active"
 ---
 

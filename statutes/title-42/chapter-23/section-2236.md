@@ -3,9 +3,9 @@ title: "Section 2236 - Revocation of licenses"
 usc_title: 42
 usc_section: "2236"
 chapter: 23
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "42 U.S.C. § 2236"
-generated_at: "2026-11-23T21:09:42.914Z"
+generated_at: "2026-11-23T21:12:00.350Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 210308 - Restrictions"
 usc_title: 36
 usc_section: "210308"
 chapter: 2103
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "36 U.S.C. § 210308"
-generated_at: "2026-11-23T21:09:30.993Z"
+generated_at: "2026-11-23T21:11:33.657Z"
 status: "active"
 ---
 

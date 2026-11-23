@@ -3,9 +3,9 @@ title: "Section 6659 - Improper claim for Trump account contribution pilot progr
 usc_title: 26
 usc_section: "6659"
 chapter: 68
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "26 U.S.C. § 6659"
-generated_at: "2026-11-23T21:09:25.139Z"
+generated_at: "2026-11-23T21:11:20.721Z"
 status: "active"
 ---
 

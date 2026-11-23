@@ -3,9 +3,9 @@ title: "Section 3372 - General provisions"
 usc_title: 5
 usc_section: "3372"
 chapter: 33
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "5 U.S.C. § 3372"
-generated_at: "2026-11-23T21:08:48.380Z"
+generated_at: "2026-11-23T21:10:24.034Z"
 status: "active"
 ---
 

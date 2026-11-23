@@ -3,9 +3,9 @@ title: "Section 8131 - Subrogation of the United States"
 usc_title: 5
 usc_section: "8131"
 chapter: 81
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "5 U.S.C. § 8131"
-generated_at: "2026-11-23T21:08:48.538Z"
+generated_at: "2026-11-23T21:10:24.167Z"
 status: "active"
 ---
 

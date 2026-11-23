@@ -3,9 +3,9 @@ title: "Section 2195 - Department of Defense cooperative education programs"
 usc_title: 10
 usc_section: "2195"
 chapter: 111
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "10 U.S.C. § 2195"
-generated_at: "2026-11-23T21:08:58.466Z"
+generated_at: "2026-11-23T21:10:33.734Z"
 status: "active"
 ---
 

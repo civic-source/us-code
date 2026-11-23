@@ -3,9 +3,9 @@ title: "Section 7652 - Policy and requirements"
 usc_title: 22
 usc_section: "7652"
 chapter: 83
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "22 U.S.C. § 7652"
-generated_at: "2026-11-23T21:09:18.511Z"
+generated_at: "2026-11-23T21:11:01.584Z"
 status: "active"
 ---
 

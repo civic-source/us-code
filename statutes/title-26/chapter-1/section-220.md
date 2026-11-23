@@ -3,9 +3,9 @@ title: "Section 220 - Archer MSAs"
 usc_title: 26
 usc_section: "220"
 chapter: 1
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "26 U.S.C. § 220"
-generated_at: "2026-11-23T21:09:24.662Z"
+generated_at: "2026-11-23T21:11:18.948Z"
 status: "active"
 ---
 

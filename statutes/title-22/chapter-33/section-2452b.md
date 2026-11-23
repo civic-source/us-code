@@ -3,9 +3,9 @@ title: "Section 2452b - Repealed. Pub. L. 119–60, div. E, title IV, § 5405 , 
 usc_title: 22
 usc_section: "2452b"
 chapter: 33
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "22 U.S.C. § 2452b"
-generated_at: "2026-11-23T21:09:18.321Z"
+generated_at: "2026-11-23T21:11:01.090Z"
 status: "repealed"
 ---
 

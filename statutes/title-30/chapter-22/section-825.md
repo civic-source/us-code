@@ -3,9 +3,9 @@ title: "Section 825 - Mandatory health and safety training"
 usc_title: 30
 usc_section: "825"
 chapter: 22
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "30 U.S.C. § 825"
-generated_at: "2026-11-23T21:09:20.063Z"
+generated_at: "2026-11-23T21:11:04.273Z"
 status: "active"
 ---
 

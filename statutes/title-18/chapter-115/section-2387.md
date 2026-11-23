@@ -3,9 +3,9 @@ title: "Section 2387 - Activities affecting armed forces generally"
 usc_title: 18
 usc_section: "2387"
 chapter: 115
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "18 U.S.C. § 2387"
-generated_at: "2026-11-23T21:09:06.635Z"
+generated_at: "2026-11-23T21:10:45.570Z"
 status: "active"
 ---
 

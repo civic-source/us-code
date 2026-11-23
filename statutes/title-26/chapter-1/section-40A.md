@@ -3,9 +3,9 @@ title: "Section 40A - Biodiesel and renewable diesel used as fuel"
 usc_title: 26
 usc_section: "40A"
 chapter: 1
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "26 U.S.C. § 40A"
-generated_at: "2026-11-23T21:09:24.531Z"
+generated_at: "2026-11-23T21:11:18.609Z"
 status: "active"
 ---
 

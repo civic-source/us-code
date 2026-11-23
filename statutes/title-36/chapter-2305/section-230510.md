@@ -3,9 +3,9 @@ title: "Section 230510 - Records and inspection"
 usc_title: 36
 usc_section: "230510"
 chapter: 2305
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "36 U.S.C. § 230510"
-generated_at: "2026-11-23T21:09:31.009Z"
+generated_at: "2026-11-23T21:11:33.693Z"
 status: "active"
 ---
 

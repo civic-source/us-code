@@ -3,9 +3,9 @@ title: "Section 8102 - Protection of Federal Government buildings in District of
 usc_title: 40
 usc_section: "8102"
 chapter: 81
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "40 U.S.C. § 8102"
-generated_at: "2026-11-23T21:09:32.735Z"
+generated_at: "2026-11-23T21:11:31.663Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2121 - Congressional findings; establishment of policy"
 usc_title: 22
 usc_section: "2121"
 chapter: 31
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "22 U.S.C. § 2121"
-generated_at: "2026-11-23T21:09:18.247Z"
+generated_at: "2026-11-23T21:11:00.909Z"
 status: "active"
 ---
 

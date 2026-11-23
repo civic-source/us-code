@@ -3,9 +3,9 @@ title: "Section 1322 - Single-employer plan benefits guaranteed"
 usc_title: 29
 usc_section: "1322"
 chapter: 18
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "29 U.S.C. § 1322"
-generated_at: "2026-11-23T21:09:21.624Z"
+generated_at: "2026-11-23T21:11:08.053Z"
 status: "active"
 ---
 

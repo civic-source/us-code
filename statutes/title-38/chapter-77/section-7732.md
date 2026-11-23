@@ -3,9 +3,9 @@ title: "Section 7732 - Functions"
 usc_title: 38
 usc_section: "7732"
 chapter: 77
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "38 U.S.C. § 7732"
-generated_at: "2026-11-23T21:09:32.182Z"
+generated_at: "2026-11-23T21:11:36.497Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1910 - Incontestability"
 usc_title: 38
 usc_section: "1910"
 chapter: 19
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "38 U.S.C. § 1910"
-generated_at: "2026-11-23T21:09:32.017Z"
+generated_at: "2026-11-23T21:11:36.140Z"
 status: "active"
 ---
 

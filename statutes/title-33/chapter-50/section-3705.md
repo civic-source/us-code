@@ -3,9 +3,9 @@ title: "Section 3705 - NOAA ocean acidification activities"
 usc_title: 33
 usc_section: "3705"
 chapter: 50
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "33 U.S.C. § 3705"
-generated_at: "2026-11-23T21:09:28.656Z"
+generated_at: "2026-11-23T21:11:29.004Z"
 status: "active"
 ---
 

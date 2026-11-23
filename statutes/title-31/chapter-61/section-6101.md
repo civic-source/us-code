@@ -3,9 +3,9 @@ title: "Section 6101 - Definitions"
 usc_title: 31
 usc_section: "6101"
 chapter: 61
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "31 U.S.C. § 6101"
-generated_at: "2026-11-23T21:09:27.804Z"
+generated_at: "2026-11-23T21:11:26.213Z"
 status: "active"
 ---
 

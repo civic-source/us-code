@@ -3,9 +3,9 @@ title: "Section 805 - Repealed. Pub. L. 99–145, title VI, § 683(b)(1) , Nov. 
 usc_title: 37
 usc_section: "805"
 chapter: 15
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "37 U.S.C. § 805"
-generated_at: "2026-11-23T21:09:30.463Z"
+generated_at: "2026-11-23T21:11:32.390Z"
 status: "repealed"
 ---
 

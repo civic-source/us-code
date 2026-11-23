@@ -3,9 +3,9 @@ title: "Section 5189b - Date of eligibility; expenses incurred before date of di
 usc_title: 42
 usc_section: "5189b"
 chapter: 68
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "42 U.S.C. § 5189b"
-generated_at: "2026-11-23T21:09:43.107Z"
+generated_at: "2026-11-23T21:12:00.832Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2274 - Study by Secretary of Labor when International Trade Comm
 usc_title: 19
 usc_section: "2274"
 chapter: 12
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "19 U.S.C. § 2274"
-generated_at: "2026-11-23T21:09:07.823Z"
+generated_at: "2026-11-23T21:10:43.032Z"
 status: "active"
 ---
 

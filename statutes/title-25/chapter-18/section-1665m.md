@@ -3,9 +3,9 @@ title: "Section 1665m - Domestic and sexual violence prevention and treatment"
 usc_title: 25
 usc_section: "1665m"
 chapter: 18
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "25 U.S.C. § 1665m"
-generated_at: "2026-11-23T21:09:16.322Z"
+generated_at: "2026-11-23T21:10:53.914Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 279d - Limitation on power of Conference to impose new obligatio
 usc_title: 22
 usc_section: "279d"
 chapter: 7
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "22 U.S.C. § 279d"
-generated_at: "2026-11-23T21:09:18.174Z"
+generated_at: "2026-11-23T21:11:00.707Z"
 status: "active"
 ---
 

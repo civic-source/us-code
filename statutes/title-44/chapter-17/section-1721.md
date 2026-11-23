@@ -3,9 +3,9 @@ title: "Section 1721 - Exchange of documents by heads of departments"
 usc_title: 44
 usc_section: "1721"
 chapter: 17
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "44 U.S.C. § 1721"
-generated_at: "2026-11-23T21:09:43.997Z"
+generated_at: "2026-11-23T21:11:38.369Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2452a - Exchange program with countries in transition from total
 usc_title: 22
 usc_section: "2452a"
 chapter: 33
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "22 U.S.C. § 2452a"
-generated_at: "2026-11-23T21:09:18.321Z"
+generated_at: "2026-11-23T21:11:01.090Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1305 - Reevaluation of dependency and indemnity compensation det
 usc_title: 38
 usc_section: "1305"
 chapter: 13
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "38 U.S.C. § 1305"
-generated_at: "2026-11-23T21:09:31.974Z"
+generated_at: "2026-11-23T21:11:36.034Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 490 - Minor coins"
 usc_title: 18
 usc_section: "490"
 chapter: 25
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "18 U.S.C. § 490"
-generated_at: "2026-11-23T21:09:06.514Z"
+generated_at: "2026-11-23T21:10:45.456Z"
 status: "active"
 ---
 

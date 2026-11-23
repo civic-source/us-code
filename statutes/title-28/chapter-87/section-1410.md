@@ -3,9 +3,9 @@ title: "Section 1410 - Venue of cases ancillary to foreign proceedings"
 usc_title: 28
 usc_section: "1410"
 chapter: 87
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "28 U.S.C. § 1410"
-generated_at: "2026-11-23T21:09:20.841Z"
+generated_at: "2026-11-23T21:11:05.830Z"
 status: "active"
 ---
 

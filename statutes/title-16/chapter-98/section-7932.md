@@ -3,9 +3,9 @@ title: "Section 7932 - No priority"
 usc_title: 16
 usc_section: "7932"
 chapter: 98
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "16 U.S.C. § 7932"
-generated_at: "2026-11-23T21:09:12.481Z"
+generated_at: "2026-11-23T21:10:49.271Z"
 status: "active"
 ---
 

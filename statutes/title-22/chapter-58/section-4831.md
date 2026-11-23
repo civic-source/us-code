@@ -3,9 +3,9 @@ title: "Section 4831 - Security Review Committees"
 usc_title: 22
 usc_section: "4831"
 chapter: 58
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "22 U.S.C. § 4831"
-generated_at: "2026-11-23T21:09:18.442Z"
+generated_at: "2026-11-23T21:11:01.407Z"
 status: "active"
 ---
 

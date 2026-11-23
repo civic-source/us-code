@@ -3,9 +3,9 @@ title: "Section 3111a - Federal internship programs"
 usc_title: 5
 usc_section: "3111a"
 chapter: 31
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "5 U.S.C. § 3111a"
-generated_at: "2026-11-23T21:08:48.351Z"
+generated_at: "2026-11-23T21:10:24.013Z"
 status: "active"
 ---
 

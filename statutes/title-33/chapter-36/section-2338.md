@@ -3,9 +3,9 @@ title: "Section 2338 - Reburial and conveyance authority"
 usc_title: 33
 usc_section: "2338"
 chapter: 36
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "33 U.S.C. § 2338"
-generated_at: "2026-11-23T21:09:28.626Z"
+generated_at: "2026-11-23T21:11:28.928Z"
 status: "active"
 ---
 

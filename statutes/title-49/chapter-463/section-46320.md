@@ -3,9 +3,9 @@ title: "Section 46320 - Interference with wildfire suppression, law enforcement,
 usc_title: 49
 usc_section: "46320"
 chapter: 463
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "49 U.S.C. § 46320"
-generated_at: "2026-11-23T21:09:52.129Z"
+generated_at: "2026-11-23T21:12:13.839Z"
 status: "active"
 ---
 

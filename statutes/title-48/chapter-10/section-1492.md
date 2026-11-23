@@ -3,9 +3,9 @@ title: "Section 1492 - Energy resources of Caribbean and Pacific insular areas"
 usc_title: 48
 usc_section: "1492"
 chapter: 10
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "48 U.S.C. § 1492"
-generated_at: "2026-11-23T21:09:46.401Z"
+generated_at: "2026-11-23T21:12:04.563Z"
 status: "active"
 ---
 

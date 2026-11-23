@@ -3,9 +3,9 @@ title: "Section 8201 - Purpose"
 usc_title: 16
 usc_section: "8201"
 chapter: 101
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "16 U.S.C. § 8201"
-generated_at: "2026-11-23T21:09:12.483Z"
+generated_at: "2026-11-23T21:10:49.275Z"
 status: "active"
 ---
 

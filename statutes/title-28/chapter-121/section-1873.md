@@ -3,9 +3,9 @@ title: "Section 1873 - Admiralty and maritime cases"
 usc_title: 28
 usc_section: "1873"
 chapter: 121
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "28 U.S.C. § 1873"
-generated_at: "2026-11-23T21:09:20.854Z"
+generated_at: "2026-11-23T21:11:05.866Z"
 status: "active"
 ---
 

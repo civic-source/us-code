@@ -3,9 +3,9 @@ title: "Section 12634 - Prohibition on use of funds"
 usc_title: 42
 usc_section: "12634"
 chapter: 129
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "42 U.S.C. § 12634"
-generated_at: "2026-11-23T21:09:43.555Z"
+generated_at: "2026-11-23T21:12:01.715Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9040 - Oversight of nuclear deterrence mission"
 usc_title: 10
 usc_section: "9040"
 chapter: 905
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "10 U.S.C. § 9040"
-generated_at: "2026-11-23T21:08:58.807Z"
+generated_at: "2026-11-23T21:10:34.134Z"
 status: "active"
 ---
 

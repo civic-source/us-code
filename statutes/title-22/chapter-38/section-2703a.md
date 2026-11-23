@@ -3,9 +3,9 @@ title: "Section 2703a - Emergency back-up care"
 usc_title: 22
 usc_section: "2703a"
 chapter: 38
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "22 U.S.C. § 2703a"
-generated_at: "2026-11-23T21:09:18.349Z"
+generated_at: "2026-11-23T21:11:01.166Z"
 status: "active"
 ---
 

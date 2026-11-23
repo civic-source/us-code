@@ -3,9 +3,9 @@ title: "Section 7034 - Federal Crop Insurance Corporation and Risk Management Ag
 usc_title: 7
 usc_section: "7034"
 chapter: 98
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "7 U.S.C. § 7034"
-generated_at: "2026-11-23T21:08:54.043Z"
+generated_at: "2026-11-23T21:10:29.308Z"
 status: "active"
 ---
 

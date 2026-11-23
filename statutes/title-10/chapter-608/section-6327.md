@@ -3,9 +3,9 @@ title: "Section 6327 - Enhanced procurement authority to manage supply chain ris
 usc_title: 10
 usc_section: "6327"
 chapter: 608
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "10 U.S.C. § 6327"
-generated_at: "2026-11-23T21:08:58.684Z"
+generated_at: "2026-11-23T21:10:33.998Z"
 status: "active"
 ---
 

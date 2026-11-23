@@ -3,9 +3,9 @@ title: "Section 1907 - List of laws inapplicable to procurements of commercially
 usc_title: 41
 usc_section: "1907"
 chapter: 19
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "41 U.S.C. § 1907"
-generated_at: "2026-11-23T21:09:34.041Z"
+generated_at: "2026-11-23T21:11:38.880Z"
 status: "active"
 ---
 

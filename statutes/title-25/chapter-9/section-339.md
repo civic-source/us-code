@@ -3,9 +3,9 @@ title: "Section 339 - Tribes excepted from certain provisions"
 usc_title: 25
 usc_section: "339"
 chapter: 9
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "25 U.S.C. § 339"
-generated_at: "2026-11-23T21:09:16.269Z"
+generated_at: "2026-11-23T21:10:53.779Z"
 status: "active"
 ---
 

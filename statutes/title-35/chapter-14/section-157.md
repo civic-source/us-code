@@ -3,9 +3,9 @@ title: "Section 157 - Repealed. Pub. L. 112–29, § 3(e)(1) , Sept. 16, 2011 , 
 usc_title: 35
 usc_section: "157"
 chapter: 14
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "35 U.S.C. § 157"
-generated_at: "2026-11-23T21:09:26.556Z"
+generated_at: "2026-11-23T21:11:23.054Z"
 status: "repealed"
 ---
 

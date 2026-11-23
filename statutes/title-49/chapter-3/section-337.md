@@ -3,9 +3,9 @@ title: "Section 337 - Budget request for the Director of Intelligence and Securi
 usc_title: 49
 usc_section: "337"
 chapter: 3
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "49 U.S.C. § 337"
-generated_at: "2026-11-23T21:09:51.706Z"
+generated_at: "2026-11-23T21:12:13.036Z"
 status: "active"
 ---
 

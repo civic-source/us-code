@@ -3,9 +3,9 @@ title: "Section 3102 - Delegation and assignment of powers, functions, and respo
 usc_title: 41
 usc_section: "3102"
 chapter: 31
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "41 U.S.C. § 3102"
-generated_at: "2026-11-23T21:09:34.052Z"
+generated_at: "2026-11-23T21:11:38.894Z"
 status: "active"
 ---
 

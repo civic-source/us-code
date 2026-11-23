@@ -3,9 +3,9 @@ title: "Section 15882 - Hydroelectric efficiency improvement incentives"
 usc_title: 42
 usc_section: "15882"
 chapter: 149
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "42 U.S.C. § 15882"
-generated_at: "2026-11-23T21:09:43.655Z"
+generated_at: "2026-11-23T21:12:01.896Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 139K - Scholarships for qualified elementary or secondary educat
 usc_title: 26
 usc_section: "139K"
 chapter: 1
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "26 U.S.C. § 139K"
-generated_at: "2026-11-23T21:09:24.606Z"
+generated_at: "2026-11-23T21:11:18.805Z"
 status: "active"
 ---
 

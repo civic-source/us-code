@@ -3,9 +3,9 @@ title: "Section 3672 - Approval of courses"
 usc_title: 38
 usc_section: "3672"
 chapter: 36
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "38 U.S.C. § 3672"
-generated_at: "2026-11-23T21:09:32.078Z"
+generated_at: "2026-11-23T21:11:36.282Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 282b - Cooperative agreements with State of Washington and other
 usc_title: 16
 usc_section: "282b"
 chapter: 1
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "16 U.S.C. § 282b"
-generated_at: "2026-11-23T21:09:11.742Z"
+generated_at: "2026-11-23T21:10:48.045Z"
 status: "active"
 ---
 

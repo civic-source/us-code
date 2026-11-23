@@ -3,9 +3,9 @@ title: "Section 276 - Repealed. Pub. L. 93–43, § 7(a)(1) –(3), (61), June 1
 usc_title: 24
 usc_section: "276"
 chapter: 7
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "24 U.S.C. § 276"
-generated_at: "2026-11-23T21:09:13.795Z"
+generated_at: "2026-11-23T21:10:50.807Z"
 status: "repealed"
 ---
 

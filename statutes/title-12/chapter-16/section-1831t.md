@@ -3,9 +3,9 @@ title: "Section 1831t - Depository institutions lacking Federal deposit insuranc
 usc_title: 12
 usc_section: "1831t"
 chapter: 16
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "12 U.S.C. § 1831t"
-generated_at: "2026-11-23T21:09:02.277Z"
+generated_at: "2026-11-23T21:10:38.066Z"
 status: "active"
 ---
 

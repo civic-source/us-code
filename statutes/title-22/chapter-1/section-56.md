@@ -3,9 +3,9 @@ title: "Section 56 - Repealed. Aug. 13, 1946, ch. 957 , title XI, § 1131(7), (5
 usc_title: 22
 usc_section: "56"
 chapter: 1
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "22 U.S.C. § 56"
-generated_at: "2026-11-23T21:09:18.144Z"
+generated_at: "2026-11-23T21:11:00.560Z"
 status: "repealed"
 ---
 

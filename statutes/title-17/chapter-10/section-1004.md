@@ -3,9 +3,9 @@ title: "Section 1004 - Royalty payments"
 usc_title: 17
 usc_section: "1004"
 chapter: 10
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "17 U.S.C. § 1004"
-generated_at: "2026-11-23T21:09:06.919Z"
+generated_at: "2026-11-23T21:10:42.085Z"
 status: "active"
 ---
 

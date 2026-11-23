@@ -3,9 +3,9 @@ title: "Section 4507 - Awarding of ranks in the Senior Executive Service"
 usc_title: 5
 usc_section: "4507"
 chapter: 45
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "5 U.S.C. § 4507"
-generated_at: "2026-11-23T21:08:48.406Z"
+generated_at: "2026-11-23T21:10:24.051Z"
 status: "active"
 ---
 

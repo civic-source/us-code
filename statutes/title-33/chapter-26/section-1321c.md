@@ -3,9 +3,9 @@ title: "Section 1321c - International efforts on enforcement"
 usc_title: 33
 usc_section: "1321c"
 chapter: 26
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "33 U.S.C. § 1321c"
-generated_at: "2026-11-23T21:09:28.571Z"
+generated_at: "2026-11-23T21:11:28.769Z"
 status: "active"
 ---
 

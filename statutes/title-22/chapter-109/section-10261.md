@@ -3,9 +3,9 @@ title: "Section 10261 - Sanctions exception relating to importation of goods"
 usc_title: 22
 usc_section: "10261"
 chapter: 109
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "22 U.S.C. § 10261"
-generated_at: "2026-11-23T21:09:18.580Z"
+generated_at: "2026-11-23T21:11:01.759Z"
 status: "active"
 ---
 

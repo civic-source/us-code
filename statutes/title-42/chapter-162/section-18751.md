@@ -3,9 +3,9 @@ title: "Section 18751 - Infrastructure planning for micro and small modular nucl
 usc_title: 42
 usc_section: "18751"
 chapter: 162
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "42 U.S.C. § 18751"
-generated_at: "2026-11-23T21:09:43.797Z"
+generated_at: "2026-11-23T21:12:02.204Z"
 status: "active"
 ---
 

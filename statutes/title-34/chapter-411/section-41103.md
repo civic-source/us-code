@@ -3,9 +3,9 @@ title: "Section 41103 - Processing of name checks and background records for non
 usc_title: 34
 usc_section: "41103"
 chapter: 411
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "34 U.S.C. § 41103"
-generated_at: "2026-11-23T21:09:27.239Z"
+generated_at: "2026-11-23T21:11:24.653Z"
 status: "active"
 ---
 

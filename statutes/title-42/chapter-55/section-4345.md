@@ -3,9 +3,9 @@ title: "Section 4345 - Consultation with Citizens’ Advisory Committee on Envir
 usc_title: 42
 usc_section: "4345"
 chapter: 55
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "42 U.S.C. § 4345"
-generated_at: "2026-11-23T21:09:43.048Z"
+generated_at: "2026-11-23T21:12:00.713Z"
 status: "active"
 ---
 

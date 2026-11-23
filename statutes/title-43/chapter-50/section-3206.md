@@ -3,9 +3,9 @@ title: "Section 3206 - Drought contingency plan funding requirements"
 usc_title: 43
 usc_section: "3206"
 chapter: 50
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "43 U.S.C. § 3206"
-generated_at: "2026-11-23T21:09:35.630Z"
+generated_at: "2026-11-23T21:11:41.484Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3331 - Fleet adjustment program"
 usc_title: 16
 usc_section: "3331"
 chapter: 52
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "16 U.S.C. § 3331"
-generated_at: "2026-11-23T21:09:12.367Z"
+generated_at: "2026-11-23T21:10:49.059Z"
 status: "active"
 ---
 

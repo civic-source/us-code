@@ -3,9 +3,9 @@ title: "Section 8627 - Withholding of funds"
 usc_title: 42
 usc_section: "8627"
 chapter: 94
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "42 U.S.C. § 8627"
-generated_at: "2026-11-23T21:09:43.389Z"
+generated_at: "2026-11-23T21:12:01.392Z"
 status: "active"
 ---
 

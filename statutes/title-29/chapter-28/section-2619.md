@@ -3,9 +3,9 @@ title: "Section 2619 - Notice"
 usc_title: 29
 usc_section: "2619"
 chapter: 28
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "29 U.S.C. § 2619"
-generated_at: "2026-11-23T21:09:21.648Z"
+generated_at: "2026-11-23T21:11:08.116Z"
 status: "active"
 ---
 

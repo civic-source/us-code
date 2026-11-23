@@ -3,9 +3,9 @@ title: "Section 5565 - Encouraging the development of plans for converting certa
 usc_title: 49
 usc_section: "5565"
 chapter: 55
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "49 U.S.C. § 5565"
-generated_at: "2026-11-23T21:09:51.819Z"
+generated_at: "2026-11-23T21:12:13.191Z"
 status: "active"
 ---
 

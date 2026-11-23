@@ -3,9 +3,9 @@ title: "Section 6331 - Laboratory-directed research and development programs"
 usc_title: 10
 usc_section: "6331"
 chapter: 608
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "10 U.S.C. § 6331"
-generated_at: "2026-11-23T21:08:58.685Z"
+generated_at: "2026-11-23T21:10:33.999Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8132 - Declaration of purpose"
 usc_title: 38
 usc_section: "8132"
 chapter: 81
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "38 U.S.C. § 8132"
-generated_at: "2026-11-23T21:09:32.193Z"
+generated_at: "2026-11-23T21:11:36.522Z"
 status: "active"
 ---
 

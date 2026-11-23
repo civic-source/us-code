@@ -3,9 +3,9 @@ title: "Section 764 - National exercise simulation center"
 usc_title: 6
 usc_section: "764"
 chapter: 2
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "6 U.S.C. § 764"
-generated_at: "2026-11-23T21:08:50.478Z"
+generated_at: "2026-11-23T21:10:25.943Z"
 status: "active"
 ---
 

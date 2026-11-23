@@ -3,9 +3,9 @@ title: "Section 8747 - Transportation of dependents and household effects of civ
 usc_title: 10
 usc_section: "8747"
 chapter: 871
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "10 U.S.C. § 8747"
-generated_at: "2026-11-23T21:08:58.787Z"
+generated_at: "2026-11-23T21:10:34.111Z"
 status: "active"
 ---
 

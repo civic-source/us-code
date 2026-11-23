@@ -3,9 +3,9 @@ title: "Section 5426 - Authorization of appropriations"
 usc_title: 42
 usc_section: "5426"
 chapter: 70
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "42 U.S.C. § 5426"
-generated_at: "2026-11-23T21:09:43.132Z"
+generated_at: "2026-11-23T21:12:00.883Z"
 status: "active"
 ---
 

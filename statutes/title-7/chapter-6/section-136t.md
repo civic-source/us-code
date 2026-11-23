@@ -3,9 +3,9 @@ title: "Section 136t - Delegation and cooperation"
 usc_title: 7
 usc_section: "136t"
 chapter: 6
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "7 U.S.C. § 136t"
-generated_at: "2026-11-23T21:08:53.644Z"
+generated_at: "2026-11-23T21:10:28.863Z"
 status: "active"
 ---
 

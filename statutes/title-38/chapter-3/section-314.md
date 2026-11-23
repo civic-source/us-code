@@ -3,9 +3,9 @@ title: "Section 314 - Central Office"
 usc_title: 38
 usc_section: "314"
 chapter: 3
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "38 U.S.C. § 314"
-generated_at: "2026-11-23T21:09:31.946Z"
+generated_at: "2026-11-23T21:11:35.951Z"
 status: "active"
 ---
 

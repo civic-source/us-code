@@ -3,9 +3,9 @@ title: "Section 455 - Effect of failure to issue regulations"
 usc_title: 3
 usc_section: "455"
 chapter: 5
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "3 U.S.C. § 455"
-generated_at: "2026-11-23T21:08:45.599Z"
+generated_at: "2026-11-23T21:10:21.602Z"
 status: "active"
 ---
 

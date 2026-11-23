@@ -3,9 +3,9 @@ title: "Section 7699B - Breach of agreement: liability"
 usc_title: 38
 usc_section: "7699B"
 chapter: 76
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "38 U.S.C. § 7699B"
-generated_at: "2026-11-23T21:09:32.182Z"
+generated_at: "2026-11-23T21:11:36.496Z"
 status: "active"
 ---
 

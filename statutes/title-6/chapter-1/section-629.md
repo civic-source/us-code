@@ -3,9 +3,9 @@ title: "Section 629 - Omitted"
 usc_title: 6
 usc_section: "629"
 chapter: 1
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "6 U.S.C. § 629"
-generated_at: "2026-11-23T21:08:50.449Z"
+generated_at: "2026-11-23T21:10:25.911Z"
 status: "omitted"
 ---
 

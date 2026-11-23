@@ -3,9 +3,9 @@ title: "Section 12315 - Administration"
 usc_title: 42
 usc_section: "12315"
 chapter: 127
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "42 U.S.C. § 12315"
-generated_at: "2026-11-23T21:09:43.536Z"
+generated_at: "2026-11-23T21:12:01.673Z"
 status: "active"
 ---
 

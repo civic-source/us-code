@@ -3,9 +3,9 @@ title: "Section 1904 - Blocking assets and prohibiting transactions"
 usc_title: 21
 usc_section: "1904"
 chapter: 24
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "21 U.S.C. § 1904"
-generated_at: "2026-11-23T21:09:15.654Z"
+generated_at: "2026-11-23T21:10:56.054Z"
 status: "active"
 ---
 

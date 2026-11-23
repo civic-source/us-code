@@ -3,9 +3,9 @@ title: "Section 825n - Forfeiture for violations; recovery; applicability"
 usc_title: 16
 usc_section: "825n"
 chapter: 12
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "16 U.S.C. § 825n"
-generated_at: "2026-11-23T21:09:12.151Z"
+generated_at: "2026-11-23T21:10:48.678Z"
 status: "active"
 ---
 

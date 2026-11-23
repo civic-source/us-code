@@ -3,9 +3,9 @@ title: "Section 9377 - Civilian special agents of the Office of Special Investig
 usc_title: 10
 usc_section: "9377"
 chapter: 947
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "10 U.S.C. § 9377"
-generated_at: "2026-11-23T21:08:58.820Z"
+generated_at: "2026-11-23T21:10:34.149Z"
 status: "active"
 ---
 

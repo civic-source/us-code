@@ -3,9 +3,9 @@ title: "Section 111 - Assaulting, resisting, or impeding certain officers or emp
 usc_title: 18
 usc_section: "111"
 chapter: 7
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "18 U.S.C. § 111"
-generated_at: "2026-11-23T21:09:06.494Z"
+generated_at: "2026-11-23T21:10:45.430Z"
 status: "active"
 ---
 

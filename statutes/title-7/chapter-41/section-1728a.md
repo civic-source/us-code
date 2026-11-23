@@ -3,9 +3,9 @@ title: "Section 1728a - President’s Emergency Food Assistance Fund"
 usc_title: 7
 usc_section: "1728a"
 chapter: 41
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "7 U.S.C. § 1728a"
-generated_at: "2026-11-23T21:08:53.822Z"
+generated_at: "2026-11-23T21:10:29.032Z"
 status: "active"
 ---
 

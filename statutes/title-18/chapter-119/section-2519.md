@@ -3,9 +3,9 @@ title: "Section 2519 - Reports concerning intercepted wire, oral, or electronic 
 usc_title: 18
 usc_section: "2519"
 chapter: 119
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "18 U.S.C. § 2519"
-generated_at: "2026-11-23T21:09:06.645Z"
+generated_at: "2026-11-23T21:10:45.577Z"
 status: "active"
 ---
 

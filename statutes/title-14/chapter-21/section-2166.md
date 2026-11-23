@@ -3,9 +3,9 @@ title: "Section 2166 - Continuation on active duty; Coast Guard officers with ce
 usc_title: 14
 usc_section: "2166"
 chapter: 21
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "14 U.S.C. § 2166"
-generated_at: "2026-11-23T21:09:00.409Z"
+generated_at: "2026-11-23T21:10:36.432Z"
 status: "active"
 ---
 

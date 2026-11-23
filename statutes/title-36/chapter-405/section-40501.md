@@ -3,9 +3,9 @@ title: "Section 40501 - Organization"
 usc_title: 36
 usc_section: "40501"
 chapter: 405
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "36 U.S.C. § 40501"
-generated_at: "2026-11-23T21:09:30.931Z"
+generated_at: "2026-11-23T21:11:33.461Z"
 status: "active"
 ---
 

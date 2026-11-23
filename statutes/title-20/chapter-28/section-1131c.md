@@ -3,9 +3,9 @@ title: "Section 1131c - Internships"
 usc_title: 20
 usc_section: "1131c"
 chapter: 28
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "20 U.S.C. § 1131c"
-generated_at: "2026-11-23T21:09:09.314Z"
+generated_at: "2026-11-23T21:10:44.588Z"
 status: "active"
 ---
 

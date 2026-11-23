@@ -3,9 +3,9 @@ title: "Section 1157 - Combination of certain ratings"
 usc_title: 38
 usc_section: "1157"
 chapter: 11
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "38 U.S.C. § 1157"
-generated_at: "2026-11-23T21:09:31.971Z"
+generated_at: "2026-11-23T21:11:36.026Z"
 status: "active"
 ---
 

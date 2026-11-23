@@ -3,9 +3,9 @@ title: "Section 1081 - Contracts for medical care for spouses and children: revi
 usc_title: 10
 usc_section: "1081"
 chapter: 55
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "10 U.S.C. § 1081"
-generated_at: "2026-11-23T21:08:58.352Z"
+generated_at: "2026-11-23T21:10:33.608Z"
 status: "active"
 ---
 

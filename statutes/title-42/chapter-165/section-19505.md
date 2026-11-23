@@ -3,9 +3,9 @@ title: "Section 19505 - Innovation fund"
 usc_title: 42
 usc_section: "19505"
 chapter: 165
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "42 U.S.C. § 19505"
-generated_at: "2026-11-23T21:09:43.831Z"
+generated_at: "2026-11-23T21:12:02.279Z"
 status: "active"
 ---
 

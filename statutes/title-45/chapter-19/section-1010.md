@@ -3,9 +3,9 @@ title: "Section 1010 - Applicability of National Environmental Policy Act and se
 usc_title: 45
 usc_section: "1010"
 chapter: 19
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "45 U.S.C. § 1010"
-generated_at: "2026-11-23T21:09:44.461Z"
+generated_at: "2026-11-23T21:11:39.568Z"
 status: "active"
 ---
 

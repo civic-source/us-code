@@ -3,9 +3,9 @@ title: "Section 2817 - Authority for certain construction projects in friendly f
 usc_title: 10
 usc_section: "2817"
 chapter: 169
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "10 U.S.C. § 2817"
-generated_at: "2026-11-23T21:08:58.559Z"
+generated_at: "2026-11-23T21:10:33.868Z"
 status: "active"
 ---
 

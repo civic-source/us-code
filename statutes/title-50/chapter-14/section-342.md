@@ -3,9 +3,9 @@ title: "Section 342 - Repealed. May 24, 1949, ch. 139, § 142 , 63 Stat. 109"
 usc_title: 50
 usc_section: "342"
 chapter: 14
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "50 U.S.C. § 342"
-generated_at: "2026-11-23T21:09:49.220Z"
+generated_at: "2026-11-23T21:12:07.621Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 30308 - Cost effectiveness calculations"
 usc_title: 51
 usc_section: "30308"
 chapter: 303
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "51 U.S.C. § 30308"
-generated_at: "2026-11-23T21:09:54.045Z"
+generated_at: "2026-11-23T21:12:16.599Z"
 status: "active"
 ---
 

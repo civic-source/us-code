@@ -3,9 +3,9 @@ title: "Section 2700 - Use of vehicles"
 usc_title: 22
 usc_section: "2700"
 chapter: 38
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "22 U.S.C. § 2700"
-generated_at: "2026-11-23T21:09:18.349Z"
+generated_at: "2026-11-23T21:11:01.164Z"
 status: "active"
 ---
 

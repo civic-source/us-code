@@ -3,9 +3,9 @@ title: "Section 11101 - Common carrier transportation, service, and rates"
 usc_title: 49
 usc_section: "11101"
 chapter: 111
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "49 U.S.C. § 11101"
-generated_at: "2026-11-23T21:09:51.833Z"
+generated_at: "2026-11-23T21:12:13.218Z"
 status: "active"
 ---
 

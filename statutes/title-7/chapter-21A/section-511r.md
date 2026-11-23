@@ -3,9 +3,9 @@ title: "Section 511r - Repealed. Pub. L. 108–357, title VI, § 611(b) , Oct. 2
 usc_title: 7
 usc_section: "511r"
 chapter: 21
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "7 U.S.C. § 511r"
-generated_at: "2026-11-23T21:08:53.704Z"
+generated_at: "2026-11-23T21:10:28.914Z"
 status: "repealed"
 ---
 

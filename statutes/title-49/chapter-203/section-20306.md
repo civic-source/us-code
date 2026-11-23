@@ -3,9 +3,9 @@ title: "Section 20306 - Exemption for technological improvements"
 usc_title: 49
 usc_section: "20306"
 chapter: 203
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "49 U.S.C. § 20306"
-generated_at: "2026-11-23T21:09:51.880Z"
+generated_at: "2026-11-23T21:12:13.300Z"
 status: "active"
 ---
 

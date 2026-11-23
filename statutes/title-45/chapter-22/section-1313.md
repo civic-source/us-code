@@ -3,9 +3,9 @@ title: "Section 1313 - Fees"
 usc_title: 45
 usc_section: "1313"
 chapter: 22
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "45 U.S.C. § 1313"
-generated_at: "2026-11-23T21:09:44.469Z"
+generated_at: "2026-11-23T21:11:39.580Z"
 status: "active"
 ---
 

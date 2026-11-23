@@ -3,9 +3,9 @@ title: "Section 6502 - Definitions"
 usc_title: 22
 usc_section: "6502"
 chapter: 74
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "22 U.S.C. § 6502"
-generated_at: "2026-11-23T21:09:18.480Z"
+generated_at: "2026-11-23T21:11:01.507Z"
 status: "active"
 ---
 

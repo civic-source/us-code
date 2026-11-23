@@ -3,9 +3,9 @@ title: "Section 5233 - Repealed. Pub. L. 101–624, title XV, § 1571 , Nov. 28,
 usc_title: 7
 usc_section: "5233"
 chapter: 83
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "7 U.S.C. § 5233"
-generated_at: "2026-11-23T21:08:53.995Z"
+generated_at: "2026-11-23T21:10:29.239Z"
 status: "repealed"
 ---
 

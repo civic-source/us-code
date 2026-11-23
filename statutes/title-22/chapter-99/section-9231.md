@@ -3,9 +3,9 @@ title: "Section 9231 - Sense of Congress on trilateral cooperation between the U
 usc_title: 22
 usc_section: "9231"
 chapter: 99
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "22 U.S.C. § 9231"
-generated_at: "2026-11-23T21:09:18.554Z"
+generated_at: "2026-11-23T21:11:01.692Z"
 status: "active"
 ---
 

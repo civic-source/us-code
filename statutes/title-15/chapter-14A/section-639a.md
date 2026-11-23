@@ -3,9 +3,9 @@ title: "Section 639a - Review of loan program; submission of estimated needs for
 usc_title: 15
 usc_section: "639a"
 chapter: 14
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "15 U.S.C. § 639a"
-generated_at: "2026-11-23T21:09:04.094Z"
+generated_at: "2026-11-23T21:10:40.139Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3013 - Federal agency consultation"
 usc_title: 42
 usc_section: "3013"
 chapter: 35
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "42 U.S.C. § 3013"
-generated_at: "2026-11-23T21:09:42.958Z"
+generated_at: "2026-11-23T21:12:00.513Z"
 status: "active"
 ---
 

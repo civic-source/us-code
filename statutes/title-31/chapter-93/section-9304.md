@@ -3,9 +3,9 @@ title: "Section 9304 - Surety corporations"
 usc_title: 31
 usc_section: "9304"
 chapter: 93
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "31 U.S.C. § 9304"
-generated_at: "2026-11-23T21:09:27.825Z"
+generated_at: "2026-11-23T21:11:26.261Z"
 status: "active"
 ---
 

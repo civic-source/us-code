@@ -3,9 +3,9 @@ title: "Section 6203 - Establishment of the Chief Executive Officer of the Unite
 usc_title: 22
 usc_section: "6203"
 chapter: 71
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "22 U.S.C. § 6203"
-generated_at: "2026-11-23T21:09:18.467Z"
+generated_at: "2026-11-23T21:11:01.474Z"
 status: "active"
 ---
 

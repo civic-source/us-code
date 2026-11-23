@@ -3,9 +3,9 @@ title: "Section 1615 - Requirements relating to provision of benefits based on c
 usc_title: 8
 usc_section: "1615"
 chapter: 14
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "8 U.S.C. § 1615"
-generated_at: "2026-11-23T21:08:51.435Z"
+generated_at: "2026-11-23T21:10:26.782Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3314 - Baby changing facilities in restrooms"
 usc_title: 40
 usc_section: "3314"
 chapter: 33
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "40 U.S.C. § 3314"
-generated_at: "2026-11-23T21:09:32.720Z"
+generated_at: "2026-11-23T21:11:31.612Z"
 status: "active"
 ---
 

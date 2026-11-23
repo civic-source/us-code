@@ -3,9 +3,9 @@ title: "Section 175 - Repealed. Jan. 22, 1927, ch. 53, § 2 , 44 Stat. 1024 , ef
 usc_title: 42
 usc_section: "175"
 chapter: 5
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "42 U.S.C. § 175"
-generated_at: "2026-11-23T21:09:41.840Z"
+generated_at: "2026-11-23T21:11:57.889Z"
 status: "repealed"
 ---
 

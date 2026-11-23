@@ -3,9 +3,9 @@ title: "Section 415 - Limitations of actions"
 usc_title: 47
 usc_section: "415"
 chapter: 5
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "47 U.S.C. § 415"
-generated_at: "2026-11-23T21:09:48.054Z"
+generated_at: "2026-11-23T21:12:05.747Z"
 status: "active"
 ---
 

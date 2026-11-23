@@ -3,9 +3,9 @@ title: "Section 2286a - Mission and functions of Board"
 usc_title: 42
 usc_section: "2286a"
 chapter: 23
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "42 U.S.C. § 2286a"
-generated_at: "2026-11-23T21:09:42.918Z"
+generated_at: "2026-11-23T21:12:00.372Z"
 status: "active"
 ---
 

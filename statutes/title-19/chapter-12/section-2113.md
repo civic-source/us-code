@@ -3,9 +3,9 @@ title: "Section 2113 - Overall negotiating objective"
 usc_title: 19
 usc_section: "2113"
 chapter: 12
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "19 U.S.C. § 2113"
-generated_at: "2026-11-23T21:09:07.811Z"
+generated_at: "2026-11-23T21:10:43.016Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 270 - Repealed. Pub. L. 94–579, title VII, § 703(a) , Oct. 21
 usc_title: 43
 usc_section: "270"
 chapter: 7
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "43 U.S.C. § 270"
-generated_at: "2026-11-23T21:09:35.471Z"
+generated_at: "2026-11-23T21:11:41.140Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4812 - National Defense Technology and Industrial Base Council"
 usc_title: 10
 usc_section: "4812"
 chapter: 382
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "10 U.S.C. § 4812"
-generated_at: "2026-11-23T21:08:58.652Z"
+generated_at: "2026-11-23T21:10:33.959Z"
 status: "active"
 ---
 

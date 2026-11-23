@@ -3,9 +3,9 @@ title: "Section 3322 - Bar to duplication of educational assistance benefits"
 usc_title: 38
 usc_section: "3322"
 chapter: 33
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "38 U.S.C. § 3322"
-generated_at: "2026-11-23T21:09:32.064Z"
+generated_at: "2026-11-23T21:11:36.251Z"
 status: "active"
 ---
 

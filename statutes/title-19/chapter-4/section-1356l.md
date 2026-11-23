@@ -3,9 +3,9 @@ title: "Section 1356l - “Coffee” defined"
 usc_title: 19
 usc_section: "1356l"
 chapter: 4
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "19 U.S.C. § 1356l"
-generated_at: "2026-11-23T21:09:07.735Z"
+generated_at: "2026-11-23T21:10:42.945Z"
 status: "active"
 ---
 

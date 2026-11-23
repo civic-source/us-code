@@ -3,9 +3,9 @@ title: "Section 2105 - Monuments built by the United States Government"
 usc_title: 36
 usc_section: "2105"
 chapter: 21
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "36 U.S.C. § 2105"
-generated_at: "2026-11-23T21:09:30.897Z"
+generated_at: "2026-11-23T21:11:33.380Z"
 status: "active"
 ---
 

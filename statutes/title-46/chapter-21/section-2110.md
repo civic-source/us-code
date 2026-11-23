@@ -3,9 +3,9 @@ title: "Section 2110 - Fees"
 usc_title: 46
 usc_section: "2110"
 chapter: 21
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "46 U.S.C. § 2110"
-generated_at: "2026-11-23T21:09:47.294Z"
+generated_at: "2026-11-23T21:12:09.175Z"
 status: "active"
 ---
 

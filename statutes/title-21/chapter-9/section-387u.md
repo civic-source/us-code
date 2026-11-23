@@ -3,9 +3,9 @@ title: "Section 387u - Studies of progress and effectiveness"
 usc_title: 21
 usc_section: "387u"
 chapter: 9
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "21 U.S.C. § 387u"
-generated_at: "2026-11-23T21:09:15.595Z"
+generated_at: "2026-11-23T21:10:55.926Z"
 status: "active"
 ---
 

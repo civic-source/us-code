@@ -3,9 +3,9 @@ title: "Section 410ddd - New Bedford Whaling National Historical Park"
 usc_title: 16
 usc_section: "410ddd"
 chapter: 1
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "16 U.S.C. § 410ddd"
-generated_at: "2026-11-23T21:09:11.815Z"
+generated_at: "2026-11-23T21:10:48.150Z"
 status: "active"
 ---
 

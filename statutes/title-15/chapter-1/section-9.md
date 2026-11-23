@@ -3,9 +3,9 @@ title: "Section 9 - Jurisdiction of courts; duty of United States attorneys; pro
 usc_title: 15
 usc_section: "9"
 chapter: 1
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "15 U.S.C. § 9"
-generated_at: "2026-11-23T21:09:03.931Z"
+generated_at: "2026-11-23T21:10:39.948Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 14315 - Position vacancy promotions: Army and Air Force officers
 usc_title: 10
 usc_section: "14315"
 chapter: 1405
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "10 U.S.C. § 14315"
-generated_at: "2026-11-23T21:08:58.876Z"
+generated_at: "2026-11-23T21:10:34.221Z"
 status: "active"
 ---
 

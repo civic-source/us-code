@@ -3,9 +3,9 @@ title: "Section 2769 - Foreign military construction sales"
 usc_title: 22
 usc_section: "2769"
 chapter: 39
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "22 U.S.C. § 2769"
-generated_at: "2026-11-23T21:09:18.367Z"
+generated_at: "2026-11-23T21:11:01.213Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1461 - Effective date; special rules"
 usc_title: 29
 usc_section: "1461"
 chapter: 18
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "29 U.S.C. § 1461"
-generated_at: "2026-11-23T21:09:21.637Z"
+generated_at: "2026-11-23T21:11:08.088Z"
 status: "active"
 ---
 

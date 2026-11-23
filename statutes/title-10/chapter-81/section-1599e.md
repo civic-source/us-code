@@ -3,9 +3,9 @@ title: "Section 1599e - Payment of retention bonuses to DOD civilian employees i
 usc_title: 10
 usc_section: "1599e"
 chapter: 81
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "10 U.S.C. § 1599e"
-generated_at: "2026-11-23T21:08:58.429Z"
+generated_at: "2026-11-23T21:10:33.691Z"
 status: "active"
 ---
 

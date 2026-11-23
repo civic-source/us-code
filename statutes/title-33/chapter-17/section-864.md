@@ -3,9 +3,9 @@ title: "Section 864 - Repealed. Pub. L. 107–372, title II, § 271(6) , Dec. 19
 usc_title: 33
 usc_section: "864"
 chapter: 17
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "33 U.S.C. § 864"
-generated_at: "2026-11-23T21:09:28.529Z"
+generated_at: "2026-11-23T21:11:28.663Z"
 status: "repealed"
 ---
 

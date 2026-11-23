@@ -3,9 +3,9 @@ title: "Section 223 - Refusal, by owners, proprietors, etc., to assist census em
 usc_title: 13
 usc_section: "223"
 chapter: 7
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "13 U.S.C. § 223"
-generated_at: "2026-11-23T21:09:00.068Z"
+generated_at: "2026-11-23T21:10:35.493Z"
 status: "active"
 ---
 

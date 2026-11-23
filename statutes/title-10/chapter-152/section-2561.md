@@ -3,9 +3,9 @@ title: "Section 2561 - Humanitarian assistance"
 usc_title: 10
 usc_section: "2561"
 chapter: 152
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "10 U.S.C. § 2561"
-generated_at: "2026-11-23T21:08:58.511Z"
+generated_at: "2026-11-23T21:10:33.799Z"
 status: "active"
 ---
 

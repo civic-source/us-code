@@ -3,9 +3,9 @@ title: "Section 1007 - Seniority for employees in rural service"
 usc_title: 39
 usc_section: "1007"
 chapter: 10
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "39 U.S.C. § 1007"
-generated_at: "2026-11-23T21:09:32.375Z"
+generated_at: "2026-11-23T21:11:30.824Z"
 status: "active"
 ---
 

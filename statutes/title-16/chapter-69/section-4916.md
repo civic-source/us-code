@@ -3,9 +3,9 @@ title: "Section 4916 - Relationship to State law"
 usc_title: 16
 usc_section: "4916"
 chapter: 69
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "16 U.S.C. § 4916"
-generated_at: "2026-11-23T21:09:12.421Z"
+generated_at: "2026-11-23T21:10:49.169Z"
 status: "active"
 ---
 

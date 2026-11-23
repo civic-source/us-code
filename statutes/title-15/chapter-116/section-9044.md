@@ -3,9 +3,9 @@ title: "Section 9044 - Continuation of certain air service"
 usc_title: 15
 usc_section: "9044"
 chapter: 116
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "15 U.S.C. § 9044"
-generated_at: "2026-11-23T21:09:04.409Z"
+generated_at: "2026-11-23T21:10:40.511Z"
 status: "active"
 ---
 

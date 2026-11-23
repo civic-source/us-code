@@ -3,9 +3,9 @@ title: "Section 2086 - Prohibition on industry-sponsored travel"
 usc_title: 15
 usc_section: "2086"
 chapter: 47
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "15 U.S.C. § 2086"
-generated_at: "2026-11-23T21:09:04.246Z"
+generated_at: "2026-11-23T21:10:40.311Z"
 status: "active"
 ---
 

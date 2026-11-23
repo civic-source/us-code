@@ -3,9 +3,9 @@ title: "Section 8081 - Chief of Naval Personnel; Deputy Chief of Naval Personnel
 usc_title: 10
 usc_section: "8081"
 chapter: 809
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "10 U.S.C. § 8081"
-generated_at: "2026-11-23T21:08:58.738Z"
+generated_at: "2026-11-23T21:10:34.057Z"
 status: "active"
 ---
 

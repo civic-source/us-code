@@ -3,9 +3,9 @@ title: "Section 619 - Internet browsers built into telephones used with public m
 usc_title: 47
 usc_section: "619"
 chapter: 5
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "47 U.S.C. § 619"
-generated_at: "2026-11-23T21:09:48.080Z"
+generated_at: "2026-11-23T21:12:05.790Z"
 status: "active"
 ---
 

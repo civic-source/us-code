@@ -3,9 +3,9 @@ title: "Section 51501 - General support program"
 usc_title: 46
 usc_section: "51501"
 chapter: 515
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "46 U.S.C. § 51501"
-generated_at: "2026-11-23T21:09:47.434Z"
+generated_at: "2026-11-23T21:12:09.584Z"
 status: "active"
 ---
 

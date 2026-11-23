@@ -3,9 +3,9 @@ title: "Section 7482 - Definitions"
 usc_title: 7
 usc_section: "7482"
 chapter: 101
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "7 U.S.C. § 7482"
-generated_at: "2026-11-23T21:08:54.061Z"
+generated_at: "2026-11-23T21:10:29.328Z"
 status: "active"
 ---
 

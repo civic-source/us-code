@@ -3,9 +3,9 @@ title: "Section 2268 - Marine technology review"
 usc_title: 33
 usc_section: "2268"
 chapter: 36
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "33 U.S.C. § 2268"
-generated_at: "2026-11-23T21:09:28.611Z"
+generated_at: "2026-11-23T21:11:28.886Z"
 status: "active"
 ---
 

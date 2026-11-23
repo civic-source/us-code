@@ -3,9 +3,9 @@ title: "Section 308 - Federal recognition of officers: temporary recognition"
 usc_title: 32
 usc_section: "308"
 chapter: 3
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "32 U.S.C. § 308"
-generated_at: "2026-11-23T21:09:26.408Z"
+generated_at: "2026-11-23T21:11:22.700Z"
 status: "active"
 ---
 

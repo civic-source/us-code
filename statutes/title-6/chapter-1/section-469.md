@@ -3,9 +3,9 @@ title: "Section 469 - Fees for credentialing and background investigations in tr
 usc_title: 6
 usc_section: "469"
 chapter: 1
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "6 U.S.C. § 469"
-generated_at: "2026-11-23T21:08:50.433Z"
+generated_at: "2026-11-23T21:10:25.887Z"
 status: "active"
 ---
 

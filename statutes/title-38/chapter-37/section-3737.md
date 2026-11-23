@@ -3,9 +3,9 @@ title: "Section 3737 - Partial Claim Program"
 usc_title: 38
 usc_section: "3737"
 chapter: 37
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "38 U.S.C. § 3737"
-generated_at: "2026-11-23T21:09:32.101Z"
+generated_at: "2026-11-23T21:11:36.338Z"
 status: "active"
 ---
 

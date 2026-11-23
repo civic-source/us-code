@@ -3,9 +3,9 @@ title: "Section 1221 - Repealed. Pub. L. 104–1, title V, § 504(a)(2) , Jan. 2
 usc_title: 2
 usc_section: "1221"
 chapter: 23
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "2 U.S.C. § 1221"
-generated_at: "2026-11-23T21:08:46.620Z"
+generated_at: "2026-11-23T21:10:22.498Z"
 status: "repealed"
 ---
 

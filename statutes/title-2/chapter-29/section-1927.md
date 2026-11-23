@@ -3,9 +3,9 @@ title: "Section 1927 - Bonuses, retention allowances, and additional compensatio
 usc_title: 2
 usc_section: "1927"
 chapter: 29
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "2 U.S.C. § 1927"
-generated_at: "2026-11-23T21:08:46.673Z"
+generated_at: "2026-11-23T21:10:22.524Z"
 status: "active"
 ---
 

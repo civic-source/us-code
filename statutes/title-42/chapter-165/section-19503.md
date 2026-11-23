@@ -3,9 +3,9 @@ title: "Section 19503 - Unlocking Housing Supply Through Streamlined and Moderni
 usc_title: 42
 usc_section: "19503"
 chapter: 165
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "42 U.S.C. § 19503"
-generated_at: "2026-11-23T21:09:43.831Z"
+generated_at: "2026-11-23T21:12:02.278Z"
 status: "active"
 ---
 

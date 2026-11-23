@@ -3,9 +3,9 @@ title: "Section 3626 - Reduced rates"
 usc_title: 39
 usc_section: "3626"
 chapter: 36
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "39 U.S.C. § 3626"
-generated_at: "2026-11-23T21:09:32.393Z"
+generated_at: "2026-11-23T21:11:30.864Z"
 status: "active"
 ---
 

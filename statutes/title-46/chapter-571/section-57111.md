@@ -3,9 +3,9 @@ title: "Section 57111 - Definition of obsolete vessel"
 usc_title: 46
 usc_section: "57111"
 chapter: 571
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "46 U.S.C. § 57111"
-generated_at: "2026-11-23T21:09:47.482Z"
+generated_at: "2026-11-23T21:12:09.705Z"
 status: "active"
 ---
 

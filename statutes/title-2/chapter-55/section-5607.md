@@ -3,9 +3,9 @@ title: "Section 5607 - Member security: funding for improvements"
 usc_title: 2
 usc_section: "5607"
 chapter: 55
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "2 U.S.C. § 5607"
-generated_at: "2026-11-23T21:08:46.749Z"
+generated_at: "2026-11-23T21:10:22.564Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 205 - Metric system defined"
 usc_title: 15
 usc_section: "205"
 chapter: 6
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "15 U.S.C. § 205"
-generated_at: "2026-11-23T21:09:04.038Z"
+generated_at: "2026-11-23T21:10:40.071Z"
 status: "active"
 ---
 

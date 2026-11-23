@@ -3,9 +3,9 @@ title: "Section 7437 - Greenhouse gas air pollution plans and implementation gra
 usc_title: 42
 usc_section: "7437"
 chapter: 85
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "42 U.S.C. § 7437"
-generated_at: "2026-11-23T21:09:43.292Z"
+generated_at: "2026-11-23T21:12:01.211Z"
 status: "active"
 ---
 

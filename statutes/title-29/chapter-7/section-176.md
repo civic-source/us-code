@@ -3,9 +3,9 @@ title: "Section 176 - National emergencies; appointment of board of inquiry by P
 usc_title: 29
 usc_section: "176"
 chapter: 7
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "29 U.S.C. § 176"
-generated_at: "2026-11-23T21:09:21.523Z"
+generated_at: "2026-11-23T21:11:07.737Z"
 status: "active"
 ---
 

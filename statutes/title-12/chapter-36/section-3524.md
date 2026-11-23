@@ -3,9 +3,9 @@ title: "Section 3524 - Repealed. Pub. L. 96–221, title VIII, § 806 , Mar. 31,
 usc_title: 12
 usc_section: "3524"
 chapter: 36
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "12 U.S.C. § 3524"
-generated_at: "2026-11-23T21:09:02.358Z"
+generated_at: "2026-11-23T21:10:38.137Z"
 status: "repealed"
 ---
 

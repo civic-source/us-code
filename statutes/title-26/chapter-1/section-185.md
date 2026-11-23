@@ -3,9 +3,9 @@ title: "Section 185 - Repealed. Pub. L. 99–514, title II, § 242(a) , Oct. 22,
 usc_title: 26
 usc_section: "185"
 chapter: 1
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "26 U.S.C. § 185"
-generated_at: "2026-11-23T21:09:24.653Z"
+generated_at: "2026-11-23T21:11:18.925Z"
 status: "repealed"
 ---
 

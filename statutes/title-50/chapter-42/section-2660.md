@@ -3,9 +3,9 @@ title: "Section 2660 - Repealed. Pub. L. 115–91, div. C, title XXXI, § 3135(c
 usc_title: 50
 usc_section: "2660"
 chapter: 42
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "50 U.S.C. § 2660"
-generated_at: "2026-11-23T21:09:49.318Z"
+generated_at: "2026-11-23T21:12:07.765Z"
 status: "repealed"
 ---
 

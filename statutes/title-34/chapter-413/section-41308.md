@@ -3,9 +3,9 @@ title: "Section 41308 - State requirements for reporting missing children"
 usc_title: 34
 usc_section: "41308"
 chapter: 413
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "34 U.S.C. § 41308"
-generated_at: "2026-11-23T21:09:27.241Z"
+generated_at: "2026-11-23T21:11:24.657Z"
 status: "active"
 ---
 

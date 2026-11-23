@@ -3,9 +3,9 @@ title: "Section 346e - Authorization for park facilities to be located outside t
 usc_title: 16
 usc_section: "346e"
 chapter: 1
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "16 U.S.C. § 346e"
-generated_at: "2026-11-23T21:09:11.750Z"
+generated_at: "2026-11-23T21:10:48.051Z"
 status: "active"
 ---
 

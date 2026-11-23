@@ -3,9 +3,9 @@ title: "Section 295m - Prohibition against discrimination on basis of sex"
 usc_title: 42
 usc_section: "295m"
 chapter: 6
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "42 U.S.C. § 295m"
-generated_at: "2026-11-23T21:09:42.045Z"
+generated_at: "2026-11-23T21:11:58.452Z"
 status: "active"
 ---
 

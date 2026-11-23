@@ -3,9 +3,9 @@ title: "Section 1612b - Omitted"
 usc_title: 22
 usc_section: "1612b"
 chapter: 20
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "22 U.S.C. § 1612b"
-generated_at: "2026-11-23T21:09:18.224Z"
+generated_at: "2026-11-23T21:11:00.851Z"
 status: "omitted"
 ---
 

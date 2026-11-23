@@ -3,9 +3,9 @@ title: "Section 2318 - Aviation cadets; benefits"
 usc_title: 14
 usc_section: "2318"
 chapter: 23
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "14 U.S.C. § 2318"
-generated_at: "2026-11-23T21:09:00.410Z"
+generated_at: "2026-11-23T21:10:36.435Z"
 status: "active"
 ---
 

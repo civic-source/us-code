@@ -3,9 +3,9 @@ title: "Section 17215 - National Marine Energy Centers"
 usc_title: 42
 usc_section: "17215"
 chapter: 152
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "42 U.S.C. § 17215"
-generated_at: "2026-11-23T21:09:43.745Z"
+generated_at: "2026-11-23T21:12:02.077Z"
 status: "active"
 ---
 

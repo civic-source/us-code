@@ -3,9 +3,9 @@ title: "Section 1622 - Duties of Secretary relating to agricultural products"
 usc_title: 7
 usc_section: "1622"
 chapter: 38
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "7 U.S.C. § 1622"
-generated_at: "2026-11-23T21:08:53.801Z"
+generated_at: "2026-11-23T21:10:29.010Z"
 status: "active"
 ---
 

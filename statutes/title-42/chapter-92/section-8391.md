@@ -3,9 +3,9 @@ title: "Section 8391 - Repealed. Pub. L. 100–42, § 1(a)(6) , May 21, 1987 , 1
 usc_title: 42
 usc_section: "8391"
 chapter: 92
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "42 U.S.C. § 8391"
-generated_at: "2026-11-23T21:09:43.378Z"
+generated_at: "2026-11-23T21:12:01.376Z"
 status: "repealed"
 ---
 

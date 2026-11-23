@@ -3,9 +3,9 @@ title: "Section 2214 - General Counsel; appointment"
 usc_title: 7
 usc_section: "2214"
 chapter: 55
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "7 U.S.C. § 2214"
-generated_at: "2026-11-23T21:08:53.927Z"
+generated_at: "2026-11-23T21:10:29.139Z"
 status: "active"
 ---
 

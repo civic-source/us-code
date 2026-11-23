@@ -3,9 +3,9 @@ title: "Section 1106 - Exemption from transfer taxes and fees; recordation"
 usc_title: 45
 usc_section: "1106"
 chapter: 20
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "45 U.S.C. § 1106"
-generated_at: "2026-11-23T21:09:44.463Z"
+generated_at: "2026-11-23T21:11:39.571Z"
 status: "active"
 ---
 

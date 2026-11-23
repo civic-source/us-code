@@ -3,9 +3,9 @@ title: "Section 5104 - Exchanges of land"
 usc_title: 25
 usc_section: "5104"
 chapter: 45
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "25 U.S.C. § 5104"
-generated_at: "2026-11-23T21:09:16.439Z"
+generated_at: "2026-11-23T21:10:54.106Z"
 status: "active"
 ---
 

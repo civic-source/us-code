@@ -3,9 +3,9 @@ title: "Section 6517 - Effect of subchapter"
 usc_title: 16
 usc_section: "6517"
 chapter: 84
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "16 U.S.C. § 6517"
-generated_at: "2026-11-23T21:09:12.442Z"
+generated_at: "2026-11-23T21:10:49.214Z"
 status: "active"
 ---
 

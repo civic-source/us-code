@@ -3,9 +3,9 @@ title: "Section 3306 - Certain levee improvements"
 usc_title: 33
 usc_section: "3306"
 chapter: 46
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "33 U.S.C. § 3306"
-generated_at: "2026-11-23T21:09:28.650Z"
+generated_at: "2026-11-23T21:11:28.991Z"
 status: "active"
 ---
 

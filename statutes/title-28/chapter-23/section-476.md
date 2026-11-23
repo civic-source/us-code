@@ -3,9 +3,9 @@ title: "Section 476 - Enhancement of judicial information dissemination"
 usc_title: 28
 usc_section: "476"
 chapter: 23
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "28 U.S.C. § 476"
-generated_at: "2026-11-23T21:09:20.806Z"
+generated_at: "2026-11-23T21:11:05.722Z"
 status: "active"
 ---
 

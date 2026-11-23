@@ -3,9 +3,9 @@ title: "Section 2486 - Correction of named breeder"
 usc_title: 7
 usc_section: "2486"
 chapter: 57
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "7 U.S.C. § 2486"
-generated_at: "2026-11-23T21:08:53.940Z"
+generated_at: "2026-11-23T21:10:29.164Z"
 status: "active"
 ---
 

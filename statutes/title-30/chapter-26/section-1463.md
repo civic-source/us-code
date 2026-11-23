@@ -3,9 +3,9 @@ title: "Section 1463 - Criminal offenses"
 usc_title: 30
 usc_section: "1463"
 chapter: 26
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "30 U.S.C. § 1463"
-generated_at: "2026-11-23T21:09:20.102Z"
+generated_at: "2026-11-23T21:11:04.393Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 55113 - Use of foreign documented oil spill response vessels"
 usc_title: 46
 usc_section: "55113"
 chapter: 551
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "46 U.S.C. § 55113"
-generated_at: "2026-11-23T21:09:47.472Z"
+generated_at: "2026-11-23T21:12:09.675Z"
 status: "active"
 ---
 

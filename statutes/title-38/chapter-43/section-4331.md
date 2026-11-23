@@ -3,9 +3,9 @@ title: "Section 4331 - Regulations"
 usc_title: 38
 usc_section: "4331"
 chapter: 43
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "38 U.S.C. § 4331"
-generated_at: "2026-11-23T21:09:32.121Z"
+generated_at: "2026-11-23T21:11:36.378Z"
 status: "active"
 ---
 

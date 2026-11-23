@@ -3,9 +3,9 @@ title: "Section 2275 - Benefit information to workers"
 usc_title: 19
 usc_section: "2275"
 chapter: 12
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "19 U.S.C. § 2275"
-generated_at: "2026-11-23T21:09:07.824Z"
+generated_at: "2026-11-23T21:10:43.032Z"
 status: "active"
 ---
 

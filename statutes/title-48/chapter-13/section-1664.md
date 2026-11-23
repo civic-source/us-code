@@ -3,9 +3,9 @@ title: "Section 1664 - Repealed. Pub. L. 109–304, § 19 , Oct. 6, 2006 , 120 S
 usc_title: 48
 usc_section: "1664"
 chapter: 13
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "48 U.S.C. § 1664"
-generated_at: "2026-11-23T21:09:46.418Z"
+generated_at: "2026-11-23T21:12:04.580Z"
 status: "repealed"
 ---
 

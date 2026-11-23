@@ -3,9 +3,9 @@ title: "Section 1136 - Vacant]"
 usc_title: 38
 usc_section: "1136"
 chapter: 11
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "38 U.S.C. § 1136"
-generated_at: "2026-11-23T21:09:31.967Z"
+generated_at: "2026-11-23T21:11:36.017Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3551 - Working party on worker rights"
 usc_title: 19
 usc_section: "3551"
 chapter: 22
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "19 U.S.C. § 3551"
-generated_at: "2026-11-23T21:09:07.885Z"
+generated_at: "2026-11-23T21:10:43.092Z"
 status: "active"
 ---
 

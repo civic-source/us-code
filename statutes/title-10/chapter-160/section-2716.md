@@ -3,9 +3,9 @@ title: "Section 2716 - Budget justification document for funding relating to per
 usc_title: 10
 usc_section: "2716"
 chapter: 160
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "10 U.S.C. § 2716"
-generated_at: "2026-11-23T21:08:58.544Z"
+generated_at: "2026-11-23T21:10:33.851Z"
 status: "active"
 ---
 

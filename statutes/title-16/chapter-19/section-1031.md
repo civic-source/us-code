@@ -3,9 +3,9 @@ title: "Section 1031 - Repealed. Pub. L. 95–326, § 1(9) , July 28, 1978 , 92 
 usc_title: 16
 usc_section: "1031"
 chapter: 19
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "16 U.S.C. § 1031"
-generated_at: "2026-11-23T21:09:12.206Z"
+generated_at: "2026-11-23T21:10:48.751Z"
 status: "repealed"
 ---
 

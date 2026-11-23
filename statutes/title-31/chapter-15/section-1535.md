@@ -3,9 +3,9 @@ title: "Section 1535 - Agency agreements"
 usc_title: 31
 usc_section: "1535"
 chapter: 15
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "31 U.S.C. § 1535"
-generated_at: "2026-11-23T21:09:27.738Z"
+generated_at: "2026-11-23T21:11:25.990Z"
 status: "active"
 ---
 

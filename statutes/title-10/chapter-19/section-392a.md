@@ -3,9 +3,9 @@ title: "Section 392a - Principal Cyber Advisors"
 usc_title: 10
 usc_section: "392a"
 chapter: 19
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "10 U.S.C. § 392a"
-generated_at: "2026-11-23T21:08:58.220Z"
+generated_at: "2026-11-23T21:10:33.472Z"
 status: "active"
 ---
 

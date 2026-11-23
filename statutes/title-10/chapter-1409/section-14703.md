@@ -3,9 +3,9 @@ title: "Section 14703 - Authority to retain chaplains and officers in medical sp
 usc_title: 10
 usc_section: "14703"
 chapter: 1409
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "10 U.S.C. § 14703"
-generated_at: "2026-11-23T21:08:58.880Z"
+generated_at: "2026-11-23T21:10:34.225Z"
 status: "active"
 ---
 

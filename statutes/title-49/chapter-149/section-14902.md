@@ -3,9 +3,9 @@ title: "Section 14902 - Civil penalty for accepting rebates from carrier"
 usc_title: 49
 usc_section: "14902"
 chapter: 149
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "49 U.S.C. § 14902"
-generated_at: "2026-11-23T21:09:51.854Z"
+generated_at: "2026-11-23T21:12:13.252Z"
 status: "active"
 ---
 

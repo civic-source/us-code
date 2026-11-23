@@ -3,9 +3,9 @@ title: "Section 505 - Officer of the Postal Regulatory Commission representing t
 usc_title: 39
 usc_section: "505"
 chapter: 5
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "39 U.S.C. § 505"
-generated_at: "2026-11-23T21:09:32.373Z"
+generated_at: "2026-11-23T21:11:30.820Z"
 status: "active"
 ---
 

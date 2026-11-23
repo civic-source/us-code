@@ -3,9 +3,9 @@ title: "Section 60702 - Establishment"
 usc_title: 34
 usc_section: "60702"
 chapter: 607
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "34 U.S.C. § 60702"
-generated_at: "2026-11-23T21:09:27.249Z"
+generated_at: "2026-11-23T21:11:24.681Z"
 status: "active"
 ---
 

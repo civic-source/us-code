@@ -3,9 +3,9 @@ title: "Section 659 - Interstate or foreign shipments by carrier; State prosecut
 usc_title: 18
 usc_section: "659"
 chapter: 31
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "18 U.S.C. § 659"
-generated_at: "2026-11-23T21:09:06.523Z"
+generated_at: "2026-11-23T21:10:45.462Z"
 status: "active"
 ---
 

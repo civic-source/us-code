@@ -3,9 +3,9 @@ title: "Section 380 - Lease of inherited allotments by superintendent"
 usc_title: 25
 usc_section: "380"
 chapter: 10
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "25 U.S.C. § 380"
-generated_at: "2026-11-23T21:09:16.272Z"
+generated_at: "2026-11-23T21:10:53.786Z"
 status: "active"
 ---
 

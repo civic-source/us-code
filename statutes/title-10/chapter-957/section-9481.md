@@ -3,9 +3,9 @@ title: "Section 9481 - Establishment: purpose"
 usc_title: 10
 usc_section: "9481"
 chapter: 957
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "10 U.S.C. § 9481"
-generated_at: "2026-11-23T21:08:58.828Z"
+generated_at: "2026-11-23T21:10:34.158Z"
 status: "active"
 ---
 

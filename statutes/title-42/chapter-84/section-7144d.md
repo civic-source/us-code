@@ -3,9 +3,9 @@ title: "Section 7144d - Office of Arctic Energy"
 usc_title: 42
 usc_section: "7144d"
 chapter: 84
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "42 U.S.C. § 7144d"
-generated_at: "2026-11-23T21:09:43.247Z"
+generated_at: "2026-11-23T21:12:01.123Z"
 status: "active"
 ---
 

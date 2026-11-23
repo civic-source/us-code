@@ -3,9 +3,9 @@ title: "Section 1935 - Down payment loan program"
 usc_title: 7
 usc_section: "1935"
 chapter: 50
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "7 U.S.C. § 1935"
-generated_at: "2026-11-23T21:08:53.844Z"
+generated_at: "2026-11-23T21:10:29.055Z"
 status: "active"
 ---
 

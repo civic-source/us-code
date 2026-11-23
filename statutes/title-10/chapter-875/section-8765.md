@@ -3,9 +3,9 @@ title: "Section 8765 - Obsolete material and articles of historical interest: lo
 usc_title: 10
 usc_section: "8765"
 chapter: 875
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "10 U.S.C. § 8765"
-generated_at: "2026-11-23T21:08:58.788Z"
+generated_at: "2026-11-23T21:10:34.113Z"
 status: "active"
 ---
 

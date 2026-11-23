@@ -3,9 +3,9 @@ title: "Section 4816 - Investigations"
 usc_title: 7
 usc_section: "4816"
 chapter: 79
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "7 U.S.C. § 4816"
-generated_at: "2026-11-23T21:08:53.991Z"
+generated_at: "2026-11-23T21:10:29.235Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5914 - Reports"
 usc_title: 12
 usc_section: "5914"
 chapter: 56
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "12 U.S.C. § 5914"
-generated_at: "2026-11-23T21:09:02.478Z"
+generated_at: "2026-11-23T21:10:38.243Z"
 status: "active"
 ---
 

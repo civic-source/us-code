@@ -3,9 +3,9 @@ title: "Section 751 - Prisoners in custody of institution or officer"
 usc_title: 18
 usc_section: "751"
 chapter: 35
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "18 U.S.C. § 751"
-generated_at: "2026-11-23T21:09:06.527Z"
+generated_at: "2026-11-23T21:10:45.465Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 88 - False vouchers, accounts, or claims"
 usc_title: 25
 usc_section: "88"
 chapter: 3
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "25 U.S.C. § 88"
-generated_at: "2026-11-23T21:09:16.251Z"
+generated_at: "2026-11-23T21:10:53.746Z"
 status: "active"
 ---
 

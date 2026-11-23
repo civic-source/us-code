@@ -3,9 +3,9 @@ title: "Section 46 - Authorization of appropriations"
 usc_title: 22
 usc_section: "46"
 chapter: 7
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "22 U.S.C. § 46"
-generated_at: "2026-11-23T21:09:18.173Z"
+generated_at: "2026-11-23T21:11:00.703Z"
 status: "active"
 ---
 

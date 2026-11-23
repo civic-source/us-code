@@ -3,9 +3,9 @@ title: "Section 1337 - Unfair practices in import trade"
 usc_title: 19
 usc_section: "1337"
 chapter: 4
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "19 U.S.C. § 1337"
-generated_at: "2026-11-23T21:09:07.732Z"
+generated_at: "2026-11-23T21:10:42.942Z"
 status: "active"
 ---
 

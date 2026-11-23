@@ -3,9 +3,9 @@ title: "Section 21007 - Restrictions"
 usc_title: 36
 usc_section: "21007"
 chapter: 210
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "36 U.S.C. § 21007"
-generated_at: "2026-11-23T21:09:30.908Z"
+generated_at: "2026-11-23T21:11:33.409Z"
 status: "active"
 ---
 

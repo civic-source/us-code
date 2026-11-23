@@ -3,9 +3,9 @@ title: "Section 3702 - Purpose"
 usc_title: 15
 usc_section: "3702"
 chapter: 63
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "15 U.S.C. § 3702"
-generated_at: "2026-11-23T21:09:04.299Z"
+generated_at: "2026-11-23T21:10:40.362Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3022 - Amount of supplemental educational assistance"
 usc_title: 38
 usc_section: "3022"
 chapter: 30
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "38 U.S.C. § 3022"
-generated_at: "2026-11-23T21:09:32.050Z"
+generated_at: "2026-11-23T21:11:36.220Z"
 status: "active"
 ---
 

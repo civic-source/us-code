@@ -3,9 +3,9 @@ title: "Section 7424 - Regulations"
 usc_title: 7
 usc_section: "7424"
 chapter: 101
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "7 U.S.C. § 7424"
-generated_at: "2026-11-23T21:08:54.057Z"
+generated_at: "2026-11-23T21:10:29.324Z"
 status: "active"
 ---
 

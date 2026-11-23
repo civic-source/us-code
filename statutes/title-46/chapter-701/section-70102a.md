@@ -3,9 +3,9 @@ title: "Section 70102a - Repealed. Pub. L. 116–283, div. G, title LVXXXV [LXXX
 usc_title: 46
 usc_section: "70102a"
 chapter: 701
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "46 U.S.C. § 70102a"
-generated_at: "2026-11-23T21:09:47.498Z"
+generated_at: "2026-11-23T21:12:09.739Z"
 status: "repealed"
 ---
 

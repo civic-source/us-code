@@ -3,9 +3,9 @@ title: "Section 14323 - Requirements"
 usc_title: 42
 usc_section: "14323"
 chapter: 137
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "42 U.S.C. § 14323"
-generated_at: "2026-11-23T21:09:43.620Z"
+generated_at: "2026-11-23T21:12:01.849Z"
 status: "active"
 ---
 

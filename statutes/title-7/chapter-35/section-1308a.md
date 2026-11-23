@@ -3,9 +3,9 @@ title: "Section 1308a - Cost reduction options"
 usc_title: 7
 usc_section: "1308a"
 chapter: 35
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "7 U.S.C. § 1308a"
-generated_at: "2026-11-23T21:08:53.745Z"
+generated_at: "2026-11-23T21:10:28.951Z"
 status: "active"
 ---
 

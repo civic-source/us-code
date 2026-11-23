@@ -3,9 +3,9 @@ title: "Section 964 - Limit of time for completion of Colorado and Wyoming pipel
 usc_title: 43
 usc_section: "964"
 chapter: 22
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "43 U.S.C. § 964"
-generated_at: "2026-11-23T21:09:35.545Z"
+generated_at: "2026-11-23T21:11:41.281Z"
 status: "active"
 ---
 

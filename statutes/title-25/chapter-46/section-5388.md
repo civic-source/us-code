@@ -3,9 +3,9 @@ title: "Section 5388 - Transfer of funds"
 usc_title: 25
 usc_section: "5388"
 chapter: 46
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "25 U.S.C. § 5388"
-generated_at: "2026-11-23T21:09:16.465Z"
+generated_at: "2026-11-23T21:10:54.143Z"
 status: "active"
 ---
 

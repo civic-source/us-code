@@ -3,9 +3,9 @@ title: "Section 7103 - Decision by contracting officer"
 usc_title: 41
 usc_section: "7103"
 chapter: 71
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "41 U.S.C. § 7103"
-generated_at: "2026-11-23T21:09:34.076Z"
+generated_at: "2026-11-23T21:11:38.954Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3522 - Agency plans; approval"
 usc_title: 5
 usc_section: "3522"
 chapter: 35
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "5 U.S.C. § 3522"
-generated_at: "2026-11-23T21:08:48.388Z"
+generated_at: "2026-11-23T21:10:24.042Z"
 status: "active"
 ---
 

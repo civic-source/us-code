@@ -3,9 +3,9 @@ title: "Section 1121 - Jurisdiction of Federal courts; State and local requireme
 usc_title: 15
 usc_section: "1121"
 chapter: 22
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "15 U.S.C. § 1121"
-generated_at: "2026-11-23T21:09:04.155Z"
+generated_at: "2026-11-23T21:10:40.216Z"
 status: "active"
 ---
 

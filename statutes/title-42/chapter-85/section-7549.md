@@ -3,9 +3,9 @@ title: "Section 7549 - High altitude performance adjustments"
 usc_title: 42
 usc_section: "7549"
 chapter: 85
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "42 U.S.C. § 7549"
-generated_at: "2026-11-23T21:09:43.317Z"
+generated_at: "2026-11-23T21:12:01.260Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 511 - Liability of States, instrumentalities of States, and Stat
 usc_title: 17
 usc_section: "511"
 chapter: 5
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "17 U.S.C. § 511"
-generated_at: "2026-11-23T21:09:06.913Z"
+generated_at: "2026-11-23T21:10:42.079Z"
 status: "active"
 ---
 

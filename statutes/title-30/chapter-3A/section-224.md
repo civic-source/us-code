@@ -3,9 +3,9 @@ title: "Section 224 - Payments for oil or gas taken prior to application for lea
 usc_title: 30
 usc_section: "224"
 chapter: 3
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "30 U.S.C. § 224"
-generated_at: "2026-11-23T21:09:20.045Z"
+generated_at: "2026-11-23T21:11:04.199Z"
 status: "active"
 ---
 

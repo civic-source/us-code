@@ -3,9 +3,9 @@ title: "Section 20704 - Grant accountability"
 usc_title: 34
 usc_section: "20704"
 chapter: 207
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "34 U.S.C. § 20704"
-generated_at: "2026-11-23T21:09:27.210Z"
+generated_at: "2026-11-23T21:11:24.571Z"
 status: "active"
 ---
 

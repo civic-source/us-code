@@ -3,9 +3,9 @@ title: "Section 500g - Integration of electronic warfare into Tier 1 and Tier 2 
 usc_title: 10
 usc_section: "500g"
 chapter: 25
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "10 U.S.C. § 500g"
-generated_at: "2026-11-23T21:08:58.234Z"
+generated_at: "2026-11-23T21:10:33.489Z"
 status: "active"
 ---
 

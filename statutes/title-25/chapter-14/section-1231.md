@@ -3,9 +3,9 @@ title: "Section 1231 - Omitted"
 usc_title: 25
 usc_section: "1231"
 chapter: 14
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "25 U.S.C. § 1231"
-generated_at: "2026-11-23T21:09:16.292Z"
+generated_at: "2026-11-23T21:10:53.849Z"
 status: "omitted"
 ---
 

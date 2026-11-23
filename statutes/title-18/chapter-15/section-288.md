@@ -3,9 +3,9 @@ title: "Section 288 - False claims for postal losses"
 usc_title: 18
 usc_section: "288"
 chapter: 15
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "18 U.S.C. § 288"
-generated_at: "2026-11-23T21:09:06.509Z"
+generated_at: "2026-11-23T21:10:45.447Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2350f - Procurement of communications support and related suppli
 usc_title: 10
 usc_section: "2350f"
 chapter: 138
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "10 U.S.C. § 2350f"
-generated_at: "2026-11-23T21:08:58.493Z"
+generated_at: "2026-11-23T21:10:33.779Z"
 status: "active"
 ---
 

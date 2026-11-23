@@ -3,9 +3,9 @@ title: "Section 7301 - Presidential regulations"
 usc_title: 5
 usc_section: "7301"
 chapter: 73
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "5 U.S.C. § 7301"
-generated_at: "2026-11-23T21:08:48.516Z"
+generated_at: "2026-11-23T21:10:24.152Z"
 status: "active"
 ---
 

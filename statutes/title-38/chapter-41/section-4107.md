@@ -3,9 +3,9 @@ title: "Section 4107 - Administrative controls; annual report"
 usc_title: 38
 usc_section: "4107"
 chapter: 41
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "38 U.S.C. § 4107"
-generated_at: "2026-11-23T21:09:32.108Z"
+generated_at: "2026-11-23T21:11:36.354Z"
 status: "active"
 ---
 

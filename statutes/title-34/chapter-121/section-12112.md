@@ -3,9 +3,9 @@ title: "Section 12112 - Report by Attorney General"
 usc_title: 34
 usc_section: "12112"
 chapter: 121
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "34 U.S.C. § 12112"
-generated_at: "2026-11-23T21:09:27.164Z"
+generated_at: "2026-11-23T21:11:24.473Z"
 status: "active"
 ---
 

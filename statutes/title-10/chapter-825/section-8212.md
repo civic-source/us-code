@@ -3,9 +3,9 @@ title: "Section 8212 - Additional regulations for Marine Corps"
 usc_title: 10
 usc_section: "8212"
 chapter: 825
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "10 U.S.C. § 8212"
-generated_at: "2026-11-23T21:08:58.744Z"
+generated_at: "2026-11-23T21:10:34.063Z"
 status: "active"
 ---
 

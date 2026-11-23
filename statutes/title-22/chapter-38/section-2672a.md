@@ -3,9 +3,9 @@ title: "Section 2672a - Alternate United States Commissioners for international 
 usc_title: 22
 usc_section: "2672a"
 chapter: 38
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "22 U.S.C. § 2672a"
-generated_at: "2026-11-23T21:09:18.344Z"
+generated_at: "2026-11-23T21:11:01.152Z"
 status: "active"
 ---
 

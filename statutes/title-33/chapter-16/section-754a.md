@@ -3,9 +3,9 @@ title: "Section 754a - Repealed. Pub. L. 116–283, div. G, title LVXXXV [LXXXV]
 usc_title: 33
 usc_section: "754a"
 chapter: 16
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "33 U.S.C. § 754a"
-generated_at: "2026-11-23T21:09:28.526Z"
+generated_at: "2026-11-23T21:11:28.657Z"
 status: "repealed"
 ---
 

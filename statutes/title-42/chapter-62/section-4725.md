@@ -3,9 +3,9 @@ title: "Section 4725 - Technical assistance; waiver of payments for costs; credi
 usc_title: 42
 usc_section: "4725"
 chapter: 62
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "42 U.S.C. § 4725"
-generated_at: "2026-11-23T21:09:43.063Z"
+generated_at: "2026-11-23T21:12:00.743Z"
 status: "active"
 ---
 

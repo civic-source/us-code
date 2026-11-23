@@ -3,9 +3,9 @@ title: "Section 746 - Repealed. June 27, 1952, ch. 477 , title IV, § 403(a)(42)
 usc_title: 8
 usc_section: "746"
 chapter: 11
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "8 U.S.C. § 746"
-generated_at: "2026-11-23T21:08:51.292Z"
+generated_at: "2026-11-23T21:10:26.635Z"
 status: "repealed"
 ---
 

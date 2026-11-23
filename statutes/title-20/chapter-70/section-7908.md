@@ -3,9 +3,9 @@ title: "Section 7908 - Armed Forces recruiter access to students and student rec
 usc_title: 20
 usc_section: "7908"
 chapter: 70
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "20 U.S.C. § 7908"
-generated_at: "2026-11-23T21:09:09.492Z"
+generated_at: "2026-11-23T21:10:44.802Z"
 status: "active"
 ---
 

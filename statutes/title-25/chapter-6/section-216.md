@@ -3,9 +3,9 @@ title: "Section 216 - Repealed. Pub. L. 86–634, § 4 , July 12, 1960 , 74 Stat
 usc_title: 25
 usc_section: "216"
 chapter: 6
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "25 U.S.C. § 216"
-generated_at: "2026-11-23T21:09:16.261Z"
+generated_at: "2026-11-23T21:10:53.761Z"
 status: "repealed"
 ---
 

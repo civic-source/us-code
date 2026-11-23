@@ -3,9 +3,9 @@ title: "Section 741 - Definitions for this subchapter"
 usc_title: 11
 usc_section: "741"
 chapter: 7
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "11 U.S.C. § 741"
-generated_at: "2026-11-23T21:09:00.693Z"
+generated_at: "2026-11-23T21:10:35.942Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2207c - Annual report on work of agricultural experiment station
 usc_title: 7
 usc_section: "2207c"
 chapter: 55
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "7 U.S.C. § 2207c"
-generated_at: "2026-11-23T21:08:53.925Z"
+generated_at: "2026-11-23T21:10:29.137Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1058 - Mergers and consolidations of plans or transfers of plan 
 usc_title: 29
 usc_section: "1058"
 chapter: 18
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "29 U.S.C. § 1058"
-generated_at: "2026-11-23T21:09:21.584Z"
+generated_at: "2026-11-23T21:11:07.927Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 18655 - Authorization of appropriations"
 usc_title: 42
 usc_section: "18655"
 chapter: 161
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "42 U.S.C. § 18655"
-generated_at: "2026-11-23T21:09:43.789Z"
+generated_at: "2026-11-23T21:12:02.192Z"
 status: "active"
 ---
 

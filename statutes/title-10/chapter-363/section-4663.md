@@ -3,9 +3,9 @@ title: "Section 4663 - Prohibition on contracting with covered entities that con
 usc_title: 10
 usc_section: "4663"
 chapter: 363
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "10 U.S.C. § 4663"
-generated_at: "2026-11-23T21:08:58.647Z"
+generated_at: "2026-11-23T21:10:33.954Z"
 status: "active"
 ---
 

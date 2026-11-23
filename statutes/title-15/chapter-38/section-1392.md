@@ -3,9 +3,9 @@ title: "Section 1392 - Repealed. Pub. L. 103–272, § 7(b) , July 5, 1994 , 108
 usc_title: 15
 usc_section: "1392"
 chapter: 38
-current_through: "PL 119-118"
+current_through: "PL 119-120"
 classification: "15 U.S.C. § 1392"
-generated_at: "2026-11-23T21:09:04.172Z"
+generated_at: "2026-11-23T21:10:40.236Z"
 status: "repealed"
 ---
 
